@@ -24,7 +24,7 @@ jobs:
       - name: Install Dependencies
         run: pip install requests pytz
         
-      # আপনার প্রাইভেট রিপো (Sports) থেকে টোকেন দিয়ে কোড নিয়ে আসবে
+      
       - name: Checkout Private Repo (Sports)
         uses: actions/checkout@v3
         with:
@@ -32,23 +32,23 @@ jobs:
           token: ${{ secrets.PAT_TOKEN }}
           path: private_folder
           
-      # প্রাইভেট ফোল্ডার থেকে মেইন ফোল্ডারে bot.py আনবে
+      
       - name: Move Script
         run: mv private_folder/bot.py ./bot.py
         
-      # সিকিউরিটির জন্য প্রাইভেট ফোল্ডার সাথে সাথে ডিলিট করে দেবে
+     
       - name: Remove Private Folder
         run: rm -rf private_folder
         
-      # পাইথন স্ক্রিপ্ট রান করবে (যেটা নতুন ফাইল বানাবে এবং পুরনো ফাইল ডিলিট করবে)
+      
       - name: Run Python Script
         run: python bot.py
         
-      # কাজ শেষে bot.py ডিলিট করে দেবে (যাতে পাবলিক রিপোতে কোড সেভ না হয়)
+     
       - name: Remove bot.py
         run: rm bot.py
         
-      # নতুন প্লেলিস্ট পুশ করবে এবং মুছে ফেলা ফাইলগুলো গিটহাব থেকে ক্লিয়ার করবে (git add -A)
+      
       - name: Commit and Push Playlists
         run: |
           git config user.name "GitHub Action Bot"
