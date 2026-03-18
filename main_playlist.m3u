@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:46:19 PM 18-03-2026
+#last update time: 09:01:21 PM 18-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141313_6002_ICN_ING_FC-Web_1773487500216.jpg" group-title="Live Sports", India Captains Vs India Tigers | Legends League Cricket 2026
@@ -19,9 +19,6 @@ https://fancode-bd-srhady.vercel.app/a_court_feed_141035.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="Live Sports", World Feed | ATP Masters Miami Open 2026
 https://fancode-bd-srhady.vercel.app/world_feed_141034.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="Live Sports", B Court Feed | ATP Masters Miami Open 2026
-https://fancode-bd-srhady.vercel.app/b_court_feed_141451.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="Live Sports", G Court Feed | ATP Masters Miami Open 2026
 https://fancode-bd-srhady.vercel.app/g_court_feed_141455.m3u8
 
@@ -33,4 +30,7 @@ https://fancode-bd-srhady.vercel.app/d_court_feed_141453.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="Live Sports", C Court Feed | ATP Masters Miami Open 2026
 https://fancode-bd-srhady.vercel.app/c_court_feed_141452.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="Live Sports", B Court Feed | ATP Masters Miami Open 2026
+https://fancode-bd-srhady.vercel.app/b_court_feed_141451.m3u8
 
