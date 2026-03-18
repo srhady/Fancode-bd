@@ -1,18 +1,19 @@
-name: Auto Update Playlist
+name: Auto Update Playlist (Unlimited & Secure)
 
 on:
   schedule:
-    - cron: '*/15 * * * *' # প্রতি ১৫ মিনিট পরপর অটোমেটিক চলবে
+    - cron: '*/15 * * * *' # প্রতি ১৫ মিনিট পর অটো চলবে
   workflow_dispatch: # ম্যানুয়ালি রান করার অপশন
 
 permissions:
   contents: write
 
 jobs:
-  update-playlist:
+  update-and-deploy:
     runs-on: ubuntu-latest
     
     steps:
+      # ১. পাবলিক রিপো (Fancode-bd) চেকআউট করা
       - name: Checkout Public Repo
         uses: actions/checkout@v3
         
@@ -24,35 +25,41 @@ jobs:
       - name: Install Dependencies
         run: pip install requests pytz
         
-      
+      # ২. প্রাইভেট রিপো (Sports) টোকেন দিয়ে ক্লোন করা
       - name: Checkout Private Repo (Sports)
         uses: actions/checkout@v3
         with:
           repository: srhady/Sports
           token: ${{ secrets.PAT_TOKEN }}
-          path: private_folder
+          path: private_repo
           
-      
-      - name: Move Script
-        run: mv private_folder/bot.py ./bot.py
-        
-     
-      - name: Remove Private Folder
-        run: rm -rf private_folder
-        
-      
-      - name: Run Python Script
-        run: python bot.py
-        
-     
-      - name: Remove bot.py
-        run: rm bot.py
-        
-      
-      - name: Commit and Push Playlists
+      # ৩. প্রাইভেট ফোল্ডারে ঢুকে স্ক্রিপ্ট রান করানো এবং মেইন ফাইলগুলো বাইরে আনা
+      - name: Run Python Script & Copy Outputs
         run: |
+          cd private_repo
+          python bot.py
+          mv main_playlist.m3u ../
+          mv main_playlist.json ../
+          
+      # ৪. প্রাইভেট রিপোতে (Sports) মাস্টার m3u8 ফাইলগুলো পুশ করা (যাতে ভার্সেল আপডেট হয়)
+      - name: Push Master Playlists to Private Repo
+        run: |
+          cd private_repo
           git config user.name "GitHub Action Bot"
           git config user.email "action@github.com"
           git add -A
-          git commit -m "Auto update: Live Matches & Cleanup" || echo "No changes to commit"
+          git commit -m "Auto update: Master files & cleanup" || echo "No changes to commit"
+          git push
+          
+      # ৫. সিকিউরিটির জন্য প্রাইভেট ফোল্ডার মুছে ফেলা (যাতে পাবলিক রিপোতে কোড সেভ না হয়)
+      - name: Clean up Private Files
+        run: rm -rf private_repo
+        
+      # ৬. পাবলিক রিপোতে (Fancode-bd) শুধু মেইন প্লেলিস্টগুলো পুশ করা
+      - name: Commit and Push Main Playlists to Public Repo
+        run: |
+          git config user.name "GitHub Action Bot"
+          git config user.email "action@github.com"
+          git add main_playlist.m3u main_playlist.json
+          git commit -m "Auto update: Main Playlists" || echo "No changes to commit"
           git push
