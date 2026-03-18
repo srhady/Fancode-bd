@@ -2,21 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:16:19 PM 18-03-2026",
+    "last update time": "03:31:17 PM 18-03-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Delhi Champions Vs Tamil Nadu Titans",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "Delhi Champions",
-            "team_2": "Tamil Nadu Titans",
-            "status": "LIVE",
-            "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Delhi Champions Vs Tamil Nadu Titans",
-            "match_id": 141209,
-            "startTime": "18 March 2026 12:45 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/delhi_champions_vs_tamil_nadu_titans_141209.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Manorama Marvels Vs Gomti Thunder",
@@ -29,6 +16,19 @@
             "match_id": 141369,
             "startTime": "18 March 2026 01:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/manorama_marvels_vs_gomti_thunder_141369.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Punjab Lions Vs Chennai Warlords",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+            "team_1": "Punjab Lions",
+            "team_2": "Chennai Warlords",
+            "status": "LIVE",
+            "event_name": "Thunderbolt T10 League 2026",
+            "match_name": "Punjab Lions Vs Chennai Warlords",
+            "match_id": 141210,
+            "startTime": "18 March 2026 03:10 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/punjab_lions_vs_chennai_warlords_141210.m3u8"
         },
         {
             "event_category": "Football",
@@ -54,19 +54,6 @@
             "match_name": "Konark Suryas Odisha Vs India Tigers",
             "match_id": 141313,
             "startTime": "18 March 2026 07:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Punjab Lions Vs Chennai Warlords",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "Punjab Lions",
-            "team_2": "Chennai Warlords",
-            "status": "NOT_STARTED",
-            "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Punjab Lions Vs Chennai Warlords",
-            "match_id": 141210,
-            "startTime": "18 March 2026 03:10 PM",
             "stream_url": ""
         },
         {
@@ -418,6 +405,19 @@
             "match_name": "Sporting Club Delhi Vs Jamshedpur Fc",
             "match_id": 140466,
             "startTime": "19 March 2026 07:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies Women Vs Australia Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-web.jpg",
+            "team_1": "West Indies Women",
+            "team_2": "Australia Women",
+            "status": "NOT_STARTED",
+            "event_name": "Australia Women's tour of West Indies 2026",
+            "match_name": "West Indies Women Vs Australia Women",
+            "match_id": 141328,
+            "startTime": "20 March 2026 04:00 AM",
             "stream_url": ""
         },
         {
