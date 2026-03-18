@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:16:18 PM 18-03-2026
+#last update time: 12:31:16 PM 18-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141368_6007_SS_CC_FC-Web.jpg" group-title="Live Sports", Saryu Smashers Vs Chambal Chargers | Ayodhya Premier League
@@ -9,7 +9,4 @@ https://fancode-bd-srhady.vercel.app/saryu_smashers_vs_chambal_chargers_141368.m
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" group-title="Live Sports", Mumbai Maverics Vs Chennai Warlords | Thunderbolt T10 League 2026
 https://fancode-bd-srhady.vercel.app/mumbai_maverics_vs_chennai_warlords_141208.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141102_5954_CRU_MONT_1772957805508.png" group-title="Live Sports", Cruz Azul Vs Monterrey | CONCACAF Champions Cup 2026
-https://fancode-bd-srhady.vercel.app/cruz_azul_vs_monterrey_141102.m3u8
 
