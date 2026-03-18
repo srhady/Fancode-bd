@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:01:15 PM 18-03-2026
+#last update time: 05:16:16 PM 18-03-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141369_6007_MM_GT_FC-Web.jpg" group-title="Live Sports", Manorama Marvels Vs Gomti Thunder | Ayodhya Premier League
-https://fancode-bd-srhady.vercel.app/manorama_marvels_vs_gomti_thunder_141369.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" group-title="Live Sports", Punjab Lions Vs Chennai Warlords | Thunderbolt T10 League 2026
 https://fancode-bd-srhady.vercel.app/punjab_lions_vs_chennai_warlords_141210.m3u8
