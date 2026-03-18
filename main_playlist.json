@@ -2,7 +2,7 @@
     "name": "Fancode Live Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:10:14 AM 18-03-2026",
+    "last update time": "09:16:19 AM 18-03-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -29,19 +29,6 @@
             "match_id": 141102,
             "startTime": "18 March 2026 08:30 AM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/cruz_azul_vs_monterrey_141102.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Jupiter Vs Boston",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "Jupiter vs Boston",
-            "team_2": "Florida",
-            "status": "LIVE",
-            "event_name": "TGL Season 2",
-            "match_name": "Jupiter Vs Boston",
-            "match_id": 139179,
-            "startTime": "18 March 2026 06:30 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/jupiter_vs_boston_139179.m3u8"
         }
     ]
 }
