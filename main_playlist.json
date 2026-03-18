@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:01:20 PM 18-03-2026",
+    "last update time": "10:16:21 PM 18-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -252,19 +252,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Club Am\u00e9rica Vs Philadelphia Union",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141104_5954_AME_PU_1772957805499.png",
-            "team_1": "Club Am\u00e9rica",
-            "team_2": "Philadelphia Union",
-            "status": "NOT_STARTED",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Club Am\u00e9rica Vs Philadelphia Union",
-            "match_id": 141104,
-            "startTime": "19 March 2026 06:30 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Eagles Xi Vs Uganda",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg",
@@ -275,6 +262,19 @@
             "match_name": "Eagles Xi Vs Uganda",
             "match_id": 141447,
             "startTime": "19 March 2026 05:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Club Am\u00e9rica Vs Philadelphia Union",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141104_5954_AME_PU_1772957805499.png",
+            "team_1": "Club Am\u00e9rica",
+            "team_2": "Philadelphia Union",
+            "status": "NOT_STARTED",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Club Am\u00e9rica Vs Philadelphia Union",
+            "match_id": 141104,
+            "startTime": "19 March 2026 06:30 AM",
             "stream_url": ""
         },
         {
