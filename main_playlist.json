@@ -1,33 +1,46 @@
 {
     "name": "Fancode Live Matches Data",
     "telegram": "https://t.me/livesportsplay",
-    "last update time": "08:46:15 AM 18-03-2026",
+    "last update time": "08:52:56 AM 18-03-2026",
     "matches": [
         {
             "event_category": "Football",
             "title": "Alajuelense Vs Los Angeles Football Club",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141101_5954_LDA_LAF_1772957741167.png",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/alajuelense_vs_los_angeles_football_club_141101.m3u8",
             "team_1": "Alajuelense",
             "team_2": "Los Angeles Football Club",
             "status": "LIVE",
             "event_name": "CONCACAF Champions Cup 2026",
             "match_name": "Alajuelense Vs Los Angeles Football Club",
             "match_id": 141101,
-            "startTime": "18 March 2026 06:30 AM",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/alajuelense_vs_los_angeles_football_club_141101.m3u8"
+            "startTime": "18 March 2026 06:30 AM"
+        },
+        {
+            "event_category": "Football",
+            "title": "Cruz Azul Vs Monterrey",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141102_5954_CRU_MONT_1772957805508.png",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/cruz_azul_vs_monterrey_141102.m3u8",
+            "team_1": "Cruz Azul",
+            "team_2": "Monterrey",
+            "status": "LIVE",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Cruz Azul Vs Monterrey",
+            "match_id": 141102,
+            "startTime": "18 March 2026 08:30 AM"
         },
         {
             "event_category": "Golf",
             "title": "Jupiter Vs Boston",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/jupiter_vs_boston_139179.m3u8",
             "team_1": "Jupiter vs Boston",
             "team_2": "Florida",
             "status": "LIVE",
             "event_name": "TGL Season 2",
             "match_name": "Jupiter Vs Boston",
             "match_id": 139179,
-            "startTime": "18 March 2026 06:30 AM",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/jupiter_vs_boston_139179.m3u8"
+            "startTime": "18 March 2026 06:30 AM"
         }
     ]
 }
