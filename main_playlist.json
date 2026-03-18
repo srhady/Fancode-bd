@@ -2,38 +2,25 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:01:17 PM 18-03-2026",
+    "last update time": "06:16:15 PM 18-03-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Punjab Lions Vs Chennai Warlords",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "Punjab Lions",
-            "team_2": "Chennai Warlords",
-            "status": "LIVE",
-            "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Punjab Lions Vs Chennai Warlords",
-            "match_id": 141210,
-            "startTime": "18 March 2026 03:10 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/punjab_lions_vs_chennai_warlords_141210.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Eagles Xi Vs Uganda",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg",
             "team_1": "Eagles XI",
             "team_2": "Uganda",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "event_name": "Uganda tour of Namibia, 2026",
             "match_name": "Eagles Xi Vs Uganda",
             "match_id": 141446,
             "startTime": "18 March 2026 05:30 PM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/eagles_xi_vs_uganda_141446.m3u8"
         },
         {
             "event_category": "Cricket",
             "title": "India Captains Vs India Tigers",
-            "src": "https://images.fancode.com/aig/match/v1773834827558/141313_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141313_6002_ICN_ING_FC-Web_1773487500216.jpg",
             "team_1": "India Captains",
             "team_2": "India Tigers",
             "status": "NOT_STARTED",
@@ -227,19 +214,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Tbc Vs Tbc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "NOT_STARTED",
-            "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Tbc Vs Tbc",
-            "match_id": 141213,
-            "startTime": "19 March 2026 03:10 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
             "title": "Mumbai Spartans Vs Southern Super Stars",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141314_6002_MSP_SSS_FC-Web_1773487500004.jpg",
             "team_1": "Mumbai Spartans",
@@ -249,6 +223,19 @@
             "match_name": "Mumbai Spartans Vs Southern Super Stars",
             "match_id": 141314,
             "startTime": "19 March 2026 07:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Tbc Vs Tbc",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "NOT_STARTED",
+            "event_name": "Thunderbolt T10 League 2026",
+            "match_name": "Tbc Vs Tbc",
+            "match_id": 141213,
+            "startTime": "19 March 2026 03:10 PM",
             "stream_url": ""
         },
         {
@@ -483,6 +470,19 @@
             "match_name": "C Court Feed",
             "match_id": 141456,
             "startTime": "19 March 2026 08:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New Zealand Women Vs South Africa Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
+            "team_1": "New Zealand Women",
+            "team_2": "South Africa Women",
+            "status": "NOT_STARTED",
+            "event_name": "South Africa Women's tour of New Zealand, 2026",
+            "match_name": "New Zealand Women Vs South Africa Women",
+            "match_id": 141068,
+            "startTime": "20 March 2026 07:15 AM",
             "stream_url": ""
         }
     ]
