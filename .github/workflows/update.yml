@@ -1,0 +1,45 @@
+name: Auto Update Playlist
+
+on:
+  schedule:
+    - cron: '*/15 * * * *' # প্রতি ১৫ মিনিট পরপর চলবে
+  workflow_dispatch: # ম্যানুয়ালি রান করার অপশন
+
+permissions:
+  contents: write
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Public Repo
+        uses: actions/checkout@v3
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+          
+      - name: Install Dependencies
+        run: pip install requests pytz
+        
+      - name: Download bot.py from Private Repo (Sports)
+        run: |
+          curl -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
+               -o bot.py \
+               https://raw.githubusercontent.com/srhady/Sports/main/bot.py
+               
+      - name: Run Python Script
+        run: python bot.py
+        
+      - name: Remove bot.py (Keep code private)
+        run: rm bot.py
+        
+      - name: Commit and Push Playlists to Public Repo
+        run: |
+          git config user.name "GitHub Action Bot"
+          git config user.email "action@github.com"
+          git add *.m3u8 main_playlist.m3u main_playlist.json
+          git commit -m "Auto update: Live Matches" || echo "No changes to commit"
+          git push
