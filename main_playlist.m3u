@@ -1,9 +1,15 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:46:16 PM 18-03-2026
+#last update time: 02:51:58 PM 18-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" group-title="Live Sports", Delhi Champions Vs Tamil Nadu Titans | Thunderbolt T10 League 2026
+https://fancode-bd-srhady.vercel.app/delhi_champions_vs_tamil_nadu_titans_141209.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141369_6007_MM_GT_FC-Web.jpg" group-title="Live Sports", Manorama Marvels Vs Gomti Thunder | Ayodhya Premier League
+https://fancode-bd-srhady.vercel.app/manorama_marvels_vs_gomti_thunder_141369.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Live Sports", Korea Republic Women Vs Japan Women | AFC Women's Asian Cup 2026
+https://fancode-bd-srhady.vercel.app/korea_republic_women_vs_japan_women_140817.m3u8
+
