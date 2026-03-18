@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:16:19 PM 18-03-2026",
+    "last update time": "09:31:18 PM 18-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -29,19 +29,6 @@
             "match_id": 141313,
             "startTime": "18 March 2026 07:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/india_captains_vs_india_tigers_141313.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Eagles Xi Vs Uganda",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg",
-            "team_1": "Eagles XI",
-            "team_2": "Uganda",
-            "status": "LIVE",
-            "event_name": "Uganda tour of Namibia, 2026",
-            "match_name": "Eagles Xi Vs Uganda",
-            "match_id": 141446,
-            "startTime": "18 March 2026 05:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/eagles_xi_vs_uganda_141446.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -496,6 +483,19 @@
             "match_name": "Marquee Feed   Day 1\t",
             "match_id": 141389,
             "startTime": "19 March 2026 05:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Holes   Day 1\t",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
+            "team_1": "Featured Holes - Day 1\t",
+            "team_2": "Palm Harbor, Florida",
+            "status": "NOT_STARTED",
+            "event_name": "Valspar Championship 2026",
+            "match_name": "Featured Holes   Day 1\t",
+            "match_id": 141387,
+            "startTime": "19 March 2026 06:00 PM",
             "stream_url": ""
         }
     ]
