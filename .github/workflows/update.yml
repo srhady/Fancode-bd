@@ -13,49 +13,42 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      # ১. আপনার পাবলিক রিপো (Fancode-bd) রেডি করবে
       - name: Checkout Public Repo
         uses: actions/checkout@v3
         
-      # ২. পাইথন সেটআপ করবে
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
           
-      # ৩. লাইব্রেরিগুলো ইন্সটল করবে
       - name: Install Dependencies
         run: pip install requests pytz
         
-      # ৪. প্রাইভেট রিপো (Sports) থেকে সিকিউরভাবে কোড আনবে
-      - name: Checkout Private Repo
+      # আপনার প্রাইভেট রিপো (Sports) থেকে টোকেন দিয়ে কোড নিয়ে আসবে
+      - name: Checkout Private Repo (Sports)
         uses: actions/checkout@v3
         with:
           repository: srhady/Sports
           token: ${{ secrets.PAT_TOKEN }}
           path: private_folder
           
-      # ৫. প্রাইভেট ফোল্ডার থেকে bot.py ফাইলটি মেইন ডিরেক্টরিতে আনবে
       - name: Move Script
         run: mv private_folder/bot.py ./bot.py
         
-      # ৬. প্রাইভেট ফোল্ডারটি সাথে সাথে ডিলিট করে দেবে (যাতে সিক্রেট কোড পাবলিক না হয়)
       - name: Remove Private Folder
         run: rm -rf private_folder
         
-      # ৭. পাইথন স্ক্রিপ্টটি রান করবে
       - name: Run Python Script
         run: python bot.py
         
-      # ৮. কাজ শেষে bot.py ডিলিট করে দেবে
       - name: Remove bot.py
         run: rm bot.py
         
-      # ৯. নতুন প্লেলিস্টগুলো পাবলিক রিপোতে পুশ করবে
+      # নতুন প্লেলিস্টগুলো পাবলিক রিপোতে পুশ করবে (git add . দিয়েছি যাতে এরর না আসে)
       - name: Commit and Push Playlists
         run: |
           git config user.name "GitHub Action Bot"
           git config user.email "action@github.com"
-          git add *.m3u8 main_playlist.m3u main_playlist.json
+          git add .
           git commit -m "Auto update: Live Matches" || echo "No changes to commit"
           git push
