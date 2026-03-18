@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:31:18 PM 18-03-2026",
+    "last update time": "10:46:18 PM 18-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -239,19 +239,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Inter Miami Cf Vs Nashville Sc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141103_5954_MIA_NSH_1772957805501.png",
-            "team_1": "Inter Miami CF",
-            "team_2": "Nashville SC",
-            "status": "NOT_STARTED",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Inter Miami Cf Vs Nashville Sc",
-            "match_id": 141103,
-            "startTime": "19 March 2026 04:30 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Eagles Xi Vs Uganda",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg",
@@ -262,6 +249,19 @@
             "match_name": "Eagles Xi Vs Uganda",
             "match_id": 141447,
             "startTime": "19 March 2026 05:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Inter Miami Cf Vs Nashville Sc",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141103_5954_MIA_NSH_1772957805501.png",
+            "team_1": "Inter Miami CF",
+            "team_2": "Nashville SC",
+            "status": "NOT_STARTED",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Inter Miami Cf Vs Nashville Sc",
+            "match_id": 141103,
+            "startTime": "19 March 2026 04:30 AM",
             "stream_url": ""
         },
         {
@@ -473,19 +473,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Golf",
-            "title": "Marquee Feed   Day 1\t",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
-            "team_1": "Marquee Feed - Day 1\t",
-            "team_2": "Palm Harbor, Florida",
-            "status": "NOT_STARTED",
-            "event_name": "Valspar Championship 2026",
-            "match_name": "Marquee Feed   Day 1\t",
-            "match_id": 141389,
-            "startTime": "19 March 2026 05:30 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "Tigres Vs Fc Cincinnati",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141108_5954_TIG_CIN_1772957805588.png",
@@ -496,6 +483,19 @@
             "match_name": "Tigres Vs Fc Cincinnati",
             "match_id": 141108,
             "startTime": "20 March 2026 06:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Marquee Feed   Day 1\t",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
+            "team_1": "Marquee Feed - Day 1\t",
+            "team_2": "Palm Harbor, Florida",
+            "status": "NOT_STARTED",
+            "event_name": "Valspar Championship 2026",
+            "match_name": "Marquee Feed   Day 1\t",
+            "match_id": 141389,
+            "startTime": "19 March 2026 05:30 PM",
             "stream_url": ""
         }
     ]
