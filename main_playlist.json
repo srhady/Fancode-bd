@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:46:20 PM 18-03-2026",
+    "last update time": "08:01:17 PM 18-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -10,12 +10,12 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141313_6002_ICN_ING_FC-Web_1773487500216.jpg",
             "team_1": "India Captains",
             "team_2": "India Tigers",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "event_name": "Legends League Cricket, 2026",
             "match_name": "India Captains Vs India Tigers",
             "match_id": 141313,
             "startTime": "18 March 2026 07:30 PM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/india_captains_vs_india_tigers_141313.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -23,12 +23,12 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141313_6002_ICN_ING_FC-Web_1773487500216.jpg",
             "team_1": "India Captains",
             "team_2": "India Tigers",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "event_name": "Legends League Cricket, 2026",
             "match_name": "India Captains Vs India Tigers",
             "match_id": 141313,
             "startTime": "18 March 2026 07:30 PM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/india_captains_vs_india_tigers_141313.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -136,19 +136,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Hindon Titans Vs Betwa Blasters",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141371_6007_HT_BB_FC-Web.jpg",
-            "team_1": "Hindon Titans",
-            "team_2": "Betwa Blasters",
-            "status": "NOT_STARTED",
-            "event_name": "Ayodhya Premier League",
-            "match_name": "Hindon Titans Vs Betwa Blasters",
-            "match_id": 141371,
-            "startTime": "19 March 2026 01:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
             "title": "Mumbai Spartans Vs Royal Riders Punjab",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141314_6002_MSP_SSS_FC-Web_1773487500004.jpg",
             "team_1": "Mumbai Spartans",
@@ -158,6 +145,19 @@
             "match_name": "Mumbai Spartans Vs Royal Riders Punjab",
             "match_id": 141314,
             "startTime": "19 March 2026 07:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Hindon Titans Vs Betwa Blasters",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141371_6007_HT_BB_FC-Web.jpg",
+            "team_1": "Hindon Titans",
+            "team_2": "Betwa Blasters",
+            "status": "NOT_STARTED",
+            "event_name": "Ayodhya Premier League",
+            "match_name": "Hindon Titans Vs Betwa Blasters",
+            "match_id": 141371,
+            "startTime": "19 March 2026 01:30 PM",
             "stream_url": ""
         },
         {
@@ -174,19 +174,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Inter Miami Cf Vs Nashville Sc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141103_5954_MIA_NSH_1772957805501.png",
-            "team_1": "Inter Miami CF",
-            "team_2": "Nashville SC",
-            "status": "NOT_STARTED",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Inter Miami Cf Vs Nashville Sc",
-            "match_id": 141103,
-            "startTime": "19 March 2026 04:30 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Tbc Vs Tbc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
@@ -197,6 +184,19 @@
             "match_name": "Tbc Vs Tbc",
             "match_id": 141213,
             "startTime": "19 March 2026 03:10 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Inter Miami Cf Vs Nashville Sc",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141103_5954_MIA_NSH_1772957805501.png",
+            "team_1": "Inter Miami CF",
+            "team_2": "Nashville SC",
+            "status": "NOT_STARTED",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Inter Miami Cf Vs Nashville Sc",
+            "match_id": 141103,
+            "startTime": "19 March 2026 04:30 AM",
             "stream_url": ""
         },
         {
