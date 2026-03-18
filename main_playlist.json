@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:31:16 PM 18-03-2026",
+    "last update time": "12:46:16 PM 18-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,19 +16,6 @@
             "match_id": 141368,
             "startTime": "18 March 2026 09:00 AM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/saryu_smashers_vs_chambal_chargers_141368.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Mumbai Maverics Vs Chennai Warlords",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "Mumbai Maverics",
-            "team_2": "Chennai Warlords",
-            "status": "LIVE",
-            "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Mumbai Maverics Vs Chennai Warlords",
-            "match_id": 141208,
-            "startTime": "18 March 2026 10:10 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/mumbai_maverics_vs_chennai_warlords_141208.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -80,6 +67,19 @@
             "match_name": "Punjab Lions Vs Chennai Warlords",
             "match_id": 141210,
             "startTime": "18 March 2026 03:10 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Eagles Xi Vs Uganda",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Eagles XI",
+            "team_2": "Uganda",
+            "status": "NOT_STARTED",
+            "event_name": "Uganda tour of Namibia, 2026",
+            "match_name": "Eagles Xi Vs Uganda",
+            "match_id": 141446,
+            "startTime": "18 March 2026 05:30 PM",
             "stream_url": ""
         },
         {
@@ -145,19 +145,6 @@
             "match_name": "Korea Republic Women Vs Japan Women",
             "match_id": 140817,
             "startTime": "18 March 2026 02:00 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Namibia Vs Uganda",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Namibia",
-            "team_2": "Uganda",
-            "status": "NOT_STARTED",
-            "event_name": "Uganda tour of Namibia, 2026",
-            "match_name": "Namibia Vs Uganda",
-            "match_id": 141446,
-            "startTime": "18 March 2026 05:30 PM",
             "stream_url": ""
         },
         {
@@ -291,6 +278,19 @@
             "stream_url": ""
         },
         {
+            "event_category": "Cricket",
+            "title": "Tbc Vs Tbc",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "NOT_STARTED",
+            "event_name": "Thunderbolt T10 League 2026",
+            "match_name": "Tbc Vs Tbc",
+            "match_id": 141213,
+            "startTime": "19 March 2026 03:10 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Tennis",
             "title": "A Court Feed",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg",
@@ -382,19 +382,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Cricket",
-            "title": "Tbc Vs Tbc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "NOT_STARTED",
-            "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Tbc Vs Tbc",
-            "match_id": 141213,
-            "startTime": "19 March 2026 03:10 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "Chinese Taipei Women Vs Dpr Korea Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
@@ -422,13 +409,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Namibia Vs Uganda",
+            "title": "Eagles Xi Vs Uganda",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Namibia",
+            "team_1": "Eagles XI",
             "team_2": "Uganda",
             "status": "NOT_STARTED",
             "event_name": "Uganda tour of Namibia, 2026",
-            "match_name": "Namibia Vs Uganda",
+            "match_name": "Eagles Xi Vs Uganda",
             "match_id": 141447,
             "startTime": "19 March 2026 05:30 PM",
             "stream_url": ""
