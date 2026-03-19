@@ -1,17 +1,14 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:01:16 PM 19-03-2026
+#last update time: 04:16:14 PM 19-03-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" group-title="Live Sports", Punjab Lions Vs Gujarat Tigers | Thunderbolt T10 League 2026
-https://fancode-bd-srhady.vercel.app/punjab_lions_vs_gujarat_tigers_141212.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141371_6007_HT_BB_FC-Web.jpg" group-title="Live Sports", Betwa Blasters Vs Hindon Titans | Ayodhya Premier League
 https://fancode-bd-srhady.vercel.app/betwa_blasters_vs_hindon_titans_141371.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" group-title="Live Sports", Tbc Vs Tbc | Thunderbolt T10 League 2026
-https://fancode-bd-srhady.vercel.app/tbc_vs_tbc_141214.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" group-title="Live Sports", Mumbai Mavericks Vs Punjab Lions | Thunderbolt T10 League 2026
+https://fancode-bd-srhady.vercel.app/mumbai_mavericks_vs_punjab_lions_141214.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140819_5979_TPE-W_NK-W_fc-Web.jpg" group-title="Live Sports", Chinese Taipei Women Vs Dpr Korea Women | AFC Women's Asian Cup 2026
 https://fancode-bd-srhady.vercel.app/chinese_taipei_women_vs_dpr_korea_women_140819.m3u8
