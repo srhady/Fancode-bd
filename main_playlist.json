@@ -2,29 +2,15 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:01:17 AM 19-03-2026",
+    "last update time": "07:16:18 AM 19-03-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Inter Miami Cf Vs Nashville Sc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141103_5954_MIA_NSH_1772957805501.png",
-            "team_1": "Inter Miami CF",
-            "team_2": "Nashville SC",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Inter Miami Cf Vs Nashville Sc",
-            "match_id": 141103,
-            "startTime": "19 March 2026 04:30 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/inter_miami_cf_vs_nashville_sc_141103.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Club Am\u00e9rica Vs Philadelphia Union",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141104_5954_AME_PU_1772957805499.png",
             "team_1": "Club Am\u00e9rica",
             "team_2": "Philadelphia Union",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "event_name": "CONCACAF Champions Cup 2026",
             "match_name": "Club Am\u00e9rica Vs Philadelphia Union",
@@ -44,6 +30,20 @@
             "match_name": "Mumbai Spartans Vs Royal Riders Punjab",
             "match_id": 141314,
             "startTime": "19 March 2026 07:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies Women Vs Australia Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-web.jpg",
+            "team_1": "West Indies Women",
+            "team_2": "Australia Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "event_name": "Australia Women's tour of West Indies 2026",
+            "match_name": "West Indies Women Vs Australia Women",
+            "match_id": 141328,
+            "startTime": "20 March 2026 04:00 AM",
             "stream_url": ""
         },
         {
@@ -90,20 +90,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "West Indies Women Vs Australia Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-web.jpg",
-            "team_1": "West Indies Women",
-            "team_2": "Australia Women",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "event_name": "Australia Women's tour of West Indies 2026",
-            "match_name": "West Indies Women Vs Australia Women",
-            "match_id": 141328,
-            "startTime": "20 March 2026 04:00 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
             "title": "Hindon Titans Vs Betwa Blasters",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141371_6007_HT_BB_FC-Web.jpg",
             "team_1": "Hindon Titans",
@@ -142,6 +128,20 @@
             "match_name": "Sporting Club Delhi Vs Jamshedpur Fc",
             "match_id": 140466,
             "startTime": "19 March 2026 07:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New Zealand Women Vs South Africa Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
+            "team_1": "New Zealand Women",
+            "team_2": "South Africa Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "event_name": "South Africa Women's tour of New Zealand, 2026",
+            "match_name": "New Zealand Women Vs South Africa Women",
+            "match_id": 141068,
+            "startTime": "20 March 2026 07:15 AM",
             "stream_url": ""
         },
         {
@@ -184,20 +184,6 @@
             "match_name": "Toluca Vs San Diego",
             "match_id": 141105,
             "startTime": "19 March 2026 08:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New Zealand Women Vs South Africa Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
-            "team_1": "New Zealand Women",
-            "team_2": "South Africa Women",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "event_name": "South Africa Women's tour of New Zealand, 2026",
-            "match_name": "New Zealand Women Vs South Africa Women",
-            "match_id": 141068,
-            "startTime": "20 March 2026 07:15 AM",
             "stream_url": ""
         },
         {
