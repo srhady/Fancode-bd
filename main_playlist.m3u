@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:31:15 PM 19-03-2026
+#last update time: 05:46:18 PM 19-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141371_6007_HT_BB_FC-Web.jpg" group-title="Live Sports", Betwa Blasters Vs Hindon Titans | Ayodhya Premier League
@@ -9,4 +9,10 @@ https://fancode-bd-srhady.vercel.app/betwa_blasters_vs_hindon_titans_141371.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" group-title="Live Sports", Mumbai Mavericks Vs Punjab Lions | Thunderbolt T10 League 2026
 https://fancode-bd-srhady.vercel.app/mumbai_mavericks_vs_punjab_lions_141214.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg" group-title="Live Sports", Eagles Xi Vs Uganda | Uganda tour of Namibia 2026
+https://fancode-bd-srhady.vercel.app/eagles_xi_vs_uganda_141447.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", Marquee Feed   Day 1	 | Valspar Championship 2026
+https://fancode-bd-srhady.vercel.app/marquee_feed___day_1__141389.m3u8
 
