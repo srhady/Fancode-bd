@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:31:12 AM 20-03-2026",
+    "last update time": "04:46:14 AM 20-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -161,13 +161,13 @@
             "team_1": "Mount Pleasant FA",
             "team_2": "LA Galaxy",
             "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "CONCACAF Champions Cup 2026",
             "match_name": "Mount Pleasant Fa Vs La Galaxy",
             "match_id": 141107,
             "startTime": "20 March 2026 04:30 AM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/mount_pleasant_fa_vs_la_galaxy_141107_english.m3u8"
         },
         {
             "event_category": "Cricket",
