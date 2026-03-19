@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:16:19 PM 19-03-2026
+#last update time: 08:31:17 PM 19-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141319_6002_MSP_RRP_FC-Web_1773487500782.jpg" group-title="Live Sports", Mumbai Spartans Vs Royal Riders Punjab | Legends League Cricket 2026
@@ -42,4 +42,10 @@ https://fancode-bd-srhady.vercel.app/e_court_feed_141459.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="Live Sports", H Court Feed | ATP Masters Miami Open 2026
 https://fancode-bd-srhady.vercel.app/h_court_feed_141457.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="Live Sports", J Court Feed | ATP Masters Miami Open 2026
+https://fancode-bd-srhady.vercel.app/j_court_feed_141532.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="Live Sports", I Court Feed | ATP Masters Miami Open 2026
+https://fancode-bd-srhady.vercel.app/i_court_feed_141531.m3u8
 
