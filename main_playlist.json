@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:46:16 AM 19-03-2026",
+    "last update time": "11:01:15 AM 19-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -313,6 +313,20 @@
             "stream_url": ""
         },
         {
+            "event_category": "Cricket",
+            "title": "Chambal Chargers Vs Gomti Thunder",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141373_6007_CC_GT_FC-Web.jpg",
+            "team_1": "Chambal Chargers",
+            "team_2": "Gomti Thunder",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "event_name": "Ayodhya Premier League",
+            "match_name": "Chambal Chargers Vs Gomti Thunder",
+            "match_id": 141373,
+            "startTime": "20 March 2026 01:30 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Tennis",
             "title": "World Feed",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg",
@@ -408,20 +422,6 @@
             "match_name": "C Court Feed",
             "match_id": 141456,
             "startTime": "19 March 2026 08:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Chambal Chargers Vs Gomti Thunder",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141373_6007_CC_GT_FC-Web.jpg",
-            "team_1": "Chambal Chargers",
-            "team_2": "Gomti Thunder",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "event_name": "Ayodhya Premier League",
-            "match_name": "Chambal Chargers Vs Gomti Thunder",
-            "match_id": 141373,
-            "startTime": "20 March 2026 01:30 PM",
             "stream_url": ""
         },
         {
