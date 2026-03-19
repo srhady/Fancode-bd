@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:01:17 PM 19-03-2026
+#last update time: 07:16:19 PM 19-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg" group-title="Live Sports", Eagles Xi Vs Uganda | Uganda tour of Namibia 2026
@@ -15,4 +15,7 @@ https://fancode-bd-srhady.vercel.app/featured_holes___day_1__141387.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", Main Feed   Day 1	 | Valspar Championship 2026
 https://fancode-bd-srhady.vercel.app/main_feed___day_1__141386.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", Featured Groups   Day 1	 | Valspar Championship 2026
+https://fancode-bd-srhady.vercel.app/featured_groups___day_1__141388.m3u8
 
