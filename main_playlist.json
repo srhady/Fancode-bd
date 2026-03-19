@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:46:13 PM 19-03-2026",
+    "last update time": "05:01:14 PM 19-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -202,20 +202,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Western Sydney Wanderers Vs Adelaide United",
-            "src": "https://images.fancode.com/aig/match/v1773891100405/140917_CASACARDS_APP.png",
-            "team_1": "Western Sydney Wanderers",
-            "team_2": "Adelaide United",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "event_name": "A League 2025-26",
-            "match_name": "Western Sydney Wanderers Vs Adelaide United",
-            "match_id": 140917,
-            "startTime": "20 March 2026 02:05 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Northeast United Fc Vs Odisha Fc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140467_5956_NEUFC_ODS_FC-Web_1772451795864.jpg",
             "team_1": "NorthEast United FC",
@@ -226,6 +212,20 @@
             "match_name": "Northeast United Fc Vs Odisha Fc",
             "match_id": 140467,
             "startTime": "20 March 2026 05:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Western Sydney Wanderers Vs Adelaide United",
+            "src": "https://images.fancode.com/aig/match/v1773891100405/140917_CASACARDS_APP.png",
+            "team_1": "Western Sydney Wanderers",
+            "team_2": "Adelaide United",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "event_name": "A League 2025-26",
+            "match_name": "Western Sydney Wanderers Vs Adelaide United",
+            "match_id": 140917,
+            "startTime": "20 March 2026 02:05 PM",
             "stream_url": ""
         },
         {
@@ -426,14 +426,14 @@
         },
         {
             "event_category": "Live Events",
-            "title": "Jsw Indian Open 2026",
+            "title": "Day 1",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
-            "team_1": "JSW Indian Open 2026",
+            "team_1": "Day 1",
             "team_2": "CCI Brabourne Stadium",
             "status": "NOT_STARTED",
             "streaming_status": "NOT_STARTED",
             "event_name": "JSW Indian Open 2026",
-            "match_name": "Jsw Indian Open 2026",
+            "match_name": "Day 1",
             "match_id": 141443,
             "startTime": "20 March 2026 03:30 PM",
             "stream_url": ""
