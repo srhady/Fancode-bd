@@ -1,14 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:16:18 PM 19-03-2026
+#last update time: 01:31:14 PM 19-03-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141370_6007_GW_YSK_FC-Web.jpg" group-title="Live Sports", Ganga Warriors Vs Yamuna Super Kings | Ayodhya Premier League
-https://fancode-bd-srhady.vercel.app/ganga_warriors_vs_yamuna_super_kings_141370.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" group-title="Live Sports", Tamil Nadu Titans Vs Mumbai Mavericks | Thunderbolt T10 League 2026
-https://fancode-bd-srhady.vercel.app/tamil_nadu_titans_vs_mumbai_mavericks_141211.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" group-title="Live Sports", Punjab Lions Vs Gujarat Tigers | Thunderbolt T10 League 2026
 https://fancode-bd-srhady.vercel.app/punjab_lions_vs_gujarat_tigers_141212.m3u8
