@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:01:15 AM 20-03-2026",
+    "last update time": "10:16:15 AM 20-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -25,7 +25,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141372_6007_MM_SS_FC-Web.jpg",
             "team_1": "Manorama Marvels",
             "team_2": "Saryu Smashers",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Ayodhya Premier League",
@@ -511,7 +511,7 @@
             "event_name": "A League 2025-26",
             "match_name": "Melbourne Victory Vs Central Coast Mariners | A League 2025-26",
             "match_id": 140920,
-            "startTime": "21 March 2026 11:30 AM",
+            "startTime": "21 March 2026 11:40 AM",
             "stream_url": ""
         },
         {
