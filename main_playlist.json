@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:16:19 AM 20-03-2026",
+    "last update time": "09:31:14 AM 20-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,6 +18,21 @@
             "match_id": 141068,
             "startTime": "20 March 2026 07:15 AM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/south_africa_women_vs_new_zealand_women_141068_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Manorama Marvels Vs Saryu Smashers",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141372_6007_MM_SS_FC-Web.jpg",
+            "team_1": "Manorama Marvels",
+            "team_2": "Saryu Smashers",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Ayodhya Premier League",
+            "match_name": "Manorama Marvels Vs Saryu Smashers | Ayodhya Premier League",
+            "match_id": 141372,
+            "startTime": "20 March 2026 09:00 AM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/manorama_marvels_vs_saryu_smashers_141372_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -62,21 +77,6 @@
             "match_name": "Konark Suryas Odisha Vs India Tigers | Legends League Cricket, 2026",
             "match_id": 141315,
             "startTime": "20 March 2026 07:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Manorama Marvels Vs Saryu Smashers",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141372_6007_MM_SS_FC-Web.jpg",
-            "team_1": "Manorama Marvels",
-            "team_2": "Saryu Smashers",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Ayodhya Premier League",
-            "match_name": "Manorama Marvels Vs Saryu Smashers | Ayodhya Premier League",
-            "match_id": 141372,
-            "startTime": "20 March 2026 09:00 AM",
             "stream_url": ""
         },
         {
@@ -245,6 +245,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Cricket",
+            "title": "Chennai Marvels Vs Jaipur Royals",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141335_6005_DTA_CMA_fc-Web.jpg",
+            "team_1": "Chennai Marvels",
+            "team_2": "Jaipur Royals",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Actors Cricket Bash 2026",
+            "match_name": "Chennai Marvels Vs Jaipur Royals | Actors Cricket Bash 2026",
+            "match_id": 141335,
+            "startTime": "21 March 2026 11:45 AM",
+            "stream_url": ""
+        },
+        {
             "event_category": "MotoGP",
             "title": "Brazil Gp",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-0,0-GRAND-PRIX-OF-BRAZIL-2026-old-card.png",
@@ -320,6 +335,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Football",
+            "title": "Brisbane Roar Vs Wellington Phoenix",
+            "src": "https://images.fancode.com/aig/match/v1773891100389/140919_CASACARDS_APP.png",
+            "team_1": "Brisbane Roar",
+            "team_2": "Wellington Phoenix",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Brisbane Roar Vs Wellington Phoenix | A League 2025-26",
+            "match_id": 140919,
+            "startTime": "21 March 2026 09:30 AM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Golf",
             "title": "Featured Groups   Day 2\t",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
@@ -332,21 +362,6 @@
             "match_name": "Featured Groups   Day 2\t | Valspar Championship 2026",
             "match_id": 141392,
             "startTime": "20 March 2026 06:45 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Chennai Marvels Vs Jaipur Royals",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141335_6005_DTA_CMA_fc-Web.jpg",
-            "team_1": "Chennai Marvels",
-            "team_2": "Jaipur Royals",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Actors Cricket Bash 2026",
-            "match_name": "Chennai Marvels Vs Jaipur Royals | Actors Cricket Bash 2026",
-            "match_id": 141335,
-            "startTime": "21 March 2026 11:45 AM",
             "stream_url": ""
         },
         {
@@ -452,21 +467,6 @@
             "match_name": "F Court Feed | ATP Masters Miami Open 2026",
             "match_id": 141463,
             "startTime": "20 March 2026 08:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Brisbane Roar Vs Wellington Phoenix",
-            "src": "https://images.fancode.com/aig/match/v1773891100389/140919_CASACARDS_APP.png",
-            "team_1": "Brisbane Roar",
-            "team_2": "Wellington Phoenix",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Brisbane Roar Vs Wellington Phoenix | A League 2025-26",
-            "match_id": 140919,
-            "startTime": "21 March 2026 09:30 AM",
             "stream_url": ""
         },
         {
