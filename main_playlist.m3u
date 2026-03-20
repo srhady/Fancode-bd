@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:46:17 AM 20-03-2026
+#last update time: 07:01:14 AM 20-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-web.jpg" group-title="Live Sports", Australia Women Vs West Indies Women | Australia Women's tour of West Indies 2026 (ENGLISH)
@@ -13,17 +13,11 @@ https://fancode-bd-srhady.vercel.app/mount_pleasant_fa_vs_la_galaxy_141107_engli
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141108_5954_TIG_CIN_1772957805588.png" group-title="Live Sports", Tigres Vs Fc Cincinnati | CONCACAF Champions Cup 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/tigres_vs_fc_cincinnati_141108_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="Live Sports", E Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/e_court_feed_141459_english.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="Live Sports", H Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/h_court_feed_141457_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="Live Sports", World Feed | ATP Masters Miami Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/world_feed_141036_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="Live Sports", B Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/b_court_feed_141460_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="Live Sports", A Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/a_court_feed_141037_english.m3u8
