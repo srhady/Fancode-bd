@@ -1,15 +1,6 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:01:16 PM 20-03-2026
+#last update time: 03:16:17 PM 20-03-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg" group-title="Live Sports", South Africa Vs New Zealand | South Africa tour of New Zealand 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/south_africa_vs_new_zealand_141063_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141373_6007_CC_GT_FC-Web.jpg" group-title="Live Sports", Chambal Chargers Vs Gomti Thunder | Ayodhya Premier League (ENGLISH)
-https://fancode-bd-srhady.vercel.app/chambal_chargers_vs_gomti_thunder_141373_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Western-Sydney-Wanderers-vs-Adelaide-United_fc-web.jpg" group-title="Live Sports", Western Sydney Wanderers Vs Adelaide United | A League 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/western_sydney_wanderers_vs_adelaide_united_140917_english.m3u8
 
