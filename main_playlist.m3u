@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:46:17 PM 20-03-2026
+#last update time: 11:01:16 PM 20-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-0,0-GRAND-PRIX-OF-BRAZIL-2026-old-card.png" group-title="Live Sports", Brazil Gp | ESTRELLA GALICIA 00 GRAND PRIX OF BRAZIL 2026 (ENGLISH)
@@ -15,9 +15,6 @@ https://fancode-bd-srhady.vercel.app/featured_holes___day_2__141393_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", Main Feed   Day 2	 | Valspar Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/main_feed___day_2__141391_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1773989745777.png" group-title="Live Sports", Day 1 | JSW Indian Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/day_1_141443_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", Featured Groups   Day 2	 | Valspar Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/featured_groups___day_2__141392_english.m3u8
@@ -42,4 +39,7 @@ https://fancode-bd-srhady.vercel.app/c_court_feed_141465_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="Live Sports", A Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/a_court_feed_141040_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="Live Sports", B Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/b_court_feed_141464_english.m3u8
 
