@@ -1,57 +1,6 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:31:15 PM 20-03-2026
+#last update time: 09:46:18 PM 20-03-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140468_5956_MBSG_MCFC_FC-Web_1772451868119.jpg" group-title="Live Sports", Mohun Bagan Super Giant Vs Mumbai City Fc | ISL 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/mohun_bagan_super_giant_vs_mumbai_city_fc_140468_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140468_5956_MBSG_MCFC_FC-Web_1772451868119.jpg" group-title="Live Sports", Mohun Bagan Super Giant Vs Mumbai City Fc | ISL 2025-26 (HINDI)
-https://fancode-bd-srhady.vercel.app/mohun_bagan_super_giant_vs_mumbai_city_fc_140468_hindi.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140468_5956_MBSG_MCFC_FC-Web_1772451868119.jpg" group-title="Live Sports", Mohun Bagan Super Giant Vs Mumbai City Fc | ISL 2025-26 (MALAYALAM)
-https://fancode-bd-srhady.vercel.app/mohun_bagan_super_giant_vs_mumbai_city_fc_140468_malayalam.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140468_5956_MBSG_MCFC_FC-Web_1772451868119.jpg" group-title="Live Sports", Mohun Bagan Super Giant Vs Mumbai City Fc | ISL 2025-26 (BENGALI)
-https://fancode-bd-srhady.vercel.app/mohun_bagan_super_giant_vs_mumbai_city_fc_140468_bengali.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141180_5973_MBSG_MCFC_fc-web.jpg" group-title="Live Sports", Mohun Bagan Super Giant Vs Mumbai City Fc | ISL 2025-26  - Regional (BENGALI)
-https://fancode-bd-srhady.vercel.app/mohun_bagan_super_giant_vs_mumbai_city_fc_141180_bengali.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-0,0-GRAND-PRIX-OF-BRAZIL-2026-old-card.png" group-title="Live Sports", Brazil Gp | ESTRELLA GALICIA 00 GRAND PRIX OF BRAZIL 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/brazil_gp_139927_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", Marquee Feed   Day 2	 | Valspar Championship 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/marquee_feed___day_2__141394_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", Featured Holes   Day 2	 | Valspar Championship 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/featured_holes___day_2__141393_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", Main Feed   Day 2	 | Valspar Championship 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/main_feed___day_2__141391_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1773989745777.png" group-title="Live Sports", Day 1 | JSW Indian Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/day_1_141443_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", Featured Groups   Day 2	 | Valspar Championship 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/featured_groups___day_2__141392_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Live Sports", E Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/e_court_feed_141461_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="Live Sports", F Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/f_court_feed_141463_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="Live Sports", I Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/i_court_feed_141534_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="Live Sports", G Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/g_court_feed_141535_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="Live Sports", World Feed | ATP Masters Miami Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/world_feed_141038_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="Live Sports", C Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/c_court_feed_141465_english.m3u8
 
