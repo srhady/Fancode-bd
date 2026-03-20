@@ -2,8 +2,23 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:01:16 PM 20-03-2026",
+    "last update time": "12:16:18 PM 20-03-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "South Africa Vs New Zealand",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg",
+            "team_1": "South Africa",
+            "team_2": "New Zealand",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "South Africa tour of New Zealand, 2026",
+            "match_name": "South Africa Vs New Zealand | South Africa tour of New Zealand, 2026",
+            "match_id": 141063,
+            "startTime": "20 March 2026 11:45 AM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/south_africa_vs_new_zealand_141063_english.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Manorama Marvels Vs Saryu Smashers",
@@ -18,21 +33,6 @@
             "match_id": 141372,
             "startTime": "20 March 2026 09:00 AM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/manorama_marvels_vs_saryu_smashers_141372_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "South Africa Vs New Zealand",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg",
-            "team_1": "South Africa",
-            "team_2": "New Zealand",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "South Africa tour of New Zealand, 2026",
-            "match_name": "South Africa Vs New Zealand | South Africa tour of New Zealand, 2026",
-            "match_id": 141063,
-            "startTime": "20 March 2026 11:45 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/south_africa_vs_new_zealand_141063_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -172,7 +172,7 @@
         {
             "event_category": "Football",
             "title": "Western Sydney Wanderers Vs Adelaide United",
-            "src": "https://images.fancode.com/aig/match/v1773891100405/140917_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Western-Sydney-Wanderers-vs-Adelaide-United_fc-web.jpg",
             "team_1": "Western Sydney Wanderers",
             "team_2": "Adelaide United",
             "status": "NOT_STARTED",
@@ -287,6 +287,21 @@
             "match_name": "Melbourne Victory Vs Central Coast Mariners | A League 2025-26",
             "match_id": 140920,
             "startTime": "21 March 2026 11:40 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ahmedabad Lions Vs Chandigarh Mavericks",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141336_6005_ALA_JR_fc-Web.jpg",
+            "team_1": "Ahmedabad Lions",
+            "team_2": "Chandigarh Mavericks",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Actors Cricket Bash 2026",
+            "match_name": "Ahmedabad Lions Vs Chandigarh Mavericks | Actors Cricket Bash 2026",
+            "match_id": 141336,
+            "startTime": "21 March 2026 02:30 PM",
             "stream_url": ""
         },
         {
@@ -482,21 +497,6 @@
             "match_name": "F Court Feed | ATP Masters Miami Open 2026",
             "match_id": 141463,
             "startTime": "20 March 2026 08:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ahmedabad Lions Vs Chandigarh Mavericks",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141336_6005_ALA_JR_fc-Web.jpg",
-            "team_1": "Ahmedabad Lions",
-            "team_2": "Chandigarh Mavericks",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Actors Cricket Bash 2026",
-            "match_name": "Ahmedabad Lions Vs Chandigarh Mavericks | Actors Cricket Bash 2026",
-            "match_id": 141336,
-            "startTime": "21 March 2026 02:30 PM",
             "stream_url": ""
         },
         {
