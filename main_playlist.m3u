@@ -1,8 +1,20 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:31:13 PM 20-03-2026
+#last update time: 07:46:15 PM 20-03-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140468_5956_MBSG_MCFC_FC-Web_1772451868119.jpg" group-title="Live Sports", Mohun Bagan Super Giant Vs Mumbai City Fc | ISL 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/mohun_bagan_super_giant_vs_mumbai_city_fc_140468_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140468_5956_MBSG_MCFC_FC-Web_1772451868119.jpg" group-title="Live Sports", Mohun Bagan Super Giant Vs Mumbai City Fc | ISL 2025-26 (HINDI)
+https://fancode-bd-srhady.vercel.app/mohun_bagan_super_giant_vs_mumbai_city_fc_140468_hindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140468_5956_MBSG_MCFC_FC-Web_1772451868119.jpg" group-title="Live Sports", Mohun Bagan Super Giant Vs Mumbai City Fc | ISL 2025-26 (MALAYALAM)
+https://fancode-bd-srhady.vercel.app/mohun_bagan_super_giant_vs_mumbai_city_fc_140468_malayalam.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140468_5956_MBSG_MCFC_FC-Web_1772451868119.jpg" group-title="Live Sports", Mohun Bagan Super Giant Vs Mumbai City Fc | ISL 2025-26 (BENGALI)
+https://fancode-bd-srhady.vercel.app/mohun_bagan_super_giant_vs_mumbai_city_fc_140468_bengali.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-0,0-GRAND-PRIX-OF-BRAZIL-2026-old-card.png" group-title="Live Sports", Brazil Gp | ESTRELLA GALICIA 00 GRAND PRIX OF BRAZIL 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/brazil_gp_139927_english.m3u8
