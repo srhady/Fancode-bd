@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:31:14 AM 20-03-2026",
+    "last update time": "09:46:17 AM 20-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -170,21 +170,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Western Sydney Wanderers Vs Adelaide United",
-            "src": "https://images.fancode.com/aig/match/v1773891100405/140917_CASACARDS_APP.png",
-            "team_1": "Western Sydney Wanderers",
-            "team_2": "Adelaide United",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Western Sydney Wanderers Vs Adelaide United | A League 2025-26",
-            "match_id": 140917,
-            "startTime": "20 March 2026 02:05 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "New South Wales Breakers Vs Queensland Fire",
             "src": "https://images.fancode.com/aig/match/v1773906801421/133992_CASACARDS_APP.png",
@@ -197,6 +182,21 @@
             "match_name": "New South Wales Breakers Vs Queensland Fire | Women's National Cricket League, 2025-26",
             "match_id": 133992,
             "startTime": "21 March 2026 04:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Western Sydney Wanderers Vs Adelaide United",
+            "src": "https://images.fancode.com/aig/match/v1773891100405/140917_CASACARDS_APP.png",
+            "team_1": "Western Sydney Wanderers",
+            "team_2": "Adelaide United",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Western Sydney Wanderers Vs Adelaide United | A League 2025-26",
+            "match_id": 140917,
+            "startTime": "20 March 2026 02:05 PM",
             "stream_url": ""
         },
         {
@@ -257,6 +257,21 @@
             "match_name": "Chennai Marvels Vs Jaipur Royals | Actors Cricket Bash 2026",
             "match_id": 141335,
             "startTime": "21 March 2026 11:45 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Brisbane Roar Vs Wellington Phoenix",
+            "src": "https://images.fancode.com/aig/match/v1773891100389/140919_CASACARDS_APP.png",
+            "team_1": "Brisbane Roar",
+            "team_2": "Wellington Phoenix",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Brisbane Roar Vs Wellington Phoenix | A League 2025-26",
+            "match_id": 140919,
+            "startTime": "21 March 2026 09:30 AM",
             "stream_url": ""
         },
         {
@@ -332,21 +347,6 @@
             "match_name": "Day 1 | JSW Indian Open 2026",
             "match_id": 141443,
             "startTime": "20 March 2026 06:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Brisbane Roar Vs Wellington Phoenix",
-            "src": "https://images.fancode.com/aig/match/v1773891100389/140919_CASACARDS_APP.png",
-            "team_1": "Brisbane Roar",
-            "team_2": "Wellington Phoenix",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Brisbane Roar Vs Wellington Phoenix | A League 2025-26",
-            "match_id": 140919,
-            "startTime": "21 March 2026 09:30 AM",
             "stream_url": ""
         },
         {
