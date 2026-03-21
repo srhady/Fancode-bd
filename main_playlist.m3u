@@ -1,26 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:31:16 PM 21-03-2026
+#last update time: 08:46:12 PM 21-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg" group-title="Live Sports", Namibia Vs Uganda | Uganda tour of Namibia 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/namibia_vs_uganda_141448_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141159_5826_ARS-W_WHU-W_FC-Web.jpg" group-title="Live Sports", Arsenal Women Vs West Ham United Women | Women's Super League 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/arsenal_women_vs_west_ham_united_women_141159_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141158_5826_LCL_CHE-W_FC-Web.jpg" group-title="Live Sports", London City Lionesses Vs Chelsea F.c. Women | Women's Super League 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/london_city_lionesses_vs_chelsea_f_c__women_141158_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141157_5826_MCI_TOT-W_FC-Web.jpg" group-title="Live Sports", Manchester City Vs Tottenham Hotspur Women | Women's Super League 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/manchester_city_vs_tottenham_hotspur_women_141157_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141156_5826_MUN-W_EVE-W_FC-Web.jpg" group-title="Live Sports", Manchester United Women Vs Everton Women | Women's Super League 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/manchester_united_women_vs_everton_women_141156_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140956_5489_IPT_MLW_fc-web.jpg" group-title="Live Sports", Ipswich Town F.c. Vs Millwall F.c. | EFL Championship 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/ipswich_town_f_c__vs_millwall_f_c__140956_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131115_5427_ELC_MRC_FC-Web.png" group-title="Live Sports", Elche Cf Vs Rcd Mallorca | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/elche_cf_vs_rcd_mallorca_131115_english.m3u8
@@ -54,4 +39,7 @@ https://fancode-bd-srhady.vercel.app/featured_holes___day_3__141398_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", Featured Groups   Day 3	 | Valspar Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/featured_groups___day_3__141397_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", Marquee Feed   Day 3	 | Valspar Championship 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/marquee_feed___day_3__141399_english.m3u8
 
