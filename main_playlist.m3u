@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:46:15 PM 21-03-2026
+#last update time: 12:01:16 AM 22-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140958_5489_SWA_CVC_fc-web.jpg" group-title="Live Sports", Swansea City A.f.c. Vs Coventry City F.c. | EFL Championship 2025-26 (ENGLISH)
@@ -48,4 +48,7 @@ https://fancode-bd-srhady.vercel.app/e_court_feed_141466_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Live Sports", A Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/a_court_feed_141041_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", World Feed   Day 3	 | Valspar Championship 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/world_feed___day_3__141400_english.m3u8
 
