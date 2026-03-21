@@ -1,23 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:01:13 PM 21-03-2026
+#last update time: 10:16:15 PM 21-03-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140470_5956_KBFC_PFC_FC-Web_1772452110923.jpg" group-title="Live Sports", Kerala Blasters Fc Vs Punjab Fc | ISL 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_punjab_fc_140470_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140470_5956_KBFC_PFC_FC-Web_1772452110923.jpg" group-title="Live Sports", Kerala Blasters Fc Vs Punjab Fc | ISL 2025-26 (HINDI)
-https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_punjab_fc_140470_hindi.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140470_5956_KBFC_PFC_FC-Web_1772452110923.jpg" group-title="Live Sports", Kerala Blasters Fc Vs Punjab Fc | ISL 2025-26 (MALAYALAM)
-https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_punjab_fc_140470_malayalam.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140470_5956_KBFC_PFC_FC-Web_1772452110923.jpg" group-title="Live Sports", Kerala Blasters Fc Vs Punjab Fc | ISL 2025-26 (BENGALI)
-https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_punjab_fc_140470_bengali.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141182_5973_KBFC_PFC_fc-web.jpg" group-title="Live Sports", Kerala Blasters Fc Vs Punjab Fc | ISL 2025-26  - Regional (MALAYALAM)
-https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_punjab_fc_141182_malayalam.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140957_5489_SHF_WRX_fc-web.jpg" group-title="Live Sports", Sheffield United F.c. Vs Wrexham A.f.c. | EFL Championship 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/sheffield_united_f_c__vs_wrexham_a_f_c__140957_english.m3u8
