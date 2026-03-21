@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:46:13 AM 22-03-2026",
+    "last update time": "03:01:13 AM 22-03-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -48,21 +48,6 @@
             "match_id": 139928,
             "startTime": "21 March 2026 05:10 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/brazil_gp_139928_english.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Main Feed   Day 3\t",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
-            "team_1": "Main Feed - Day 3\t",
-            "team_2": "Palm Harbor, Florida",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Valspar Championship 2026",
-            "match_name": "Main Feed   Day 3\t | Valspar Championship 2026 [ENGLISH]",
-            "match_id": 141396,
-            "startTime": "21 March 2026 06:15 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/main_feed___day_3__141396_english.m3u8"
         },
         {
             "event_category": "Golf",
@@ -486,21 +471,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Perth Glory Vs Melbourne City",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140922_5802_PG_MLC_fc-web.jpg",
-            "team_1": "Perth Glory",
-            "team_2": "Melbourne City",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Perth Glory Vs Melbourne City | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140922,
-            "startTime": "22 March 2026 01:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Arsenal Vs Manchester City",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-match-card.png",
             "team_1": "Arsenal",
@@ -512,6 +482,21 @@
             "match_name": "Arsenal Vs Manchester City | Carabao Cup 2025-2026 [BLOODY_SWEET]",
             "match_id": 140405,
             "startTime": "22 March 2026 10:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Perth Glory Vs Melbourne City",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140922_5802_PG_MLC_fc-web.jpg",
+            "team_1": "Perth Glory",
+            "team_2": "Melbourne City",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Perth Glory Vs Melbourne City | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140922,
+            "startTime": "22 March 2026 01:30 PM",
             "stream_url": ""
         },
         {
@@ -557,6 +542,21 @@
             "match_name": "Las Palmas Vs Sporting De Gij\u00f3n | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
             "match_id": 141411,
             "startTime": "22 March 2026 11:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(10).png",
+            "team_1": "Day 2",
+            "team_2": "Sanctuary Cove Golf Club",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Australian WPGA Championship 2026",
+            "match_name": "Day 2 | Australian WPGA Championship 2026 [BLOODY_SWEET]",
+            "match_id": 140793,
+            "startTime": "22 March 2026 06:30 AM",
             "stream_url": ""
         }
     ]
