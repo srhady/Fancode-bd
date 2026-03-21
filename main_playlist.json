@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:01:14 AM 22-03-2026",
+    "last update time": "01:16:17 AM 22-03-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Swansea City A.f.c. Vs Coventry City F.c.",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140958_5489_SWA_CVC_fc-web.jpg",
-            "team_1": "Swansea City A.F.C.",
-            "team_2": "Coventry City F.C.",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Swansea City A.f.c. Vs Coventry City F.c. | EFL Championship 2025-26 [ENGLISH]",
-            "match_id": 140958,
-            "startTime": "21 March 2026 10:45 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/swansea_city_a_f_c__vs_coventry_city_f_c__140958_english.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Levante Vs Real Oviedo",
@@ -305,6 +290,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Football",
+            "title": "Sevilla Fc Vs Valencia Cf",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131118_5427_SEV_VAL_FC-Web.png",
+            "team_1": "Sevilla FC",
+            "team_2": "Valencia CF",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Sevilla Fc Vs Valencia Cf | LALIGA 2025-26 [BLOODY_SWEET]",
+            "match_id": 131118,
+            "startTime": "22 March 2026 01:30 AM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Cricket",
             "title": "Southern Super Stars Vs India Tigers",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141318_6002_ICN_RRP_FC-Web.jpg",
@@ -321,16 +321,16 @@
         },
         {
             "event_category": "Football",
-            "title": "Sevilla Fc Vs Valencia Cf",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131118_5427_SEV_VAL_FC-Web.png",
-            "team_1": "Sevilla FC",
-            "team_2": "Valencia CF",
+            "title": "Deportivo Alaves Vs Real Zaragoza",
+            "src": "https://images.fancode.com/aig/match/v1773431102732/141410_CASACARDS_APP.png",
+            "team_1": "Deportivo Alaves",
+            "team_2": "Real Zaragoza",
             "status": "NOT_STARTED",
             "streaming_status": "NOT_STARTED",
             "language": "BLOODY_SWEET",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Sevilla Fc Vs Valencia Cf | LALIGA 2025-26 [BLOODY_SWEET]",
-            "match_id": 131118,
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Deportivo Alaves Vs Real Zaragoza | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
+            "match_id": 141410,
             "startTime": "22 March 2026 01:30 AM",
             "stream_url": ""
         },
@@ -471,21 +471,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Deportivo Alaves Vs Real Zaragoza",
-            "src": "https://images.fancode.com/aig/match/v1773431102732/141410_CASACARDS_APP.png",
-            "team_1": "Deportivo Alaves",
-            "team_2": "Real Zaragoza",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Deportivo Alaves Vs Real Zaragoza | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
-            "match_id": 141410,
-            "startTime": "22 March 2026 01:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Inter Kashi Fc Vs Bengaluru Fc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140472_5956_KSHI_BFC_FC-Web_1772452359219.jpg",
             "team_1": "Inter Kashi FC",
@@ -531,21 +516,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Perth Glory Vs Melbourne City",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140922_5802_PG_MLC_fc-web.jpg",
-            "team_1": "Perth Glory",
-            "team_2": "Melbourne City",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Perth Glory Vs Melbourne City | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140922,
-            "startTime": "22 March 2026 01:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Rc Celta Vs Deportivo Alaves",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131119_5427_CEV_ALA_FC-Web.png",
             "team_1": "RC Celta",
@@ -557,6 +527,21 @@
             "match_name": "Rc Celta Vs Deportivo Alaves | LALIGA 2025-26 [BLOODY_SWEET]",
             "match_id": 131119,
             "startTime": "22 March 2026 08:45 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Perth Glory Vs Melbourne City",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140922_5802_PG_MLC_fc-web.jpg",
+            "team_1": "Perth Glory",
+            "team_2": "Melbourne City",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Perth Glory Vs Melbourne City | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140922,
+            "startTime": "22 March 2026 01:30 PM",
             "stream_url": ""
         }
     ]
