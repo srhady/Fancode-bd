@@ -1,14 +1,20 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:01:12 PM 21-03-2026
+#last update time: 11:16:13 PM 21-03-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140957_5489_SHF_WRX_fc-web.jpg" group-title="Live Sports", Sheffield United F.c. Vs Wrexham A.f.c. | EFL Championship 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/sheffield_united_f_c__vs_wrexham_a_f_c__140957_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131116_5427_ESL_GEF_FC-Web.png" group-title="Live Sports", Rcd Espanyol Vs Getafe Cf | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/rcd_espanyol_vs_getafe_cf_131116_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140958_5489_SWA_CVC_fc-web.jpg" group-title="Live Sports", Swansea City A.f.c. Vs Coventry City F.c. | EFL Championship 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/swansea_city_a_f_c__vs_coventry_city_f_c__140958_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131117_5427_LE_RO_FC-Web.png" group-title="Live Sports", Levante Vs Real Oviedo | LALIGA 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/levante_vs_real_oviedo_131117_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131111_5427_OSN_GIR_FC-Web.png" group-title="Live Sports", Ca Osasuna Vs Girona Fc | LALIGA 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/ca_osasuna_vs_girona_fc_131111_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-0,0-GRAND-PRIX-OF-BRAZIL-2026-old-card.png" group-title="Live Sports", Brazil Gp | ESTRELLA GALICIA 00 GRAND PRIX OF BRAZIL 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/brazil_gp_139928_english.m3u8
@@ -42,7 +48,4 @@ https://fancode-bd-srhady.vercel.app/e_court_feed_141466_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Live Sports", A Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/a_court_feed_141041_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140958_5489_SWA_CVC_fc-web.jpg" group-title="Live Sports", Swansea City A.f.c. Vs Coventry City F.c. | EFL Championship 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/swansea_city_a_f_c__vs_coventry_city_f_c__140958_english.m3u8
 
