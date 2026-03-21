@@ -2,22 +2,22 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:31:15 AM 22-03-2026",
+    "last update time": "01:46:14 AM 22-03-2026",
     "matches": [
         {
             "event_category": "Football",
-            "title": "Levante Vs Real Oviedo",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131117_5427_LE_RO_FC-Web.png",
-            "team_1": "Levante",
-            "team_2": "Real Oviedo",
-            "status": "LIVE",
+            "title": "Sevilla Fc Vs Valencia Cf",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131118_5427_SEV_VAL_FC-Web.png",
+            "team_1": "Sevilla FC",
+            "team_2": "Valencia CF",
+            "status": "NOT_STARTED",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "LALIGA 2025-26",
-            "match_name": "Levante Vs Real Oviedo | LALIGA 2025-26 [ENGLISH]",
-            "match_id": 131117,
-            "startTime": "21 March 2026 11:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/levante_vs_real_oviedo_131117_english.m3u8"
+            "match_name": "Sevilla Fc Vs Valencia Cf | LALIGA 2025-26 [ENGLISH]",
+            "match_id": 131118,
+            "startTime": "22 March 2026 01:30 AM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/sevilla_fc_vs_valencia_cf_131118_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -215,21 +215,6 @@
             "stream_url": "https://fancode-bd-srhady.vercel.app/c_court_feed_141470_english.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Ca Osasuna Vs Girona Fc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131111_5427_OSN_GIR_FC-Web.png",
-            "team_1": "CA Osasuna",
-            "team_2": "Girona FC",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Ca Osasuna Vs Girona Fc | LALIGA 2025-26 [ENGLISH]",
-            "match_id": 131111,
-            "startTime": "21 March 2026 11:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/ca_osasuna_vs_girona_fc_131111_english.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "West Indies Women Vs Australia Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-web.jpg",
@@ -287,21 +272,6 @@
             "match_name": "Mumbai Spartans Vs Konark Suryas Odisha | Legends League Cricket, 2026 [BLOODY_SWEET]",
             "match_id": 141317,
             "startTime": "22 March 2026 02:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Sevilla Fc Vs Valencia Cf",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131118_5427_SEV_VAL_FC-Web.png",
-            "team_1": "Sevilla FC",
-            "team_2": "Valencia CF",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Sevilla Fc Vs Valencia Cf | LALIGA 2025-26 [BLOODY_SWEET]",
-            "match_id": 131118,
-            "startTime": "22 March 2026 01:30 AM",
             "stream_url": ""
         },
         {
@@ -486,21 +456,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Sydney Fc Vs Newcastle Jets",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140921_5802_SYD_NJ_fc-web.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Newcastle Jets",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney Fc Vs Newcastle Jets | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140921,
-            "startTime": "22 March 2026 09:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Leicester City Women Vs Aston Villa Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141161_5826_LEI-W_AST-W_FC-Web.jpg",
             "team_1": "Leicester City Women",
@@ -512,6 +467,21 @@
             "match_name": "Leicester City Women Vs Aston Villa Women | Women's Super League 2025-26 [BLOODY_SWEET]",
             "match_id": 141161,
             "startTime": "22 March 2026 08:15 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Sydney Fc Vs Newcastle Jets",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140921_5802_SYD_NJ_fc-web.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Newcastle Jets",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Sydney Fc Vs Newcastle Jets | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140921,
+            "startTime": "22 March 2026 09:30 AM",
             "stream_url": ""
         },
         {

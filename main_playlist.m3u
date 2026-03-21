@@ -1,11 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:31:15 AM 22-03-2026
+#last update time: 01:46:14 AM 22-03-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131117_5427_LE_RO_FC-Web.png" group-title="Live Sports", Levante Vs Real Oviedo | LALIGA 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/levante_vs_real_oviedo_131117_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131118_5427_SEV_VAL_FC-Web.png" group-title="Live Sports", Sevilla Fc Vs Valencia Cf | LALIGA 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/sevilla_fc_vs_valencia_cf_131118_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1773431102733/141409_CASACARDS_APP.png" group-title="Live Sports", Cádiz Vs Málaga | LALIGA Hypermotion 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/c_diz_vs_m_laga_141409_english.m3u8
@@ -45,7 +45,4 @@ https://fancode-bd-srhady.vercel.app/world_feed___day_3__141400_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Live Sports", C Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/c_court_feed_141470_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131111_5427_OSN_GIR_FC-Web.png" group-title="Live Sports", Ca Osasuna Vs Girona Fc | LALIGA 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/ca_osasuna_vs_girona_fc_131111_english.m3u8
 
