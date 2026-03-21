@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:31:15 PM 21-03-2026
+#last update time: 06:46:17 PM 21-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg" group-title="Live Sports", Namibia Vs Uganda | Uganda tour of Namibia 2026 (ENGLISH)
@@ -10,14 +10,14 @@ https://fancode-bd-srhady.vercel.app/namibia_vs_uganda_141448_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141159_5826_ARS-W_WHU-W_FC-Web.jpg" group-title="Live Sports", Arsenal Women Vs West Ham United Women | Women's Super League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/arsenal_women_vs_west_ham_united_women_141159_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141156_5826_MUN-W_EVE-W_FC-Web.jpg" group-title="Live Sports", Manchester United Women Vs Everton Women | Women's Super League 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/manchester_united_women_vs_everton_women_141156_english.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141158_5826_LCL_CHE-W_FC-Web.jpg" group-title="Live Sports", London City Lionesses Vs Chelsea F.c. Women | Women's Super League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/london_city_lionesses_vs_chelsea_f_c__women_141158_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141157_5826_MCI_TOT-W_FC-Web.jpg" group-title="Live Sports", Manchester City Vs Tottenham Hotspur Women | Women's Super League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/manchester_city_vs_tottenham_hotspur_women_141157_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141156_5826_MUN-W_EVE-W_FC-Web.jpg" group-title="Live Sports", Manchester United Women Vs Everton Women | Women's Super League 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/manchester_united_women_vs_everton_women_141156_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140956_5489_IPT_MLW_fc-web.jpg" group-title="Live Sports", Ipswich Town F.c. Vs Millwall F.c. | EFL Championship 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/ipswich_town_f_c__vs_millwall_f_c__140956_english.m3u8
