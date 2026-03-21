@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:01:13 AM 22-03-2026
+#last update time: 03:16:15 AM 22-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131118_5427_SEV_VAL_FC-Web.png" group-title="Live Sports", Sevilla Fc Vs Valencia Cf | LALIGA 2025-26 (ENGLISH)
@@ -10,17 +10,11 @@ https://fancode-bd-srhady.vercel.app/sevilla_fc_vs_valencia_cf_131118_english.m3
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1773431102732/141410_CASACARDS_APP.png" group-title="Live Sports", Deportivo Alaves Vs Real Zaragoza | LALIGA Hypermotion 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/deportivo_alaves_vs_real_zaragoza_141410_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-0,0-GRAND-PRIX-OF-BRAZIL-2026-old-card.png" group-title="Live Sports", Brazil Gp | ESTRELLA GALICIA 00 GRAND PRIX OF BRAZIL 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/brazil_gp_139928_english.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", Featured Holes   Day 3	 | Valspar Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/featured_holes___day_3__141398_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", Featured Groups   Day 3	 | Valspar Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/featured_groups___day_3__141397_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", Marquee Feed   Day 3	 | Valspar Championship 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/marquee_feed___day_3__141399_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Live Sports", World Feed | ATP Masters Miami Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/world_feed_141042_english.m3u8
