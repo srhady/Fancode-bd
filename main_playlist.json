@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:01:16 PM 21-03-2026",
+    "last update time": "06:16:17 PM 21-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -10,7 +10,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg",
             "team_1": "Namibia",
             "team_2": "Uganda",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Uganda tour of Namibia, 2026",
@@ -25,7 +25,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141159_5826_ARS-W_WHU-W_FC-Web.jpg",
             "team_1": "Arsenal Women",
             "team_2": "West Ham United Women",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Women's Super League 2025-26",
@@ -36,11 +36,26 @@
         },
         {
             "event_category": "Football",
+            "title": "Manchester United Women Vs Everton Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141156_5826_MUN-W_EVE-W_FC-Web.jpg",
+            "team_1": "Manchester United Women",
+            "team_2": "Everton Women",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Women's Super League 2025-26",
+            "match_name": "Manchester United Women Vs Everton Women | Women's Super League 2025-26 [ENGLISH]",
+            "match_id": 141156,
+            "startTime": "21 March 2026 05:30 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/manchester_united_women_vs_everton_women_141156_english.m3u8"
+        },
+        {
+            "event_category": "Football",
             "title": "London City Lionesses Vs Chelsea F.c. Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141158_5826_LCL_CHE-W_FC-Web.jpg",
             "team_1": "London City Lionesses",
             "team_2": "Chelsea F.C. Women",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Women's Super League 2025-26",
@@ -55,7 +70,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141157_5826_MCI_TOT-W_FC-Web.jpg",
             "team_1": "Manchester City",
             "team_2": "Tottenham Hotspur Women",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Women's Super League 2025-26",
@@ -63,21 +78,6 @@
             "match_id": 141157,
             "startTime": "21 March 2026 05:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/manchester_city_vs_tottenham_hotspur_women_141157_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Manchester United Women Vs Everton Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141156_5826_MUN-W_EVE-W_FC-Web.jpg",
-            "team_1": "Manchester United Women",
-            "team_2": "Everton Women",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Women's Super League 2025-26",
-            "match_name": "Manchester United Women Vs Everton Women | Women's Super League 2025-26 [ENGLISH]",
-            "match_id": 141156,
-            "startTime": "21 March 2026 05:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/manchester_united_women_vs_everton_women_141156_english.m3u8"
         },
         {
             "event_category": "MotoGP",
@@ -93,6 +93,21 @@
             "match_id": 139928,
             "startTime": "21 March 2026 05:10 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/brazil_gp_139928_english.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Main Feed   Day 3\t",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
+            "team_1": "Main Feed - Day 3\t",
+            "team_2": "Palm Harbor, Florida",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Valspar Championship 2026",
+            "match_name": "Main Feed   Day 3\t | Valspar Championship 2026 [ENGLISH]",
+            "match_id": 141396,
+            "startTime": "21 March 2026 06:15 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/main_feed___day_3__141396_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -140,6 +155,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Football",
+            "title": "Elche Cf Vs Rcd Mallorca",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131115_5427_ELC_MRC_FC-Web.png",
+            "team_1": "Elche CF",
+            "team_2": "RCD Mallorca",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Elche Cf Vs Rcd Mallorca | LALIGA 2025-26 [BLOODY_SWEET]",
+            "match_id": 131115,
+            "startTime": "21 March 2026 06:30 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Cricket",
             "title": "New Zealand Vs South Africa",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg",
@@ -167,21 +197,6 @@
             "match_name": "Mumbai Spartans Vs Konark Suryas Odisha | Legends League Cricket, 2026 [BLOODY_SWEET]",
             "match_id": 141317,
             "startTime": "22 March 2026 02:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Elche Cf Vs Rcd Mallorca",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131115_5427_ELC_MRC_FC-Web.png",
-            "team_1": "Elche CF",
-            "team_2": "RCD Mallorca",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Elche Cf Vs Rcd Mallorca | LALIGA 2025-26 [BLOODY_SWEET]",
-            "match_id": 131115,
-            "startTime": "21 March 2026 06:30 PM",
             "stream_url": ""
         },
         {
@@ -395,21 +410,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Golf",
-            "title": "Main Feed   Day 3\t",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
-            "team_1": "Main Feed - Day 3\t",
-            "team_2": "Palm Harbor, Florida",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Valspar Championship 2026",
-            "match_name": "Main Feed   Day 3\t | Valspar Championship 2026 [BLOODY_SWEET]",
-            "match_id": 141396,
-            "startTime": "21 March 2026 06:15 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Chennai Marvels Vs Ahmedabad Lions",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141339_6005_CML_ALA_fc-Web_1773994359668.jpg",
@@ -422,6 +422,21 @@
             "match_name": "Chennai Marvels Vs Ahmedabad Lions | Actors Cricket Bash 2026 [BLOODY_SWEET]",
             "match_id": 141339,
             "startTime": "22 March 2026 02:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 2",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1773989745777.png",
+            "team_1": "Day 2",
+            "team_2": "CCI Brabourne Stadium",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "JSW Indian Open 2026",
+            "match_name": "Day 2 | JSW Indian Open 2026 [BLOODY_SWEET]",
+            "match_id": 141444,
+            "startTime": "21 March 2026 06:30 PM",
             "stream_url": ""
         },
         {
@@ -456,21 +471,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Perth Glory Vs Melbourne City",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140922_5802_PG_MLC_fc-web.jpg",
-            "team_1": "Perth Glory",
-            "team_2": "Melbourne City",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Perth Glory Vs Melbourne City | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140922,
-            "startTime": "22 March 2026 01:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Chennaiyin Fc Vs Fc Goa",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140471_5956_CFC_FCG_FC-Web_1772452289464.jpg",
             "team_1": "Chennaiyin FC",
@@ -497,6 +497,21 @@
             "match_name": "Chennaiyin Fc Vs Fc Goa | ISL 2025-26  - Regional [BLOODY_SWEET]",
             "match_id": 141183,
             "startTime": "22 March 2026 05:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Perth Glory Vs Melbourne City",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140922_5802_PG_MLC_fc-web.jpg",
+            "team_1": "Perth Glory",
+            "team_2": "Melbourne City",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Perth Glory Vs Melbourne City | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140922,
+            "startTime": "22 March 2026 01:30 PM",
             "stream_url": ""
         },
         {
@@ -542,21 +557,6 @@
             "match_name": "Inter Kashi Fc Vs Bengaluru Fc | ISL 2025-26 [BLOODY_SWEET]",
             "match_id": 140472,
             "startTime": "22 March 2026 07:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Live Events",
-            "title": "Day 2",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1773989745777.png",
-            "team_1": "Day 2",
-            "team_2": "CCI Brabourne Stadium",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "JSW Indian Open 2026",
-            "match_name": "Day 2 | JSW Indian Open 2026 [BLOODY_SWEET]",
-            "match_id": 141444,
-            "startTime": "21 March 2026 06:30 PM",
             "stream_url": ""
         }
     ]
