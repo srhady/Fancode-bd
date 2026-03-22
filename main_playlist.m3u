@@ -1,20 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:01:17 PM 22-03-2026
+#last update time: 10:16:38 PM 22-03-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140472_5956_KSHI_BFC_FC-Web_1772452359219.jpg" group-title="Live Sports", Inter Kashi Fc Vs Bengaluru Fc | ISL 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/inter_kashi_fc_vs_bengaluru_fc_140472_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140472_5956_KSHI_BFC_FC-Web_1772452359219.jpg" group-title="Live Sports", Inter Kashi Fc Vs Bengaluru Fc | ISL 2025-26 (HINDI)
-https://fancode-bd-srhady.vercel.app/inter_kashi_fc_vs_bengaluru_fc_140472_hindi.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140472_5956_KSHI_BFC_FC-Web_1772452359219.jpg" group-title="Live Sports", Inter Kashi Fc Vs Bengaluru Fc | ISL 2025-26 (MALAYALAM)
-https://fancode-bd-srhady.vercel.app/inter_kashi_fc_vs_bengaluru_fc_140472_malayalam.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140472_5956_KSHI_BFC_FC-Web_1772452359219.jpg" group-title="Live Sports", Inter Kashi Fc Vs Bengaluru Fc | ISL 2025-26 (BENGALI)
-https://fancode-bd-srhady.vercel.app/inter_kashi_fc_vs_bengaluru_fc_140472_bengali.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141161_5826_LEI-W_AST-W_FC-Web.jpg" group-title="Live Sports", Leicester City Women Vs Aston Villa Women | Women's Super League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/leicester_city_women_vs_aston_villa_women_141161_english.m3u8
