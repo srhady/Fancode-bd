@@ -1,17 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:01:16 PM 22-03-2026
+#last update time: 09:16:20 PM 22-03-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131114_5427_BAR_RVL_FC-Web.png" group-title="Live Sports", Fc Barcelona Vs Rayo Vallecano | LALIGA 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/fc_barcelona_vs_rayo_vallecano_131114_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131114_5427_BAR_RVL_FC-Web.png" group-title="Live Sports", Fc Barcelona Vs Rayo Vallecano | LALIGA 2025-26 (HINDI)
-https://fancode-bd-srhady.vercel.app/fc_barcelona_vs_rayo_vallecano_131114_hindi.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131114_5427_BAR_RVL_FC-Web.png" group-title="Live Sports", Fc Barcelona Vs Rayo Vallecano | LALIGA 2025-26 (BENGALI)
-https://fancode-bd-srhady.vercel.app/fc_barcelona_vs_rayo_vallecano_131114_bengali.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140472_5956_KSHI_BFC_FC-Web_1772452359219.jpg" group-title="Live Sports", Inter Kashi Fc Vs Bengaluru Fc | ISL 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/inter_kashi_fc_vs_bengaluru_fc_140472_english.m3u8
