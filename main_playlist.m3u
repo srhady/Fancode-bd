@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:46:14 AM 22-03-2026
+#last update time: 08:01:16 AM 22-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-web.jpg" group-title="Live Sports", Australia Women Vs West Indies Women | Australia Women's tour of West Indies 2026 (ENGLISH)
@@ -12,9 +12,6 @@ https://fancode-bd-srhady.vercel.app/south_africa_women_vs_new_zealand_women_141
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Live Sports", World Feed | ATP Masters Miami Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/world_feed_141042_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Live Sports", B Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/b_court_feed_141469_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Live Sports", D Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/d_court_feed_141467_english.m3u8
