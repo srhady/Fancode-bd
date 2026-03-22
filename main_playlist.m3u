@@ -1,32 +1,20 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:16:17 AM 23-03-2026
+#last update time: 03:31:14 AM 23-03-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131119_5427_CEV_ALA_FC-Web.png" group-title="Live Sports", Rc Celta Vs Deportivo Alaves | LALIGA 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/rc_celta_vs_deportivo_alaves_131119_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131110_5427_RM_ATL_FC-Web.png" group-title="Live Sports", Real Madrid Vs Atletico De Madrid | LALIGA 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/real_madrid_vs_atletico_de_madrid_131110_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131113_5427_ATH_RB_FC-Web.png" group-title="Live Sports", Athletic Club Vs Real Betis | LALIGA 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/athletic_club_vs_real_betis_131113_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131110_5427_RM_ATL_FC-Web.png" group-title="Live Sports", Real Madrid Vs Atletico De Madrid | LALIGA 2025-26 (HINDI)
+https://fancode-bd-srhady.vercel.app/real_madrid_vs_atletico_de_madrid_131110_hindi.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1773431102733/141411_CASACARDS_APP.png" group-title="Live Sports", Las Palmas Vs Sporting De Gijón | LALIGA Hypermotion 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/las_palmas_vs_sporting_de_gij_n_141411_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", Marquee Feed   Day 4	 | Valspar Championship 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/marquee_feed___day_4__141404_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-0,0-GRAND-PRIX-OF-BRAZIL-2026-old-card.png" group-title="Live Sports", Brazil Gp | ESTRELLA GALICIA 00 GRAND PRIX OF BRAZIL 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/brazil_gp_139929_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", Main Feed   Day 4	 | Valspar Championship 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/main_feed___day_4__141401_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131110_5427_RM_ATL_FC-Web.png" group-title="Live Sports", Real Madrid Vs Atletico De Madrid | LALIGA 2025-26 (BENGALI)
+https://fancode-bd-srhady.vercel.app/real_madrid_vs_atletico_de_madrid_131110_bengali.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", Featured Groups   Day 4	 | Valspar Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/featured_groups___day_4__141403_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", Featured Holes   Day 4	 | Valspar Championship 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/featured_holes___day_4__141402_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Live Sports", World Feed | ATP Masters Miami Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/world_feed_141044_english.m3u8
@@ -45,4 +33,7 @@ https://fancode-bd-srhady.vercel.app/a_court_feed_141046_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Live Sports", D Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/d_court_feed_141473_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", World Feed   Day 4	 | Valspar Championship 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/world_feed___day_4__141405_english.m3u8
 
