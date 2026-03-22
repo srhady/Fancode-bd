@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:01:12 AM 23-03-2026
+#last update time: 04:16:14 AM 23-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Live Sports", World Feed | ATP Masters Miami Open 2026 (ENGLISH)
@@ -21,7 +21,4 @@ https://fancode-bd-srhady.vercel.app/a_court_feed_141046_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Live Sports", D Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/d_court_feed_141473_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", World Feed   Day 4	 | Valspar Championship 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/world_feed___day_4__141405_english.m3u8
 
