@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:16:18 PM 22-03-2026",
+    "last update time": "03:31:16 PM 22-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,21 +18,6 @@
             "match_id": 141064,
             "startTime": "22 March 2026 11:45 AM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/south_africa_vs_new_zealand_141064_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Delhi Titans Vs Jaipur Royals",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141338_6005_DTA_JR_fc-Web_1773994359711.jpg",
-            "team_1": "Delhi Titans",
-            "team_2": "Jaipur Royals",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Actors Cricket Bash 2026",
-            "match_name": "Delhi Titans Vs Jaipur Royals | Actors Cricket Bash 2026 [ENGLISH]",
-            "match_id": 141338,
-            "startTime": "22 March 2026 11:45 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/delhi_titans_vs_jaipur_royals_141338_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -572,6 +557,21 @@
             "match_name": "World Feed   Day 4\t | Valspar Championship 2026 [BLOODY_SWEET]",
             "match_id": 141405,
             "startTime": "22 March 2026 11:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "East Bengal Fc Vs Mohammedan Sc",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140469_5956_EBFC_MSC_FC-Web_1772451953886.jpg",
+            "team_1": "East Bengal FC",
+            "team_2": "Mohammedan SC",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ISL 2025-26",
+            "match_name": "East Bengal Fc Vs Mohammedan Sc | ISL 2025-26 [BLOODY_SWEET]",
+            "match_id": 140469,
+            "startTime": "23 March 2026 07:30 PM",
             "stream_url": ""
         }
     ]
