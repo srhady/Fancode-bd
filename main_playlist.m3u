@@ -1,30 +1,48 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:46:18 PM 22-03-2026
+#last update time: 08:01:15 PM 22-03-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141339_6005_CML_ALA_fc-Web_1773994359668.jpg" group-title="Live Sports", Chennai Marvels Vs Ahmedabad Lions | Actors Cricket Bash 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/chennai_marvels_vs_ahmedabad_lions_141339_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140471_5956_CFC_FCG_FC-Web_1772452289464.jpg" group-title="Live Sports", Chennaiyin Fc Vs Fc Goa | ISL 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/chennaiyin_fc_vs_fc_goa_140471_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140471_5956_CFC_FCG_FC-Web_1772452289464.jpg" group-title="Live Sports", Chennaiyin Fc Vs Fc Goa | ISL 2025-26 (HINDI)
-https://fancode-bd-srhady.vercel.app/chennaiyin_fc_vs_fc_goa_140471_hindi.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140471_5956_CFC_FCG_FC-Web_1772452289464.jpg" group-title="Live Sports", Chennaiyin Fc Vs Fc Goa | ISL 2025-26 (TAMIL)
-https://fancode-bd-srhady.vercel.app/chennaiyin_fc_vs_fc_goa_140471_tamil.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140471_5956_CFC_FCG_FC-Web_1772452289464.jpg" group-title="Live Sports", Chennaiyin Fc Vs Fc Goa | ISL 2025-26 (MALAYALAM)
-https://fancode-bd-srhady.vercel.app/chennaiyin_fc_vs_fc_goa_140471_malayalam.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140471_5956_CFC_FCG_FC-Web_1772452289464.jpg" group-title="Live Sports", Chennaiyin Fc Vs Fc Goa | ISL 2025-26 (BENGALI)
-https://fancode-bd-srhady.vercel.app/chennaiyin_fc_vs_fc_goa_140471_bengali.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141183_5973_CFC_FCG_fc-web.jpg" group-title="Live Sports", Chennaiyin Fc Vs Fc Goa | ISL 2025-26  - Regional (TAMIL)
-https://fancode-bd-srhady.vercel.app/chennaiyin_fc_vs_fc_goa_141183_tamil.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141160_5826_BHA-W_LIV-W_FC-Web.jpg" group-title="Live Sports", Brighton And Hove Albion Women Vs Liverpool Women | Women's Super League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/brighton_and_hove_albion_women_vs_liverpool_women_141160_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131114_5427_BAR_RVL_FC-Web.png" group-title="Live Sports", Fc Barcelona Vs Rayo Vallecano | LALIGA 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/fc_barcelona_vs_rayo_vallecano_131114_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131114_5427_BAR_RVL_FC-Web.png" group-title="Live Sports", Fc Barcelona Vs Rayo Vallecano | LALIGA 2025-26 (HINDI)
+https://fancode-bd-srhady.vercel.app/fc_barcelona_vs_rayo_vallecano_131114_hindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131114_5427_BAR_RVL_FC-Web.png" group-title="Live Sports", Fc Barcelona Vs Rayo Vallecano | LALIGA 2025-26 (BENGALI)
+https://fancode-bd-srhady.vercel.app/fc_barcelona_vs_rayo_vallecano_131114_bengali.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140472_5956_KSHI_BFC_FC-Web_1772452359219.jpg" group-title="Live Sports", Inter Kashi Fc Vs Bengaluru Fc | ISL 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/inter_kashi_fc_vs_bengaluru_fc_140472_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140472_5956_KSHI_BFC_FC-Web_1772452359219.jpg" group-title="Live Sports", Inter Kashi Fc Vs Bengaluru Fc | ISL 2025-26 (HINDI)
+https://fancode-bd-srhady.vercel.app/inter_kashi_fc_vs_bengaluru_fc_140472_hindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140472_5956_KSHI_BFC_FC-Web_1772452359219.jpg" group-title="Live Sports", Inter Kashi Fc Vs Bengaluru Fc | ISL 2025-26 (MALAYALAM)
+https://fancode-bd-srhady.vercel.app/inter_kashi_fc_vs_bengaluru_fc_140472_malayalam.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140472_5956_KSHI_BFC_FC-Web_1772452359219.jpg" group-title="Live Sports", Inter Kashi Fc Vs Bengaluru Fc | ISL 2025-26 (BENGALI)
+https://fancode-bd-srhady.vercel.app/inter_kashi_fc_vs_bengaluru_fc_140472_bengali.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", Marquee Feed   Day 4	 | Valspar Championship 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/marquee_feed___day_4__141404_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-0,0-GRAND-PRIX-OF-BRAZIL-2026-old-card.png" group-title="Live Sports", Brazil Gp | ESTRELLA GALICIA 00 GRAND PRIX OF BRAZIL 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/brazil_gp_139929_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", Main Feed   Day 4	 | Valspar Championship 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/main_feed___day_4__141401_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", Featured Groups   Day 4	 | Valspar Championship 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/featured_groups___day_4__141403_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", Featured Holes   Day 4	 | Valspar Championship 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/featured_holes___day_4__141402_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1773989745777.png" group-title="Live Sports", Day 3 | JSW Indian Open 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/day_3_141445_english.m3u8
 
