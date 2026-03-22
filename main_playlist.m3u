@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:46:15 PM 22-03-2026
+#last update time: 11:01:16 PM 22-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141161_5826_LEI-W_AST-W_FC-Web.jpg" group-title="Live Sports", Leicester City Women Vs Aston Villa Women | Women's Super League 2025-26 (ENGLISH)
@@ -39,4 +39,7 @@ https://fancode-bd-srhady.vercel.app/c_court_feed_141472_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Live Sports", A Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/a_court_feed_141046_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131113_5427_ATH_RB_FC-Web.png" group-title="Live Sports", Athletic Club Vs Real Betis | LALIGA 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/athletic_club_vs_real_betis_131113_english.m3u8
 
