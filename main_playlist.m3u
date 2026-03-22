@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:46:18 PM 22-03-2026
+#last update time: 10:01:17 PM 22-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140472_5956_KSHI_BFC_FC-Web_1772452359219.jpg" group-title="Live Sports", Inter Kashi Fc Vs Bengaluru Fc | ISL 2025-26 (ENGLISH)
@@ -36,9 +36,6 @@ https://fancode-bd-srhady.vercel.app/featured_groups___day_4__141403_english.m3u
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Live Sports", Featured Holes   Day 4	 | Valspar Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/featured_holes___day_4__141402_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1773989745777.png" group-title="Live Sports", Day 3 | JSW Indian Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/day_3_141445_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Live Sports", World Feed | ATP Masters Miami Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/world_feed_141044_english.m3u8
