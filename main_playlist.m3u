@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:01:16 AM 22-03-2026
+#last update time: 08:16:15 AM 22-03-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-web.jpg" group-title="Live Sports", Australia Women Vs West Indies Women | Australia Women's tour of West Indies 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/australia_women_vs_west_indies_women_141329_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg" group-title="Live Sports", South Africa Women Vs New Zealand Women | South Africa Women's tour of New Zealand 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/south_africa_women_vs_new_zealand_women_141069_english.m3u8
@@ -18,9 +15,6 @@ https://fancode-bd-srhady.vercel.app/d_court_feed_141467_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Live Sports", A Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/a_court_feed_141041_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Live Sports", C Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/c_court_feed_141470_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(10).png" group-title="Live Sports", Day 2 | Australian WPGA Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_2_140793_english.m3u8
