@@ -1,8 +1,14 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:31:15 PM 23-03-2026
+#last update time: 04:46:17 PM 23-03-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141316_6002_KSO_SSS_FC-Web_1774246065741.jpg" group-title="Live Sports", Konark Suryas Odisha Vs Southern Super Stars | Legends League Cricket 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/konark_suryas_odisha_vs_southern_super_stars_141316_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141316_6002_KSO_SSS_FC-Web_1774246065741.jpg" group-title="Live Sports", Konark Suryas Odisha Vs Southern Super Stars | Legends League Cricket 2026 (HINDI)
+https://fancode-bd-srhady.vercel.app/konark_suryas_odisha_vs_southern_super_stars_141316_hindi.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg" group-title="Live Sports", Namibia Vs Uganda | Uganda tour of Namibia 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/namibia_vs_uganda_141449_english.m3u8
