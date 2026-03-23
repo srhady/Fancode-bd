@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:31:13 AM 23-03-2026",
+    "last update time": "11:46:17 AM 23-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -381,15 +381,15 @@
         },
         {
             "event_category": "Golf",
-            "title": "Tgl 2025 26",
+            "title": "Jupiter Vs Los Angeles",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "TGL 2025-26",
+            "team_1": "Jupiter vs Los Angeles",
             "team_2": "Florida",
             "status": "NOT_STARTED",
             "streaming_status": "NOT_STARTED",
             "language": "BLOODY_SWEET",
             "event_name": "TGL Season 2",
-            "match_name": "Tgl 2025 26 | TGL Season 2 [BLOODY_SWEET]",
+            "match_name": "Jupiter Vs Los Angeles | TGL Season 2 [BLOODY_SWEET]",
             "match_id": 139180,
             "startTime": "24 March 2026 06:30 AM",
             "stream_url": ""
@@ -561,15 +561,15 @@
         },
         {
             "event_category": "Golf",
-            "title": "Tgl 2025 26",
+            "title": "Los Angeles Vs Jupiter",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "TGL 2025-26",
+            "team_1": "Los Angeles vs Jupiter",
             "team_2": "Florida",
             "status": "NOT_STARTED",
             "streaming_status": "NOT_STARTED",
             "language": "BLOODY_SWEET",
             "event_name": "TGL Season 2",
-            "match_name": "Tgl 2025 26 | TGL Season 2 [BLOODY_SWEET]",
+            "match_name": "Los Angeles Vs Jupiter | TGL Season 2 [BLOODY_SWEET]",
             "match_id": 139181,
             "startTime": "25 March 2026 04:30 AM",
             "stream_url": ""
