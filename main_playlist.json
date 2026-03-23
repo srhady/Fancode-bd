@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:31:16 PM 23-03-2026",
+    "last update time": "01:46:16 PM 23-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,6 +33,21 @@
             "match_id": 141449,
             "startTime": "23 March 2026 01:00 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/namibia_vs_uganda_141449_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Manorama Marvels Vs Ganga Warriors",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141379_6007_MM_GW_FC-Web.jpg",
+            "team_1": "Manorama Marvels",
+            "team_2": "Ganga Warriors",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Ayodhya Premier League",
+            "match_name": "Manorama Marvels Vs Ganga Warriors | Ayodhya Premier League [ENGLISH]",
+            "match_id": 141379,
+            "startTime": "23 March 2026 01:30 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/manorama_marvels_vs_ganga_warriors_141379_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -77,21 +92,6 @@
             "match_name": "West Indies Women Vs Australia Women | Australia Women's tour of West Indies 2026 [BLOODY_SWEET]",
             "match_id": 141330,
             "startTime": "24 March 2026 04:00 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Manorama Marvels Vs Ganga Warriors",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141379_6007_MM_GW_FC-Web.jpg",
-            "team_1": "Manorama Marvels",
-            "team_2": "Ganga Warriors",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Ayodhya Premier League",
-            "match_name": "Manorama Marvels Vs Ganga Warriors | Ayodhya Premier League [BLOODY_SWEET]",
-            "match_id": 141379,
-            "startTime": "23 March 2026 01:30 PM",
             "stream_url": ""
         },
         {
