@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:01:16 PM 23-03-2026",
+    "last update time": "03:16:17 PM 23-03-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Chennai Marvels Vs Chandigarh Mavericks",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141341_6005_CML_CMA_fc-Web_1773994359697.jpg",
-            "team_1": "Chennai Marvels",
-            "team_2": "Chandigarh Mavericks",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Actors Cricket Bash 2026",
-            "match_name": "Chennai Marvels Vs Chandigarh Mavericks | Actors Cricket Bash 2026 [ENGLISH]",
-            "match_id": 141341,
-            "startTime": "23 March 2026 11:45 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/chennai_marvels_vs_chandigarh_mavericks_141341_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Namibia Vs Uganda",
@@ -55,7 +40,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141342_6005_DTA_ALA_fc-Web_1773994359694.jpg",
             "team_1": "Delhi Titans",
             "team_2": "Ahmedabad Lions",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Actors Cricket Bash 2026",
@@ -587,6 +572,21 @@
             "match_name": "New Zealand Vs South Africa | South Africa tour of New Zealand, 2026 [BLOODY_SWEET]",
             "match_id": 141065,
             "startTime": "25 March 2026 11:45 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Los Angeles Vs Jupiter",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+            "team_1": "Los Angeles vs Jupiter",
+            "team_2": "Florida",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "TGL Season 2",
+            "match_name": "Los Angeles Vs Jupiter | TGL Season 2 [BLOODY_SWEET]",
+            "match_id": 139182,
+            "startTime": "25 March 2026 06:30 AM",
             "stream_url": ""
         }
     ]
