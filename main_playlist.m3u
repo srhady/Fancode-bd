@@ -1,24 +1,12 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:16:15 AM 23-03-2026
+#last update time: 10:31:14 AM 23-03-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Live Sports", World Feed | ATP Masters Miami Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/world_feed_141044_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141340_6005_MA_JR_fc-Web_1773994359692.jpg" group-title="Live Sports", Mumbai Aces Vs Jaipur Royals | Actors Cricket Bash 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/mumbai_aces_vs_jaipur_royals_141340_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Live Sports", F Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/f_court_feed_141474_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Live Sports", B Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/b_court_feed_141471_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Live Sports", C Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/c_court_feed_141472_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Live Sports", A Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/a_court_feed_141046_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Live Sports", D Court Feed | ATP Masters Miami Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/d_court_feed_141473_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141378_6007_YSK_SS_FC-Web.jpg" group-title="Live Sports", Yamuna Super Kings Vs Saryu Smashers | Ayodhya Premier League (ENGLISH)
+https://fancode-bd-srhady.vercel.app/yamuna_super_kings_vs_saryu_smashers_141378_english.m3u8
 
