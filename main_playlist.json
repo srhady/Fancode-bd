@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:31:15 PM 23-03-2026",
+    "last update time": "12:46:17 PM 23-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -245,6 +245,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Cricket",
+            "title": "Tanzania Vs Malawi",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/01_Tanzania-vs-Malawi_1774006051633.png",
+            "team_1": "Tanzania",
+            "team_2": "Malawi",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
+            "match_name": "Tanzania Vs Malawi | ICC Men's T20 WC Africa Sub Regional Qualifier B [BLOODY_SWEET]",
+            "match_id": 140973,
+            "startTime": "24 March 2026 03:00 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Tennis",
             "title": "World Feed",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
@@ -302,21 +317,6 @@
             "match_name": "F Court Feed | ATP Masters Miami Open 2026 [BLOODY_SWEET]",
             "match_id": 141475,
             "startTime": "23 March 2026 08:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Tanzania Vs Malawi",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/01_Tanzania-vs-Malawi_1774006051633.png",
-            "team_1": "Tanzania",
-            "team_2": "Malawi",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
-            "match_name": "Tanzania Vs Malawi | ICC Men's T20 WC Africa Sub Regional Qualifier B [BLOODY_SWEET]",
-            "match_id": 140973,
-            "startTime": "24 March 2026 03:00 PM",
             "stream_url": ""
         },
         {
@@ -572,6 +572,21 @@
             "match_name": "Yamuna Super Kings Vs Manorama Marvels | Ayodhya Premier League [BLOODY_SWEET]",
             "match_id": 141382,
             "startTime": "25 March 2026 09:00 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New Zealand Vs South Africa",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg",
+            "team_1": "New Zealand",
+            "team_2": "South Africa",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "South Africa tour of New Zealand, 2026",
+            "match_name": "New Zealand Vs South Africa | South Africa tour of New Zealand, 2026 [BLOODY_SWEET]",
+            "match_id": 141065,
+            "startTime": "25 March 2026 11:45 AM",
             "stream_url": ""
         }
     ]
