@@ -2,21 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:16:19 AM 27-03-2026",
+    "last update time": "02:31:17 AM 27-03-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Brazil vs France",
-            "src": "https://images.fancode.com/skillup-uploads/cms-media/International_Friendlies_2026_WEB_1080_x_810.jpg",
-            "team_1": "Brazil",
-            "team_2": "France",
-            "status": "LIVE",
-            "language": "ENGLISH",
-            "event_name": "International Friendlies 2026",
-            "match_name": "Brazil vs France | International Friendlies 2026 [ENGLISH]",
-            "match_id": "141604",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/brazil_vs_france_141604_english.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Houston, vs Texas",
