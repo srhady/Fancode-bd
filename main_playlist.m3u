@@ -1,9 +1,18 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:46:18 PM 26-03-2026
+#last update time: 09:52:24 PM 26-03-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg" group-title="Live Sports", Namibia Vs Uganda | Uganda tour of Namibia 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/namibia_vs_uganda_141449_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Cricket", Houston vs Texas | Texas Children's Houston Open 2026 Marquee Group - Day 1 Memorial Park Golf Course - [ENGLISH]
+https://fancode-bd-srhady.vercel.app/houston__vs_texas_141587_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Cricket", Houston vs Texas | Texas Children's Houston Open 2026 Featured Groups - Day 1 Memorial Park Golf Course - [ENGLISH]
+https://fancode-bd-srhady.vercel.app/houston__vs_texas_141588_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Cricket", Houston vs Texas | Texas Children's Houston Open 2026 Main Feed - Day 1 Memorial Park Golf Course - [ENGLISH]
+https://fancode-bd-srhady.vercel.app/houston__vs_texas_141586_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Cricket", Houston vs Texas | Texas Children's Houston Open 2026 Featured Holes - Day 1 Memorial Park Golf Course - [ENGLISH]
+https://fancode-bd-srhady.vercel.app/houston__vs_texas_141589_english.m3u8
 
