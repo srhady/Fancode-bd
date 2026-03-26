@@ -1,8 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:31:16 AM 27-03-2026
+#last update time: 01:46:21 AM 27-03-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/International_Friendlies_2026_WEB_1080_x_810.jpg" group-title="Cricket", Brazil vs France | International Friendlies 2026 [ENGLISH]
+https://fancode-bd-srhady.vercel.app/brazil_vs_france_141604_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", Houston vs Texas | Texas Children's Houston Open 2026 Marquee Group - Day 1 Memorial Park Golf Course - [ENGLISH]
 https://fancode-bd-srhady.vercel.app/houston__vs_texas_141587_english.m3u8
