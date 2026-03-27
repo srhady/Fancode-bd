@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:16:17 AM 28-03-2026
+#last update time: 04:31:16 AM 28-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(12).png" group-title="Cricket", west indies women vs australia women | Australia Women's tour of West Indies 2026 West Indies Women [ENGLISH]
@@ -9,9 +9,6 @@ https://fancode-bd-srhady.vercel.app/west_indies_women_vs_australia_women_141331
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", featured groups day 2 | Texas Children's Houston Open 2026 Featured Groups - Day 2 Memorial Park Golf Course - [ENGLISH]
 https://fancode-bd-srhady.vercel.app/featured_groups_day_2_141592_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", marquee group day 2 | Texas Children's Houston Open 2026 Marquee Group - Day 2 Memorial Park Golf Course - [ENGLISH]
-https://fancode-bd-srhady.vercel.app/marquee_group_day_2_141591_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", main feed day 2 | Texas Children's Houston Open 2026 Main Feed - Day 2 Memorial Park Golf Course - [ENGLISH]
 https://fancode-bd-srhady.vercel.app/main_feed_day_2_141590_english.m3u8
