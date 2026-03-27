@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:46:17 PM 27-03-2026
+#last update time: 08:01:15 PM 27-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/09_Seychelles-vs-Tanzania_1774006032252.png" group-title="Cricket", Seychelles vs Tanzania | ICC Men's T20 WC Africa Sub Regional Qualifier B [ENGLISH]
@@ -18,4 +18,7 @@ https://fancode-bd-srhady.vercel.app/houston__vs_texas_141590_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", Houston vs Texas | Texas Children's Houston Open 2026 Featured Holes - Day 2 Memorial Park Golf Course - [ENGLISH]
 https://fancode-bd-srhady.vercel.app/houston__vs_texas_141593_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Moto-GP-Unites-States_Web.jpg" group-title="Racing", The vs Americas | RED BULL GRAND PRIX OF THE UNITED STATES 2026 Day 1 Circuit Of [ENGLISH]
+https://fancode-bd-srhady.vercel.app/the_vs_americas_139930_english.m3u8
 
