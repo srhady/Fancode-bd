@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:16:14 AM 28-03-2026",
+    "last update time": "02:31:17 AM 28-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,19 +16,6 @@
             "match_name": "west indies women vs australia women | Australia Women's tour of West Indies 2026 West Indies Women [ENGLISH]",
             "match_id": "141331",
             "stream_url": "https://fancode-bd-srhady.vercel.app/west_indies_women_vs_australia_women_141331_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "cordoba vs mirandes",
-            "src": "https://images.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "cordoba",
-            "team_2": "mirandes",
-            "status": "LIVE",
-            "language": "ENGLISH",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "cordoba vs mirandes | LALIGA Hypermotion 2025-26 [ENGLISH]",
-            "match_id": "141489",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/cordoba_vs_mirandes_141489_english.m3u8"
         },
         {
             "event_category": "Golf",
@@ -94,19 +81,6 @@
             "match_name": "day 1 | RED BULL GRAND PRIX OF THE UNITED STATES 2026 Day 1 Circuit Of [ENGLISH]",
             "match_id": "139930",
             "stream_url": "https://fancode-bd-srhady.vercel.app/day_1_139930_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "doubles court feed",
-            "src": "https://images.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
-            "team_1": "",
-            "team_2": "",
-            "status": "LIVE",
-            "language": "ENGLISH",
-            "event_name": "ATP Masters Miami Open 2026 Doubles Court",
-            "match_name": "doubles court feed | ATP Masters Miami Open 2026 Doubles Court [ENGLISH]",
-            "match_id": "141672",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/doubles_court_feed_141672_english.m3u8"
         },
         {
             "event_category": "Tennis",
