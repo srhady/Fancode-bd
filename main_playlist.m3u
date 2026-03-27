@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:01:15 AM 28-03-2026
+#last update time: 04:16:17 AM 28-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(12).png" group-title="Cricket", west indies women vs australia women | Australia Women's tour of West Indies 2026 West Indies Women [ENGLISH]
@@ -18,9 +18,6 @@ https://fancode-bd-srhady.vercel.app/main_feed_day_2_141590_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", featured holes day 2 | Texas Children's Houston Open 2026 Featured Holes - Day 2 Memorial Park Golf Course - [ENGLISH]
 https://fancode-bd-srhady.vercel.app/featured_holes_day_2_141593_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Moto-GP-Unites-States_Web.jpg" group-title="Racing", day 1 | RED BULL GRAND PRIX OF THE UNITED STATES 2026 Day 1 Circuit Of [ENGLISH]
-https://fancode-bd-srhady.vercel.app/day_1_139930_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Tennis", world feed | ATP Masters Miami Open 2026 World Feed Miami [ENGLISH]
 https://fancode-bd-srhady.vercel.app/world_feed_141055_english.m3u8

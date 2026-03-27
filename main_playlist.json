@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:01:15 AM 28-03-2026",
+    "last update time": "04:16:17 AM 28-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -68,19 +68,6 @@
             "match_name": "featured holes day 2 | Texas Children's Houston Open 2026 Featured Holes - Day 2 Memorial Park Golf Course - [ENGLISH]",
             "match_id": "141593",
             "stream_url": "https://fancode-bd-srhady.vercel.app/featured_holes_day_2_141593_english.m3u8"
-        },
-        {
-            "event_category": "Racing",
-            "title": "day 1",
-            "src": "https://images.fancode.com/skillup-uploads/cms-media/Moto-GP-Unites-States_Web.jpg",
-            "team_1": "",
-            "team_2": "",
-            "status": "LIVE",
-            "language": "ENGLISH",
-            "event_name": "RED BULL GRAND PRIX OF THE UNITED STATES 2026 Day 1 Circuit Of",
-            "match_name": "day 1 | RED BULL GRAND PRIX OF THE UNITED STATES 2026 Day 1 Circuit Of [ENGLISH]",
-            "match_id": "139930",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/day_1_139930_english.m3u8"
         },
         {
             "event_category": "Tennis",
