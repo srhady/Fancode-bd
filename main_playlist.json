@@ -2,6 +2,20 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:31:18 PM 27-03-2026",
-    "matches": []
+    "last update time": "01:46:16 PM 27-03-2026",
+    "matches": [
+        {
+            "event_category": "Football",
+            "title": "Ganga vs Warriors",
+            "src": "https://images.fancode.com/skillup-uploads/cms-media/141365_6007_GW_GT_FC-Web.jpg",
+            "team_1": "Ganga",
+            "team_2": "Warriors",
+            "status": "LIVE",
+            "language": "ENGLISH",
+            "event_name": "Ayodhya Premier League Gomti Thunder",
+            "match_name": "Ganga vs Warriors | Ayodhya Premier League Gomti Thunder [ENGLISH]",
+            "match_id": "141385",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/ganga_vs_warriors_141385_english.m3u8"
+        }
+    ]
 }
