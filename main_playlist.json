@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:31:19 PM 27-03-2026",
+    "last update time": "02:46:20 PM 27-03-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -16,6 +16,19 @@
             "match_name": "Ganga vs Warriors | Ayodhya Premier League Gomti Thunder [ENGLISH]",
             "match_id": "141385",
             "stream_url": "https://fancode-bd-srhady.vercel.app/ganga_vs_warriors_141385_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Chandigarh vs Mavericks",
+            "src": "https://images.fancode.com/skillup-uploads/cms-media/141347_6005_DTA_CMA_fc-Web.jpg",
+            "team_1": "Chandigarh",
+            "team_2": "Mavericks",
+            "status": "LIVE",
+            "language": "ENGLISH",
+            "event_name": "Actors Cricket Bash 2026 Delhi Titans",
+            "match_name": "Chandigarh vs Mavericks | Actors Cricket Bash 2026 Delhi Titans [ENGLISH]",
+            "match_id": "141352",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/chandigarh_vs_mavericks_141352_english.m3u8"
         }
     ]
 }
