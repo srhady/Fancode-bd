@@ -1,8 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:16:17 PM 27-03-2026
+#last update time: 07:31:32 PM 27-03-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/09_Seychelles-vs-Tanzania_1774006032252.png" group-title="Cricket", Seychelles vs Tanzania | ICC Men's T20 WC Africa Sub Regional Qualifier B [ENGLISH]
+https://fancode-bd-srhady.vercel.app/seychelles_vs_tanzania_140981_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", Houston vs Texas | Texas Children's Houston Open 2026 Featured Groups - Day 2 Memorial Park Golf Course - [ENGLISH]
 https://fancode-bd-srhady.vercel.app/houston__vs_texas_141592_english.m3u8
@@ -12,4 +15,7 @@ https://fancode-bd-srhady.vercel.app/houston__vs_texas_141591_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", Houston vs Texas | Texas Children's Houston Open 2026 Main Feed - Day 2 Memorial Park Golf Course - [ENGLISH]
 https://fancode-bd-srhady.vercel.app/houston__vs_texas_141590_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", Houston vs Texas | Texas Children's Houston Open 2026 Featured Holes - Day 2 Memorial Park Golf Course - [ENGLISH]
+https://fancode-bd-srhady.vercel.app/houston__vs_texas_141593_english.m3u8
 
