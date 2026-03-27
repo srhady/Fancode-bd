@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:01:15 PM 27-03-2026
+#last update time: 06:16:14 PM 27-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141365_6007_GW_GT_FC-Web.jpg" group-title="Cricket", Gomti Thunder vs Ganga Warriors | Ayodhya Premier League Gomti Thunder [ENGLISH]
@@ -9,7 +9,4 @@ https://fancode-bd-srhady.vercel.app/gomti_thunder_vs_ganga_warriors_141385_engl
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141347_6005_DTA_CMA_fc-Web.jpg" group-title="Cricket", Delhi Titans vs Chandigarh Mavericks | Actors Cricket Bash 2026 Delhi Titans [ENGLISH]
 https://fancode-bd-srhady.vercel.app/delhi_titans_vs_chandigarh_mavericks_141352_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/08_Ghana-vs-Saint-Helena_1774006032283.png" group-title="Cricket", Ghana vs Saint Helena | ICC Men's T20 WC Africa Sub Regional Qualifier B Ghana [ENGLISH]
-https://fancode-bd-srhady.vercel.app/ghana_vs_saint_helena_140979_english.m3u8
 
