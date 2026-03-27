@@ -2,33 +2,33 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:31:17 PM 27-03-2026",
+    "last update time": "03:46:19 PM 27-03-2026",
     "matches": [
         {
             "event_category": "Football",
-            "title": "Ganga vs Warriors",
+            "title": "Gomti Thunder vs Ganga Warriors",
             "src": "https://images.fancode.com/skillup-uploads/cms-media/141365_6007_GW_GT_FC-Web.jpg",
-            "team_1": "Ganga",
-            "team_2": "Warriors",
+            "team_1": "Gomti Thunder",
+            "team_2": "Ganga Warriors",
             "status": "LIVE",
             "language": "ENGLISH",
             "event_name": "Ayodhya Premier League Gomti Thunder",
-            "match_name": "Ganga vs Warriors | Ayodhya Premier League Gomti Thunder [ENGLISH]",
+            "match_name": "Gomti Thunder vs Ganga Warriors | Ayodhya Premier League Gomti Thunder [ENGLISH]",
             "match_id": "141385",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/ganga_vs_warriors_141385_english.m3u8"
+            "stream_url": "https://fancode-bd-srhady.vercel.app/gomti_thunder_vs_ganga_warriors_141385_english.m3u8"
         },
         {
             "event_category": "Cricket",
-            "title": "Chandigarh vs Mavericks",
+            "title": "Delhi Titans vs Chandigarh Mavericks",
             "src": "https://images.fancode.com/skillup-uploads/cms-media/141347_6005_DTA_CMA_fc-Web.jpg",
-            "team_1": "Chandigarh",
-            "team_2": "Mavericks",
+            "team_1": "Delhi Titans",
+            "team_2": "Chandigarh Mavericks",
             "status": "LIVE",
             "language": "ENGLISH",
             "event_name": "Actors Cricket Bash 2026 Delhi Titans",
-            "match_name": "Chandigarh vs Mavericks | Actors Cricket Bash 2026 Delhi Titans [ENGLISH]",
+            "match_name": "Delhi Titans vs Chandigarh Mavericks | Actors Cricket Bash 2026 Delhi Titans [ENGLISH]",
             "match_id": "141352",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/chandigarh_vs_mavericks_141352_english.m3u8"
+            "stream_url": "https://fancode-bd-srhady.vercel.app/delhi_titans_vs_chandigarh_mavericks_141352_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -45,16 +45,16 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Saint vs Helena",
+            "title": "Ghana vs Saint Helena",
             "src": "https://images.fancode.com/skillup-uploads/cms-media/08_Ghana-vs-Saint-Helena_1774006032283.png",
-            "team_1": "Saint",
-            "team_2": "Helena",
+            "team_1": "Ghana",
+            "team_2": "Saint Helena",
             "status": "LIVE",
             "language": "ENGLISH",
             "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B Ghana",
-            "match_name": "Saint vs Helena | ICC Men's T20 WC Africa Sub Regional Qualifier B Ghana [ENGLISH]",
+            "match_name": "Ghana vs Saint Helena | ICC Men's T20 WC Africa Sub Regional Qualifier B Ghana [ENGLISH]",
             "match_id": "140979",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/saint_vs_helena_140979_english.m3u8"
+            "stream_url": "https://fancode-bd-srhady.vercel.app/ghana_vs_saint_helena_140979_english.m3u8"
         }
     ]
 }
