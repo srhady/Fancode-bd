@@ -1,15 +1,15 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:46:18 PM 27-03-2026
+#last update time: 07:01:16 PM 27-03-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141347_6005_DTA_CMA_fc-Web.jpg" group-title="Cricket", Delhi Titans vs Chandigarh Mavericks | Actors Cricket Bash 2026 Delhi Titans [ENGLISH]
-https://fancode-bd-srhady.vercel.app/delhi_titans_vs_chandigarh_mavericks_141352_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", Houston vs Texas | Texas Children's Houston Open 2026 Featured Groups - Day 2 Memorial Park Golf Course - [ENGLISH]
 https://fancode-bd-srhady.vercel.app/houston__vs_texas_141592_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", Houston vs Texas | Texas Children's Houston Open 2026 Marquee Group - Day 2 Memorial Park Golf Course - [ENGLISH]
 https://fancode-bd-srhady.vercel.app/houston__vs_texas_141591_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", Houston vs Texas | Texas Children's Houston Open 2026 Main Feed - Day 2 Memorial Park Golf Course - [ENGLISH]
+https://fancode-bd-srhady.vercel.app/houston__vs_texas_141590_english.m3u8
 
