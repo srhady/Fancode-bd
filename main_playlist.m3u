@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:16:19 PM 27-03-2026
+#last update time: 03:31:17 PM 27-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141365_6007_GW_GT_FC-Web.jpg" group-title="Football", Ganga vs Warriors | Ayodhya Premier League Gomti Thunder [ENGLISH]
@@ -9,4 +9,10 @@ https://fancode-bd-srhady.vercel.app/ganga_vs_warriors_141385_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141347_6005_DTA_CMA_fc-Web.jpg" group-title="Cricket", Chandigarh vs Mavericks | Actors Cricket Bash 2026 Delhi Titans [ENGLISH]
 https://fancode-bd-srhady.vercel.app/chandigarh_vs_mavericks_141352_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/07_Malawi-vs-Eswatini_1774006033082.png" group-title="Cricket", Malawi vs Eswatini | ICC Men's T20 WC Africa Sub Regional Qualifier B [ENGLISH]
+https://fancode-bd-srhady.vercel.app/malawi_vs_eswatini_140980_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/08_Ghana-vs-Saint-Helena_1774006032283.png" group-title="Cricket", Saint vs Helena | ICC Men's T20 WC Africa Sub Regional Qualifier B Ghana [ENGLISH]
+https://fancode-bd-srhady.vercel.app/saint_vs_helena_140979_english.m3u8
 
