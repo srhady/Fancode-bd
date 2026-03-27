@@ -2,10 +2,10 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:46:16 PM 27-03-2026",
+    "last update time": "06:01:15 PM 27-03-2026",
     "matches": [
         {
-            "event_category": "Football",
+            "event_category": "Cricket",
             "title": "Gomti Thunder vs Ganga Warriors",
             "src": "https://images.fancode.com/skillup-uploads/cms-media/141365_6007_GW_GT_FC-Web.jpg",
             "team_1": "Gomti Thunder",
@@ -42,19 +42,6 @@
             "match_name": "Ghana vs Saint Helena | ICC Men's T20 WC Africa Sub Regional Qualifier B Ghana [ENGLISH]",
             "match_id": "140979",
             "stream_url": "https://fancode-bd-srhady.vercel.app/ghana_vs_saint_helena_140979_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Malawi vs Eswatini",
-            "src": "https://images.fancode.com/skillup-uploads/cms-media/07_Malawi-vs-Eswatini_1774006033082.png",
-            "team_1": "Malawi",
-            "team_2": "Eswatini",
-            "status": "LIVE",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
-            "match_name": "Malawi vs Eswatini | ICC Men's T20 WC Africa Sub Regional Qualifier B [ENGLISH]",
-            "match_id": "140980",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/malawi_vs_eswatini_140980_english.m3u8"
         }
     ]
 }
