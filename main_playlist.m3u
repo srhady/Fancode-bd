@@ -1,15 +1,15 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:31:17 AM 28-03-2026
+#last update time: 07:46:17 AM 28-03-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(12).png" group-title="Cricket", west indies women vs australia women | Australia Women's tour of West Indies 2026 West Indies Women [ENGLISH]
-https://fancode-bd-srhady.vercel.app/west_indies_women_vs_australia_women_141331_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png" group-title="Cricket", victoria vs south australia | Sheffield Shield 2025-26 Victoria [ENGLISH]
 https://fancode-bd-srhady.vercel.app/victoria_vs_south_australia_134044_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Tennis", world feed | ATP Masters Miami Open 2026 World Feed Miami [ENGLISH]
 https://fancode-bd-srhady.vercel.app/world_feed_141055_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(12).png" group-title="Cricket", west indies women vs australia women | Australia Women's tour of West Indies 2026 West Indies Women [ENGLISH]
+https://fancode-bd-srhady.vercel.app/west_indies_women_vs_australia_women_141331_english.m3u8
 
