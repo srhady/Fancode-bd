@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:01:16 AM 28-03-2026",
+    "last update time": "10:16:17 AM 28-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,19 +16,6 @@
             "match_name": "victoria vs south australia | Sheffield Shield, 2025-26 Victoria [ENGLISH]",
             "match_id": "134044",
             "stream_url": "https://fancode-bd-srhady.vercel.app/victoria_vs_south_australia_134044_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "ferrari challenge series",
-            "src": "https://images.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
-            "team_1": "",
-            "team_2": "",
-            "status": "LIVE",
-            "language": "ENGLISH",
-            "event_name": "Ferrari Challenge Series 2026 Australasia - Day 1",
-            "match_name": "ferrari challenge series | Ferrari Challenge Series 2026 Australasia - Day 1 [ENGLISH]",
-            "match_id": "141602",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/ferrari_challenge_series_141602_english.m3u8"
         }
     ]
 }
