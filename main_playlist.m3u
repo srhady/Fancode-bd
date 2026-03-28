@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:16:17 PM 28-03-2026
+#last update time: 10:31:19 PM 28-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/11_Eswatini-vs-Ghana_1774006033076.png" group-title="Cricket", eswatini vs ghana | ICC Men's T20 WC Africa Sub Regional Qualifier B [ENGLISH]
@@ -24,4 +24,7 @@ https://fancode-bd-srhady.vercel.app/day_2_139931_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", marquee group day 3 | Texas Children's Houston Open 2026 Marquee Group - Day 3 Memorial Park Golf Course - [ENGLISH]
 https://fancode-bd-srhady.vercel.app/marquee_group_day_3_141595_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Tennis", men s doubles final | ATP Masters Miami Open 2026 Men's Doubles Final Miami [ENGLISH]
+https://fancode-bd-srhady.vercel.app/men_s_doubles_final_141057_english.m3u8
 
