@@ -1,11 +1,14 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:46:14 PM 28-03-2026
+#last update time: 02:01:23 PM 28-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia_FC-WEB.jpg" group-title="Cricket", namibia a vs scotland | Scotland tour of Namibia 2026 Namibia [ENGLISH]
 https://fancode-bd-srhady.vercel.app/namibia_a_vs_scotland_141653_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774667324847/141216_CASACARDS_APP.png" group-title="Football", naegohyang women s fc vs ho chi minh city women | AFC Women's Champions League 2025-26 Naegohyang Women's FC Ho Chi Minh [ENGLISH]
+https://fancode-bd-srhady.vercel.app/naegohyang_women_s_fc_vs_ho_chi_minh_city_women_141216_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png" group-title="Cricket", victoria vs south australia | Sheffield Shield 2025-26 Victoria [ENGLISH]
 https://fancode-bd-srhady.vercel.app/victoria_vs_south_australia_134044_english.m3u8

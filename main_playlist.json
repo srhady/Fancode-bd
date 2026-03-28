@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:46:14 PM 28-03-2026",
+    "last update time": "02:01:23 PM 28-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,19 @@
             "match_name": "namibia a vs scotland | Scotland tour of Namibia, 2026 Namibia [ENGLISH]",
             "match_id": "141653",
             "stream_url": "https://fancode-bd-srhady.vercel.app/namibia_a_vs_scotland_141653_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "naegohyang women s fc vs ho chi minh city women",
+            "src": "https://images.fancode.com/aig/match/v1774667324847/141216_CASACARDS_APP.png",
+            "team_1": "naegohyang women s fc",
+            "team_2": "ho chi minh city women",
+            "status": "LIVE",
+            "language": "ENGLISH",
+            "event_name": "AFC Women's Champions League 2025-26 Naegohyang Women's FC Ho Chi Minh",
+            "match_name": "naegohyang women s fc vs ho chi minh city women | AFC Women's Champions League 2025-26 Naegohyang Women's FC Ho Chi Minh [ENGLISH]",
+            "match_id": "141216",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/naegohyang_women_s_fc_vs_ho_chi_minh_city_women_141216_english.m3u8"
         },
         {
             "event_category": "Cricket",
