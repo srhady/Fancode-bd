@@ -2,21 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:31:15 AM 29-03-2026",
+    "last update time": "02:46:17 AM 29-03-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "arsenal women vs tottenham hotspur women",
-            "src": "https://images.fancode.com/skillup-uploads/cms-media/141164_5826_ARS-W_TOT-W_FC-Web.jpg",
-            "team_1": "arsenal women",
-            "team_2": "tottenham hotspur women",
-            "status": "LIVE",
-            "language": "ENGLISH",
-            "event_name": "Women's Super League 2025-26 Arsenal Women Tottenham",
-            "match_name": "arsenal women vs tottenham hotspur women | Women's Super League 2025-26 Arsenal Women Tottenham [ENGLISH]",
-            "match_id": "141164",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/arsenal_women_vs_tottenham_hotspur_women_141164_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "sporting de gijon vs deportivo la coruna",

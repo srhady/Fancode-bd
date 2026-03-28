@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:31:15 AM 29-03-2026
+#last update time: 02:46:17 AM 29-03-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141164_5826_ARS-W_TOT-W_FC-Web.jpg" group-title="Cricket", arsenal women vs tottenham hotspur women | Women's Super League 2025-26 Arsenal Women Tottenham [ENGLISH]
-https://fancode-bd-srhady.vercel.app/arsenal_women_vs_tottenham_hotspur_women_141164_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774680543077/141491_CASACARDS_APP.png" group-title="Cricket", sporting de gijon vs deportivo la coruna | LALIGA Hypermotion 2025-26 Sporting de Gijón Deportivo [ENGLISH]
 https://fancode-bd-srhady.vercel.app/sporting_de_gijon_vs_deportivo_la_coruna_141491_english.m3u8
