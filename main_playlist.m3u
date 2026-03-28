@@ -1,14 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:31:15 AM 29-03-2026
+#last update time: 01:46:17 AM 29-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141164_5826_ARS-W_TOT-W_FC-Web.jpg" group-title="Cricket", arsenal women vs tottenham hotspur women | Women's Super League 2025-26 Arsenal Women Tottenham [ENGLISH]
 https://fancode-bd-srhady.vercel.app/arsenal_women_vs_tottenham_hotspur_women_141164_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774680543077/141490_CASACARDS_APP.png" group-title="Cricket", malaga vs leganes | LALIGA Hypermotion 2025-26 [ENGLISH]
-https://fancode-bd-srhady.vercel.app/malaga_vs_leganes_141490_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", featured groups day 3 | Texas Children's Houston Open 2026 Featured Groups - Day 3 Memorial Park Golf Course - [ENGLISH]
 https://fancode-bd-srhady.vercel.app/featured_groups_day_3_141596_english.m3u8
