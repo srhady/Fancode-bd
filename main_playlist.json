@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:46:17 AM 29-03-2026",
+    "last update time": "02:01:16 AM 29-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,19 @@
             "match_name": "arsenal women vs tottenham hotspur women | Women's Super League 2025-26 Arsenal Women Tottenham [ENGLISH]",
             "match_id": "141164",
             "stream_url": "https://fancode-bd-srhady.vercel.app/arsenal_women_vs_tottenham_hotspur_women_141164_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "sporting de gijon vs deportivo la coruna",
+            "src": "https://images.fancode.com/aig/match/v1774680543077/141491_CASACARDS_APP.png",
+            "team_1": "sporting de gijon",
+            "team_2": "deportivo la coruna",
+            "status": "LIVE",
+            "language": "ENGLISH",
+            "event_name": "LALIGA Hypermotion 2025-26 Sporting de Gij\u00f3n Deportivo",
+            "match_name": "sporting de gijon vs deportivo la coruna | LALIGA Hypermotion 2025-26 Sporting de Gij\u00f3n Deportivo [ENGLISH]",
+            "match_id": "141491",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/sporting_de_gijon_vs_deportivo_la_coruna_141491_english.m3u8"
         },
         {
             "event_category": "Golf",
