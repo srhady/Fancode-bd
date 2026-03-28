@@ -1,8 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:46:18 AM 28-03-2026
+#last update time: 11:01:17 AM 28-03-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774667324847/141215_CASACARDS_APP.png" group-title="Football", tokyo verdy beleza vs stallion laguna | AFC Women's Champions League 2025-26 Tokyo Verdy Beleza [ENGLISH]
+https://fancode-bd-srhady.vercel.app/tokyo_verdy_beleza_vs_stallion_laguna_141215_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png" group-title="Cricket", victoria vs south australia | Sheffield Shield 2025-26 Victoria [ENGLISH]
 https://fancode-bd-srhady.vercel.app/victoria_vs_south_australia_134044_english.m3u8
