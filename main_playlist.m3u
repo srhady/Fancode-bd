@@ -1,11 +1,17 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:31:14 PM 28-03-2026
+#last update time: 07:46:14 PM 28-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141162_5826_EVE-W_LIV-W_FC-Web.jpg" group-title="Cricket", everton women vs liverpool women | Women's Super League 2025-26 Everton Women [ENGLISH]
 https://fancode-bd-srhady.vercel.app/everton_women_vs_liverpool_women_141162_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/11_Eswatini-vs-Ghana_1774006033076.png" group-title="Cricket", eswatini vs ghana | ICC Men's T20 WC Africa Sub Regional Qualifier B [ENGLISH]
+https://fancode-bd-srhady.vercel.app/eswatini_vs_ghana_140984_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/12_Seychelles-vs-Malawi_1774006032276.png" group-title="Cricket", seychelles vs malawi | ICC Men's T20 WC Africa Sub Regional Qualifier B [ENGLISH]
+https://fancode-bd-srhady.vercel.app/seychelles_vs_malawi_140983_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141163_5826_MUN-W_MCI-W_FC-Web.jpg" group-title="Cricket", manchester united women vs manchester city women | Women's Super League 2025-26 Manchester United Women Manchester [ENGLISH]
 https://fancode-bd-srhady.vercel.app/manchester_united_women_vs_manchester_city_women_141163_english.m3u8
@@ -21,4 +27,7 @@ https://fancode-bd-srhady.vercel.app/main_feed_day_3_141594_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", featured holes day 3 | Texas Children's Houston Open 2026 Featured Holes - Day 3 Memorial Park Golf Course - [ENGLISH]
 https://fancode-bd-srhady.vercel.app/featured_holes_day_3_141597_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Moto-GP-Unites-States_Web.jpg" group-title="Racing", day 2 | RED BULL GRAND PRIX OF THE UNITED STATES 2026 Day 2 Circuit Of [ENGLISH]
+https://fancode-bd-srhady.vercel.app/day_2_139931_english.m3u8
 
