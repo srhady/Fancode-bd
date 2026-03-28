@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:31:15 PM 28-03-2026",
+    "last update time": "09:46:18 PM 28-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -29,19 +29,6 @@
             "match_name": "seychelles vs malawi | ICC Men's T20 WC Africa Sub Regional Qualifier B [ENGLISH]",
             "match_id": "140983",
             "stream_url": "https://fancode-bd-srhady.vercel.app/seychelles_vs_malawi_140983_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "manchester united women vs manchester city women",
-            "src": "https://images.fancode.com/skillup-uploads/cms-media/141163_5826_MUN-W_MCI-W_FC-Web.jpg",
-            "team_1": "manchester united women",
-            "team_2": "manchester city women",
-            "status": "LIVE",
-            "language": "ENGLISH",
-            "event_name": "Women's Super League 2025-26 Manchester United Women Manchester",
-            "match_name": "manchester united women vs manchester city women | Women's Super League 2025-26 Manchester United Women Manchester [ENGLISH]",
-            "match_id": "141163",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/manchester_united_women_vs_manchester_city_women_141163_english.m3u8"
         },
         {
             "event_category": "Golf",
