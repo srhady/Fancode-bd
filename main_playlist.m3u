@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:01:17 AM 29-03-2026
+#last update time: 03:16:17 AM 29-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774680543077/141491_CASACARDS_APP.png" group-title="Cricket", sporting de gijon vs deportivo la coruna | LALIGA Hypermotion 2025-26 Sporting de Gijón Deportivo [ENGLISH]
@@ -10,17 +10,8 @@ https://fancode-bd-srhady.vercel.app/sporting_de_gijon_vs_deportivo_la_coruna_14
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", featured groups day 3 | Texas Children's Houston Open 2026 Featured Groups - Day 3 Memorial Park Golf Course - [ENGLISH]
 https://fancode-bd-srhady.vercel.app/featured_groups_day_3_141596_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", main feed day 3 | Texas Children's Houston Open 2026 Main Feed - Day 3 Memorial Park Golf Course - [ENGLISH]
-https://fancode-bd-srhady.vercel.app/main_feed_day_3_141594_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", featured holes day 3 | Texas Children's Houston Open 2026 Featured Holes - Day 3 Memorial Park Golf Course - [ENGLISH]
-https://fancode-bd-srhady.vercel.app/featured_holes_day_3_141597_english.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Moto-GP-Unites-States_Web.jpg" group-title="Racing", day 2 | RED BULL GRAND PRIX OF THE UNITED STATES 2026 Day 2 Circuit Of [ENGLISH]
 https://fancode-bd-srhady.vercel.app/day_2_139931_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", marquee group day 3 | Texas Children's Houston Open 2026 Marquee Group - Day 3 Memorial Park Golf Course - [ENGLISH]
-https://fancode-bd-srhady.vercel.app/marquee_group_day_3_141595_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", world feed day 3 | Texas Children's Houston Open 2026 World Feed - Day 3 Memorial Park Golf Course - [ENGLISH]
 https://fancode-bd-srhady.vercel.app/world_feed_day_3_141584_english.m3u8
