@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:01:16 PM 28-03-2026",
+    "last update time": "08:16:23 PM 28-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -120,6 +120,19 @@
             "match_name": "day 2 | RED BULL GRAND PRIX OF THE UNITED STATES 2026 Day 2 Circuit Of [ENGLISH]",
             "match_id": "139931",
             "stream_url": "https://fancode-bd-srhady.vercel.app/day_2_139931_english.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "marquee group day 3",
+            "src": "https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png",
+            "team_1": "",
+            "team_2": "",
+            "status": "LIVE",
+            "language": "ENGLISH",
+            "event_name": "Texas Children's Houston Open 2026 Marquee Group - Day 3 Memorial Park Golf Course -",
+            "match_name": "marquee group day 3 | Texas Children's Houston Open 2026 Marquee Group - Day 3 Memorial Park Golf Course - [ENGLISH]",
+            "match_id": "141595",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/marquee_group_day_3_141595_english.m3u8"
         }
     ]
 }
