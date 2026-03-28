@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:01:20 PM 28-03-2026",
+    "last update time": "03:16:16 PM 28-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,19 @@
             "match_name": "namibia a vs scotland | Scotland tour of Namibia, 2026 Namibia [ENGLISH]",
             "match_id": "141653",
             "stream_url": "https://fancode-bd-srhady.vercel.app/namibia_a_vs_scotland_141653_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "tanzania vs saint helena",
+            "src": "https://images.fancode.com/skillup-uploads/cms-media/10_Tanzania-vs-Saint-Helena_1774006032291.png",
+            "team_1": "tanzania",
+            "team_2": "saint helena",
+            "status": "LIVE",
+            "language": "ENGLISH",
+            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B Tanzania",
+            "match_name": "tanzania vs saint helena | ICC Men's T20 WC Africa Sub Regional Qualifier B Tanzania [ENGLISH]",
+            "match_id": "140982",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/tanzania_vs_saint_helena_140982_english.m3u8"
         },
         {
             "event_category": "Football",
