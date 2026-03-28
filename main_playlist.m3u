@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:46:19 PM 28-03-2026
+#last update time: 09:01:15 PM 28-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/11_Eswatini-vs-Ghana_1774006033076.png" group-title="Cricket", eswatini vs ghana | ICC Men's T20 WC Africa Sub Regional Qualifier B [ENGLISH]
@@ -12,9 +12,6 @@ https://fancode-bd-srhady.vercel.app/seychelles_vs_malawi_140983_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141163_5826_MUN-W_MCI-W_FC-Web.jpg" group-title="Cricket", manchester united women vs manchester city women | Women's Super League 2025-26 Manchester United Women Manchester [ENGLISH]
 https://fancode-bd-srhady.vercel.app/manchester_united_women_vs_manchester_city_women_141163_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg" group-title="Cricket", harrogate town vs notts county | League Two 2025-26 Harrogate Town [ENGLISH]
-https://fancode-bd-srhady.vercel.app/harrogate_town_vs_notts_county_141425_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", featured groups day 3 | Texas Children's Houston Open 2026 Featured Groups - Day 3 Memorial Park Golf Course - [ENGLISH]
 https://fancode-bd-srhady.vercel.app/featured_groups_day_3_141596_english.m3u8
