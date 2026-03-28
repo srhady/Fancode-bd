@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:31:16 AM 29-03-2026
+#last update time: 12:46:17 AM 29-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141164_5826_ARS-W_TOT-W_FC-Web.jpg" group-title="Cricket", arsenal women vs tottenham hotspur women | Women's Super League 2025-26 Arsenal Women Tottenham [ENGLISH]
@@ -24,9 +24,6 @@ https://fancode-bd-srhady.vercel.app/day_2_139931_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", marquee group day 3 | Texas Children's Houston Open 2026 Marquee Group - Day 3 Memorial Park Golf Course - [ENGLISH]
 https://fancode-bd-srhady.vercel.app/marquee_group_day_3_141595_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="Tennis", men s doubles final | ATP Masters Miami Open 2026 Men's Doubles Final Miami [ENGLISH]
-https://fancode-bd-srhady.vercel.app/men_s_doubles_final_141057_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", world feed day 3 | Texas Children's Houston Open 2026 World Feed - Day 3 Memorial Park Golf Course - [ENGLISH]
 https://fancode-bd-srhady.vercel.app/world_feed_day_3_141584_english.m3u8
