@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:16:23 PM 28-03-2026",
+    "last update time": "08:31:18 PM 28-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -29,19 +29,6 @@
             "match_name": "seychelles vs malawi | ICC Men's T20 WC Africa Sub Regional Qualifier B [ENGLISH]",
             "match_id": "140983",
             "stream_url": "https://fancode-bd-srhady.vercel.app/seychelles_vs_malawi_140983_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "everton women vs liverpool women",
-            "src": "https://images.fancode.com/skillup-uploads/cms-media/141162_5826_EVE-W_LIV-W_FC-Web.jpg",
-            "team_1": "everton women",
-            "team_2": "liverpool women",
-            "status": "LIVE",
-            "language": "ENGLISH",
-            "event_name": "Women's Super League 2025-26 Everton Women",
-            "match_name": "everton women vs liverpool women | Women's Super League 2025-26 Everton Women [ENGLISH]",
-            "match_id": "141162",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/everton_women_vs_liverpool_women_141162_english.m3u8"
         },
         {
             "event_category": "Cricket",
