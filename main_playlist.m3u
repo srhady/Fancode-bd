@@ -1,9 +1,18 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:46:16 PM 29-03-2026
+#last update time: 05:01:14 PM 29-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/13_Seychelles-vs-Eswatini_1774006032282.png" group-title="Cricket", Seychelles vs Eswatini | ICC Men's T20 WC Africa Sub Regional Qualifier B [ENGLISH]
 https://fancode-bd-srhady.vercel.app/seychelles_vs_eswatini_140985_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141166_5826_CHE-W_AST-W_FC-Web.jpg" group-title="Cricket", Chelsea F C Women vs Aston Villa Women | Women's Super League 2025-26 Chelsea F.C. Women Aston [ENGLISH]
+https://fancode-bd-srhady.vercel.app/chelsea_f_c_women_vs_aston_villa_women_141166_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141165_5826_WHU-W_LCL_FC-Web.jpg" group-title="Cricket", West Ham United Women vs London City Lionesses | Women's Super League 2025-26 West Ham United Women London [ENGLISH]
+https://fancode-bd-srhady.vercel.app/west_ham_united_women_vs_london_city_lionesses_141165_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774667324817/141218_CASACARDS_APP.png" group-title="Football", Wuhan Jiangda Women vs Suwon Fc | AFC Women's Champions League 2025-26 Wuhan Jiangda Women [ENGLISH]
+https://fancode-bd-srhady.vercel.app/wuhan_jiangda_women_vs_suwon_fc_141218_english.m3u8
 
