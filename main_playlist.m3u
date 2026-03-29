@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:31:15 PM 29-03-2026
+#last update time: 09:46:18 PM 29-03-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/14_Saint-Helena-vs-Malawi_1774006032287.png" group-title="Cricket", Saint Helena vs Malawi | ICC Men's T20 WC Africa Sub Regional Qualifier B Saint [ENGLISH]
-https://fancode-bd-srhady.vercel.app/saint_helena_vs_malawi_140987_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/15_Ghana-vs-Tanzania_1774006032288.png" group-title="Cricket", Ghana vs Tanzania | ICC Men's T20 WC Africa Sub Regional Qualifier B [ENGLISH]
 https://fancode-bd-srhady.vercel.app/ghana_vs_tanzania_140986_english.m3u8

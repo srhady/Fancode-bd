@@ -2,21 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:31:15 PM 29-03-2026",
+    "last update time": "09:46:18 PM 29-03-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Saint Helena vs Malawi",
-            "src": "https://images.fancode.com/skillup-uploads/cms-media/14_Saint-Helena-vs-Malawi_1774006032287.png",
-            "team_1": "Saint Helena",
-            "team_2": "Malawi",
-            "status": "LIVE",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B Saint",
-            "match_name": "Saint Helena vs Malawi | ICC Men's T20 WC Africa Sub Regional Qualifier B Saint [ENGLISH]",
-            "match_id": "140987",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/saint_helena_vs_malawi_140987_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Ghana vs Tanzania",
