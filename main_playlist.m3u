@@ -1,9 +1,9 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:01:16 PM 29-03-2026
+#last update time: 04:16:16 PM 29-03-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/13_Seychelles-vs-Eswatini_1774006032282.png" group-title="Cricket", seychelles vs eswatini | ICC Men's T20 WC Africa Sub Regional Qualifier B [ENGLISH]
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/13_Seychelles-vs-Eswatini_1774006032282.png" group-title="Cricket", Seychelles vs Eswatini | ICC Men's T20 WC Africa Sub Regional Qualifier B [ENGLISH]
 https://fancode-bd-srhady.vercel.app/seychelles_vs_eswatini_140985_english.m3u8
 
