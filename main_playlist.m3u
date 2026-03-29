@@ -1,8 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:46:18 PM 29-03-2026
+#last update time: 12:01:14 AM 30-03-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(12).png" group-title="Cricket", West Indies Women vs Australia Women | Australia Women's tour of West Indies 2026 West Indies Women [ENGLISH]
+https://fancode-bd-srhady.vercel.app/west_indies_women_vs_australia_women_141332_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774680543077/141492_CASACARDS_APP.png" group-title="Racing", Real Zaragoza vs Racing Club | LALIGA Hypermotion 2025-26 Real Zaragoza [ENGLISH]
 https://fancode-bd-srhady.vercel.app/real_zaragoza_vs_racing_club_141492_english.m3u8
@@ -21,4 +24,7 @@ https://fancode-bd-srhady.vercel.app/houston__vs_texas_141599_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Moto-GP-Unites-States_Web.jpg" group-title="Racing", The vs Americas | RED BULL GRAND PRIX OF THE UNITED STATES 2026 Race Day Circuit Of [ENGLISH]
 https://fancode-bd-srhady.vercel.app/the_vs_americas_139932_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", Houston vs Texas | Texas Children's Houston Open 2026 World Feed - Day 4 Memorial Park Golf Course - [ENGLISH]
+https://fancode-bd-srhady.vercel.app/houston__vs_texas_141585_english.m3u8
 
