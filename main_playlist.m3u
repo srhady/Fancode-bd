@@ -1,14 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:01:19 AM 30-03-2026
+#last update time: 01:16:16 AM 30-03-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(12).png" group-title="Cricket", West Indies Women vs Australia Women | Australia Women's tour of West Indies 2026 West Indies Women [ENGLISH]
 https://fancode-bd-srhady.vercel.app/west_indies_women_vs_australia_women_141332_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774680543077/141492_CASACARDS_APP.png" group-title="Racing", Real Zaragoza vs Racing Club | LALIGA Hypermotion 2025-26 Real Zaragoza [ENGLISH]
-https://fancode-bd-srhady.vercel.app/real_zaragoza_vs_racing_club_141492_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="Golf", Houston vs Texas | Texas Children's Houston Open 2026 Main Feed - Day 4 Memorial Park Golf Course - [ENGLISH]
 https://fancode-bd-srhady.vercel.app/houston__vs_texas_141598_english.m3u8
