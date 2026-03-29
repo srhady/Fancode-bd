@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:31:15 PM 29-03-2026
+#last update time: 12:46:18 PM 29-03-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774667324846/141217_CASACARDS_APP.png" group-title="Football", melbourne city women vs pfc nasaf | AFC Women's Champions League 2025-26 Melbourne City Women [ENGLISH]
-https://fancode-bd-srhady.vercel.app/melbourne_city_women_vs_pfc_nasaf_141217_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png" group-title="Cricket", victoria vs south australia | Sheffield Shield 2025-26 Victoria [ENGLISH]
 https://fancode-bd-srhady.vercel.app/victoria_vs_south_australia_134044_english.m3u8

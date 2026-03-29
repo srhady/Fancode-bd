@@ -2,21 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:31:15 PM 29-03-2026",
+    "last update time": "12:46:18 PM 29-03-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "melbourne city women vs pfc nasaf",
-            "src": "https://images.fancode.com/aig/match/v1774667324846/141217_CASACARDS_APP.png",
-            "team_1": "melbourne city women",
-            "team_2": "pfc nasaf",
-            "status": "LIVE",
-            "language": "ENGLISH",
-            "event_name": "AFC Women's Champions League 2025-26 Melbourne City Women",
-            "match_name": "melbourne city women vs pfc nasaf | AFC Women's Champions League 2025-26 Melbourne City Women [ENGLISH]",
-            "match_id": "141217",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/melbourne_city_women_vs_pfc_nasaf_141217_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "victoria vs south australia",
