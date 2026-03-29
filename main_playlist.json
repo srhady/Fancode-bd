@@ -2,21 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:01:15 PM 29-03-2026",
+    "last update time": "10:16:18 PM 29-03-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Leicester City Women vs Brighton And Hove Albion Women",
-            "src": "https://images.fancode.com/skillup-uploads/cms-media/141167_5826_LEI-W_BHA-W_FC-Web.jpg",
-            "team_1": "Leicester City Women",
-            "team_2": "Brighton And Hove Albion Women",
-            "status": "LIVE",
-            "language": "ENGLISH",
-            "event_name": "Women's Super League 2025-26 Leicester City Women Brighton and Hove",
-            "match_name": "Leicester City Women vs Brighton And Hove Albion Women | Women's Super League 2025-26 Leicester City Women Brighton and Hove [ENGLISH]",
-            "match_id": "141167",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/leicester_city_women_vs_brighton_and_hove_albion_women_141167_english.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Houston, vs Texas",
