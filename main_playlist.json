@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:16:15 AM 30-03-2026",
+    "last update time": "03:31:16 AM 30-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,32 +16,6 @@
             "match_name": "West Indies Women vs Australia Women | Australia Women's tour of West Indies 2026 West Indies Women [ENGLISH]",
             "match_id": "141332",
             "stream_url": "https://fancode-bd-srhady.vercel.app/west_indies_women_vs_australia_women_141332_english.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Houston, vs Texas",
-            "src": "https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png",
-            "team_1": "Houston,",
-            "team_2": "Texas",
-            "status": "LIVE",
-            "language": "ENGLISH",
-            "event_name": "Texas Children's Houston Open 2026 Marquee Group - Day 4 Memorial Park Golf Course -",
-            "match_name": "Houston, vs Texas | Texas Children's Houston Open 2026 Marquee Group - Day 4 Memorial Park Golf Course - [ENGLISH]",
-            "match_id": "141599",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/houston__vs_texas_141599_english.m3u8"
-        },
-        {
-            "event_category": "Racing",
-            "title": "The vs Americas",
-            "src": "https://images.fancode.com/skillup-uploads/cms-media/Moto-GP-Unites-States_Web.jpg",
-            "team_1": "The",
-            "team_2": "Americas",
-            "status": "LIVE",
-            "language": "ENGLISH",
-            "event_name": "RED BULL GRAND PRIX OF THE UNITED STATES 2026 Race Day Circuit Of",
-            "match_name": "The vs Americas | RED BULL GRAND PRIX OF THE UNITED STATES 2026 Race Day Circuit Of [ENGLISH]",
-            "match_id": "139932",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/the_vs_americas_139932_english.m3u8"
         },
         {
             "event_category": "Golf",
