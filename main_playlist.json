@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:16:17 AM 30-03-2026",
+    "last update time": "04:31:17 AM 30-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,19 +16,6 @@
             "match_name": "West Indies Women vs Australia Women | Australia Women's tour of West Indies 2026 West Indies Women [ENGLISH]",
             "match_id": "141332",
             "stream_url": "https://fancode-bd-srhady.vercel.app/west_indies_women_vs_australia_women_141332_english.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Houston, vs Texas",
-            "src": "https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png",
-            "team_1": "Houston,",
-            "team_2": "Texas",
-            "status": "LIVE",
-            "language": "ENGLISH",
-            "event_name": "Texas Children's Houston Open 2026 World Feed - Day 4 Memorial Park Golf Course -",
-            "match_name": "Houston, vs Texas | Texas Children's Houston Open 2026 World Feed - Day 4 Memorial Park Golf Course - [ENGLISH]",
-            "match_id": "141585",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/houston__vs_texas_141585_english.m3u8"
         },
         {
             "event_category": "Tennis",
