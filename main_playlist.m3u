@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:46:18 PM 29-03-2026
+#last update time: 10:01:15 PM 29-03-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/15_Ghana-vs-Tanzania_1774006032288.png" group-title="Cricket", Ghana vs Tanzania | ICC Men's T20 WC Africa Sub Regional Qualifier B [ENGLISH]
-https://fancode-bd-srhady.vercel.app/ghana_vs_tanzania_140986_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141167_5826_LEI-W_BHA-W_FC-Web.jpg" group-title="Cricket", Leicester City Women vs Brighton And Hove Albion Women | Women's Super League 2025-26 Leicester City Women Brighton and Hove [ENGLISH]
 https://fancode-bd-srhady.vercel.app/leicester_city_women_vs_brighton_and_hove_albion_women_141167_english.m3u8
