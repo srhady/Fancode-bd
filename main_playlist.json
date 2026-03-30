@@ -2,20 +2,6 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:46:18 AM 30-03-2026",
-    "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "West Indies Women vs Australia Women",
-            "src": "https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(12).png",
-            "team_1": "West Indies Women",
-            "team_2": "Australia Women",
-            "status": "LIVE",
-            "language": "ENGLISH",
-            "event_name": "Australia Women's tour of West Indies 2026 West Indies Women",
-            "match_name": "West Indies Women vs Australia Women | Australia Women's tour of West Indies 2026 West Indies Women [ENGLISH]",
-            "match_id": "141332",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/west_indies_women_vs_australia_women_141332_english.m3u8"
-        }
-    ]
+    "last update time": "08:01:17 AM 30-03-2026",
+    "matches": []
 }
