@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:16:22 AM 30-03-2026",
+    "last update time": "06:31:17 AM 30-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,19 +16,6 @@
             "match_name": "West Indies Women vs Australia Women | Australia Women's tour of West Indies 2026 West Indies Women [ENGLISH]",
             "match_id": "141332",
             "stream_url": "https://fancode-bd-srhady.vercel.app/west_indies_women_vs_australia_women_141332_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Victoria vs South Australia",
-            "src": "https://images.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png",
-            "team_1": "Victoria",
-            "team_2": "South Australia",
-            "status": "LIVE",
-            "language": "ENGLISH",
-            "event_name": "Sheffield Shield, 2025-26 Victoria",
-            "match_name": "Victoria vs South Australia | Sheffield Shield, 2025-26 Victoria [ENGLISH]",
-            "match_id": "134044",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/victoria_vs_south_australia_134044_english.m3u8"
         }
     ]
 }
