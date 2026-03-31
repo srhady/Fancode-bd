@@ -1,11 +1,14 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:15:20 AM 01-04-2026
+#last update time: 01:30:30 AM 01-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Ivory-Coast_vs_Scotlsnd_FC-WEB.jpg" group-title="Cricket", Ivory Coast vs Scotland | International Friendlies 2026 Ivory [ENGLISH]
 https://fancode-bd-srhady.vercel.app/ivory_coast_vs_scotland_141607_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774680543070/141493_CASACARDS_APP.png" group-title="Cricket", Real Valladolid vs Cadiz | LALIGA Hypermotion 2025-26 Real [ENGLISH]
+https://fancode-bd-srhady.vercel.app/real_valladolid_vs_cadiz_141493_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png" group-title="Tennis", Bucharest vs Romania | ATP 250 - Tiriac Open presented by UniCredit Bank A Court Feed [ENGLISH]
 https://fancode-bd-srhady.vercel.app/bucharest__vs_romania_141289_english.m3u8
