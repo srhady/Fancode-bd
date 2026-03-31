@@ -2,20 +2,20 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:00:26 PM 31-03-2026",
+    "last update time": "08:15:23 PM 31-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "India vs Hong Kong China",
+            "title": "India vs Hong Kong",
             "src": "https://images.fancode.com/skillup-uploads/cms-media/AFC-Asia-Cup-Qualifiers_FC-WEB_1080_x_810.jpg",
             "team_1": "India",
-            "team_2": "Hong Kong China",
+            "team_2": "Hong Kong",
             "status": "LIVE",
             "language": "ENGLISH",
             "event_name": "AFC Asian Cup Qualifiers India Hong",
-            "match_name": "India vs Hong Kong China | AFC Asian Cup Qualifiers India Hong [ENGLISH]",
+            "match_name": "India vs Hong Kong | AFC Asian Cup Qualifiers India Hong [ENGLISH]",
             "match_id": "141682",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/india_vs_hong_kong_china_141682_english.m3u8"
+            "stream_url": "https://fancode-bd-srhady.vercel.app/india_vs_hong_kong_141682_english.m3u8"
         },
         {
             "event_category": "Tennis",
