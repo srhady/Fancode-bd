@@ -2,8 +2,21 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:15:19 AM 01-04-2026",
+    "last update time": "12:30:26 AM 01-04-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Ivory Coast vs Scotland",
+            "src": "https://images.fancode.com/skillup-uploads/cms-media/Ivory-Coast_vs_Scotlsnd_FC-WEB.jpg",
+            "team_1": "Ivory Coast",
+            "team_2": "Scotland",
+            "status": "LIVE",
+            "language": "ENGLISH",
+            "event_name": "International Friendlies 2026 Ivory",
+            "match_name": "Ivory Coast vs Scotland | International Friendlies 2026 Ivory [ENGLISH]",
+            "match_id": "141607",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/ivory_coast_vs_scotland_141607_english.m3u8"
+        },
         {
             "event_category": "Tennis",
             "title": "Bucharest, vs Romania",
