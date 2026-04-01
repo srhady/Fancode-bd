@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:15:37 PM 01-04-2026
+#last update time: 09:30:26 PM 01-04-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141612_6021_THA-U20_BAN-U20_FC-Web.png" group-title="Cricket", Thailand U20 vs Bangladesh U20 | AFC U20 Women's Asian Cup 2026 Thailand U20 [ENGLISH]
-https://fancode-bd-srhady.vercel.app/thailand_u20_vs_bangladesh_u20_141612_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png" group-title="Tennis", Bucharest vs Romania | ATP 250 - Tiriac Open presented by UniCredit Bank Tiriac Open - Day 3 [ENGLISH]
 https://fancode-bd-srhady.vercel.app/bucharest__vs_romania_141291_english.m3u8

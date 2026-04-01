@@ -2,21 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:15:37 PM 01-04-2026",
+    "last update time": "09:30:26 PM 01-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Thailand U20 vs Bangladesh U20",
-            "src": "https://images.fancode.com/skillup-uploads/cms-media/141612_6021_THA-U20_BAN-U20_FC-Web.png",
-            "team_1": "Thailand U20",
-            "team_2": "Bangladesh U20",
-            "status": "LIVE",
-            "language": "ENGLISH",
-            "event_name": "AFC U20 Women's Asian Cup 2026 Thailand U20",
-            "match_name": "Thailand U20 vs Bangladesh U20 | AFC U20 Women's Asian Cup 2026 Thailand U20 [ENGLISH]",
-            "match_id": "141612",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/thailand_u20_vs_bangladesh_u20_141612_english.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Bucharest, vs Romania",
