@@ -1,11 +1,14 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:45:24 AM 01-04-2026
+#last update time: 06:00:26 AM 01-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-ODIs-old.jpg" group-title="Cricket", New Zealand Women vs South Africa Women | South Africa Women's tour of New Zealand 2026 New Zealand Women South [ENGLISH]
 https://fancode-bd-srhady.vercel.app/new_zealand_women_vs_south_africa_women_141072_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Brazil_vs_Croatia_International_Friendlies_WEB.jpg" group-title="Cricket", Brazil vs Croatia | International Friendlies 2026 [ENGLISH]
+https://fancode-bd-srhady.vercel.app/brazil_vs_croatia_141608_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg" group-title="Tennis", United vs States | ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay A Court Feed Houston [ENGLISH]
 https://fancode-bd-srhady.vercel.app/united_vs_states_141076_english.m3u8
