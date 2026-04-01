@@ -1,11 +1,14 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:15:25 AM 02-04-2026
+#last update time: 01:30:27 AM 02-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140964_5720_CHE-W_ARS-W_fc-web.jpg" group-title="Football", Chelsea F C Women vs Arsenal Women | UEFA Women's Champions League 2025-26 Chelsea F.C. Women [ENGLISH]
 https://fancode-bd-srhady.vercel.app/chelsea_f_c_women_vs_arsenal_women_140964_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774680543050/141494_CASACARDS_APP.png" group-title="Racing", Racing Club vs Sporting De Gijon | LALIGA Hypermotion 2025-26 Racing Club Sporting de Gijón [ENGLISH]
+https://fancode-bd-srhady.vercel.app/racing_club_vs_sporting_de_gijon_141494_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg" group-title="Tennis", United vs States | ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay Fayez Sarofim & Co. U.S. Men's Clay - Day 3 Houston [ENGLISH]
 https://fancode-bd-srhady.vercel.app/united_vs_states_141079_english.m3u8

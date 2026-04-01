@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:15:25 AM 02-04-2026",
+    "last update time": "01:30:27 AM 02-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -16,6 +16,19 @@
             "match_name": "Chelsea F C Women vs Arsenal Women | UEFA Women's Champions League 2025-26 Chelsea F.C. Women [ENGLISH]",
             "match_id": "140964",
             "stream_url": "https://fancode-bd-srhady.vercel.app/chelsea_f_c_women_vs_arsenal_women_140964_english.m3u8"
+        },
+        {
+            "event_category": "Racing",
+            "title": "Racing Club vs Sporting De Gijon",
+            "src": "https://images.fancode.com/aig/match/v1774680543050/141494_CASACARDS_APP.png",
+            "team_1": "Racing Club",
+            "team_2": "Sporting De Gijon",
+            "status": "LIVE",
+            "language": "ENGLISH",
+            "event_name": "LALIGA Hypermotion 2025-26 Racing Club Sporting de Gij\u00f3n",
+            "match_name": "Racing Club vs Sporting De Gijon | LALIGA Hypermotion 2025-26 Racing Club Sporting de Gij\u00f3n [ENGLISH]",
+            "match_id": "141494",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/racing_club_vs_sporting_de_gijon_141494_english.m3u8"
         },
         {
             "event_category": "Tennis",
