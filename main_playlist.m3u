@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:15:26 PM 01-04-2026
+#last update time: 10:30:26 PM 01-04-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png" group-title="Tennis", Bucharest vs Romania | ATP 250 - Tiriac Open presented by UniCredit Bank Tiriac Open - Day 3 [ENGLISH]
-https://fancode-bd-srhady.vercel.app/bucharest__vs_romania_141291_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Grand-Prix-Hassan-II-Clay,-ATP-250-old-.png" group-title="Tennis", Marrakech vs Morocco | ATP 250 - Grand Prix Hassan ll 2026 Grand Prix Hassan II - Day 3 [ENGLISH]
 https://fancode-bd-srhady.vercel.app/marrakech__vs_morocco_141277_english.m3u8
