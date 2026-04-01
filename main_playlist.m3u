@@ -1,9 +1,9 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:45:18 AM 02-04-2026
+#last update time: 01:00:34 AM 02-04-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140963_5720_BAY-W_MUN-W_fc-web.jpg" group-title="Football", Bayern Munich Women vs Manchester United Women | UEFA Women's Champions League 2025-26 Bayern Munich Women Manchester [ENGLISH]
-https://fancode-bd-srhady.vercel.app/bayern_munich_women_vs_manchester_united_women_140963_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140964_5720_CHE-W_ARS-W_fc-web.jpg" group-title="Football", Chelsea F C Women vs Arsenal Women | UEFA Women's Champions League 2025-26 Chelsea F.C. Women [ENGLISH]
+https://fancode-bd-srhady.vercel.app/chelsea_f_c_women_vs_arsenal_women_140964_english.m3u8
 
