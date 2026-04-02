@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:15:22 AM 03-04-2026",
+    "last update time": "01:30:27 AM 03-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,19 +32,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Las Palmas vs Granada",
-            "src": "https://images.fancode.com/aig/match/v1774680543069/141495_CASACARDS_APP.png",
-            "team_1": "Las Palmas",
-            "team_2": "Granada",
-            "status": "LIVE",
-            "language": "ENGLISH",
-            "event_name": "LALIGA Hypermotion 2025-26 Las",
-            "match_name": "Las Palmas vs Granada | LALIGA Hypermotion 2025-26 Las [ENGLISH]",
-            "match_id": "141495",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/las_palmas_vs_granada_141495_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Cambridge United vs Swindon Town",
             "src": "https://images.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
             "team_1": "Cambridge United",
@@ -55,6 +42,19 @@
             "match_name": "Cambridge United vs Swindon Town | League Two 2025-26 Cambridge United [ENGLISH]",
             "match_id": "141426",
             "stream_url": "https://fancode-bd-srhady.vercel.app/cambridge_united_vs_swindon_town_141426_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Leganes vs Real Zaragoza",
+            "src": "https://images.fancode.com/aig/match/v1774680543070/141496_CASACARDS_APP.png",
+            "team_1": "Leganes",
+            "team_2": "Real Zaragoza",
+            "status": "LIVE",
+            "language": "ENGLISH",
+            "event_name": "LALIGA Hypermotion 2025-26 Legan\u00e9s",
+            "match_name": "Leganes vs Real Zaragoza | LALIGA Hypermotion 2025-26 Legan\u00e9s [ENGLISH]",
+            "match_id": "141496",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/leganes_vs_real_zaragoza_141496_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -133,19 +133,6 @@
             "match_name": "United vs States | ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay Fayez Sarofim & Co. U.S. Men's Clay - Day 4 Houston, [ENGLISH]",
             "match_id": "141081",
             "stream_url": "https://fancode-bd-srhady.vercel.app/united_vs_states_141081_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Barcelona Women vs Real Madrid Women",
-            "src": "https://images.fancode.com/skillup-uploads/cms-media/140965_5720_BAR-W_RM-W_fc-web.jpg",
-            "team_1": "Barcelona Women",
-            "team_2": "Real Madrid Women",
-            "status": "LIVE",
-            "language": "ENGLISH",
-            "event_name": "UEFA Women's Champions League 2025-26 Barcelona Women Real",
-            "match_name": "Barcelona Women vs Real Madrid Women | UEFA Women's Champions League 2025-26 Barcelona Women Real [ENGLISH]",
-            "match_id": "140965",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/barcelona_women_vs_real_madrid_women_140965_english.m3u8"
         }
     ]
 }
