@@ -2,8 +2,21 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:45:20 AM 02-04-2026",
+    "last update time": "08:00:28 AM 02-04-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Malaysia A vs Hong Kong China A",
+            "src": "https://images.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg",
+            "team_1": "Malaysia A",
+            "team_2": "Hong Kong China A",
+            "status": "LIVE",
+            "language": "ENGLISH",
+            "event_name": "Hong Kong, China-A tour of Malaysia-A 2026 Malaysia A Hong",
+            "match_name": "Malaysia A vs Hong Kong China A | Hong Kong, China-A tour of Malaysia-A 2026 Malaysia A Hong [ENGLISH]",
+            "match_id": "141771",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/malaysia_a_vs_hong_kong_china_a_141771_english.m3u8"
+        },
         {
             "event_category": "Tennis",
             "title": "United vs States",
