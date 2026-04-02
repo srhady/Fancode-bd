@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:45:23 AM 03-04-2026
+#last update time: 02:00:28 AM 03-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1774864336440.png" group-title="Cricket", West Indies Women vs Australia Women | Australia Women's tour of West Indies 2026 West Indies Women [ENGLISH]
@@ -30,4 +30,7 @@ https://fancode-bd-srhady.vercel.app/antonio__vs_texas_141778_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg" group-title="Tennis", United vs States | ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay Fayez Sarofim & Co. U.S. Men's Clay - Day 4 Houston [ENGLISH]
 https://fancode-bd-srhady.vercel.app/united_vs_states_141081_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Golf", Antonio vs Texas | Valero Texas Open 2026 World Feed - Day 1 San [ENGLISH]
+https://fancode-bd-srhady.vercel.app/antonio__vs_texas_141781_english.m3u8
 
