@@ -1,29 +1,38 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:45:21 AM 03-04-2026
+#last update time: 01:00:26 AM 03-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1774864336440.png" group-title="Cricket", West Indies Women vs Australia Women | Australia Women's tour of West Indies 2026 West Indies Women [ENGLISH]
 https://fancode-bd-srhady.vercel.app/west_indies_women_vs_australia_women_141333_english.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140966_5720_OLY-W_WOL-W_fc-web.jpg" group-title="Football", Lyon Women vs Vfl Wolfsburg Women | UEFA Women's Champions League 2025-26 Lyon Women VfL [ENGLISH]
+https://fancode-bd-srhady.vercel.app/lyon_women_vs_vfl_wolfsburg_women_140966_english.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774680543069/141495_CASACARDS_APP.png" group-title="Cricket", Las Palmas vs Granada | LALIGA Hypermotion 2025-26 Las [ENGLISH]
 https://fancode-bd-srhady.vercel.app/las_palmas_vs_granada_141495_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg" group-title="Cricket", Cambridge United vs Swindon Town | League Two 2025-26 Cambridge United [ENGLISH]
+https://fancode-bd-srhady.vercel.app/cambridge_united_vs_swindon_town_141426_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Grand-Prix-Hassan-II-Clay,-ATP-250-old-.png" group-title="Tennis", Marrakech vs Morocco | ATP 250 - Grand Prix Hassan ll 2026 Grand Prix Hassan II - Day 4 [ENGLISH]
 https://fancode-bd-srhady.vercel.app/marrakech__vs_morocco_141279_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-_1775132383085.png" group-title="Cricket", Antonio vs Texas | Valero Texas Open 2026 Main Feed - Day 1 San [ENGLISH]
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-_1775132383085.png" group-title="Golf", Antonio vs Texas | Valero Texas Open 2026 Main Feed - Day 1 San [ENGLISH]
 https://fancode-bd-srhady.vercel.app/antonio__vs_texas_141777_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Cricket", Antonio vs Texas | Valero Texas Open 2026 Featured Holes - Day 1 San [ENGLISH]
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Golf", Antonio vs Texas | Valero Texas Open 2026 Featured Holes - Day 1 San [ENGLISH]
 https://fancode-bd-srhady.vercel.app/antonio__vs_texas_141780_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Cricket", Antonio vs Texas | Valero Texas Open 2026 Marquee Feed - Day 1 San [ENGLISH]
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Golf", Antonio vs Texas | Valero Texas Open 2026 Marquee Feed - Day 1 San [ENGLISH]
 https://fancode-bd-srhady.vercel.app/antonio__vs_texas_141779_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Cricket", Antonio vs Texas | Valero Texas Open 2026 Featured Groups - Day 1 San [ENGLISH]
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Golf", Antonio vs Texas | Valero Texas Open 2026 Featured Groups - Day 1 San [ENGLISH]
 https://fancode-bd-srhady.vercel.app/antonio__vs_texas_141778_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg" group-title="Tennis", United vs States | ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay Fayez Sarofim & Co. U.S. Men's Clay - Day 4 Houston [ENGLISH]
+https://fancode-bd-srhady.vercel.app/united_vs_states_141081_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140965_5720_BAR-W_RM-W_fc-web.jpg" group-title="Football", Barcelona Women vs Real Madrid Women | UEFA Women's Champions League 2025-26 Barcelona Women Real [ENGLISH]
 https://fancode-bd-srhady.vercel.app/barcelona_women_vs_real_madrid_women_140965_english.m3u8
