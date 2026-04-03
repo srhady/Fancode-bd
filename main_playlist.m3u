@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:30:23 AM 04-04-2026
+#last update time: 01:45:20 AM 04-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140722_5655_ANF_ALN_fc-web.jpg" group-title="Live Sports", Al Nassr Fc Vs Al Najmah Sc | Roshn Saudi League 2025-2026 (ENGLISH)
@@ -27,4 +27,7 @@ https://fancode-bd-srhady.vercel.app/featured_groups___day_2_141784_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg" group-title="Live Sports", A Court Feed | ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay (ENGLISH)
 https://fancode-bd-srhady.vercel.app/a_court_feed_141082_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Live Sports", World Feed   Day 2 | Valero Texas Open 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/world_feed___day_2_141786_english.m3u8
 
