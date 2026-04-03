@@ -1,11 +1,17 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:26 AM 04-04-2026
+#last update time: 12:45:16 AM 04-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140722_5655_ANF_ALN_fc-web.jpg" group-title="Live Sports", Al Nassr Fc Vs Al Najmah Sc | Roshn Saudi League 2025-2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/al_nassr_fc_vs_al_najmah_sc_140722_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131121_5427_RVL_ELC_FC-Web.png" group-title="Live Sports", Rayo Vallecano Vs Elche Cf | LALIGA 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/rayo_vallecano_vs_elche_cf_131121_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141431_5489_CVC_DER_fc-web.jpg" group-title="Live Sports", Coventry City F.c. Vs Derby County Football Club | EFL Championship 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/coventry_city_f_c__vs_derby_county_football_club_141431_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Live Sports", Main Feed   Day 2 | Valero Texas Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/main_feed___day_2_141782_english.m3u8
