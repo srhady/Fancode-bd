@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:15:20 AM 04-04-2026",
+    "last update time": "12:30:26 AM 04-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -18,21 +18,6 @@
             "match_id": 140722,
             "startTime": "03 April 2026 11:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/al_nassr_fc_vs_al_najmah_sc_140722_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Tiriac Open   Day 5",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png",
-            "team_1": "Tiriac Open - Day 5",
-            "team_2": "Bucharest, Romania",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 250 - Tiriac Open presented by UniCredit Bank ",
-            "match_name": "Tiriac Open   Day 5 | ATP 250 - Tiriac Open presented by UniCredit Bank  [ENGLISH]",
-            "match_id": 141292,
-            "startTime": "03 April 2026 12:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/tiriac_open___day_5_141292_english.m3u8"
         },
         {
             "event_category": "Golf",
@@ -246,21 +231,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Central Coast Mariners Vs Perth Glory",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140926_5802_CCM_PG_fc-web.jpg",
-            "team_1": "Central Coast Mariners",
-            "team_2": "Perth Glory",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Central Coast Mariners Vs Perth Glory | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140926,
-            "startTime": "04 April 2026 11:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Rcd Mallorca Vs Real Madrid",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131127_5427_MRC_RM_FC-Web.png",
             "team_1": "RCD Mallorca",
@@ -272,6 +242,21 @@
             "match_name": "Rcd Mallorca Vs Real Madrid | LALIGA 2025-26 [BLOODY_SWEET]",
             "match_id": 131127,
             "startTime": "04 April 2026 07:45 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Central Coast Mariners Vs Perth Glory",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140926_5802_CCM_PG_fc-web.jpg",
+            "team_1": "Central Coast Mariners",
+            "team_2": "Perth Glory",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Central Coast Mariners Vs Perth Glory | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140926,
+            "startTime": "04 April 2026 11:30 AM",
             "stream_url": ""
         },
         {
@@ -335,6 +320,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Cricket",
+            "title": "Brisbane Napoleans Vs Iconic Super Knights",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141741_6028_BNA_ISK_FC-WEB.jpg",
+            "team_1": "Brisbane Napoleans",
+            "team_2": "Iconic Super Knights",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Brisbane Napoleans Vs Iconic Super Knights | Brisbane Champions League 2026 [BLOODY_SWEET]",
+            "match_id": 141741,
+            "startTime": "04 April 2026 11:30 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Football",
             "title": "Al Hilal Sfc Vs Al Taawoun",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140723_5655_AHS_ALTW_fc-web.jpg",
@@ -377,21 +377,6 @@
             "match_name": "C\u00e1diz Vs C\u00f3rdoba | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
             "match_id": 141683,
             "startTime": "04 April 2026 05:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Brisbane Napoleans Vs Iconic Super Knights",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141741_6028_BNA_ISK_FC-WEB.jpg",
-            "team_1": "Brisbane Napoleans",
-            "team_2": "Iconic Super Knights",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Brisbane Napoleans Vs Iconic Super Knights | Brisbane Champions League 2026 [BLOODY_SWEET]",
-            "match_id": 141741,
-            "startTime": "04 April 2026 11:30 PM",
             "stream_url": ""
         },
         {
@@ -587,6 +572,21 @@
             "match_name": "Day 3 | Aramco Championship USA 2026 [BLOODY_SWEET]",
             "match_id": 141638,
             "startTime": "05 April 2026 02:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lanka A Vs New Zealand A",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Sri Lanka A",
+            "team_2": "New Zealand A",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "New Zealand A Tour of Sri Lanka 2026",
+            "match_name": "Sri Lanka A Vs New Zealand A | New Zealand A Tour of Sri Lanka 2026 [BLOODY_SWEET]",
+            "match_id": 141798,
+            "startTime": "05 April 2026 10:00 AM",
             "stream_url": ""
         }
     ]
