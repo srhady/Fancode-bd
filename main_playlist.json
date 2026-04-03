@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:00:27 PM 03-04-2026",
+    "last update time": "07:15:17 PM 03-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -95,6 +95,21 @@
             "stream_url": "https://fancode-bd-srhady.vercel.app/featured_holes___day_2_141783_english.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "Featured Groups   Day 2",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
+            "team_1": "Featured Groups - Day 2",
+            "team_2": "San Antonio, Texas",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Valero Texas Open 2026",
+            "match_name": "Featured Groups   Day 2 | Valero Texas Open 2026 [ENGLISH]",
+            "match_id": 141784,
+            "startTime": "03 April 2026 06:45 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/featured_groups___day_2_141784_english.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "New Zealand Women Vs South Africa Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-ODIs-old.jpg",
@@ -107,21 +122,6 @@
             "match_name": "New Zealand Women Vs South Africa Women | South Africa Women's tour of New Zealand, 2026 [BLOODY_SWEET]",
             "match_id": 141073,
             "startTime": "04 April 2026 03:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Adelaide United Vs Auckland",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140925_5802_ADL_AFC_fc-web.jpg",
-            "team_1": "Adelaide United",
-            "team_2": "Auckland",
-            "status": "LIVE",
-            "streaming_status": "COMPLETED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Adelaide United Vs Auckland | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140925,
-            "startTime": "03 April 2026 02:05 PM",
             "stream_url": ""
         },
         {
@@ -186,6 +186,21 @@
         },
         {
             "event_category": "Football",
+            "title": "Adelaide United Vs Auckland",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140925_5802_ADL_AFC_fc-web.jpg",
+            "team_1": "Adelaide United",
+            "team_2": "Auckland",
+            "status": "LIVE",
+            "streaming_status": "COMPLETED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Adelaide United Vs Auckland | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140925,
+            "startTime": "03 April 2026 02:05 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
             "title": "Al Nassr Fc Vs Al Najmah Sc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140722_5655_ANF_ALN_fc-web.jpg",
             "team_1": "Al-Nassr FC",
@@ -242,21 +257,6 @@
             "match_name": "Namibia Vs Oman | ICC CWC League 2, Namibia [BLOODY_SWEET]",
             "match_id": 141647,
             "startTime": "04 April 2026 01:00 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Groups   Day 2",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-            "team_1": "Featured Groups - Day 2",
-            "team_2": "San Antonio, Texas",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Valero Texas Open 2026",
-            "match_name": "Featured Groups   Day 2 | Valero Texas Open 2026 [BLOODY_SWEET]",
-            "match_id": 141784,
-            "startTime": "03 April 2026 06:45 PM",
             "stream_url": ""
         },
         {
@@ -470,21 +470,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Tennis",
-            "title": "Tiriac Open   Day 6",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png",
-            "team_1": "Tiriac Open - Day 6",
-            "team_2": "Bucharest, Romania",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "ATP 250 - Tiriac Open presented by UniCredit Bank ",
-            "match_name": "Tiriac Open   Day 6 | ATP 250 - Tiriac Open presented by UniCredit Bank  [BLOODY_SWEET]",
-            "match_id": 141294,
-            "startTime": "04 April 2026 02:30 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "Al Hilal Sfc Vs Al Taawoun",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140723_5655_AHS_ALTW_fc-web.jpg",
@@ -497,6 +482,21 @@
             "match_name": "Al Hilal Sfc Vs Al Taawoun | Roshn Saudi League 2025-2026 [BLOODY_SWEET]",
             "match_id": 140723,
             "startTime": "04 April 2026 11:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Tiriac Open   Day 6",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png",
+            "team_1": "Tiriac Open - Day 6",
+            "team_2": "Bucharest, Romania",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ATP 250 - Tiriac Open presented by UniCredit Bank ",
+            "match_name": "Tiriac Open   Day 6 | ATP 250 - Tiriac Open presented by UniCredit Bank  [BLOODY_SWEET]",
+            "match_id": 141294,
+            "startTime": "04 April 2026 02:30 PM",
             "stream_url": ""
         },
         {
