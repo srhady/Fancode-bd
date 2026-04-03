@@ -2,8 +2,23 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:15:19 PM 03-04-2026",
+    "last update time": "02:30:21 PM 03-04-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Adelaide United Vs Auckland",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140925_5802_ADL_AFC_fc-web.jpg",
+            "team_1": "Adelaide United",
+            "team_2": "Auckland",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "A League 2025-26",
+            "match_name": "Adelaide United Vs Auckland | A League 2025-26 [ENGLISH]",
+            "match_id": 140925,
+            "startTime": "03 April 2026 02:05 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/adelaide_united_vs_auckland_140925_english.m3u8"
+        },
         {
             "event_category": "Tennis",
             "title": "Tiriac Open   Day 5",
@@ -32,21 +47,6 @@
             "match_name": "New Zealand Women Vs South Africa Women | South Africa Women's tour of New Zealand, 2026 [BLOODY_SWEET]",
             "match_id": 141073,
             "startTime": "04 April 2026 03:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Adelaide United Vs Auckland",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140925_5802_ADL_AFC_fc-web.jpg",
-            "team_1": "Adelaide United",
-            "team_2": "Auckland",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Adelaide United Vs Auckland | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140925,
-            "startTime": "03 April 2026 02:05 PM",
             "stream_url": ""
         },
         {
@@ -200,6 +200,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Football",
+            "title": "Melbourne City Vs Western Sydney Wanderers",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140927_5802_MLC_SYW_fc-web.jpg",
+            "team_1": "Melbourne City",
+            "team_2": "Western Sydney Wanderers",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Melbourne City Vs Western Sydney Wanderers | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140927,
+            "startTime": "04 April 2026 02:05 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Tennis",
             "title": "Grand Prix Hassan Ii   Day 5",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Hassan-II-Clay,-ATP-250-old-.png",
@@ -275,21 +290,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Melbourne City Vs Western Sydney Wanderers",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140927_5802_MLC_SYW_fc-web.jpg",
-            "team_1": "Melbourne City",
-            "team_2": "Western Sydney Wanderers",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne City Vs Western Sydney Wanderers | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140927,
-            "startTime": "04 April 2026 02:05 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Tennis",
             "title": "A Court Feed",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg",
@@ -335,21 +335,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Golf",
-            "title": "Day 2",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
-            "team_1": "Day 2",
-            "team_2": "Shadow Creek Golf Club",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Aramco Championship USA 2026",
-            "match_name": "Day 2 | Aramco Championship USA 2026 [BLOODY_SWEET]",
-            "match_id": 141637,
-            "startTime": "04 April 2026 03:30 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "Jamshedpur Fc Vs Mohun Bagan Super Giant",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140474_5956_JFC_MBSG_FC-Web_1772460258101.jpg",
@@ -377,6 +362,21 @@
             "match_name": "Jamshedpur Fc Vs Mohun Bagan Super Giant | ISL 2025-26  - Regional [BLOODY_SWEET]",
             "match_id": 141803,
             "startTime": "04 April 2026 05:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
+            "team_1": "Day 2",
+            "team_2": "Shadow Creek Golf Club",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Aramco Championship USA 2026",
+            "match_name": "Day 2 | Aramco Championship USA 2026 [BLOODY_SWEET]",
+            "match_id": 141637,
+            "startTime": "04 April 2026 03:30 AM",
             "stream_url": ""
         },
         {
