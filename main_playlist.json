@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:00:24 PM 03-04-2026",
+    "last update time": "09:15:20 PM 03-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -321,21 +321,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Central Coast Mariners Vs Perth Glory",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140926_5802_CCM_PG_fc-web.jpg",
-            "team_1": "Central Coast Mariners",
-            "team_2": "Perth Glory",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Central Coast Mariners Vs Perth Glory | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140926,
-            "startTime": "04 April 2026 11:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Real Sociedad Vs Levante",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131122_5427_RS_LE_FC-Web.png",
             "team_1": "Real Sociedad",
@@ -347,6 +332,21 @@
             "match_name": "Real Sociedad Vs Levante | LALIGA 2025-26 [BLOODY_SWEET]",
             "match_id": 131122,
             "startTime": "04 April 2026 05:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Central Coast Mariners Vs Perth Glory",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140926_5802_CCM_PG_fc-web.jpg",
+            "team_1": "Central Coast Mariners",
+            "team_2": "Perth Glory",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Central Coast Mariners Vs Perth Glory | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140926,
+            "startTime": "04 April 2026 11:30 AM",
             "stream_url": ""
         },
         {
