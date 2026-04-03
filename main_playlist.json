@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:30:20 PM 03-04-2026",
+    "last update time": "03:45:20 PM 03-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -231,21 +231,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Bangladesh U20 Vs China Pr U20",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141617_6021_BAN-U20_CHN-U20_FC-Web.png",
-            "team_1": "Bangladesh U20",
-            "team_2": "China PR U20",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Bangladesh U20 Vs China Pr U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
-            "match_id": 141617,
-            "startTime": "04 April 2026 02:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Jamshedpur Fc Vs Mohun Bagan Super Giant",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140474_5956_JFC_MBSG_FC-Web_1772460258101.jpg",
             "team_1": "Jamshedpur FC",
@@ -272,6 +257,21 @@
             "match_name": "Jamshedpur Fc Vs Mohun Bagan Super Giant | ISL 2025-26  - Regional [BLOODY_SWEET]",
             "match_id": 141803,
             "startTime": "04 April 2026 05:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Bangladesh U20 Vs China Pr U20",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141617_6021_BAN-U20_CHN-U20_FC-Web.png",
+            "team_1": "Bangladesh U20",
+            "team_2": "China PR U20",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "Bangladesh U20 Vs China Pr U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
+            "match_id": 141617,
+            "startTime": "04 April 2026 02:30 PM",
             "stream_url": ""
         },
         {
@@ -456,21 +456,6 @@
         },
         {
             "event_category": "Football",
-            "title": "C\u00e1diz Vs C\u00f3rdoba",
-            "src": "https://images.fancode.com/aig/match/v1774680543087/141683_CASACARDS_APP.png",
-            "team_1": "C\u00e1diz",
-            "team_2": "C\u00f3rdoba",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "C\u00e1diz Vs C\u00f3rdoba | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
-            "match_id": 141683,
-            "startTime": "04 April 2026 05:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Real Betis Vs Rcd Espanyol",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131125_5427_RB_ESL_FC-Web.png",
             "team_1": "Real Betis",
@@ -482,6 +467,21 @@
             "match_name": "Real Betis Vs Rcd Espanyol | LALIGA 2025-26 [BLOODY_SWEET]",
             "match_id": 131125,
             "startTime": "04 April 2026 10:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "C\u00e1diz Vs C\u00f3rdoba",
+            "src": "https://images.fancode.com/aig/match/v1774680543087/141683_CASACARDS_APP.png",
+            "team_1": "C\u00e1diz",
+            "team_2": "C\u00f3rdoba",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "C\u00e1diz Vs C\u00f3rdoba | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
+            "match_id": 141683,
+            "startTime": "04 April 2026 05:30 PM",
             "stream_url": ""
         },
         {
