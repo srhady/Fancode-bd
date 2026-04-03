@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:45:23 AM 04-04-2026",
+    "last update time": "05:00:30 AM 04-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,51 +33,6 @@
             "match_id": 141782,
             "startTime": "03 April 2026 06:00 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/main_feed___day_2_141782_english.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Marquee Feed   Day 2",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-            "team_1": "Marquee Feed - Day 2",
-            "team_2": "San Antonio, Texas",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Valero Texas Open 2026",
-            "match_name": "Marquee Feed   Day 2 | Valero Texas Open 2026 [ENGLISH]",
-            "match_id": 141785,
-            "startTime": "03 April 2026 06:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/marquee_feed___day_2_141785_english.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Holes   Day 2",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-            "team_1": "Featured Holes - Day 2",
-            "team_2": "San Antonio, Texas",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Valero Texas Open 2026",
-            "match_name": "Featured Holes   Day 2 | Valero Texas Open 2026 [ENGLISH]",
-            "match_id": 141783,
-            "startTime": "03 April 2026 06:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/featured_holes___day_2_141783_english.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Groups   Day 2",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-            "team_1": "Featured Groups - Day 2",
-            "team_2": "San Antonio, Texas",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Valero Texas Open 2026",
-            "match_name": "Featured Groups   Day 2 | Valero Texas Open 2026 [ENGLISH]",
-            "match_id": 141784,
-            "startTime": "03 April 2026 06:45 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/featured_groups___day_2_141784_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -261,21 +216,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Central Coast Mariners Vs Perth Glory",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140926_5802_CCM_PG_fc-web.jpg",
-            "team_1": "Central Coast Mariners",
-            "team_2": "Perth Glory",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Central Coast Mariners Vs Perth Glory | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140926,
-            "startTime": "04 April 2026 11:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Al Hilal Sfc Vs Al Taawoun",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140723_5655_AHS_ALTW_fc-web.jpg",
             "team_1": "Al Hilal SFC",
@@ -287,6 +227,21 @@
             "match_name": "Al Hilal Sfc Vs Al Taawoun | Roshn Saudi League 2025-2026 [BLOODY_SWEET]",
             "match_id": 140723,
             "startTime": "04 April 2026 11:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Central Coast Mariners Vs Perth Glory",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140926_5802_CCM_PG_fc-web.jpg",
+            "team_1": "Central Coast Mariners",
+            "team_2": "Perth Glory",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Central Coast Mariners Vs Perth Glory | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140926,
+            "startTime": "04 April 2026 11:30 AM",
             "stream_url": ""
         },
         {
@@ -380,21 +335,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Tennis",
-            "title": "Tiriac Open   Day 6",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png",
-            "team_1": "Tiriac Open - Day 6",
-            "team_2": "Bucharest, Romania",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "ATP 250 - Tiriac Open presented by UniCredit Bank ",
-            "match_name": "Tiriac Open   Day 6 | ATP 250 - Tiriac Open presented by UniCredit Bank  [BLOODY_SWEET]",
-            "match_id": 141294,
-            "startTime": "04 April 2026 02:30 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Malaysia A Vs Hong Kong, China A",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg",
@@ -407,6 +347,21 @@
             "match_name": "Malaysia A Vs Hong Kong, China A | Hong Kong, China-A tour of Malaysia-A 2026 [BLOODY_SWEET]",
             "match_id": 141773,
             "startTime": "05 April 2026 07:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Tiriac Open   Day 6",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png",
+            "team_1": "Tiriac Open - Day 6",
+            "team_2": "Bucharest, Romania",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ATP 250 - Tiriac Open presented by UniCredit Bank ",
+            "match_name": "Tiriac Open   Day 6 | ATP 250 - Tiriac Open presented by UniCredit Bank  [BLOODY_SWEET]",
+            "match_id": 141294,
+            "startTime": "04 April 2026 02:30 PM",
             "stream_url": ""
         },
         {
@@ -602,6 +557,51 @@
             "match_name": "Jordan U20 Vs Korea Republic U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
             "match_id": 141619,
             "startTime": "05 April 2026 02:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Sporting Club Delhi Vs Kerala Blasters Fc",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140476_5956_SCD_KBFC_FC-Web_1772964305713.jpg",
+            "team_1": "Sporting Club Delhi",
+            "team_2": "Kerala Blasters FC",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ISL 2025-26",
+            "match_name": "Sporting Club Delhi Vs Kerala Blasters Fc | ISL 2025-26 [BLOODY_SWEET]",
+            "match_id": 140476,
+            "startTime": "05 April 2026 05:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Sporting Club Delhi Vs Kerala Blasters Fc",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141804_5973_SCD_KBFC_fc-web.jpg",
+            "team_1": "Sporting Club Delhi",
+            "team_2": "Kerala Blasters FC",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ISL 2025-26  - Regional",
+            "match_name": "Sporting Club Delhi Vs Kerala Blasters Fc | ISL 2025-26  - Regional [BLOODY_SWEET]",
+            "match_id": 141804,
+            "startTime": "05 April 2026 05:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Getafe Cf Vs Athletic Club",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131129_5427_GEF_ATH_FC-Web.png",
+            "team_1": "Getafe CF",
+            "team_2": "Athletic Club",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Getafe Cf Vs Athletic Club | LALIGA 2025-26 [BLOODY_SWEET]",
+            "match_id": 131129,
+            "startTime": "05 April 2026 05:30 PM",
             "stream_url": ""
         }
     ]
