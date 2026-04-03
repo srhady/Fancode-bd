@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:00:25 PM 03-04-2026",
+    "last update time": "05:15:18 PM 03-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Adelaide United Vs Auckland",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140925_5802_ADL_AFC_fc-web.jpg",
-            "team_1": "Adelaide United",
-            "team_2": "Auckland",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "A League 2025-26",
-            "match_name": "Adelaide United Vs Auckland | A League 2025-26 [ENGLISH]",
-            "match_id": 140925,
-            "startTime": "03 April 2026 02:05 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/adelaide_united_vs_auckland_140925_english.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Tiriac Open   Day 5",
@@ -77,6 +62,21 @@
             "match_name": "Middlesbrough F.c. Vs Millwall F.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
             "match_id": 141428,
             "startTime": "03 April 2026 05:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Adelaide United Vs Auckland",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140925_5802_ADL_AFC_fc-web.jpg",
+            "team_1": "Adelaide United",
+            "team_2": "Auckland",
+            "status": "LIVE",
+            "streaming_status": "COMPLETED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Adelaide United Vs Auckland | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140925,
+            "startTime": "03 April 2026 02:05 PM",
             "stream_url": ""
         },
         {
@@ -380,21 +380,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Golf",
-            "title": "Day 2",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
-            "team_1": "Day 2",
-            "team_2": "Shadow Creek Golf Club",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Aramco Championship USA 2026",
-            "match_name": "Day 2 | Aramco Championship USA 2026 [BLOODY_SWEET]",
-            "match_id": 141637,
-            "startTime": "04 April 2026 03:30 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "Fc Goa Vs Bengaluru Fc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140475_5956_FCG_BFC_FC-Web_1772460347000.jpg",
@@ -407,6 +392,21 @@
             "match_name": "Fc Goa Vs Bengaluru Fc | ISL 2025-26 [BLOODY_SWEET]",
             "match_id": 140475,
             "startTime": "04 April 2026 07:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
+            "team_1": "Day 2",
+            "team_2": "Shadow Creek Golf Club",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Aramco Championship USA 2026",
+            "match_name": "Day 2 | Aramco Championship USA 2026 [BLOODY_SWEET]",
+            "match_id": 141637,
+            "startTime": "04 April 2026 03:30 AM",
             "stream_url": ""
         },
         {
