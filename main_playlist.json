@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:00:23 PM 03-04-2026",
+    "last update time": "11:15:19 PM 03-04-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -111,21 +111,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Adelaide United Vs Auckland",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140925_5802_ADL_AFC_fc-web.jpg",
-            "team_1": "Adelaide United",
-            "team_2": "Auckland",
-            "status": "LIVE",
-            "streaming_status": "COMPLETED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Adelaide United Vs Auckland | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140925,
-            "startTime": "03 April 2026 02:05 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Al Nassr Fc Vs Al Najmah Sc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140722_5655_ANF_ALN_fc-web.jpg",
             "team_1": "Al-Nassr FC",
@@ -137,6 +122,21 @@
             "match_name": "Al Nassr Fc Vs Al Najmah Sc | Roshn Saudi League 2025-2026 [BLOODY_SWEET]",
             "match_id": 140722,
             "startTime": "03 April 2026 11:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Adelaide United Vs Auckland",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140925_5802_ADL_AFC_fc-web.jpg",
+            "team_1": "Adelaide United",
+            "team_2": "Auckland",
+            "status": "LIVE",
+            "streaming_status": "COMPLETED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Adelaide United Vs Auckland | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140925,
+            "startTime": "03 April 2026 02:05 PM",
             "stream_url": ""
         },
         {
@@ -261,21 +261,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Melbourne City Vs Western Sydney Wanderers",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140927_5802_MLC_SYW_fc-web.jpg",
-            "team_1": "Melbourne City",
-            "team_2": "Western Sydney Wanderers",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne City Vs Western Sydney Wanderers | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140927,
-            "startTime": "04 April 2026 02:05 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Rcd Mallorca Vs Real Madrid",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131127_5427_MRC_RM_FC-Web.png",
             "team_1": "RCD Mallorca",
@@ -287,6 +272,21 @@
             "match_name": "Rcd Mallorca Vs Real Madrid | LALIGA 2025-26 [BLOODY_SWEET]",
             "match_id": 131127,
             "startTime": "04 April 2026 07:45 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Melbourne City Vs Western Sydney Wanderers",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140927_5802_MLC_SYW_fc-web.jpg",
+            "team_1": "Melbourne City",
+            "team_2": "Western Sydney Wanderers",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Melbourne City Vs Western Sydney Wanderers | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140927,
+            "startTime": "04 April 2026 02:05 PM",
             "stream_url": ""
         },
         {
@@ -306,21 +306,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Vietnam U20 Vs Thailand U20",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141618_6021_VIE-U20_THA-U20_FC-Web.png",
-            "team_1": "Vietnam U20",
-            "team_2": "Thailand U20",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Vietnam U20 Vs Thailand U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
-            "match_id": 141618,
-            "startTime": "04 April 2026 06:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Real Betis Vs Rcd Espanyol",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131125_5427_RB_ESL_FC-Web.png",
             "team_1": "Real Betis",
@@ -332,6 +317,21 @@
             "match_name": "Real Betis Vs Rcd Espanyol | LALIGA 2025-26 [BLOODY_SWEET]",
             "match_id": 131125,
             "startTime": "04 April 2026 10:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Vietnam U20 Vs Thailand U20",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141618_6021_VIE-U20_THA-U20_FC-Web.png",
+            "team_1": "Vietnam U20",
+            "team_2": "Thailand U20",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "Vietnam U20 Vs Thailand U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
+            "match_id": 141618,
+            "startTime": "04 April 2026 06:30 PM",
             "stream_url": ""
         },
         {
@@ -365,6 +365,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Football",
+            "title": "C\u00e1diz Vs C\u00f3rdoba",
+            "src": "https://images.fancode.com/aig/match/v1774680543087/141683_CASACARDS_APP.png",
+            "team_1": "C\u00e1diz",
+            "team_2": "C\u00f3rdoba",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "C\u00e1diz Vs C\u00f3rdoba | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
+            "match_id": 141683,
+            "startTime": "04 April 2026 05:30 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Golf",
             "title": "World Feed   Day 2",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
@@ -392,21 +407,6 @@
             "match_name": "Day 2 | Aramco Championship USA 2026 [BLOODY_SWEET]",
             "match_id": 141637,
             "startTime": "04 April 2026 03:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "C\u00e1diz Vs C\u00f3rdoba",
-            "src": "https://images.fancode.com/aig/match/v1774680543087/141683_CASACARDS_APP.png",
-            "team_1": "C\u00e1diz",
-            "team_2": "C\u00f3rdoba",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "C\u00e1diz Vs C\u00f3rdoba | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
-            "match_id": 141683,
-            "startTime": "04 April 2026 05:30 PM",
             "stream_url": ""
         },
         {
