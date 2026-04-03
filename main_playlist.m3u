@@ -1,8 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:15:16 AM 04-04-2026
+#last update time: 03:30:21 AM 04-04-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-ODIs-old.jpg" group-title="Live Sports", New Zealand Women Vs South Africa Women | South Africa Women's tour of New Zealand 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/new_zealand_women_vs_south_africa_women_141073_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Live Sports", Main Feed   Day 2 | Valero Texas Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/main_feed___day_2_141782_english.m3u8
