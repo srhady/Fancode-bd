@@ -1,14 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:45:19 PM 03-04-2026
+#last update time: 11:00:23 PM 03-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png" group-title="Live Sports", Tiriac Open   Day 5 | ATP 250 - Tiriac Open presented by UniCredit Bank  (ENGLISH)
 https://fancode-bd-srhady.vercel.app/tiriac_open___day_5_141292_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Hassan-II-Clay,-ATP-250-old-.png" group-title="Live Sports", Grand Prix Hassan Ii   Day 5 | ATP 250 - Grand Prix Hassan ll 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/grand_prix_hassan_ii___day_5_141281_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Live Sports", Main Feed   Day 2 | Valero Texas Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/main_feed___day_2_141782_english.m3u8
@@ -21,4 +18,7 @@ https://fancode-bd-srhady.vercel.app/featured_holes___day_2_141783_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Live Sports", Featured Groups   Day 2 | Valero Texas Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/featured_groups___day_2_141784_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg" group-title="Live Sports", A Court Feed | ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay (ENGLISH)
+https://fancode-bd-srhady.vercel.app/a_court_feed_141082_english.m3u8
 
