@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:45:20 AM 04-04-2026",
+    "last update time": "03:00:24 AM 04-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Rayo Vallecano Vs Elche Cf",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131121_5427_RVL_ELC_FC-Web.png",
-            "team_1": "Rayo Vallecano",
-            "team_2": "Elche CF",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Rayo Vallecano Vs Elche Cf | LALIGA 2025-26 [ENGLISH]",
-            "match_id": 131121,
-            "startTime": "04 April 2026 12:30 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/rayo_vallecano_vs_elche_cf_131121_english.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Coventry City F.c. Vs Derby County Football Club",
@@ -500,21 +485,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Golf",
-            "title": "World Feed   Day 3",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-            "team_1": "World Feed - Day 3",
-            "team_2": "San Antonio, Texas",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Valero Texas Open 2026",
-            "match_name": "World Feed   Day 3 | Valero Texas Open 2026 [BLOODY_SWEET]",
-            "match_id": 141791,
-            "startTime": "04 April 2026 10:30 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Malaysia A Vs Hong Kong, China A",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg",
@@ -527,6 +497,21 @@
             "match_name": "Malaysia A Vs Hong Kong, China A | Hong Kong, China-A tour of Malaysia-A 2026 [BLOODY_SWEET]",
             "match_id": 141773,
             "startTime": "05 April 2026 07:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "World Feed   Day 3",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
+            "team_1": "World Feed - Day 3",
+            "team_2": "San Antonio, Texas",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Valero Texas Open 2026",
+            "match_name": "World Feed   Day 3 | Valero Texas Open 2026 [BLOODY_SWEET]",
+            "match_id": 141791,
+            "startTime": "04 April 2026 10:30 PM",
             "stream_url": ""
         },
         {
