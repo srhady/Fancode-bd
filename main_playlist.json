@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:15:19 PM 04-04-2026",
+    "last update time": "09:30:27 PM 04-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Namibia Vs Oman",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141647_6025_NAM_OMN_fc-Web.jpg",
-            "team_1": "Namibia",
-            "team_2": "Oman",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC CWC League 2, Namibia",
-            "match_name": "Namibia Vs Oman | ICC CWC League 2, Namibia [ENGLISH]",
-            "match_id": 141647,
-            "startTime": "04 April 2026 01:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/namibia_vs_oman_141647_english.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Fc Goa Vs Bengaluru Fc",
@@ -246,6 +231,21 @@
         },
         {
             "event_category": "Football",
+            "title": "Deportivo La Coruna Vs M\u00e1laga",
+            "src": "https://images.fancode.com/aig/match/v1774680543088/141684_CASACARDS_APP.png",
+            "team_1": "Deportivo La Coruna",
+            "team_2": "M\u00e1laga",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Deportivo La Coruna Vs M\u00e1laga | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
+            "match_id": 141684,
+            "startTime": "04 April 2026 10:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
             "title": "Al Hilal Sfc Vs Al Taawoun",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140723_5655_AHS_ALTW_fc-web.jpg",
             "team_1": "Al Hilal SFC",
@@ -321,21 +321,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Deportivo La Coruna Vs M\u00e1laga",
-            "src": "https://images.fancode.com/aig/match/v1774680543088/141684_CASACARDS_APP.png",
-            "team_1": "Deportivo La Coruna",
-            "team_2": "M\u00e1laga",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Deportivo La Coruna Vs M\u00e1laga | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
-            "match_id": 141684,
-            "startTime": "04 April 2026 10:00 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Sporting Club Delhi Vs Kerala Blasters Fc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140476_5956_SCD_KBFC_FC-Web_1772964305713.jpg",
             "team_1": "Sporting Club Delhi",
@@ -380,21 +365,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Tennis",
-            "title": "Atp 250   Fayez Sarofim & Co. U.s. Men's Clay",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg",
-            "team_1": "ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay",
-            "team_2": "Houston, United States",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay",
-            "match_name": "Atp 250   Fayez Sarofim & Co. U.s. Men's Clay | ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay [BLOODY_SWEET]",
-            "match_id": 141083,
-            "startTime": "04 April 2026 09:30 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "Getafe Cf Vs Athletic Club",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131129_5427_GEF_ATH_FC-Web.png",
@@ -407,6 +377,21 @@
             "match_name": "Getafe Cf Vs Athletic Club | LALIGA 2025-26 [BLOODY_SWEET]",
             "match_id": 131129,
             "startTime": "05 April 2026 05:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Atp 250   Fayez Sarofim & Co. U.s. Men's Clay",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg",
+            "team_1": "ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay",
+            "team_2": "Houston, United States",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay",
+            "match_name": "Atp 250   Fayez Sarofim & Co. U.s. Men's Clay | ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay [BLOODY_SWEET]",
+            "match_id": 141083,
+            "startTime": "04 April 2026 09:30 PM",
             "stream_url": ""
         },
         {
@@ -515,21 +500,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Golf",
-            "title": "Day 3",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
-            "team_1": "Day 3",
-            "team_2": "Shadow Creek Golf Club",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Aramco Championship USA 2026",
-            "match_name": "Day 3 | Aramco Championship USA 2026 [BLOODY_SWEET]",
-            "match_id": 141638,
-            "startTime": "05 April 2026 02:30 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "Al Ettifaq Vs Al Qadsiah Fc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140724_5655_ETT_ALQ_fc-web.jpg",
@@ -542,6 +512,21 @@
             "match_name": "Al Ettifaq Vs Al Qadsiah Fc | Roshn Saudi League 2025-2026 [BLOODY_SWEET]",
             "match_id": 140724,
             "startTime": "05 April 2026 11:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
+            "team_1": "Day 3",
+            "team_2": "Shadow Creek Golf Club",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Aramco Championship USA 2026",
+            "match_name": "Day 3 | Aramco Championship USA 2026 [BLOODY_SWEET]",
+            "match_id": 141638,
+            "startTime": "05 April 2026 02:30 AM",
             "stream_url": ""
         },
         {
