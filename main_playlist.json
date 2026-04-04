@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:30:22 AM 04-04-2026",
+    "last update time": "08:45:19 AM 04-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -440,21 +440,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Golf",
-            "title": "Day 3",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
-            "team_1": "Day 3",
-            "team_2": "Shadow Creek Golf Club",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Aramco Championship USA 2026",
-            "match_name": "Day 3 | Aramco Championship USA 2026 [BLOODY_SWEET]",
-            "match_id": 141638,
-            "startTime": "05 April 2026 02:30 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "Melbourne Victory Vs Wellington Phoenix",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140928_5802_MLV_WEL_fc-web.jpg",
@@ -467,6 +452,21 @@
             "match_name": "Melbourne Victory Vs Wellington Phoenix | A League 2025-26 [BLOODY_SWEET]",
             "match_id": 140928,
             "startTime": "05 April 2026 10:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
+            "team_1": "Day 3",
+            "team_2": "Shadow Creek Golf Club",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Aramco Championship USA 2026",
+            "match_name": "Day 3 | Aramco Championship USA 2026 [BLOODY_SWEET]",
+            "match_id": 141638,
+            "startTime": "05 April 2026 02:30 AM",
             "stream_url": ""
         },
         {
