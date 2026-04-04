@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:15:19 PM 04-04-2026
+#last update time: 05:30:22 PM 04-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141647_6025_NAM_OMN_fc-Web.jpg" group-title="Live Sports", Namibia Vs Oman | ICC CWC League 2 Namibia (ENGLISH)
@@ -10,8 +10,23 @@ https://fancode-bd-srhady.vercel.app/namibia_vs_oman_141647_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141741_6028_BNA_ISK_FC-WEB.jpg" group-title="Live Sports", Brisbane Napoleans Vs Iconic Super Knights | Brisbane Champions League 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/brisbane_napoleans_vs_iconic_super_knights_141741_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141617_6021_BAN-U20_CHN-U20_FC-Web.png" group-title="Live Sports", Bangladesh U20 Vs China Pr U20 | AFC U20 Women's Asian Cup 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/bangladesh_u20_vs_china_pr_u20_141617_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140474_5956_JFC_MBSG_FC-Web_1772460258101.jpg" group-title="Live Sports", Jamshedpur Fc Vs Mohun Bagan Super Giant | ISL 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/jamshedpur_fc_vs_mohun_bagan_super_giant_140474_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140474_5956_JFC_MBSG_FC-Web_1772460258101.jpg" group-title="Live Sports", Jamshedpur Fc Vs Mohun Bagan Super Giant | ISL 2025-26 (HINDI)
+https://fancode-bd-srhady.vercel.app/jamshedpur_fc_vs_mohun_bagan_super_giant_140474_hindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140474_5956_JFC_MBSG_FC-Web_1772460258101.jpg" group-title="Live Sports", Jamshedpur Fc Vs Mohun Bagan Super Giant | ISL 2025-26 (MALAYALAM)
+https://fancode-bd-srhady.vercel.app/jamshedpur_fc_vs_mohun_bagan_super_giant_140474_malayalam.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140474_5956_JFC_MBSG_FC-Web_1772460258101.jpg" group-title="Live Sports", Jamshedpur Fc Vs Mohun Bagan Super Giant | ISL 2025-26 (BENGALI)
+https://fancode-bd-srhady.vercel.app/jamshedpur_fc_vs_mohun_bagan_super_giant_140474_bengali.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141803_5973_JFC_MBSG_fc-web.jpg" group-title="Live Sports", Jamshedpur Fc Vs Mohun Bagan Super Giant | ISL 2025-26  - Regional (BENGALI)
+https://fancode-bd-srhady.vercel.app/jamshedpur_fc_vs_mohun_bagan_super_giant_141803_bengali.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131122_5427_RS_LE_FC-Web.png" group-title="Live Sports", Real Sociedad Vs Levante | LALIGA 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/real_sociedad_vs_levante_131122_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png" group-title="Live Sports", Tiriac Open   Day 6 | ATP 250 - Tiriac Open presented by UniCredit Bank  (ENGLISH)
 https://fancode-bd-srhady.vercel.app/tiriac_open___day_6_141294_english.m3u8
