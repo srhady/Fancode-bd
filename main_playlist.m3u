@@ -1,11 +1,14 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:45:20 PM 04-04-2026
+#last update time: 12:00:27 AM 05-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131125_5427_RB_ESL_FC-Web.png" group-title="Live Sports", Real Betis Vs Rcd Espanyol | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/real_betis_vs_rcd_espanyol_131125_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140723_5655_AHS_ALTW_fc-web.jpg" group-title="Live Sports", Al Hilal Sfc Vs Al Taawoun | Roshn Saudi League 2025-2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/al_hilal_sfc_vs_al_taawoun_140723_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774680543088/141684_CASACARDS_APP.png" group-title="Live Sports", Deportivo La Coruna Vs Málaga | LALIGA Hypermotion 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/deportivo_la_coruna_vs_m_laga_141684_english.m3u8
