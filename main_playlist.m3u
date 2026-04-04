@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:45:16 PM 04-04-2026
+#last update time: 07:00:24 PM 04-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141647_6025_NAM_OMN_fc-Web.jpg" group-title="Live Sports", Namibia Vs Oman | ICC CWC League 2 Namibia (ENGLISH)
@@ -25,6 +25,9 @@ https://fancode-bd-srhady.vercel.app/jamshedpur_fc_vs_mohun_bagan_super_giant_14
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131122_5427_RS_LE_FC-Web.png" group-title="Live Sports", Real Sociedad Vs Levante | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/real_sociedad_vs_levante_131122_english.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141618_6021_VIE-U20_THA-U20_FC-Web.png" group-title="Live Sports", Vietnam U20 Vs Thailand U20 | AFC U20 Women's Asian Cup 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/vietnam_u20_vs_thailand_u20_141618_english.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774680543087/141683_CASACARDS_APP.png" group-title="Live Sports", Cádiz Vs Córdoba | LALIGA Hypermotion 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/c_diz_vs_c_rdoba_141683_english.m3u8
 
@@ -33,7 +36,4 @@ https://fancode-bd-srhady.vercel.app/tiriac_open___day_6_141294_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Hassan-II-Clay,-ATP-250-old-.png" group-title="Live Sports", Grand Prix Hassan Ii   Day 6 | ATP 250 - Grand Prix Hassan ll 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/grand_prix_hassan_ii___day_6_141283_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141618_6021_VIE-U20_THA-U20_FC-Web.png" group-title="Live Sports", Vietnam U20 Vs Thailand U20 | AFC U20 Women's Asian Cup 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/vietnam_u20_vs_thailand_u20_141618_english.m3u8
 
