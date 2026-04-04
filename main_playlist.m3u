@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:00:27 PM 04-04-2026
+#last update time: 02:15:20 PM 04-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141647_6025_NAM_OMN_fc-Web.jpg" group-title="Live Sports", Namibia Vs Oman | ICC CWC League 2 Namibia (ENGLISH)
@@ -9,7 +9,4 @@ https://fancode-bd-srhady.vercel.app/namibia_vs_oman_141647_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141741_6028_BNA_ISK_FC-WEB.jpg" group-title="Live Sports", Brisbane Napoleans Vs Iconic Super Knights | Brisbane Champions League 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/brisbane_napoleans_vs_iconic_super_knights_141741_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140926_5802_CCM_PG_fc-web.jpg" group-title="Live Sports", Central Coast Mariners Vs Perth Glory | A League 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/central_coast_mariners_vs_perth_glory_140926_english.m3u8
 
