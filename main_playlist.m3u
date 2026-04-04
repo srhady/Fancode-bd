@@ -1,26 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:30:23 AM 05-04-2026
+#last update time: 04:45:20 AM 05-04-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Live Sports", Main Feed   Day 3 | Valero Texas Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/main_feed___day_3_141787_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Live Sports", Featured Holes   Day 3 | Valero Texas Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/featured_holes___day_3_141790_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Live Sports", World Feed   Day 3 | Valero Texas Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/world_feed___day_3_141791_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Live Sports", Featured Groups   Day 3 | Valero Texas Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/featured_groups___day_3_141788_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Live Sports", Marquee Feed   Day 3 | Valero Texas Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/marquee_feed___day_3_141789_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg" group-title="Live Sports", Atp 250   Fayez Sarofim & Co. U.s. Men's Clay | ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay (ENGLISH)
-https://fancode-bd-srhady.vercel.app/atp_250___fayez_sarofim___co__u_s__men_s_clay_141083_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png" group-title="Live Sports", Day 3 | Aramco Championship USA 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_3_141638_english.m3u8
