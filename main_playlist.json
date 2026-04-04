@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:00:24 AM 05-04-2026",
+    "last update time": "02:15:19 AM 05-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Al Hilal Sfc Vs Al Taawoun",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140723_5655_AHS_ALTW_fc-web.jpg",
-            "team_1": "Al Hilal SFC",
-            "team_2": "Al Taawoun",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al Hilal Sfc Vs Al Taawoun | Roshn Saudi League 2025-2026 [ENGLISH]",
-            "match_id": 140723,
-            "startTime": "04 April 2026 11:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/al_hilal_sfc_vs_al_taawoun_140723_english.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Atletico De Madrid Vs Fc Barcelona",
@@ -335,6 +320,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Golf",
+            "title": "Day 3",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
+            "team_1": "Day 3",
+            "team_2": "Shadow Creek Golf Club",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Aramco Championship USA 2026",
+            "match_name": "Day 3 | Aramco Championship USA 2026 [BLOODY_SWEET]",
+            "match_id": 141638,
+            "startTime": "05 April 2026 02:30 AM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Football",
             "title": "Chinese Taipei U20 Vs Japan U20",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141622_6021_CT-U20_JP-U20_FC-Web.png",
@@ -407,21 +407,6 @@
             "match_name": "Las Palmas Vs Huesca | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
             "match_id": 141685,
             "startTime": "05 April 2026 10:00 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 3",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
-            "team_1": "Day 3",
-            "team_2": "Shadow Creek Golf Club",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Aramco Championship USA 2026",
-            "match_name": "Day 3 | Aramco Championship USA 2026 [BLOODY_SWEET]",
-            "match_id": 141638,
-            "startTime": "05 April 2026 02:30 AM",
             "stream_url": ""
         },
         {
@@ -526,7 +511,7 @@
             "event_name": "Valero Texas Open 2026",
             "match_name": "Main Feed   Day 4 | Valero Texas Open 2026 [BLOODY_SWEET]",
             "match_id": 141792,
-            "startTime": "05 April 2026 07:45 PM",
+            "startTime": "05 April 2026 07:30 PM",
             "stream_url": ""
         },
         {
