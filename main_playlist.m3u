@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:00:30 PM 04-04-2026
+#last update time: 09:15:19 PM 04-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141647_6025_NAM_OMN_fc-Web.jpg" group-title="Live Sports", Namibia Vs Oman | ICC CWC League 2 Namibia (ENGLISH)
@@ -28,9 +28,6 @@ https://fancode-bd-srhady.vercel.app/rcd_mallorca_vs_real_madrid_131127_hindi.m3
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131127_5427_MRC_RM_FC-Web.png" group-title="Live Sports", Rcd Mallorca Vs Real Madrid | LALIGA 2025-26 (BENGALI)
 https://fancode-bd-srhady.vercel.app/rcd_mallorca_vs_real_madrid_131127_bengali.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141618_6021_VIE-U20_THA-U20_FC-Web.png" group-title="Live Sports", Vietnam U20 Vs Thailand U20 | AFC U20 Women's Asian Cup 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/vietnam_u20_vs_thailand_u20_141618_english.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png" group-title="Live Sports", Tiriac Open   Day 6 | ATP 250 - Tiriac Open presented by UniCredit Bank  (ENGLISH)
 https://fancode-bd-srhady.vercel.app/tiriac_open___day_6_141294_english.m3u8
 
@@ -48,4 +45,7 @@ https://fancode-bd-srhady.vercel.app/world_feed___day_3_141791_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Live Sports", Featured Groups   Day 3 | Valero Texas Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/featured_groups___day_3_141788_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Live Sports", Marquee Feed   Day 3 | Valero Texas Open 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/marquee_feed___day_3_141789_english.m3u8
 
