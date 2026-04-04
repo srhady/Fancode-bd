@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:30:21 PM 04-04-2026",
+    "last update time": "02:45:16 PM 04-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -25,7 +25,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141741_6028_BNA_ISK_FC-WEB.jpg",
             "team_1": "Brisbane Napoleans",
             "team_2": "Iconic Super Knights",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Brisbane Champions League 2026",
@@ -55,14 +55,14 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141617_6021_BAN-U20_CHN-U20_FC-Web.png",
             "team_1": "Bangladesh U20",
             "team_2": "China PR U20",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Bangladesh U20 Vs China Pr U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
+            "match_name": "Bangladesh U20 Vs China Pr U20 | AFC U20 Women's Asian Cup 2026 [ENGLISH]",
             "match_id": 141617,
             "startTime": "04 April 2026 02:30 PM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/bangladesh_u20_vs_china_pr_u20_141617_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -320,6 +320,36 @@
             "stream_url": ""
         },
         {
+            "event_category": "Football",
+            "title": "India U20 Vs Australia U20",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141620_6021_IND-U20_AUS-U20_FC-Web.png",
+            "team_1": "India U20",
+            "team_2": "Australia U20",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "India U20 Vs Australia U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
+            "match_id": 141620,
+            "startTime": "05 April 2026 02:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Jordan U20 Vs Korea Republic U20",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141619_6021_JOR-U20_KR-U20_FC-Web.png",
+            "team_1": "Jordan U20",
+            "team_2": "Korea Republic U20",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "Jordan U20 Vs Korea Republic U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
+            "match_id": 141619,
+            "startTime": "05 April 2026 02:30 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Golf",
             "title": "Main Feed   Day 3",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
@@ -407,36 +437,6 @@
             "match_name": "World Feed   Day 3 | Valero Texas Open 2026 [BLOODY_SWEET]",
             "match_id": 141791,
             "startTime": "04 April 2026 10:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "India U20 Vs Australia U20",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141620_6021_IND-U20_AUS-U20_FC-Web.png",
-            "team_1": "India U20",
-            "team_2": "Australia U20",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "India U20 Vs Australia U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
-            "match_id": 141620,
-            "startTime": "05 April 2026 02:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Jordan U20 Vs Korea Republic U20",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141619_6021_JOR-U20_KR-U20_FC-Web.png",
-            "team_1": "Jordan U20",
-            "team_2": "Korea Republic U20",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Jordan U20 Vs Korea Republic U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
-            "match_id": 141619,
-            "startTime": "05 April 2026 02:30 PM",
             "stream_url": ""
         },
         {
