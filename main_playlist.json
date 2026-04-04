@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:15:20 PM 04-04-2026",
+    "last update time": "08:30:27 PM 04-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -85,7 +85,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131127_5427_MRC_RM_FC-Web.png",
             "team_1": "RCD Mallorca",
             "team_2": "Real Madrid",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "LALIGA 2025-26",
@@ -100,7 +100,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131127_5427_MRC_RM_FC-Web.png",
             "team_1": "RCD Mallorca",
             "team_2": "Real Madrid",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "HINDI",
             "event_name": "LALIGA 2025-26",
@@ -115,7 +115,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131127_5427_MRC_RM_FC-Web.png",
             "team_1": "RCD Mallorca",
             "team_2": "Real Madrid",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "BENGALI",
             "event_name": "LALIGA 2025-26",
@@ -123,21 +123,6 @@
             "match_id": 131127,
             "startTime": "04 April 2026 07:45 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/rcd_mallorca_vs_real_madrid_131127_bengali.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "C\u00e1diz Vs C\u00f3rdoba",
-            "src": "https://images.fancode.com/aig/match/v1774680543087/141683_CASACARDS_APP.png",
-            "team_1": "C\u00e1diz",
-            "team_2": "C\u00f3rdoba",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "C\u00e1diz Vs C\u00f3rdoba | LALIGA Hypermotion 2025-26 [ENGLISH]",
-            "match_id": 141683,
-            "startTime": "04 April 2026 05:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/c_diz_vs_c_rdoba_141683_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -198,6 +183,21 @@
             "match_id": 141787,
             "startTime": "04 April 2026 07:45 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/main_feed___day_3_141787_english.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Holes   Day 3",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
+            "team_1": "Featured Holes - Day 3",
+            "team_2": "San Antonio, Texas",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Valero Texas Open 2026",
+            "match_name": "Featured Holes   Day 3 | Valero Texas Open 2026 [ENGLISH]",
+            "match_id": 141790,
+            "startTime": "04 April 2026 08:15 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/featured_holes___day_3_141790_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -306,21 +306,6 @@
         },
         {
             "event_category": "Golf",
-            "title": "Featured Holes   Day 3",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-            "team_1": "Featured Holes - Day 3",
-            "team_2": "San Antonio, Texas",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Valero Texas Open 2026",
-            "match_name": "Featured Holes   Day 3 | Valero Texas Open 2026 [BLOODY_SWEET]",
-            "match_id": 141790,
-            "startTime": "04 April 2026 08:15 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Golf",
             "title": "World Feed   Day 3",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
             "team_1": "World Feed - Day 3",
@@ -347,6 +332,21 @@
             "match_name": "Featured Groups   Day 3 | Valero Texas Open 2026 [BLOODY_SWEET]",
             "match_id": 141788,
             "startTime": "04 April 2026 08:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Marquee Feed   Day 3",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
+            "team_1": "Marquee Feed - Day 3",
+            "team_2": "San Antonio, Texas",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Valero Texas Open 2026",
+            "match_name": "Marquee Feed   Day 3 | Valero Texas Open 2026 [BLOODY_SWEET]",
+            "match_id": 141789,
+            "startTime": "04 April 2026 08:45 PM",
             "stream_url": ""
         },
         {
@@ -515,21 +515,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Golf",
-            "title": "Marquee Feed   Day 3",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-            "team_1": "Marquee Feed - Day 3",
-            "team_2": "San Antonio, Texas",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Valero Texas Open 2026",
-            "match_name": "Marquee Feed   Day 3 | Valero Texas Open 2026 [BLOODY_SWEET]",
-            "match_id": 141789,
-            "startTime": "04 April 2026 08:45 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Tennis",
             "title": "Atp 250   Fayez Sarofim & Co. U.s. Men's Clay",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg",
@@ -572,6 +557,21 @@
             "match_name": "Al Ettifaq Vs Al Qadsiah Fc | Roshn Saudi League 2025-2026 [BLOODY_SWEET]",
             "match_id": 140724,
             "startTime": "05 April 2026 11:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Las Palmas Vs Huesca",
+            "src": "https://images.fancode.com/aig/match/v1774680543090/141685_CASACARDS_APP.png",
+            "team_1": "Las Palmas",
+            "team_2": "Huesca",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Las Palmas Vs Huesca | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
+            "match_id": 141685,
+            "startTime": "05 April 2026 10:00 PM",
             "stream_url": ""
         },
         {
@@ -636,17 +636,17 @@
         },
         {
             "event_category": "Football",
-            "title": "Las Palmas Vs Huesca",
-            "src": "https://images.fancode.com/aig/match/v1774680543090/141685_CASACARDS_APP.png",
-            "team_1": "Las Palmas",
-            "team_2": "Huesca",
+            "title": "Deportivo Alaves Vs Ca Osasuna",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131123_5427_ALA_OSN_FC-Web.png",
+            "team_1": "Deportivo Alaves",
+            "team_2": "CA Osasuna",
             "status": "NOT_STARTED",
             "streaming_status": "NOT_STARTED",
             "language": "BLOODY_SWEET",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Las Palmas Vs Huesca | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
-            "match_id": 141685,
-            "startTime": "05 April 2026 10:00 PM",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Deportivo Alaves Vs Ca Osasuna | LALIGA 2025-26 [BLOODY_SWEET]",
+            "match_id": 131123,
+            "startTime": "06 April 2026 12:30 AM",
             "stream_url": ""
         }
     ]
