@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:30:20 PM 04-04-2026
+#last update time: 06:45:16 PM 04-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141647_6025_NAM_OMN_fc-Web.jpg" group-title="Live Sports", Namibia Vs Oman | ICC CWC League 2 Namibia (ENGLISH)
@@ -33,4 +33,7 @@ https://fancode-bd-srhady.vercel.app/tiriac_open___day_6_141294_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Hassan-II-Clay,-ATP-250-old-.png" group-title="Live Sports", Grand Prix Hassan Ii   Day 6 | ATP 250 - Grand Prix Hassan ll 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/grand_prix_hassan_ii___day_6_141283_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141618_6021_VIE-U20_THA-U20_FC-Web.png" group-title="Live Sports", Vietnam U20 Vs Thailand U20 | AFC U20 Women's Asian Cup 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/vietnam_u20_vs_thailand_u20_141618_english.m3u8
 

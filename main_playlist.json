@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:30:20 PM 04-04-2026",
+    "last update time": "06:45:16 PM 04-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -160,14 +160,14 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141618_6021_VIE-U20_THA-U20_FC-Web.png",
             "team_1": "Vietnam U20",
             "team_2": "Thailand U20",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Vietnam U20 Vs Thailand U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
+            "match_name": "Vietnam U20 Vs Thailand U20 | AFC U20 Women's Asian Cup 2026 [ENGLISH]",
             "match_id": 141618,
             "startTime": "04 April 2026 06:30 PM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/vietnam_u20_vs_thailand_u20_141618_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -275,21 +275,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Deportivo La Coruna Vs M\u00e1laga",
-            "src": "https://images.fancode.com/aig/match/v1774680543088/141684_CASACARDS_APP.png",
-            "team_1": "Deportivo La Coruna",
-            "team_2": "M\u00e1laga",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Deportivo La Coruna Vs M\u00e1laga | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
-            "match_id": 141684,
-            "startTime": "04 April 2026 10:00 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Everest Falcons Vs New York Liberty Xi",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141743_6028_EVF_NYL_FC-WEB.jpg",
@@ -302,6 +287,21 @@
             "match_name": "Everest Falcons Vs New York Liberty Xi | Brisbane Champions League 2026 [BLOODY_SWEET]",
             "match_id": 141743,
             "startTime": "05 April 2026 01:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Deportivo La Coruna Vs M\u00e1laga",
+            "src": "https://images.fancode.com/aig/match/v1774680543088/141684_CASACARDS_APP.png",
+            "team_1": "Deportivo La Coruna",
+            "team_2": "M\u00e1laga",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Deportivo La Coruna Vs M\u00e1laga | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
+            "match_id": 141684,
+            "startTime": "04 April 2026 10:00 PM",
             "stream_url": ""
         },
         {
@@ -515,21 +515,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Golf",
-            "title": "Day 3",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
-            "team_1": "Day 3",
-            "team_2": "Shadow Creek Golf Club",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Aramco Championship USA 2026",
-            "match_name": "Day 3 | Aramco Championship USA 2026 [BLOODY_SWEET]",
-            "match_id": 141638,
-            "startTime": "05 April 2026 02:30 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "Chinese Taipei U20 Vs Japan U20",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141622_6021_CT-U20_JP-U20_FC-Web.png",
@@ -557,6 +542,21 @@
             "match_name": "Uzbekistan U20 Vs Dpr Korea U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
             "match_id": 141621,
             "startTime": "05 April 2026 06:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
+            "team_1": "Day 3",
+            "team_2": "Shadow Creek Golf Club",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Aramco Championship USA 2026",
+            "match_name": "Day 3 | Aramco Championship USA 2026 [BLOODY_SWEET]",
+            "match_id": 141638,
+            "startTime": "05 April 2026 02:30 AM",
             "stream_url": ""
         },
         {
