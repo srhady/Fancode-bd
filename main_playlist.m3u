@@ -1,14 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:00:25 PM 04-04-2026
+#last update time: 08:15:20 PM 04-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141647_6025_NAM_OMN_fc-Web.jpg" group-title="Live Sports", Namibia Vs Oman | ICC CWC League 2 Namibia (ENGLISH)
 https://fancode-bd-srhady.vercel.app/namibia_vs_oman_141647_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131122_5427_RS_LE_FC-Web.png" group-title="Live Sports", Real Sociedad Vs Levante | LALIGA 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/real_sociedad_vs_levante_131122_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140475_5956_FCG_BFC_FC-Web_1772460347000.jpg" group-title="Live Sports", Fc Goa Vs Bengaluru Fc | ISL 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/fc_goa_vs_bengaluru_fc_140475_english.m3u8
