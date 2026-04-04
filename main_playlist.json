@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:15:25 PM 04-04-2026",
+    "last update time": "03:30:23 PM 04-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -215,21 +215,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "C\u00e1diz Vs C\u00f3rdoba",
-            "src": "https://images.fancode.com/aig/match/v1774680543087/141683_CASACARDS_APP.png",
-            "team_1": "C\u00e1diz",
-            "team_2": "C\u00f3rdoba",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "C\u00e1diz Vs C\u00f3rdoba | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
-            "match_id": 141683,
-            "startTime": "04 April 2026 05:30 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Sri Lanka A Vs New Zealand A",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -242,6 +227,21 @@
             "match_name": "Sri Lanka A Vs New Zealand A | New Zealand A Tour of Sri Lanka 2026 [BLOODY_SWEET]",
             "match_id": 141798,
             "startTime": "05 April 2026 10:00 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "C\u00e1diz Vs C\u00f3rdoba",
+            "src": "https://images.fancode.com/aig/match/v1774680543087/141683_CASACARDS_APP.png",
+            "team_1": "C\u00e1diz",
+            "team_2": "C\u00f3rdoba",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "C\u00e1diz Vs C\u00f3rdoba | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
+            "match_id": 141683,
+            "startTime": "04 April 2026 05:30 PM",
             "stream_url": ""
         },
         {
@@ -380,6 +380,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Football",
+            "title": "Getafe Cf Vs Athletic Club",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131129_5427_GEF_ATH_FC-Web.png",
+            "team_1": "Getafe CF",
+            "team_2": "Athletic Club",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Getafe Cf Vs Athletic Club | LALIGA 2025-26 [BLOODY_SWEET]",
+            "match_id": 131129,
+            "startTime": "05 April 2026 05:30 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Golf",
             "title": "Main Feed   Day 3",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
@@ -467,21 +482,6 @@
             "match_name": "World Feed   Day 3 | Valero Texas Open 2026 [BLOODY_SWEET]",
             "match_id": 141791,
             "startTime": "04 April 2026 10:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Getafe Cf Vs Athletic Club",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131129_5427_GEF_ATH_FC-Web.png",
-            "team_1": "Getafe CF",
-            "team_2": "Athletic Club",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Getafe Cf Vs Athletic Club | LALIGA 2025-26 [BLOODY_SWEET]",
-            "match_id": 131129,
-            "startTime": "05 April 2026 05:30 PM",
             "stream_url": ""
         },
         {
