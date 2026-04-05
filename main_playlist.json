@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:15:16 AM 06-04-2026",
+    "last update time": "03:30:21 AM 06-04-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -33,21 +33,6 @@
             "match_id": 141794,
             "startTime": "05 April 2026 06:15 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/marquee_feed___day_4_141794_english.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Main Feed   Day 4",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-            "team_1": "Main Feed - Day 4",
-            "team_2": "San Antonio, Texas",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Valero Texas Open 2026",
-            "match_name": "Main Feed   Day 4 | Valero Texas Open 2026 [ENGLISH]",
-            "match_id": 141792,
-            "startTime": "05 April 2026 06:15 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/main_feed___day_4_141792_english.m3u8"
         },
         {
             "event_category": "Golf",
@@ -587,6 +572,21 @@
             "match_name": "Thailand U20 Vs China Pr U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
             "match_id": 141623,
             "startTime": "07 April 2026 06:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Bromley Vs Shrewsbury Town",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
+            "team_1": "Bromley",
+            "team_2": "Shrewsbury Town",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "League Two 2025-26",
+            "match_name": "Bromley Vs Shrewsbury Town | League Two 2025-26 [BLOODY_SWEET]",
+            "match_id": 141427,
+            "startTime": "08 April 2026 12:30 AM",
             "stream_url": ""
         }
     ]
