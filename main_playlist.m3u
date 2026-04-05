@@ -1,20 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:45:18 PM 05-04-2026
+#last update time: 10:00:25 PM 05-04-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140477_5956_MCFC_ODS_FC-Web_1772460547341.jpg" group-title="Live Sports", Mumbai City Fc Vs Odisha Fc | ISL 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/mumbai_city_fc_vs_odisha_fc_140477_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140477_5956_MCFC_ODS_FC-Web_1772460547341.jpg" group-title="Live Sports", Mumbai City Fc Vs Odisha Fc | ISL 2025-26 (HINDI)
-https://fancode-bd-srhady.vercel.app/mumbai_city_fc_vs_odisha_fc_140477_hindi.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140477_5956_MCFC_ODS_FC-Web_1772460547341.jpg" group-title="Live Sports", Mumbai City Fc Vs Odisha Fc | ISL 2025-26 (MALAYALAM)
-https://fancode-bd-srhady.vercel.app/mumbai_city_fc_vs_odisha_fc_140477_malayalam.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140477_5956_MCFC_ODS_FC-Web_1772460547341.jpg" group-title="Live Sports", Mumbai City Fc Vs Odisha Fc | ISL 2025-26 (BENGALI)
-https://fancode-bd-srhady.vercel.app/mumbai_city_fc_vs_odisha_fc_140477_bengali.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131120_5427_VAL_CEV_FC-Web.png" group-title="Live Sports", Valencia Cf Vs Rc Celta | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/valencia_cf_vs_rc_celta_131120_english.m3u8
@@ -43,6 +31,6 @@ https://fancode-bd-srhady.vercel.app/featured_holes___day_4_141793_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Live Sports", Main Feed   Day 4 | Valero Texas Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/main_feed___day_4_141792_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Hassan-II-Clay,-ATP-250-old-.png" group-title="Live Sports", Grand Prix Hassan Ii   Day 7 | ATP 250 - Grand Prix Hassan ll 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/grand_prix_hassan_ii___day_7_141285_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131128_5427_RO_SEV_FC-Web.png" group-title="Live Sports", Real Oviedo Vs Sevilla Fc | LALIGA 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/real_oviedo_vs_sevilla_fc_131128_english.m3u8
 
