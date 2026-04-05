@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:45:19 AM 06-04-2026",
+    "last update time": "04:00:25 AM 06-04-2026",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Featured Groups   Day 4",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-            "team_1": "Featured Groups - Day 4",
-            "team_2": "San Antonio, Texas",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Valero Texas Open 2026",
-            "match_name": "Featured Groups   Day 4 | Valero Texas Open 2026 [ENGLISH]",
-            "match_id": 141795,
-            "startTime": "05 April 2026 06:15 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/featured_groups___day_4_141795_english.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "World Feed   Day 4",
@@ -602,6 +587,21 @@
             "match_name": "Malaysia A Vs Hong Kong, China A | Hong Kong, China-A tour of Malaysia-A 2026 [BLOODY_SWEET]",
             "match_id": 141775,
             "startTime": "08 April 2026 07:00 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Genid Royals Vs Everest Falcons",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141742_6028_GER_EVF_FC-WEB.jpg",
+            "team_1": "Genid Royals",
+            "team_2": "Everest Falcons",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Genid Royals Vs Everest Falcons | Brisbane Champions League 2026 [BLOODY_SWEET]",
+            "match_id": 141742,
+            "startTime": "08 April 2026 08:30 AM",
             "stream_url": ""
         }
     ]
