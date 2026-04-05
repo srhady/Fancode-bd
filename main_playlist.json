@@ -2,30 +2,15 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:15:18 PM 05-04-2026",
+    "last update time": "10:30:20 PM 05-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Valencia Cf Vs Rc Celta",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131120_5427_VAL_CEV_FC-Web.png",
-            "team_1": "Valencia CF",
-            "team_2": "RC Celta",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Valencia Cf Vs Rc Celta | LALIGA 2025-26 [ENGLISH]",
-            "match_id": 131120,
-            "startTime": "05 April 2026 07:45 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/valencia_cf_vs_rc_celta_131120_english.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Real Oviedo Vs Sevilla Fc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131128_5427_RO_SEV_FC-Web.png",
             "team_1": "Real Oviedo",
             "team_2": "Sevilla FC",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "LALIGA 2025-26",
@@ -33,6 +18,21 @@
             "match_id": 131128,
             "startTime": "05 April 2026 10:00 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/real_oviedo_vs_sevilla_fc_131128_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Las Palmas Vs Huesca",
+            "src": "https://images.fancode.com/aig/match/v1774680543090/141685_CASACARDS_APP.png",
+            "team_1": "Las Palmas",
+            "team_2": "Huesca",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Las Palmas Vs Huesca | LALIGA Hypermotion 2025-26 [ENGLISH]",
+            "match_id": 141685,
+            "startTime": "05 April 2026 10:00 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/las_palmas_vs_huesca_141685_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -153,21 +153,6 @@
             "match_id": 141792,
             "startTime": "05 April 2026 06:15 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/main_feed___day_4_141792_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Las Palmas Vs Huesca",
-            "src": "https://images.fancode.com/aig/match/v1774680543090/141685_CASACARDS_APP.png",
-            "team_1": "Las Palmas",
-            "team_2": "Huesca",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Las Palmas Vs Huesca | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
-            "match_id": 141685,
-            "startTime": "05 April 2026 10:00 PM",
-            "stream_url": ""
         },
         {
             "event_category": "Football",
@@ -410,21 +395,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Golf",
-            "title": "Day 4",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
-            "team_1": "Day 4",
-            "team_2": "Shadow Creek Golf Club",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Aramco Championship USA 2026",
-            "match_name": "Day 4 | Aramco Championship USA 2026 [BLOODY_SWEET]",
-            "match_id": 141639,
-            "startTime": "06 April 2026 02:30 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "Girona Fc Vs Villarreal Cf",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131126_5427_GIR_VIL_FC-Web.png",
@@ -452,6 +422,21 @@
             "match_name": "Hull City Vs Coventry City F.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
             "match_id": 141436,
             "startTime": "07 April 2026 12:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
+            "team_1": "Day 4",
+            "team_2": "Shadow Creek Golf Club",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Aramco Championship USA 2026",
+            "match_name": "Day 4 | Aramco Championship USA 2026 [BLOODY_SWEET]",
+            "match_id": 141639,
+            "startTime": "06 April 2026 02:30 AM",
             "stream_url": ""
         },
         {
