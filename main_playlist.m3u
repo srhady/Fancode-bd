@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:26 PM 05-04-2026
+#last update time: 02:45:18 PM 05-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-A-Tour-of-Sri-Lanka_FC-WEB.jpg" group-title="Live Sports", Sri Lanka A Vs New Zealand A | New Zealand A Tour of Sri Lanka 2026 (ENGLISH)
@@ -9,4 +9,13 @@ https://fancode-bd-srhady.vercel.app/sri_lanka_a_vs_new_zealand_a_141798_english
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141743_6028_EVF_NYL_FC-WEB.jpg" group-title="Live Sports", Everest Falcons Vs New York Liberty Xi | Brisbane Champions League 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/everest_falcons_vs_new_york_liberty_xi_141743_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", Court Ranier Iii | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/court_ranier_iii_141657_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", Court Des Princes | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/court_des_princes_141656_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", Court Ea De Massy | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/court_ea_de_massy_141658_english.m3u8
 
