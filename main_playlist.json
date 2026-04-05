@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:30:21 AM 06-04-2026",
+    "last update time": "12:45:17 AM 06-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Real Oviedo Vs Sevilla Fc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131128_5427_RO_SEV_FC-Web.png",
-            "team_1": "Real Oviedo",
-            "team_2": "Sevilla FC",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Oviedo Vs Sevilla Fc | LALIGA 2025-26 [ENGLISH]",
-            "match_id": 131128,
-            "startTime": "05 April 2026 10:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/real_oviedo_vs_sevilla_fc_131128_english.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Al Ettifaq Vs Al Qadsiah Fc",
@@ -36,18 +21,18 @@
         },
         {
             "event_category": "Football",
-            "title": "Las Palmas Vs Huesca",
-            "src": "https://images.fancode.com/aig/match/v1774680543090/141685_CASACARDS_APP.png",
-            "team_1": "Las Palmas",
-            "team_2": "Huesca",
-            "status": "LIVE",
+            "title": "Deportivo Alaves Vs Ca Osasuna",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131123_5427_ALA_OSN_FC-Web.png",
+            "team_1": "Deportivo Alaves",
+            "team_2": "CA Osasuna",
+            "status": "NOT_STARTED",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Las Palmas Vs Huesca | LALIGA Hypermotion 2025-26 [ENGLISH]",
-            "match_id": 141685,
-            "startTime": "05 April 2026 10:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/las_palmas_vs_huesca_141685_english.m3u8"
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Deportivo Alaves Vs Ca Osasuna | LALIGA 2025-26 [ENGLISH]",
+            "match_id": 131123,
+            "startTime": "06 April 2026 12:30 AM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/deportivo_alaves_vs_ca_osasuna_131123_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -153,21 +138,6 @@
             "match_id": 141796,
             "startTime": "05 April 2026 10:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/world_feed___day_4_141796_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Deportivo Alaves Vs Ca Osasuna",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131123_5427_ALA_OSN_FC-Web.png",
-            "team_1": "Deportivo Alaves",
-            "team_2": "CA Osasuna",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Deportivo Alaves Vs Ca Osasuna | LALIGA 2025-26 [BLOODY_SWEET]",
-            "match_id": 131123,
-            "startTime": "06 April 2026 12:30 AM",
-            "stream_url": ""
         },
         {
             "event_category": "Cricket",
@@ -305,6 +275,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Tennis",
+            "title": "Fayez Sarofim & Co.   Day 7",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg",
+            "team_1": "Fayez Sarofim & Co. - Day 7",
+            "team_2": "Houston, United States",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay",
+            "match_name": "Fayez Sarofim & Co.   Day 7 | ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay [BLOODY_SWEET]",
+            "match_id": 141084,
+            "startTime": "06 April 2026 01:00 AM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Football",
             "title": "Swansea City A.f.c. Vs Middlesbrough F.c.",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141435_5489_SWA_MIDD_fc-web.jpg",
@@ -392,21 +377,6 @@
             "match_name": "Sporting De Gij\u00f3n Vs Real Sociedad B | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
             "match_id": 141686,
             "startTime": "07 April 2026 12:00 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Fayez Sarofim & Co.   Day 7",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg",
-            "team_1": "Fayez Sarofim & Co. - Day 7",
-            "team_2": "Houston, United States",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay",
-            "match_name": "Fayez Sarofim & Co.   Day 7 | ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay [BLOODY_SWEET]",
-            "match_id": 141084,
-            "startTime": "06 April 2026 01:00 AM",
             "stream_url": ""
         },
         {
@@ -602,6 +572,21 @@
             "match_name": "Court 2 | ATP Masters Rolex Monte-Carlo 2026 [BLOODY_SWEET]",
             "match_id": 141663,
             "startTime": "07 April 2026 01:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Lesotho Women Vs Zambia Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Lesotho Women",
+            "team_2": "Zambia Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Lesotho Women Vs Zambia Women | Kalahari Women's T20 2026 [BLOODY_SWEET]",
+            "match_id": 141894,
+            "startTime": "07 April 2026 05:30 PM",
             "stream_url": ""
         }
     ]
