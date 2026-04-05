@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:15:17 PM 05-04-2026
+#last update time: 08:30:20 PM 05-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140477_5956_MCFC_ODS_FC-Web_1772460547341.jpg" group-title="Live Sports", Mumbai City Fc Vs Odisha Fc | ISL 2025-26 (ENGLISH)
@@ -33,9 +33,6 @@ https://fancode-bd-srhady.vercel.app/court_des_princes_141656_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", Court Ea De Massy | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/court_ea_de_massy_141658_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png" group-title="Live Sports", Tiriac Open   Day 7 | ATP 250 - Tiriac Open presented by UniCredit Bank  (ENGLISH)
-https://fancode-bd-srhady.vercel.app/tiriac_open___day_7_141296_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", World Feed | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/world_feed_141655_english.m3u8

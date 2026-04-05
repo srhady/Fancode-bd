@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:15:17 PM 05-04-2026",
+    "last update time": "08:30:20 PM 05-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -70,7 +70,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131120_5427_VAL_CEV_FC-Web.png",
             "team_1": "Valencia CF",
             "team_2": "RC Celta",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "LALIGA 2025-26",
@@ -153,21 +153,6 @@
             "match_id": 141658,
             "startTime": "05 April 2026 02:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/court_ea_de_massy_141658_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Tiriac Open   Day 7",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png",
-            "team_1": "Tiriac Open - Day 7",
-            "team_2": "Bucharest, Romania",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 250 - Tiriac Open presented by UniCredit Bank ",
-            "match_name": "Tiriac Open   Day 7 | ATP 250 - Tiriac Open presented by UniCredit Bank  [ENGLISH]",
-            "match_id": 141296,
-            "startTime": "05 April 2026 04:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/tiriac_open___day_7_141296_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -632,6 +617,21 @@
             "match_name": "Hull City Vs Coventry City F.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
             "match_id": 141436,
             "startTime": "07 April 2026 12:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Sporting De Gij\u00f3n Vs Real Sociedad B",
+            "src": "https://images.fancode.com/aig/match/v1774680543089/141686_CASACARDS_APP.png",
+            "team_1": "Sporting de Gij\u00f3n",
+            "team_2": "Real Sociedad B",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Sporting De Gij\u00f3n Vs Real Sociedad B | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
+            "match_id": 141686,
+            "startTime": "07 April 2026 12:00 AM",
             "stream_url": ""
         }
     ]
