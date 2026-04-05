@@ -1,14 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:30:21 AM 06-04-2026
+#last update time: 03:45:19 AM 06-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Live Sports", Featured Groups   Day 4 | Valero Texas Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/featured_groups___day_4_141795_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Live Sports", Marquee Feed   Day 4 | Valero Texas Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/marquee_feed___day_4_141794_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Live Sports", World Feed   Day 4 | Valero Texas Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/world_feed___day_4_141796_english.m3u8
