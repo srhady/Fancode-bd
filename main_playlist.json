@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:45:18 PM 05-04-2026",
+    "last update time": "02:00:26 PM 05-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -170,6 +170,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Cricket",
+            "title": "Iconic Super Knights Vs Sydney Kangaroos",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141745_6028_ISK_SYK_FC-WEB.jpg",
+            "team_1": "Iconic Super Knights",
+            "team_2": "Sydney Kangaroos",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Iconic Super Knights Vs Sydney Kangaroos | Brisbane Champions League 2026 [BLOODY_SWEET]",
+            "match_id": 141745,
+            "startTime": "06 April 2026 08:30 AM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Football",
             "title": "India U20 Vs Australia U20",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141620_6021_IND-U20_AUS-U20_FC-Web.png",
@@ -197,21 +212,6 @@
             "match_name": "Jordan U20 Vs Korea Republic U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
             "match_id": 141619,
             "startTime": "05 April 2026 02:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Iconic Super Knights Vs Sydney Kangaroos",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141745_6028_ISK_SYK_FC-WEB.jpg",
-            "team_1": "Iconic Super Knights",
-            "team_2": "Sydney Kangaroos",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Iconic Super Knights Vs Sydney Kangaroos | Brisbane Champions League 2026 [BLOODY_SWEET]",
-            "match_id": 141745,
-            "startTime": "06 April 2026 08:30 AM",
             "stream_url": ""
         },
         {
