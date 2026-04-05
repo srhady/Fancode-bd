@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:00:24 AM 06-04-2026",
+    "last update time": "03:15:16 AM 06-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Deportivo Alaves Vs Ca Osasuna",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131123_5427_ALA_OSN_FC-Web.png",
-            "team_1": "Deportivo Alaves",
-            "team_2": "CA Osasuna",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Deportivo Alaves Vs Ca Osasuna | LALIGA 2025-26 [ENGLISH]",
-            "match_id": 131123,
-            "startTime": "06 April 2026 12:30 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/deportivo_alaves_vs_ca_osasuna_131123_english.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Featured Groups   Day 4",
@@ -48,21 +33,6 @@
             "match_id": 141794,
             "startTime": "05 April 2026 06:15 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/marquee_feed___day_4_141794_english.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Holes   Day 4",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-            "team_1": "Featured Holes - Day 4",
-            "team_2": "San Antonio, Texas",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Valero Texas Open 2026",
-            "match_name": "Featured Holes   Day 4 | Valero Texas Open 2026 [ENGLISH]",
-            "match_id": 141793,
-            "startTime": "05 April 2026 06:15 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/featured_holes___day_4_141793_english.m3u8"
         },
         {
             "event_category": "Golf",
@@ -108,6 +78,21 @@
             "match_id": 141084,
             "startTime": "06 April 2026 01:00 AM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/fayez_sarofim___co____day_7_141084_english.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
+            "team_1": "Day 4",
+            "team_2": "Shadow Creek Golf Club",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Aramco Championship USA 2026",
+            "match_name": "Day 4 | Aramco Championship USA 2026 [ENGLISH]",
+            "match_id": 141639,
+            "startTime": "06 April 2026 02:30 AM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/day_4_141639_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -257,21 +242,6 @@
             "match_name": "Lesotho Women Vs Malawi Women | Kalahari Women's T20 2026 [BLOODY_SWEET]",
             "match_id": 141889,
             "startTime": "06 April 2026 01:00 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 4",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
-            "team_1": "Day 4",
-            "team_2": "Shadow Creek Golf Club",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Aramco Championship USA 2026",
-            "match_name": "Day 4 | Aramco Championship USA 2026 [BLOODY_SWEET]",
-            "match_id": 141639,
-            "startTime": "06 April 2026 02:30 AM",
             "stream_url": ""
         },
         {
@@ -587,6 +557,36 @@
             "match_name": "Chennaiyin Fc Vs Inter Kashi Fc | ISL 2025-26  - Regional [BLOODY_SWEET]",
             "match_id": 141805,
             "startTime": "07 April 2026 07:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Vietnam U20 Vs Bangladesh U20",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141624_6021_VIE-U20_BAN-U20_FC-Web.png",
+            "team_1": "Vietnam U20",
+            "team_2": "Bangladesh U20",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "Vietnam U20 Vs Bangladesh U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
+            "match_id": 141624,
+            "startTime": "07 April 2026 06:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Thailand U20 Vs China Pr U20",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141623_6021_THA-U20_CHN-U20_FC-Web.png",
+            "team_1": "Thailand U20",
+            "team_2": "China PR U20",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "Thailand U20 Vs China Pr U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
+            "match_id": 141623,
+            "startTime": "07 April 2026 06:30 PM",
             "stream_url": ""
         }
     ]
