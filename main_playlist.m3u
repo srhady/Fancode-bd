@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:15:18 AM 06-04-2026
+#last update time: 01:30:22 AM 06-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140724_5655_ETT_ALQ_fc-web.jpg" group-title="Live Sports", Al Ettifaq Vs Al Qadsiah Fc | Roshn Saudi League 2025-2026 (ENGLISH)
@@ -9,12 +9,6 @@ https://fancode-bd-srhady.vercel.app/al_ettifaq_vs_al_qadsiah_fc_140724_english.
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131123_5427_ALA_OSN_FC-Web.png" group-title="Live Sports", Deportivo Alaves Vs Ca Osasuna | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/deportivo_alaves_vs_ca_osasuna_131123_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", Court Ranier Iii | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/court_ranier_iii_141657_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", World Feed | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/world_feed_141655_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Live Sports", Featured Groups   Day 4 | Valero Texas Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/featured_groups___day_4_141795_english.m3u8
@@ -30,4 +24,7 @@ https://fancode-bd-srhady.vercel.app/main_feed___day_4_141792_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Live Sports", World Feed   Day 4 | Valero Texas Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/world_feed___day_4_141796_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg" group-title="Live Sports", Fayez Sarofim & Co.   Day 7 | ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay (ENGLISH)
+https://fancode-bd-srhady.vercel.app/fayez_sarofim___co____day_7_141084_english.m3u8
 
