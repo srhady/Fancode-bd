@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:30:24 AM 06-04-2026",
+    "last update time": "04:45:18 AM 06-04-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -185,21 +185,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Cricket",
-            "title": "Mozambique Women Vs Zambia Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Mozambique Women",
-            "team_2": "Zambia Women",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Mozambique Women Vs Zambia Women | Kalahari Women's T20 2026 [BLOODY_SWEET]",
-            "match_id": 141890,
-            "startTime": "06 April 2026 05:30 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "Girona Fc Vs Villarreal Cf",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131126_5427_GIR_VIL_FC-Web.png",
@@ -227,6 +212,21 @@
             "match_name": "Hull City Vs Coventry City F.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
             "match_id": 141436,
             "startTime": "07 April 2026 12:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mozambique Women Vs Zambia Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Mozambique Women",
+            "team_2": "Zambia Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Mozambique Women Vs Zambia Women | Kalahari Women's T20 2026 [BLOODY_SWEET]",
+            "match_id": 141890,
+            "startTime": "06 April 2026 05:30 PM",
             "stream_url": ""
         },
         {
