@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:45:20 PM 05-04-2026
+#last update time: 06:00:23 PM 05-04-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141743_6028_EVF_NYL_FC-WEB.jpg" group-title="Live Sports", Everest Falcons Vs New York Liberty Xi | Brisbane Champions League 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/everest_falcons_vs_new_york_liberty_xi_141743_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140476_5956_SCD_KBFC_FC-Web_1772964305713.jpg" group-title="Live Sports", Sporting Club Delhi Vs Kerala Blasters Fc | ISL 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/sporting_club_delhi_vs_kerala_blasters_fc_140476_english.m3u8
