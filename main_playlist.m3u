@@ -1,26 +1,26 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:30:22 PM 05-04-2026
+#last update time: 07:45:16 PM 05-04-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140476_5956_SCD_KBFC_FC-Web_1772964305713.jpg" group-title="Live Sports", Sporting Club Delhi Vs Kerala Blasters Fc | ISL 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/sporting_club_delhi_vs_kerala_blasters_fc_140476_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140476_5956_SCD_KBFC_FC-Web_1772964305713.jpg" group-title="Live Sports", Sporting Club Delhi Vs Kerala Blasters Fc | ISL 2025-26 (HINDI)
-https://fancode-bd-srhady.vercel.app/sporting_club_delhi_vs_kerala_blasters_fc_140476_hindi.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140476_5956_SCD_KBFC_FC-Web_1772964305713.jpg" group-title="Live Sports", Sporting Club Delhi Vs Kerala Blasters Fc | ISL 2025-26 (MALAYALAM)
-https://fancode-bd-srhady.vercel.app/sporting_club_delhi_vs_kerala_blasters_fc_140476_malayalam.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140476_5956_SCD_KBFC_FC-Web_1772964305713.jpg" group-title="Live Sports", Sporting Club Delhi Vs Kerala Blasters Fc | ISL 2025-26 (BENGALI)
-https://fancode-bd-srhady.vercel.app/sporting_club_delhi_vs_kerala_blasters_fc_140476_bengali.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141804_5973_SCD_KBFC_fc-web.jpg" group-title="Live Sports", Sporting Club Delhi Vs Kerala Blasters Fc | ISL 2025-26  - Regional (MALAYALAM)
-https://fancode-bd-srhady.vercel.app/sporting_club_delhi_vs_kerala_blasters_fc_141804_malayalam.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131129_5427_GEF_ATH_FC-Web.png" group-title="Live Sports", Getafe Cf Vs Athletic Club | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/getafe_cf_vs_athletic_club_131129_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140477_5956_MCFC_ODS_FC-Web_1772460547341.jpg" group-title="Live Sports", Mumbai City Fc Vs Odisha Fc | ISL 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/mumbai_city_fc_vs_odisha_fc_140477_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140477_5956_MCFC_ODS_FC-Web_1772460547341.jpg" group-title="Live Sports", Mumbai City Fc Vs Odisha Fc | ISL 2025-26 (HINDI)
+https://fancode-bd-srhady.vercel.app/mumbai_city_fc_vs_odisha_fc_140477_hindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140477_5956_MCFC_ODS_FC-Web_1772460547341.jpg" group-title="Live Sports", Mumbai City Fc Vs Odisha Fc | ISL 2025-26 (MALAYALAM)
+https://fancode-bd-srhady.vercel.app/mumbai_city_fc_vs_odisha_fc_140477_malayalam.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140477_5956_MCFC_ODS_FC-Web_1772460547341.jpg" group-title="Live Sports", Mumbai City Fc Vs Odisha Fc | ISL 2025-26 (BENGALI)
+https://fancode-bd-srhady.vercel.app/mumbai_city_fc_vs_odisha_fc_140477_bengali.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131120_5427_VAL_CEV_FC-Web.png" group-title="Live Sports", Valencia Cf Vs Rc Celta | LALIGA 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/valencia_cf_vs_rc_celta_131120_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141622_6021_CT-U20_JP-U20_FC-Web.png" group-title="Live Sports", Chinese Taipei U20 Vs Japan U20 | AFC U20 Women's Asian Cup 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/chinese_taipei_u20_vs_japan_u20_141622_english.m3u8
@@ -54,4 +54,7 @@ https://fancode-bd-srhady.vercel.app/featured_holes___day_4_141793_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Live Sports", Main Feed   Day 4 | Valero Texas Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/main_feed___day_4_141792_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Hassan-II-Clay,-ATP-250-old-.png" group-title="Live Sports", Grand Prix Hassan Ii   Day 7 | ATP 250 - Grand Prix Hassan ll 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/grand_prix_hassan_ii___day_7_141285_english.m3u8
 
