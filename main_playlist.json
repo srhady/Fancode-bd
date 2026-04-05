@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:00:23 PM 05-04-2026",
+    "last update time": "06:15:17 PM 05-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -85,7 +85,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131129_5427_GEF_ATH_FC-Web.png",
             "team_1": "Getafe CF",
             "team_2": "Athletic Club",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "LALIGA 2025-26",
@@ -168,6 +168,36 @@
             "match_id": 141655,
             "startTime": "05 April 2026 05:00 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/world_feed_141655_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Chinese Taipei U20 Vs Japan U20",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141622_6021_CT-U20_JP-U20_FC-Web.png",
+            "team_1": "Chinese Taipei U20",
+            "team_2": "Japan U20",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "Chinese Taipei U20 Vs Japan U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
+            "match_id": 141622,
+            "startTime": "05 April 2026 06:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Uzbekistan U20 Vs Dpr Korea U20",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
+            "team_1": "Uzbekistan U20",
+            "team_2": "DPR Korea U20",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "Uzbekistan U20 Vs Dpr Korea U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
+            "match_id": 141621,
+            "startTime": "05 April 2026 06:30 PM",
+            "stream_url": ""
         },
         {
             "event_category": "Football",
@@ -275,33 +305,18 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Chinese Taipei U20 Vs Japan U20",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141622_6021_CT-U20_JP-U20_FC-Web.png",
-            "team_1": "Chinese Taipei U20",
-            "team_2": "Japan U20",
+            "event_category": "Cricket",
+            "title": "Namibia Vs Scotland",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141648_6025_NAM_SCO_fc-Web.jpg",
+            "team_1": "Namibia",
+            "team_2": "Scotland",
             "status": "NOT_STARTED",
             "streaming_status": "NOT_STARTED",
             "language": "BLOODY_SWEET",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Chinese Taipei U20 Vs Japan U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
-            "match_id": 141622,
-            "startTime": "05 April 2026 06:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Uzbekistan U20 Vs Dpr Korea U20",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
-            "team_1": "Uzbekistan U20",
-            "team_2": "DPR Korea U20",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Uzbekistan U20 Vs Dpr Korea U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
-            "match_id": 141621,
-            "startTime": "05 April 2026 06:30 PM",
+            "event_name": "ICC CWC League 2, Namibia",
+            "match_name": "Namibia Vs Scotland | ICC CWC League 2, Namibia [BLOODY_SWEET]",
+            "match_id": 141648,
+            "startTime": "06 April 2026 01:00 PM",
             "stream_url": ""
         },
         {
@@ -317,21 +332,6 @@
             "match_name": "Las Palmas Vs Huesca | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
             "match_id": 141685,
             "startTime": "05 April 2026 10:00 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Namibia Vs Scotland",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141648_6025_NAM_SCO_fc-Web.jpg",
-            "team_1": "Namibia",
-            "team_2": "Scotland",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "ICC CWC League 2, Namibia",
-            "match_name": "Namibia Vs Scotland | ICC CWC League 2, Namibia [BLOODY_SWEET]",
-            "match_id": 141648,
-            "startTime": "06 April 2026 01:00 PM",
             "stream_url": ""
         },
         {
@@ -500,21 +500,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Tennis",
-            "title": "Grand Prix Hassan Ii   Day 7",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Hassan-II-Clay,-ATP-250-old-.png",
-            "team_1": "Grand Prix Hassan II - Day 7",
-            "team_2": "Marrakech, Morocco",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "ATP 250 - Grand Prix Hassan ll 2026",
-            "match_name": "Grand Prix Hassan Ii   Day 7 | ATP 250 - Grand Prix Hassan ll 2026 [BLOODY_SWEET]",
-            "match_id": 141285,
-            "startTime": "05 April 2026 07:30 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Botswana Women Vs Lesotho Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -527,6 +512,21 @@
             "match_name": "Botswana Women Vs Lesotho Women | Kalahari Women's T20 2026 [BLOODY_SWEET]",
             "match_id": 141891,
             "startTime": "06 April 2026 05:45 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Grand Prix Hassan Ii   Day 7",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Hassan-II-Clay,-ATP-250-old-.png",
+            "team_1": "Grand Prix Hassan II - Day 7",
+            "team_2": "Marrakech, Morocco",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ATP 250 - Grand Prix Hassan ll 2026",
+            "match_name": "Grand Prix Hassan Ii   Day 7 | ATP 250 - Grand Prix Hassan ll 2026 [BLOODY_SWEET]",
+            "match_id": 141285,
+            "startTime": "05 April 2026 07:30 PM",
             "stream_url": ""
         },
         {
