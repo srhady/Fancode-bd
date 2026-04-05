@@ -1,17 +1,26 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:15:20 PM 05-04-2026
+#last update time: 05:30:20 PM 05-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141743_6028_EVF_NYL_FC-WEB.jpg" group-title="Live Sports", Everest Falcons Vs New York Liberty Xi | Brisbane Champions League 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/everest_falcons_vs_new_york_liberty_xi_141743_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141620_6021_IND-U20_AUS-U20_FC-Web.png" group-title="Live Sports", India U20 Vs Australia U20 | AFC U20 Women's Asian Cup 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/india_u20_vs_australia_u20_141620_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140476_5956_SCD_KBFC_FC-Web_1772964305713.jpg" group-title="Live Sports", Sporting Club Delhi Vs Kerala Blasters Fc | ISL 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/sporting_club_delhi_vs_kerala_blasters_fc_140476_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141619_6021_JOR-U20_KR-U20_FC-Web.png" group-title="Live Sports", Jordan U20 Vs Korea Republic U20 | AFC U20 Women's Asian Cup 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/jordan_u20_vs_korea_republic_u20_141619_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140476_5956_SCD_KBFC_FC-Web_1772964305713.jpg" group-title="Live Sports", Sporting Club Delhi Vs Kerala Blasters Fc | ISL 2025-26 (HINDI)
+https://fancode-bd-srhady.vercel.app/sporting_club_delhi_vs_kerala_blasters_fc_140476_hindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140476_5956_SCD_KBFC_FC-Web_1772964305713.jpg" group-title="Live Sports", Sporting Club Delhi Vs Kerala Blasters Fc | ISL 2025-26 (MALAYALAM)
+https://fancode-bd-srhady.vercel.app/sporting_club_delhi_vs_kerala_blasters_fc_140476_malayalam.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140476_5956_SCD_KBFC_FC-Web_1772964305713.jpg" group-title="Live Sports", Sporting Club Delhi Vs Kerala Blasters Fc | ISL 2025-26 (BENGALI)
+https://fancode-bd-srhady.vercel.app/sporting_club_delhi_vs_kerala_blasters_fc_140476_bengali.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141804_5973_SCD_KBFC_fc-web.jpg" group-title="Live Sports", Sporting Club Delhi Vs Kerala Blasters Fc | ISL 2025-26  - Regional (MALAYALAM)
+https://fancode-bd-srhady.vercel.app/sporting_club_delhi_vs_kerala_blasters_fc_141804_malayalam.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", Court Ranier Iii | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/court_ranier_iii_141657_english.m3u8
@@ -24,4 +33,7 @@ https://fancode-bd-srhady.vercel.app/court_ea_de_massy_141658_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png" group-title="Live Sports", Tiriac Open   Day 7 | ATP 250 - Tiriac Open presented by UniCredit Bank  (ENGLISH)
 https://fancode-bd-srhady.vercel.app/tiriac_open___day_7_141296_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", World Feed | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/world_feed_141655_english.m3u8
 
