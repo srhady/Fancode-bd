@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:45:16 PM 05-04-2026",
+    "last update time": "07:00:21 PM 05-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -93,6 +93,36 @@
             "match_id": 131129,
             "startTime": "05 April 2026 05:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/getafe_cf_vs_athletic_club_131129_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Chinese Taipei U20 Vs Japan U20",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141622_6021_CT-U20_JP-U20_FC-Web.png",
+            "team_1": "Chinese Taipei U20",
+            "team_2": "Japan U20",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "Chinese Taipei U20 Vs Japan U20 | AFC U20 Women's Asian Cup 2026 [ENGLISH]",
+            "match_id": 141622,
+            "startTime": "05 April 2026 06:30 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/chinese_taipei_u20_vs_japan_u20_141622_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Uzbekistan U20 Vs Dpr Korea U20",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
+            "team_1": "Uzbekistan U20",
+            "team_2": "DPR Korea U20",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "Uzbekistan U20 Vs Dpr Korea U20 | AFC U20 Women's Asian Cup 2026 [ENGLISH]",
+            "match_id": 141621,
+            "startTime": "05 April 2026 06:30 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/uzbekistan_u20_vs_dpr_korea_u20_141621_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -231,36 +261,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Chinese Taipei U20 Vs Japan U20",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141622_6021_CT-U20_JP-U20_FC-Web.png",
-            "team_1": "Chinese Taipei U20",
-            "team_2": "Japan U20",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Chinese Taipei U20 Vs Japan U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
-            "match_id": 141622,
-            "startTime": "05 April 2026 06:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Uzbekistan U20 Vs Dpr Korea U20",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
-            "team_1": "Uzbekistan U20",
-            "team_2": "DPR Korea U20",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Uzbekistan U20 Vs Dpr Korea U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
-            "match_id": 141621,
-            "startTime": "05 April 2026 06:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Mumbai City Fc Vs Odisha Fc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140477_5956_MCFC_ODS_FC-Web_1772460547341.jpg",
             "team_1": "Mumbai City FC",
@@ -380,21 +380,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Las Palmas Vs Huesca",
-            "src": "https://images.fancode.com/aig/match/v1774680543090/141685_CASACARDS_APP.png",
-            "team_1": "Las Palmas",
-            "team_2": "Huesca",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Las Palmas Vs Huesca | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
-            "match_id": 141685,
-            "startTime": "05 April 2026 10:00 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Brisbane Stars Vs Brisbane Napoleans",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141746_6028_BRS_BNA_FC-WEB.jpg",
@@ -407,6 +392,21 @@
             "match_name": "Brisbane Stars Vs Brisbane Napoleans | Brisbane Champions League 2026 [BLOODY_SWEET]",
             "match_id": 141746,
             "startTime": "06 April 2026 01:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Las Palmas Vs Huesca",
+            "src": "https://images.fancode.com/aig/match/v1774680543090/141685_CASACARDS_APP.png",
+            "team_1": "Las Palmas",
+            "team_2": "Huesca",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Las Palmas Vs Huesca | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
+            "match_id": 141685,
+            "startTime": "05 April 2026 10:00 PM",
             "stream_url": ""
         },
         {
@@ -425,21 +425,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Cricket",
-            "title": "Lesotho Women Vs Malawi Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Lesotho Women",
-            "team_2": "Malawi Women",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Lesotho Women Vs Malawi Women | Kalahari Women's T20 2026 [BLOODY_SWEET]",
-            "match_id": 141889,
-            "startTime": "06 April 2026 01:00 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "Portsmouth F.c. Vs Oxford United",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141432_5489_PRM_OU_fc-web.jpg",
@@ -452,6 +437,21 @@
             "match_name": "Portsmouth F.c. Vs Oxford United | EFL Championship 2025-26 [BLOODY_SWEET]",
             "match_id": 141432,
             "startTime": "06 April 2026 05:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Lesotho Women Vs Malawi Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Lesotho Women",
+            "team_2": "Malawi Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Lesotho Women Vs Malawi Women | Kalahari Women's T20 2026 [BLOODY_SWEET]",
+            "match_id": 141889,
+            "startTime": "06 April 2026 01:00 PM",
             "stream_url": ""
         },
         {
