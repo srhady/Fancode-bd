@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:15:17 PM 05-04-2026",
+    "last update time": "09:30:21 PM 05-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -78,21 +78,6 @@
             "match_id": 131120,
             "startTime": "05 April 2026 07:45 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/valencia_cf_vs_rc_celta_131120_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Chinese Taipei U20 Vs Japan U20",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141622_6021_CT-U20_JP-U20_FC-Web.png",
-            "team_1": "Chinese Taipei U20",
-            "team_2": "Japan U20",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Chinese Taipei U20 Vs Japan U20 | AFC U20 Women's Asian Cup 2026 [ENGLISH]",
-            "match_id": 141622,
-            "startTime": "05 April 2026 06:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/chinese_taipei_u20_vs_japan_u20_141622_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -632,6 +617,36 @@
             "match_name": "Genid Royals Vs New York Liberty Xi | Brisbane Champions League 2026 [BLOODY_SWEET]",
             "match_id": 141749,
             "startTime": "07 April 2026 05:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Everest Falcons Vs Perth United Warriors",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141747_6028_EVF_PUW_FC-WEB.jpg",
+            "team_1": "Everest Falcons",
+            "team_2": "Perth United Warriors",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Everest Falcons Vs Perth United Warriors | Brisbane Champions League 2026 [BLOODY_SWEET]",
+            "match_id": 141747,
+            "startTime": "07 April 2026 09:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Brazil Women Vs Malawi Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Brazil Women",
+            "team_2": "Malawi Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Brazil Women Vs Malawi Women | Kalahari Women's T20 2026 [BLOODY_SWEET]",
+            "match_id": 141892,
+            "startTime": "07 April 2026 12:45 PM",
             "stream_url": ""
         }
     ]

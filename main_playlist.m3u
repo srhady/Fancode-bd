@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:15:17 PM 05-04-2026
+#last update time: 09:30:21 PM 05-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140477_5956_MCFC_ODS_FC-Web_1772460547341.jpg" group-title="Live Sports", Mumbai City Fc Vs Odisha Fc | ISL 2025-26 (ENGLISH)
@@ -18,9 +18,6 @@ https://fancode-bd-srhady.vercel.app/mumbai_city_fc_vs_odisha_fc_140477_bengali.
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131120_5427_VAL_CEV_FC-Web.png" group-title="Live Sports", Valencia Cf Vs Rc Celta | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/valencia_cf_vs_rc_celta_131120_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141622_6021_CT-U20_JP-U20_FC-Web.png" group-title="Live Sports", Chinese Taipei U20 Vs Japan U20 | AFC U20 Women's Asian Cup 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/chinese_taipei_u20_vs_japan_u20_141622_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", Court Ranier Iii | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/court_ranier_iii_141657_english.m3u8
