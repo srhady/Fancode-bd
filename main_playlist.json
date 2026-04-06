@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:45:20 AM 06-04-2026",
+    "last update time": "09:00:27 AM 06-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -26,13 +26,13 @@
             "team_1": "Iconic Super Knights",
             "team_2": "Sydney Kangaroos",
             "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "Brisbane Champions League 2026",
-            "match_name": "Iconic Super Knights Vs Sydney Kangaroos | Brisbane Champions League 2026 [BLOODY_SWEET]",
+            "match_name": "Iconic Super Knights Vs Sydney Kangaroos | Brisbane Champions League 2026 [ENGLISH]",
             "match_id": 141745,
             "startTime": "06 April 2026 08:30 AM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/iconic_super_knights_vs_sydney_kangaroos_141745_english.m3u8"
         },
         {
             "event_category": "Cricket",
