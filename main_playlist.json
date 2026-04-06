@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:30:25 PM 06-04-2026",
+    "last update time": "01:45:19 PM 06-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -36,6 +36,21 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Lesotho Women Vs Malawi Women",
+            "src": "https://images.fancode.com/aig/match/v1775460202141/141889_CASACARDS_APP.png",
+            "team_1": "Lesotho Women",
+            "team_2": "Malawi Women",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Lesotho Women Vs Malawi Women | Kalahari Women's T20 2026 [ENGLISH]",
+            "match_id": 141889,
+            "startTime": "06 April 2026 01:00 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/lesotho_women_vs_malawi_women_141889_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Namibia Vs Scotland",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141648_6025_NAM_SCO_fc-Web.jpg",
             "team_1": "Namibia",
@@ -51,33 +66,18 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Lesotho Women Vs Malawi Women",
-            "src": "https://images.fancode.com/aig/match/v1775460202141/141889_CASACARDS_APP.png",
-            "team_1": "Lesotho Women",
-            "team_2": "Malawi Women",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Lesotho Women Vs Malawi Women | Kalahari Women's T20 2026 [ENGLISH]",
-            "match_id": 141889,
-            "startTime": "06 April 2026 01:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/lesotho_women_vs_malawi_women_141889_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Brisbane Stars Vs Brisbane Napoleans",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141746_6028_BRS_BNA_FC-WEB.jpg",
             "team_1": "Brisbane Stars",
             "team_2": "Brisbane Napoleans",
             "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "Brisbane Champions League 2026",
-            "match_name": "Brisbane Stars Vs Brisbane Napoleans | Brisbane Champions League 2026 [BLOODY_SWEET]",
+            "match_name": "Brisbane Stars Vs Brisbane Napoleans | Brisbane Champions League 2026 [ENGLISH]",
             "match_id": 141746,
             "startTime": "06 April 2026 01:30 PM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/brisbane_stars_vs_brisbane_napoleans_141746_english.m3u8"
         },
         {
             "event_category": "Cricket",
