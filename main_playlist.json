@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:45:20 PM 06-04-2026",
+    "last update time": "06:00:27 PM 06-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,6 +33,21 @@
             "match_id": 141432,
             "startTime": "06 April 2026 05:00 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/portsmouth_f_c__vs_oxford_united_141432_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mozambique Women Vs Zambia Women",
+            "src": "https://images.fancode.com/aig/match/v1775460202134/141890_CASACARDS_APP.png",
+            "team_1": "Mozambique Women",
+            "team_2": "Zambia Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Mozambique Women Vs Zambia Women | Kalahari Women's T20 2026 [ENGLISH]",
+            "match_id": 141890,
+            "startTime": "06 April 2026 05:30 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/mozambique_women_vs_zambia_women_141890_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -93,21 +108,6 @@
             "match_id": 141659,
             "startTime": "06 April 2026 02:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/_court_ea_de_massy_141659_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Mozambique Women Vs Zambia Women",
-            "src": "https://images.fancode.com/aig/match/v1775460202134/141890_CASACARDS_APP.png",
-            "team_1": "Mozambique Women",
-            "team_2": "Zambia Women",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Mozambique Women Vs Zambia Women | Kalahari Women's T20 2026 [ENGLISH]",
-            "match_id": 141890,
-            "startTime": "06 April 2026 05:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/mozambique_women_vs_zambia_women_141890_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -211,22 +211,7 @@
             "event_name": "Brisbane Champions League 2026",
             "match_name": "Genid Royals Vs New York Liberty Xi | Brisbane Champions League 2026 [BLOODY_SWEET]",
             "match_id": 141749,
-            "startTime": "07 April 2026 05:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Everest Falcons Vs Perth United Warriors",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141747_6028_EVF_PUW_FC-WEB.jpg",
-            "team_1": "Everest Falcons",
-            "team_2": "Perth United Warriors",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Everest Falcons Vs Perth United Warriors | Brisbane Champions League 2026 [BLOODY_SWEET]",
-            "match_id": 141747,
-            "startTime": "07 April 2026 09:30 AM",
+            "startTime": "07 April 2026 08:30 AM",
             "stream_url": ""
         },
         {
@@ -242,6 +227,21 @@
             "match_name": "Brazil Women Vs Malawi Women | Kalahari Women's T20 2026 [BLOODY_SWEET]",
             "match_id": 141892,
             "startTime": "07 April 2026 12:45 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Botswana Women Vs Mozambique Women",
+            "src": "https://images.fancode.com/aig/match/v1775460202138/141893_CASACARDS_APP.png",
+            "team_1": "Botswana Women",
+            "team_2": "Mozambique Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Botswana Women Vs Mozambique Women | Kalahari Women's T20 2026 [BLOODY_SWEET]",
+            "match_id": 141893,
+            "startTime": "07 April 2026 01:00 PM",
             "stream_url": ""
         },
         {
@@ -261,17 +261,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Botswana Women Vs Mozambique Women",
-            "src": "https://images.fancode.com/aig/match/v1775460202138/141893_CASACARDS_APP.png",
-            "team_1": "Botswana Women",
-            "team_2": "Mozambique Women",
+            "title": "Everest Falcons Vs Perth United Warriors",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141747_6028_EVF_PUW_FC-WEB.jpg",
+            "team_1": "Everest Falcons",
+            "team_2": "Perth United Warriors",
             "status": "NOT_STARTED",
             "streaming_status": "NOT_STARTED",
             "language": "BLOODY_SWEET",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Botswana Women Vs Mozambique Women | Kalahari Women's T20 2026 [BLOODY_SWEET]",
-            "match_id": 141893,
-            "startTime": "07 April 2026 01:00 PM",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Everest Falcons Vs Perth United Warriors | Brisbane Champions League 2026 [BLOODY_SWEET]",
+            "match_id": 141747,
+            "startTime": "07 April 2026 01:30 PM",
             "stream_url": ""
         },
         {
