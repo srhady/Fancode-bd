@@ -1,15 +1,9 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:45:21 AM 07-04-2026
+#last update time: 03:00:26 AM 07-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131126_5427_GIR_VIL_FC-Web.png" group-title="Live Sports", Girona Fc Vs Villarreal Cf | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/girona_fc_vs_villarreal_cf_131126_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141436_5489_HUL_CVC_fc-web.jpg" group-title="Live Sports", Hull City Vs Coventry City F.c. | EFL Championship 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/hull_city_vs_coventry_city_f_c__141436_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774680543089/141686_CASACARDS_APP.png" group-title="Live Sports", Sporting De Gijón Vs Real Sociedad B | LALIGA Hypermotion 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/sporting_de_gij_n_vs_real_sociedad_b_141686_english.m3u8
 
