@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:15:18 PM 06-04-2026",
+    "last update time": "04:30:22 PM 06-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Botswana Women Vs Brazil Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
-            "team_1": "Botswana Women",
-            "team_2": "Brazil Women",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Botswana Women Vs Brazil Women | Kalahari Women's T20 2026 [ENGLISH]",
-            "match_id": 141888,
-            "startTime": "06 April 2026 12:45 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/botswana_women_vs_brazil_women_141888_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Namibia Vs Scotland",
@@ -110,6 +95,21 @@
             "stream_url": "https://fancode-bd-srhady.vercel.app/_court_ea_de_massy_141659_english.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Portsmouth F.c. Vs Oxford United",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141432_5489_PRM_OU_fc-web.jpg",
+            "team_1": "Portsmouth F.C.",
+            "team_2": "Oxford United",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Portsmouth F.c. Vs Oxford United | EFL Championship 2025-26 [BLOODY_SWEET]",
+            "match_id": 141432,
+            "startTime": "06 April 2026 05:00 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Cricket",
             "title": "Mozambique Women Vs Zambia Women",
             "src": "https://images.fancode.com/aig/match/v1775460202134/141890_CASACARDS_APP.png",
@@ -137,21 +137,6 @@
             "match_name": "Botswana Women Vs Lesotho Women | Kalahari Women's T20 2026 [BLOODY_SWEET]",
             "match_id": 141891,
             "startTime": "06 April 2026 05:45 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Portsmouth F.c. Vs Oxford United",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141432_5489_PRM_OU_fc-web.jpg",
-            "team_1": "Portsmouth F.C.",
-            "team_2": "Oxford United",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Portsmouth F.c. Vs Oxford United | EFL Championship 2025-26 [BLOODY_SWEET]",
-            "match_id": 141432,
-            "startTime": "06 April 2026 05:00 PM",
             "stream_url": ""
         },
         {
@@ -602,6 +587,21 @@
             "match_name": "Sydney Kangaroos Vs Brisbane Napoleans | Brisbane Champions League 2026 [BLOODY_SWEET]",
             "match_id": 141744,
             "startTime": "08 April 2026 01:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Chinese Taipei U20 Vs India U20",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141626_6021_CT-U20_IND-U20_FC-Web.png",
+            "team_1": "Chinese Taipei U20",
+            "team_2": "India U20",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "Chinese Taipei U20 Vs India U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
+            "match_id": 141626,
+            "startTime": "08 April 2026 02:30 PM",
             "stream_url": ""
         }
     ]
