@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:45:23 PM 06-04-2026",
+    "last update time": "12:00:25 AM 07-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -66,21 +66,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Sporting De Gij\u00f3n Vs Real Sociedad B",
-            "src": "https://images.fancode.com/aig/match/v1774680543089/141686_CASACARDS_APP.png",
-            "team_1": "Sporting de Gij\u00f3n",
-            "team_2": "Real Sociedad B",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Sporting De Gij\u00f3n Vs Real Sociedad B | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
-            "match_id": 141686,
-            "startTime": "07 April 2026 12:00 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Girona Fc Vs Villarreal Cf",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131126_5427_GIR_VIL_FC-Web.png",
             "team_1": "Girona FC",
@@ -107,6 +92,21 @@
             "match_name": "Hull City Vs Coventry City F.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
             "match_id": 141436,
             "startTime": "07 April 2026 12:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Sporting De Gij\u00f3n Vs Real Sociedad B",
+            "src": "https://images.fancode.com/aig/match/v1774680543089/141686_CASACARDS_APP.png",
+            "team_1": "Sporting de Gij\u00f3n",
+            "team_2": "Real Sociedad B",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Sporting De Gij\u00f3n Vs Real Sociedad B | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
+            "match_id": 141686,
+            "startTime": "07 April 2026 12:00 AM",
             "stream_url": ""
         },
         {
