@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:00:25 PM 06-04-2026",
+    "last update time": "05:15:17 PM 06-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,21 +18,6 @@
             "match_id": 141648,
             "startTime": "06 April 2026 01:00 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/namibia_vs_scotland_141648_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Brisbane Stars Vs Brisbane Napoleans",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141746_6028_BRS_BNA_FC-WEB.jpg",
-            "team_1": "Brisbane Stars",
-            "team_2": "Brisbane Napoleans",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Brisbane Stars Vs Brisbane Napoleans | Brisbane Champions League 2026 [ENGLISH]",
-            "match_id": 141746,
-            "startTime": "06 April 2026 01:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/brisbane_stars_vs_brisbane_napoleans_141746_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -95,21 +80,6 @@
             "stream_url": "https://fancode-bd-srhady.vercel.app/_court_ea_de_massy_141659_english.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Portsmouth F.c. Vs Oxford United",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141432_5489_PRM_OU_fc-web.jpg",
-            "team_1": "Portsmouth F.C.",
-            "team_2": "Oxford United",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Portsmouth F.c. Vs Oxford United | EFL Championship 2025-26 [BLOODY_SWEET]",
-            "match_id": 141432,
-            "startTime": "06 April 2026 05:00 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Mozambique Women Vs Zambia Women",
             "src": "https://images.fancode.com/aig/match/v1775460202134/141890_CASACARDS_APP.png",
@@ -123,6 +93,21 @@
             "match_id": 141890,
             "startTime": "06 April 2026 05:30 PM",
             "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Portsmouth F.c. Vs Oxford United",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141432_5489_PRM_OU_fc-web.jpg",
+            "team_1": "Portsmouth F.C.",
+            "team_2": "Oxford United",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Portsmouth F.c. Vs Oxford United | EFL Championship 2025-26 [ENGLISH]",
+            "match_id": 141432,
+            "startTime": "06 April 2026 05:00 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/portsmouth_f_c__vs_oxford_united_141432_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -601,6 +586,21 @@
             "event_name": "AFC U20 Women's Asian Cup 2026",
             "match_name": "Chinese Taipei U20 Vs India U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
             "match_id": 141626,
+            "startTime": "08 April 2026 02:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Japan U20 Vs Australia U20",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141625_6021_JP-U20_AUS-U20_FC-Web.png",
+            "team_1": "Japan U20",
+            "team_2": "Australia U20",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "Japan U20 Vs Australia U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
+            "match_id": 141625,
             "startTime": "08 April 2026 02:30 PM",
             "stream_url": ""
         }
