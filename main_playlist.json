@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:00:23 PM 06-04-2026",
+    "last update time": "09:15:21 PM 06-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Mozambique Women Vs Zambia Women",
-            "src": "https://images.fancode.com/aig/match/v1775460202134/141890_CASACARDS_APP.png",
-            "team_1": "Mozambique Women",
-            "team_2": "Zambia Women",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Mozambique Women Vs Zambia Women | Kalahari Women's T20 2026 [ENGLISH]",
-            "match_id": 141890,
-            "startTime": "06 April 2026 05:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/mozambique_women_vs_zambia_women_141890_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Botswana Women Vs Lesotho Women",
@@ -587,6 +572,21 @@
             "match_name": "Gamba Osaka Vs Bangkok United | AFC Champions League Two 2025-26 [BLOODY_SWEET]",
             "match_id": 140871,
             "startTime": "08 April 2026 03:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Lesotho Women Vs Mozambique Women",
+            "src": "https://images.fancode.com/aig/match/v1775460202138/141898_CASACARDS_APP.png",
+            "team_1": "Lesotho Women",
+            "team_2": "Mozambique Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Lesotho Women Vs Mozambique Women | Kalahari Women's T20 2026 [BLOODY_SWEET]",
+            "match_id": 141898,
+            "startTime": "08 April 2026 05:30 PM",
             "stream_url": ""
         }
     ]
