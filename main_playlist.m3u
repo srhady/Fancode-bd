@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:30:31 PM 07-04-2026
+#last update time: 05:45:20 PM 07-04-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141747_6028_EVF_PUW_FC-WEB.jpg" group-title="Live Sports", Everest Falcons Vs Perth United Warriors | Brisbane Champions League 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/everest_falcons_vs_perth_united_warriors_141747_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", Court Ea De Massy | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/court_ea_de_massy_141666_english.m3u8
