@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:15:22 PM 07-04-2026",
+    "last update time": "05:30:31 PM 07-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -290,21 +290,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Nashville Sc Vs Club Am\u00e9rica",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Nashville SC",
-            "team_2": "Club Am\u00e9rica",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Nashville Sc Vs Club Am\u00e9rica | CONCACAF Champions Cup 2026 [BLOODY_SWEET]",
-            "match_id": 141880,
-            "startTime": "08 April 2026 05:30 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Sydney Kangaroos Vs Brisbane Napoleans",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141744_6028_SYK_BNA_FC-WEB.jpg",
@@ -317,6 +302,21 @@
             "match_name": "Sydney Kangaroos Vs Brisbane Napoleans | Brisbane Champions League 2026 [BLOODY_SWEET]",
             "match_id": 141744,
             "startTime": "08 April 2026 01:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Nashville Sc Vs Club Am\u00e9rica",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Nashville SC",
+            "team_2": "Club Am\u00e9rica",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Nashville Sc Vs Club Am\u00e9rica | CONCACAF Champions Cup 2026 [BLOODY_SWEET]",
+            "match_id": 141880,
+            "startTime": "08 April 2026 05:30 AM",
             "stream_url": ""
         },
         {
