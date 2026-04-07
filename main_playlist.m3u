@@ -1,6 +1,9 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:00:24 PM 07-04-2026
+#last update time: 01:15:18 PM 07-04-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png" group-title="Live Sports", Brazil Women Vs Malawi Women | Kalahari Women's T20 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/brazil_women_vs_malawi_women_141892_english.m3u8
 
