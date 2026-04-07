@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:45:20 AM 08-04-2026",
+    "last update time": "01:00:31 AM 08-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -11,13 +11,13 @@
             "team_1": "Bromley",
             "team_2": "Shrewsbury Town",
             "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "League Two 2025-26",
-            "match_name": "Bromley Vs Shrewsbury Town | League Two 2025-26 [BLOODY_SWEET]",
+            "match_name": "Bromley Vs Shrewsbury Town | League Two 2025-26 [ENGLISH]",
             "match_id": 141427,
             "startTime": "08 April 2026 12:30 AM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/bromley_vs_shrewsbury_town_141427_english.m3u8"
         },
         {
             "event_category": "Cricket",

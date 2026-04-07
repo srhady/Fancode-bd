@@ -1,6 +1,9 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:45:20 AM 08-04-2026
+#last update time: 01:00:31 AM 08-04-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg" group-title="Live Sports", Bromley Vs Shrewsbury Town | League Two 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/bromley_vs_shrewsbury_town_141427_english.m3u8
 
