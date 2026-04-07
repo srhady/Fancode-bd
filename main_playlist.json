@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:45:23 PM 07-04-2026",
+    "last update time": "05:00:27 PM 07-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Botswana Women Vs Mozambique Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png",
-            "team_1": "Botswana Women",
-            "team_2": "Mozambique Women",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Botswana Women Vs Mozambique Women | Kalahari Women's T20 2026 [ENGLISH]",
-            "match_id": 141893,
-            "startTime": "07 April 2026 01:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/botswana_women_vs_mozambique_women_141893_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Everest Falcons Vs Perth United Warriors",
@@ -275,21 +260,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Nashville Sc Vs Club Am\u00e9rica",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Nashville SC",
-            "team_2": "Club Am\u00e9rica",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Nashville Sc Vs Club Am\u00e9rica | CONCACAF Champions Cup 2026 [BLOODY_SWEET]",
-            "match_id": 141880,
-            "startTime": "08 April 2026 05:30 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Scotland Vs Oman",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141649_6025_SCO_OMN_fc-Web.jpg",
@@ -317,6 +287,21 @@
             "match_name": "Brazil Women Vs Zambia Women | Kalahari Women's T20 2026 [BLOODY_SWEET]",
             "match_id": 141897,
             "startTime": "08 April 2026 01:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Nashville Sc Vs Club Am\u00e9rica",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Nashville SC",
+            "team_2": "Club Am\u00e9rica",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Nashville Sc Vs Club Am\u00e9rica | CONCACAF Champions Cup 2026 [BLOODY_SWEET]",
+            "match_id": 141880,
+            "startTime": "08 April 2026 05:30 AM",
             "stream_url": ""
         },
         {
@@ -587,6 +572,21 @@
             "match_name": "Toluca Vs La Galaxy | CONCACAF Champions Cup 2026 [BLOODY_SWEET]",
             "match_id": 141883,
             "startTime": "09 April 2026 08:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Malawi Women Vs Mozambique Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+            "team_1": "Malawi Women",
+            "team_2": "Mozambique Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Malawi Women Vs Mozambique Women | Kalahari Women's T20 2026 [BLOODY_SWEET]",
+            "match_id": 141900,
+            "startTime": "09 April 2026 12:45 PM",
             "stream_url": ""
         }
     ]
