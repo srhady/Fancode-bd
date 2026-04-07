@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:45:21 PM 07-04-2026
+#last update time: 02:00:27 PM 07-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png" group-title="Live Sports", Brazil Women Vs Malawi Women | Kalahari Women's T20 2026 (ENGLISH)
@@ -9,4 +9,7 @@ https://fancode-bd-srhady.vercel.app/brazil_women_vs_malawi_women_141892_english
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png" group-title="Live Sports", Botswana Women Vs Mozambique Women | Kalahari Women's T20 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/botswana_women_vs_mozambique_women_141893_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141747_6028_EVF_PUW_FC-WEB.jpg" group-title="Live Sports", Everest Falcons Vs Perth United Warriors | Brisbane Champions League 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/everest_falcons_vs_perth_united_warriors_141747_english.m3u8
 
