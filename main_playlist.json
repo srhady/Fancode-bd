@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:00:27 PM 07-04-2026",
+    "last update time": "09:15:22 PM 07-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -96,21 +96,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Vietnam U20 Vs Bangladesh U20",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141624_6021_VIE-U20_BAN-U20_FC-Web.png",
-            "team_1": "Vietnam U20",
-            "team_2": "Bangladesh U20",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Vietnam U20 Vs Bangladesh U20 | AFC U20 Women's Asian Cup 2026 [ENGLISH]",
-            "match_id": 141624,
-            "startTime": "07 April 2026 06:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/vietnam_u20_vs_bangladesh_u20_141624_english.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Thailand U20 Vs China Pr U20",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141623_6021_THA-U20_CHN-U20_FC-Web.png",
             "team_1": "Thailand U20",
@@ -123,21 +108,6 @@
             "match_id": 141623,
             "startTime": "07 April 2026 06:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/thailand_u20_vs_china_pr_u20_141623_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court Ea De Massy",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-            "team_1": "Court EA de Massy",
-            "team_2": "Monte-Carlo",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
-            "match_name": "Court Ea De Massy | ATP Masters Rolex Monte-Carlo 2026 [ENGLISH]",
-            "match_id": 141666,
-            "startTime": "07 April 2026 02:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/court_ea_de_massy_141666_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -632,6 +602,36 @@
             "match_name": "Sydney Kangaroos Vs Brisbane Stars | Brisbane Champions League 2026 [BLOODY_SWEET]",
             "match_id": 141750,
             "startTime": "09 April 2026 01:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Malawi Women Vs Zambia Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+            "team_1": "Malawi Women",
+            "team_2": "Zambia Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Malawi Women Vs Zambia Women | Kalahari Women's T20 2026 [BLOODY_SWEET]",
+            "match_id": 141902,
+            "startTime": "09 April 2026 05:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Tbc Vs Tbc",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Tbc Vs Tbc | Kalahari Women's T20 2026 [BLOODY_SWEET]",
+            "match_id": 141903,
+            "startTime": "09 April 2026 05:45 PM",
             "stream_url": ""
         }
     ]
