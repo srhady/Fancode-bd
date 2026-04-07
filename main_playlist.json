@@ -2,8 +2,23 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:45:20 PM 07-04-2026",
+    "last update time": "06:00:26 PM 07-04-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Lesotho Women Vs Zambia Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png",
+            "team_1": "Lesotho Women",
+            "team_2": "Zambia Women",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Lesotho Women Vs Zambia Women | Kalahari Women's T20 2026 [ENGLISH]",
+            "match_id": 141894,
+            "startTime": "07 April 2026 05:30 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/lesotho_women_vs_zambia_women_141894_english.m3u8"
+        },
         {
             "event_category": "Tennis",
             "title": "Court Ea De Massy",
@@ -81,33 +96,18 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Lesotho Women Vs Zambia Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png",
-            "team_1": "Lesotho Women",
-            "team_2": "Zambia Women",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Lesotho Women Vs Zambia Women | Kalahari Women's T20 2026 [BLOODY_SWEET]",
-            "match_id": 141894,
-            "startTime": "07 April 2026 05:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
             "title": "Brazil Women Vs Mozambique Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png",
             "team_1": "Brazil Women",
             "team_2": "Mozambique Women",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Brazil Women Vs Mozambique Women | Kalahari Women's T20 2026 [BLOODY_SWEET]",
+            "match_name": "Brazil Women Vs Mozambique Women | Kalahari Women's T20 2026 [ENGLISH]",
             "match_id": 141895,
             "startTime": "07 April 2026 05:45 PM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/brazil_women_vs_mozambique_women_141895_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -215,21 +215,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Bromley Vs Shrewsbury Town",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
-            "team_1": "Bromley",
-            "team_2": "Shrewsbury Town",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "League Two 2025-26",
-            "match_name": "Bromley Vs Shrewsbury Town | League Two 2025-26 [BLOODY_SWEET]",
-            "match_id": 141427,
-            "startTime": "08 April 2026 12:30 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Botswana Women Vs Malawi Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png",
@@ -272,6 +257,21 @@
             "match_name": "Brazil Women Vs Zambia Women | Kalahari Women's T20 2026 [BLOODY_SWEET]",
             "match_id": 141897,
             "startTime": "08 April 2026 01:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Bromley Vs Shrewsbury Town",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
+            "team_1": "Bromley",
+            "team_2": "Shrewsbury Town",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "League Two 2025-26",
+            "match_name": "Bromley Vs Shrewsbury Town | League Two 2025-26 [BLOODY_SWEET]",
+            "match_id": 141427,
+            "startTime": "08 April 2026 12:30 AM",
             "stream_url": ""
         },
         {
