@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:30:23 PM 08-04-2026",
+    "last update time": "07:45:24 PM 08-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -70,7 +70,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141627_6021_DPR-U20_KR-U20_FC-Web.png",
             "team_1": "DPR Korea U20",
             "team_2": "Korea Republic U20",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "AFC U20 Women's Asian Cup 2026",
