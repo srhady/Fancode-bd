@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:15:18 PM 08-04-2026",
+    "last update time": "11:30:26 PM 08-04-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -48,21 +48,6 @@
             "match_id": 141668,
             "startTime": "08 April 2026 02:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/court_ea_de_massy_141668_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court Des Princes",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-            "team_1": "Court des Princes",
-            "team_2": "Monte-Carlo",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
-            "match_name": "Court Des Princes | ATP Masters Rolex Monte-Carlo 2026 [ENGLISH]",
-            "match_id": 141667,
-            "startTime": "08 April 2026 02:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/court_des_princes_141667_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -572,6 +557,21 @@
             "match_name": "Perth United Warriors Vs Melbourne Pirates | Brisbane Champions League 2026 [BLOODY_SWEET]",
             "match_id": 141756,
             "startTime": "11 April 2026 08:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lanka A Vs New Zealand A",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-A-Tour-of-Sri-Lanka_FC-WEB.jpg",
+            "team_1": "Sri Lanka A",
+            "team_2": "New Zealand A",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "New Zealand A Tour of Sri Lanka 2026",
+            "match_name": "Sri Lanka A Vs New Zealand A | New Zealand A Tour of Sri Lanka 2026 [BLOODY_SWEET]",
+            "match_id": 141800,
+            "startTime": "11 April 2026 10:00 AM",
             "stream_url": ""
         }
     ]
