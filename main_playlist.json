@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:15:19 PM 08-04-2026",
+    "last update time": "05:30:28 PM 08-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,51 +33,6 @@
             "match_id": 141649,
             "startTime": "08 April 2026 01:00 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/scotland_vs_oman_141649_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sydney Kangaroos Vs Brisbane Napoleans",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141744_6028_SYK_BNA_FC-WEB.jpg",
-            "team_1": "Sydney Kangaroos",
-            "team_2": "Brisbane Napoleans",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Sydney Kangaroos Vs Brisbane Napoleans | Brisbane Champions League 2026 [ENGLISH]",
-            "match_id": 141744,
-            "startTime": "08 April 2026 01:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/sydney_kangaroos_vs_brisbane_napoleans_141744_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Chinese Taipei U20 Vs India U20",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141626_6021_CT-U20_IND-U20_FC-Web.png",
-            "team_1": "Chinese Taipei U20",
-            "team_2": "India U20",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Chinese Taipei U20 Vs India U20 | AFC U20 Women's Asian Cup 2026 [ENGLISH]",
-            "match_id": 141626,
-            "startTime": "08 April 2026 02:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/chinese_taipei_u20_vs_india_u20_141626_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Japan U20 Vs Australia U20",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141625_6021_JP-U20_AUS-U20_FC-Web.png",
-            "team_1": "Japan U20",
-            "team_2": "Australia U20",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Japan U20 Vs Australia U20 | AFC U20 Women's Asian Cup 2026 [ENGLISH]",
-            "match_id": 141625,
-            "startTime": "08 April 2026 02:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/japan_u20_vs_australia_u20_141625_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -572,6 +527,51 @@
             "match_name": "Northeast United Fc Vs Sporting Club Delhi | ISL 2025-26 [BLOODY_SWEET]",
             "match_id": 140480,
             "startTime": "10 April 2026 05:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Tbc Vs Tbc",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Tbc Vs Tbc | Kalahari Women's T20 2026 [BLOODY_SWEET]",
+            "match_id": 141906,
+            "startTime": "10 April 2026 05:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Tbc Vs Tbc",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Tbc Vs Tbc | Kalahari Women's T20 2026 [BLOODY_SWEET]",
+            "match_id": 141907,
+            "startTime": "10 April 2026 05:45 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court 1",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "team_1": "Court 1",
+            "team_2": "Monaco",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
+            "match_name": "Court 1 | ATP Masters Rolex Monte-Carlo 2026 [BLOODY_SWEET]",
+            "match_id": 141917,
+            "startTime": "10 April 2026 02:30 PM",
             "stream_url": ""
         }
     ]
