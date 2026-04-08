@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:15:35 PM 08-04-2026",
+    "last update time": "09:30:46 PM 08-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -21,21 +21,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Lesotho Women Vs Mozambique Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png",
-            "team_1": "Lesotho Women",
-            "team_2": "Mozambique Women",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Lesotho Women Vs Mozambique Women | Kalahari Women's T20 2026 [ENGLISH]",
-            "match_id": 141898,
-            "startTime": "08 April 2026 05:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/lesotho_women_vs_mozambique_women_141898_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Botswana Women Vs Zambia Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
             "team_1": "Botswana Women",
@@ -48,36 +33,6 @@
             "match_id": 141899,
             "startTime": "08 April 2026 05:45 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/botswana_women_vs_zambia_women_141899_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Uzbekistan U20 Vs Jordan U20",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141628_6021_UZ-U20_JOR-U20_FC-Web.png",
-            "team_1": "Uzbekistan U20",
-            "team_2": "Jordan U20",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Uzbekistan U20 Vs Jordan U20 | AFC U20 Women's Asian Cup 2026 [ENGLISH]",
-            "match_id": 141628,
-            "startTime": "08 April 2026 06:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/uzbekistan_u20_vs_jordan_u20_141628_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Dpr Korea U20 Vs Korea Republic U20",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141627_6021_DPR-U20_KR-U20_FC-Web.png",
-            "team_1": "DPR Korea U20",
-            "team_2": "Korea Republic U20",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Dpr Korea U20 Vs Korea Republic U20 | AFC U20 Women's Asian Cup 2026 [ENGLISH]",
-            "match_id": 141627,
-            "startTime": "08 April 2026 06:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/dpr_korea_u20_vs_korea_republic_u20_141627_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -572,6 +527,51 @@
             "match_name": "World Feed | ATP Masters Rolex Monte-Carlo 2026 [BLOODY_SWEET]",
             "match_id": 141915,
             "startTime": "10 April 2026 02:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Fc Goa Vs Odisha Fc",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140481_5956_FCG_ODS_FC-Web_1772460981509.jpg",
+            "team_1": "FC Goa",
+            "team_2": "Odisha FC",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ISL 2025-26",
+            "match_name": "Fc Goa Vs Odisha Fc | ISL 2025-26 [BLOODY_SWEET]",
+            "match_id": 140481,
+            "startTime": "10 April 2026 07:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Madrid Vs Girona Fc",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131131_5427_RM_GIR_FC-Web.png",
+            "team_1": "Real Madrid",
+            "team_2": "Girona FC",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Real Madrid Vs Girona Fc | LALIGA 2025-26 [BLOODY_SWEET]",
+            "match_id": 131131,
+            "startTime": "11 April 2026 12:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "West Bromwich Albion F.c. Vs Millwall F.c.",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141437_5489_WBA_MLW_fc-web-v2.jpg",
+            "team_1": "West Bromwich Albion F.C.",
+            "team_2": "Millwall F.C.",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "West Bromwich Albion F.c. Vs Millwall F.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
+            "match_id": 141437,
+            "startTime": "11 April 2026 12:30 AM",
             "stream_url": ""
         }
     ]

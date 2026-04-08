@@ -1,23 +1,14 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:15:35 PM 08-04-2026
+#last update time: 09:30:46 PM 08-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141649_6025_SCO_OMN_fc-Web.jpg" group-title="Live Sports", Oman Vs Scotland | ICC CWC League 2 Namibia (ENGLISH)
 https://fancode-bd-srhady.vercel.app/oman_vs_scotland_141649_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png" group-title="Live Sports", Lesotho Women Vs Mozambique Women | Kalahari Women's T20 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/lesotho_women_vs_mozambique_women_141898_english.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png" group-title="Live Sports", Botswana Women Vs Zambia Women | Kalahari Women's T20 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/botswana_women_vs_zambia_women_141899_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141628_6021_UZ-U20_JOR-U20_FC-Web.png" group-title="Live Sports", Uzbekistan U20 Vs Jordan U20 | AFC U20 Women's Asian Cup 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/uzbekistan_u20_vs_jordan_u20_141628_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141627_6021_DPR-U20_KR-U20_FC-Web.png" group-title="Live Sports", Dpr Korea U20 Vs Korea Republic U20 | AFC U20 Women's Asian Cup 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/dpr_korea_u20_vs_korea_republic_u20_141627_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", World Feed | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/world_feed_141670_english.m3u8
