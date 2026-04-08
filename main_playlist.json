@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:00:29 AM 08-04-2026",
+    "last update time": "06:15:18 AM 08-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -10,7 +10,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141880_5954_NSH_AME_FC-Web.png",
             "team_1": "Nashville SC",
             "team_2": "Club Am\u00e9rica",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "CONCACAF Champions Cup 2026",
@@ -275,6 +275,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Cricket",
+            "title": "New York Liberty Xi Vs Perth United Warriors",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141748_6028_NYL_PUW_FC-WEB.jpg",
+            "team_1": "New York Liberty XI",
+            "team_2": "Perth United Warriors",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "New York Liberty Xi Vs Perth United Warriors | Brisbane Champions League 2026 [BLOODY_SWEET]",
+            "match_id": 141748,
+            "startTime": "09 April 2026 08:30 AM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Tennis",
             "title": "World Feed",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
@@ -332,21 +347,6 @@
             "match_name": "Court Des Princes | ATP Masters Rolex Monte-Carlo 2026 [BLOODY_SWEET]",
             "match_id": 141667,
             "startTime": "08 April 2026 02:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New York Liberty Xi Vs Perth United Warriors",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141748_6028_NYL_PUW_FC-WEB.jpg",
-            "team_1": "New York Liberty XI",
-            "team_2": "Perth United Warriors",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "New York Liberty Xi Vs Perth United Warriors | Brisbane Champions League 2026 [BLOODY_SWEET]",
-            "match_id": 141748,
-            "startTime": "09 April 2026 08:30 AM",
             "stream_url": ""
         },
         {
