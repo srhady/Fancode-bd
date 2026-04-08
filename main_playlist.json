@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:15:20 AM 08-04-2026",
+    "last update time": "11:30:25 AM 08-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -320,6 +320,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Cricket",
+            "title": "Sydney Kangaroos Vs Brisbane Stars",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141750_6028_SYK_BRS_FC-WEB.jpg",
+            "team_1": "Sydney Kangaroos",
+            "team_2": "Brisbane Stars",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Sydney Kangaroos Vs Brisbane Stars | Brisbane Champions League 2026 [BLOODY_SWEET]",
+            "match_id": 141750,
+            "startTime": "09 April 2026 01:30 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Tennis",
             "title": "World Feed",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
@@ -377,21 +392,6 @@
             "match_name": "Court Des Princes | ATP Masters Rolex Monte-Carlo 2026 [BLOODY_SWEET]",
             "match_id": 141667,
             "startTime": "08 April 2026 02:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sydney Kangaroos Vs Brisbane Stars",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141750_6028_SYK_BRS_FC-WEB.jpg",
-            "team_1": "Sydney Kangaroos",
-            "team_2": "Brisbane Stars",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Sydney Kangaroos Vs Brisbane Stars | Brisbane Champions League 2026 [BLOODY_SWEET]",
-            "match_id": 141750,
-            "startTime": "09 April 2026 01:30 PM",
             "stream_url": ""
         },
         {
