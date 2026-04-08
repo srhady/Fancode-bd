@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:45:20 PM 08-04-2026
+#last update time: 02:00:28 PM 08-04-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg" group-title="Live Sports", Malaysia A Vs Hong Kong China A | Hong Kong China-A tour of Malaysia-A 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/malaysia_a_vs_hong_kong__china_a_141775_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-A-Tour-of-Sri-Lanka_FC-WEB.jpg" group-title="Live Sports", Sri Lanka A Vs New Zealand A | New Zealand A Tour of Sri Lanka 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/sri_lanka_a_vs_new_zealand_a_141799_english.m3u8
@@ -18,4 +15,7 @@ https://fancode-bd-srhady.vercel.app/scotland_vs_oman_141649_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png" group-title="Live Sports", Brazil Women Vs Zambia Women | Kalahari Women's T20 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/brazil_women_vs_zambia_women_141897_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141744_6028_SYK_BNA_FC-WEB.jpg" group-title="Live Sports", Sydney Kangaroos Vs Brisbane Napoleans | Brisbane Champions League 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/sydney_kangaroos_vs_brisbane_napoleans_141744_english.m3u8
 

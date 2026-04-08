@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:45:20 PM 08-04-2026",
+    "last update time": "02:00:28 PM 08-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Malaysia A Vs Hong Kong, China A",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg",
-            "team_1": "Malaysia A",
-            "team_2": "Hong Kong, China-A",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Hong Kong, China-A tour of Malaysia-A 2026",
-            "match_name": "Malaysia A Vs Hong Kong, China A | Hong Kong, China-A tour of Malaysia-A 2026 [ENGLISH]",
-            "match_id": 141775,
-            "startTime": "08 April 2026 07:00 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/malaysia_a_vs_hong_kong__china_a_141775_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Sri Lanka A Vs New Zealand A",
@@ -85,14 +70,14 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141744_6028_SYK_BNA_FC-WEB.jpg",
             "team_1": "Sydney Kangaroos",
             "team_2": "Brisbane Napoleans",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "Brisbane Champions League 2026",
-            "match_name": "Sydney Kangaroos Vs Brisbane Napoleans | Brisbane Champions League 2026 [BLOODY_SWEET]",
+            "match_name": "Sydney Kangaroos Vs Brisbane Napoleans | Brisbane Champions League 2026 [ENGLISH]",
             "match_id": 141744,
             "startTime": "08 April 2026 01:30 PM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/sydney_kangaroos_vs_brisbane_napoleans_141744_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -155,6 +140,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Cricket",
+            "title": "New York Liberty Xi Vs Perth United Warriors",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141748_6028_NYL_PUW_FC-WEB.jpg",
+            "team_1": "New York Liberty XI",
+            "team_2": "Perth United Warriors",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "New York Liberty Xi Vs Perth United Warriors | Brisbane Champions League 2026 [BLOODY_SWEET]",
+            "match_id": 141748,
+            "startTime": "09 April 2026 08:30 AM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Football",
             "title": "Chinese Taipei U20 Vs India U20",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141626_6021_CT-U20_IND-U20_FC-Web.png",
@@ -197,21 +197,6 @@
             "match_name": "Gamba Osaka Vs Bangkok United | AFC Champions League Two 2025-26 [BLOODY_SWEET]",
             "match_id": 140871,
             "startTime": "08 April 2026 03:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New York Liberty Xi Vs Perth United Warriors",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141748_6028_NYL_PUW_FC-WEB.jpg",
-            "team_1": "New York Liberty XI",
-            "team_2": "Perth United Warriors",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "New York Liberty Xi Vs Perth United Warriors | Brisbane Champions League 2026 [BLOODY_SWEET]",
-            "match_id": 141748,
-            "startTime": "09 April 2026 08:30 AM",
             "stream_url": ""
         },
         {
@@ -572,6 +557,21 @@
             "match_name": "Tbc Vs Tbc | Kalahari Women's T20 2026 [BLOODY_SWEET]",
             "match_id": 141905,
             "startTime": "10 April 2026 01:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Iconic Super Knights Vs Brisbane Stars",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141752_6028_ISK_BRS_FC-WEB.jpg",
+            "team_1": "Iconic Super Knights",
+            "team_2": "Brisbane Stars",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Iconic Super Knights Vs Brisbane Stars | Brisbane Champions League 2026 [BLOODY_SWEET]",
+            "match_id": 141752,
+            "startTime": "10 April 2026 01:30 PM",
             "stream_url": ""
         }
     ]
