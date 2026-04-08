@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:27 PM 08-04-2026
+#last update time: 02:45:19 PM 08-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-A-Tour-of-Sri-Lanka_FC-WEB.jpg" group-title="Live Sports", Sri Lanka A Vs New Zealand A | New Zealand A Tour of Sri Lanka 2026 (ENGLISH)
@@ -18,4 +18,22 @@ https://fancode-bd-srhady.vercel.app/brazil_women_vs_zambia_women_141897_english
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141744_6028_SYK_BNA_FC-WEB.jpg" group-title="Live Sports", Sydney Kangaroos Vs Brisbane Napoleans | Brisbane Champions League 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/sydney_kangaroos_vs_brisbane_napoleans_141744_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141625_6021_JP-U20_AUS-U20_FC-Web.png" group-title="Live Sports", Japan U20 Vs Australia U20 | AFC U20 Women's Asian Cup 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/japan_u20_vs_australia_u20_141625_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", World Feed | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/world_feed_141670_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", Court Ranier Iii | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/court_ranier_iii_141669_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", Court Ea De Massy | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/court_ea_de_massy_141668_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", Court Des Princes | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/court_des_princes_141667_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141626_6021_CT-U20_IND-U20_FC-Web.png" group-title="Live Sports", Chinese Taipei U20 Vs India U20 | AFC U20 Women's Asian Cup 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/chinese_taipei_u20_vs_india_u20_141626_english.m3u8
 
