@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:00:28 PM 08-04-2026",
+    "last update time": "03:15:23 PM 08-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -170,6 +170,21 @@
             "stream_url": "https://fancode-bd-srhady.vercel.app/court_des_princes_141667_english.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Gamba Osaka Vs Bangkok United",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140871_5648_OSK_BU_FC-WEB.jpg",
+            "team_1": "Gamba Osaka",
+            "team_2": "Bangkok United",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Gamba Osaka Vs Bangkok United | AFC Champions League Two 2025-26 [BLOODY_SWEET]",
+            "match_id": 140871,
+            "startTime": "08 April 2026 03:30 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Cricket",
             "title": "Lesotho Women Vs Mozambique Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png",
@@ -242,21 +257,6 @@
             "match_name": "New York Liberty Xi Vs Perth United Warriors | Brisbane Champions League 2026 [BLOODY_SWEET]",
             "match_id": 141748,
             "startTime": "09 April 2026 08:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Gamba Osaka Vs Bangkok United",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140871_5648_OSK_BU_FC-WEB.jpg",
-            "team_1": "Gamba Osaka",
-            "team_2": "Bangkok United",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Gamba Osaka Vs Bangkok United | AFC Champions League Two 2025-26 [BLOODY_SWEET]",
-            "match_id": 140871,
-            "startTime": "08 April 2026 03:30 PM",
             "stream_url": ""
         },
         {
