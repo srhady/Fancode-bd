@@ -1,15 +1,9 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:15:39 AM 09-04-2026
+#last update time: 12:30:36 AM 09-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140725_5655_AHS_ALK_fc-web.jpg" group-title="Live Sports", Al Hilal Sfc Vs Al Kholood Club | Roshn Saudi League 2025-2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/al_hilal_sfc_vs_al_kholood_club_140725_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", World Feed | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/world_feed_141670_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", Court Ranier Iii | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/court_ranier_iii_141669_english.m3u8
 
