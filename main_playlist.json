@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:30:25 AM 08-04-2026",
+    "last update time": "07:45:21 AM 08-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -41,13 +41,13 @@
             "team_1": "Los Angeles FC",
             "team_2": "Cruz Azul",
             "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Los Angeles Fc Vs Cruz Azul | CONCACAF Champions Cup 2026 [BLOODY_SWEET]",
+            "match_name": "Los Angeles Fc Vs Cruz Azul | CONCACAF Champions Cup 2026 [ENGLISH]",
             "match_id": 141881,
             "startTime": "08 April 2026 07:30 AM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/los_angeles_fc_vs_cruz_azul_141881_english.m3u8"
         },
         {
             "event_category": "Cricket",
