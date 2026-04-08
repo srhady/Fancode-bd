@@ -1,14 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:30:46 PM 08-04-2026
+#last update time: 09:45:33 PM 08-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141649_6025_SCO_OMN_fc-Web.jpg" group-title="Live Sports", Oman Vs Scotland | ICC CWC League 2 Namibia (ENGLISH)
 https://fancode-bd-srhady.vercel.app/oman_vs_scotland_141649_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png" group-title="Live Sports", Botswana Women Vs Zambia Women | Kalahari Women's T20 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/botswana_women_vs_zambia_women_141899_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", World Feed | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/world_feed_141670_english.m3u8
