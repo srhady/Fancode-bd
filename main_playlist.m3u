@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:00:25 PM 08-04-2026
+#last update time: 01:15:22 PM 08-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg" group-title="Live Sports", Malaysia A Vs Hong Kong China A | Hong Kong China-A tour of Malaysia-A 2026 (ENGLISH)
@@ -12,4 +12,7 @@ https://fancode-bd-srhady.vercel.app/genid_royals_vs_everest_falcons_141742_engl
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-A-Tour-of-Sri-Lanka_FC-WEB.jpg" group-title="Live Sports", Sri Lanka A Vs New Zealand A | New Zealand A Tour of Sri Lanka 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/sri_lanka_a_vs_new_zealand_a_141799_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png" group-title="Live Sports", Botswana Women Vs Malawi Women | Kalahari Women's T20 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/botswana_women_vs_malawi_women_141896_english.m3u8
 
