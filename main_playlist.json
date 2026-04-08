@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:30:23 AM 08-04-2026",
+    "last update time": "10:45:19 AM 08-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -48,21 +48,6 @@
             "match_id": 141799,
             "startTime": "08 April 2026 10:00 AM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/sri_lanka_a_vs_new_zealand_a_141799_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Los Angeles Fc Vs Cruz Azul",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141881_5954_LAF_CRU_FC-Web.png",
-            "team_1": "Los Angeles FC",
-            "team_2": "Cruz Azul",
-            "status": "LIVE",
-            "streaming_status": "COMPLETED",
-            "language": "BLOODY_SWEET",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Los Angeles Fc Vs Cruz Azul | CONCACAF Champions Cup 2026 [BLOODY_SWEET]",
-            "match_id": 141881,
-            "startTime": "08 April 2026 07:30 AM",
-            "stream_url": ""
         },
         {
             "event_category": "Cricket",
@@ -320,6 +305,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Cricket",
+            "title": "Brazil Women Vs Lesotho Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+            "team_1": "Brazil Women",
+            "team_2": "Lesotho Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Brazil Women Vs Lesotho Women | Kalahari Women's T20 2026 [BLOODY_SWEET]",
+            "match_id": 141901,
+            "startTime": "09 April 2026 01:00 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Tennis",
             "title": "World Feed",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
@@ -377,21 +377,6 @@
             "match_name": "Court Des Princes | ATP Masters Rolex Monte-Carlo 2026 [BLOODY_SWEET]",
             "match_id": 141667,
             "startTime": "08 April 2026 02:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Brazil Women Vs Lesotho Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
-            "team_1": "Brazil Women",
-            "team_2": "Lesotho Women",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Brazil Women Vs Lesotho Women | Kalahari Women's T20 2026 [BLOODY_SWEET]",
-            "match_id": 141901,
-            "startTime": "09 April 2026 01:00 PM",
             "stream_url": ""
         },
         {
@@ -572,6 +557,21 @@
             "match_name": "Tbc Vs Tbc | Kalahari Women's T20 2026 [BLOODY_SWEET]",
             "match_id": 141904,
             "startTime": "10 April 2026 12:45 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Namibia Vs Oman",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141650_6025_NAM_OMN_fc-Web.jpg",
+            "team_1": "Namibia",
+            "team_2": "Oman",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ICC CWC League 2, Namibia",
+            "match_name": "Namibia Vs Oman | ICC CWC League 2, Namibia [BLOODY_SWEET]",
+            "match_id": 141650,
+            "startTime": "10 April 2026 01:00 PM",
             "stream_url": ""
         }
     ]
