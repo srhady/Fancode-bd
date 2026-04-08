@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:30:27 AM 08-04-2026",
+    "last update time": "08:45:18 AM 08-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -10,7 +10,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg",
             "team_1": "Malaysia A",
             "team_2": "Hong Kong, China-A",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Hong Kong, China-A tour of Malaysia-A 2026",
@@ -25,7 +25,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141881_5954_LAF_CRU_FC-Web.png",
             "team_1": "Los Angeles FC",
             "team_2": "Cruz Azul",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "CONCACAF Champions Cup 2026",
@@ -40,14 +40,14 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141742_6028_GER_EVF_FC-WEB.jpg",
             "team_1": "Genid Royals",
             "team_2": "Everest Falcons",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "Brisbane Champions League 2026",
-            "match_name": "Genid Royals Vs Everest Falcons | Brisbane Champions League 2026 [BLOODY_SWEET]",
+            "match_name": "Genid Royals Vs Everest Falcons | Brisbane Champions League 2026 [ENGLISH]",
             "match_id": 141742,
             "startTime": "08 April 2026 08:30 AM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/genid_royals_vs_everest_falcons_141742_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -290,6 +290,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Football",
+            "title": "Toluca Vs La Galaxy",
+            "src": "https://images.fancode.com/aig/match/v1775564775424/141883_CASACARDS_APP.png",
+            "team_1": "Toluca",
+            "team_2": "LA Galaxy",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Toluca Vs La Galaxy | CONCACAF Champions Cup 2026 [BLOODY_SWEET]",
+            "match_id": 141883,
+            "startTime": "09 April 2026 08:30 AM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Tennis",
             "title": "World Feed",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
@@ -347,21 +362,6 @@
             "match_name": "Court Des Princes | ATP Masters Rolex Monte-Carlo 2026 [BLOODY_SWEET]",
             "match_id": 141667,
             "startTime": "08 April 2026 02:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Toluca Vs La Galaxy",
-            "src": "https://images.fancode.com/aig/match/v1775564775424/141883_CASACARDS_APP.png",
-            "team_1": "Toluca",
-            "team_2": "LA Galaxy",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Toluca Vs La Galaxy | CONCACAF Champions Cup 2026 [BLOODY_SWEET]",
-            "match_id": 141883,
-            "startTime": "09 April 2026 08:30 AM",
             "stream_url": ""
         },
         {
