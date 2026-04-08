@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:45:21 AM 08-04-2026",
+    "last update time": "06:00:29 AM 08-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -11,13 +11,13 @@
             "team_1": "Nashville SC",
             "team_2": "Club Am\u00e9rica",
             "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Nashville Sc Vs Club Am\u00e9rica | CONCACAF Champions Cup 2026 [BLOODY_SWEET]",
+            "match_name": "Nashville Sc Vs Club Am\u00e9rica | CONCACAF Champions Cup 2026 [ENGLISH]",
             "match_id": 141880,
             "startTime": "08 April 2026 05:30 AM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/nashville_sc_vs_club_am_rica_141880_english.m3u8"
         },
         {
             "event_category": "Cricket",
