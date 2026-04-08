@@ -1,23 +1,17 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:15:24 PM 08-04-2026
+#last update time: 06:30:22 PM 08-04-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-A-Tour-of-Sri-Lanka_FC-WEB.jpg" group-title="Live Sports", Sri Lanka A Vs New Zealand A | New Zealand A Tour of Sri Lanka 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/sri_lanka_a_vs_new_zealand_a_141799_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141649_6025_SCO_OMN_fc-Web.jpg" group-title="Live Sports", Scotland Vs Oman | ICC CWC League 2 Namibia (ENGLISH)
-https://fancode-bd-srhady.vercel.app/scotland_vs_oman_141649_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141649_6025_SCO_OMN_fc-Web.jpg" group-title="Live Sports", Oman Vs Scotland | ICC CWC League 2 Namibia (ENGLISH)
+https://fancode-bd-srhady.vercel.app/oman_vs_scotland_141649_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png" group-title="Live Sports", Lesotho Women Vs Mozambique Women | Kalahari Women's T20 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/lesotho_women_vs_mozambique_women_141898_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png" group-title="Live Sports", Botswana Women Vs Zambia Women | Kalahari Women's T20 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/botswana_women_vs_zambia_women_141899_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140871_5648_OSK_BU_FC-WEB.jpg" group-title="Live Sports", Gamba Osaka Vs Bangkok United | AFC Champions League Two 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/gamba_osaka_vs_bangkok_united_140871_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", World Feed | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/world_feed_141670_english.m3u8
