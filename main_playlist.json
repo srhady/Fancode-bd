@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:00:27 AM 09-04-2026",
+    "last update time": "02:15:19 AM 09-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Al Hilal Sfc Vs Al Kholood Club",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140725_5655_AHS_ALK_fc-web.jpg",
-            "team_1": "Al Hilal SFC",
-            "team_2": "Al-Kholood Club",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al Hilal Sfc Vs Al Kholood Club | Roshn Saudi League 2025-2026 [ENGLISH]",
-            "match_id": 140725,
-            "startTime": "08 April 2026 11:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/al_hilal_sfc_vs_al_kholood_club_140725_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Malaysia A Vs Hong Kong, China A",
@@ -572,6 +557,21 @@
             "match_name": "Iconic Super Knights Vs Melbourne Tuskers | Brisbane Champions League 2026 [BLOODY_SWEET]",
             "match_id": 141754,
             "startTime": "11 April 2026 01:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Newcastle Jets Vs Adelaide United",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140931_5802_NJ_ADL_fc-web.jpg",
+            "team_1": "Newcastle Jets",
+            "team_2": "Adelaide United",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Newcastle Jets Vs Adelaide United | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140931,
+            "startTime": "11 April 2026 12:30 PM",
             "stream_url": ""
         }
     ]
