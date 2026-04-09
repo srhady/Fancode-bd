@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:30:28 PM 09-04-2026",
+    "last update time": "04:45:23 PM 09-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -556,6 +556,21 @@
             "event_name": "EFL Championship 2025-26",
             "match_name": "Norwich City F.c. Vs Ipswich Town F.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
             "match_id": 141438,
+            "startTime": "11 April 2026 05:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Chennaiyin Fc Vs East Bengal Fc",
+            "src": "https://images.fancode.com/aig/match/v1775535874212/141808_CASACARDS_APP.png",
+            "team_1": "Chennaiyin FC",
+            "team_2": "East Bengal FC",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ISL 2025-26  - Regional",
+            "match_name": "Chennaiyin Fc Vs East Bengal Fc | ISL 2025-26  - Regional [BLOODY_SWEET]",
+            "match_id": 141808,
             "startTime": "11 April 2026 05:00 PM",
             "stream_url": ""
         }
