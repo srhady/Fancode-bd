@@ -2,22 +2,22 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:45:22 PM 09-04-2026",
+    "last update time": "11:00:24 PM 09-04-2026",
     "matches": [
         {
             "event_category": "Football",
-            "title": "Damac Vs Al Qadsiah Fc",
+            "title": "Damac Fc Vs Al Qadsiah Fc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140727_5655_DAM_ALQ_fc-web.jpg",
-            "team_1": "Damac",
+            "team_1": "Damac FC",
             "team_2": "Al-Qadsiah FC",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Damac Vs Al Qadsiah Fc | Roshn Saudi League 2025-2026 [ENGLISH]",
+            "match_name": "Damac Fc Vs Al Qadsiah Fc | Roshn Saudi League 2025-2026 [ENGLISH]",
             "match_id": 140727,
             "startTime": "09 April 2026 09:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/damac_vs_al_qadsiah_fc_140727_english.m3u8"
+            "stream_url": "https://fancode-bd-srhady.vercel.app/damac_fc_vs_al_qadsiah_fc_140727_english.m3u8"
         },
         {
             "event_category": "Tennis",
