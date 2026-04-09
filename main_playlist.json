@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:45:22 PM 09-04-2026",
+    "last update time": "02:00:29 PM 09-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -55,14 +55,14 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141750_6028_SYK_BRS_FC-WEB.jpg",
             "team_1": "Sydney Kangaroos",
             "team_2": "Brisbane Stars",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "Brisbane Champions League 2026",
-            "match_name": "Sydney Kangaroos Vs Brisbane Stars | Brisbane Champions League 2026 [BLOODY_SWEET]",
+            "match_name": "Sydney Kangaroos Vs Brisbane Stars | Brisbane Champions League 2026 [ENGLISH]",
             "match_id": 141750,
             "startTime": "09 April 2026 01:30 PM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/sydney_kangaroos_vs_brisbane_stars_141750_english.m3u8"
         },
         {
             "event_category": "Cricket",
