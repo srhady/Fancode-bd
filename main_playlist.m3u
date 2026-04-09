@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:00:26 PM 09-04-2026
+#last update time: 05:15:21 PM 09-04-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141750_6028_SYK_BRS_FC-WEB.jpg" group-title="Live Sports", Sydney Kangaroos Vs Brisbane Stars | Brisbane Champions League 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/sydney_kangaroos_vs_brisbane_stars_141750_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", Court Des Princes | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/court_des_princes_141914_english.m3u8
