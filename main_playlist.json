@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:30:26 PM 09-04-2026",
+    "last update time": "03:45:21 PM 09-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Malaysia A Vs Hong Kong, China A",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg",
-            "team_1": "Malaysia A",
-            "team_2": "Hong Kong, China-A",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Hong Kong, China-A tour of Malaysia-A 2026",
-            "match_name": "Malaysia A Vs Hong Kong, China A | Hong Kong, China-A tour of Malaysia-A 2026 [ENGLISH]",
-            "match_id": 141776,
-            "startTime": "09 April 2026 07:00 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/malaysia_a_vs_hong_kong__china_a_141776_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Malawi Women Vs Mozambique Women",
@@ -305,21 +290,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Golf",
-            "title": "Day 1",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
-            "team_1": "Day 1",
-            "team_2": "Georgia, USA",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "The Augusta Masters 2026",
-            "match_name": "Day 1 | The Augusta Masters 2026 [BLOODY_SWEET]",
-            "match_id": 141876,
-            "startTime": "09 April 2026 10:30 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Tbc Vs Tbc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
@@ -332,6 +302,21 @@
             "match_name": "Tbc Vs Tbc | Kalahari Women's T20 2026 [BLOODY_SWEET]",
             "match_id": 141907,
             "startTime": "10 April 2026 05:45 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
+            "team_1": "Day 1",
+            "team_2": "Georgia, USA",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "The Augusta Masters 2026",
+            "match_name": "Day 1 | The Augusta Masters 2026 [BLOODY_SWEET]",
+            "match_id": 141876,
+            "startTime": "09 April 2026 10:30 PM",
             "stream_url": ""
         },
         {
@@ -571,6 +556,21 @@
             "event_name": "ISL 2025-26",
             "match_name": "Chennaiyin Fc Vs East Bengal Fc | ISL 2025-26 [BLOODY_SWEET]",
             "match_id": 140482,
+            "startTime": "11 April 2026 05:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Norwich City F.c. Vs Ipswich Town F.c.",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141438_5489_NOR_IPT_fc-web.jpg",
+            "team_1": "Norwich City F.C.",
+            "team_2": "Ipswich Town F.C.",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Norwich City F.c. Vs Ipswich Town F.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
+            "match_id": 141438,
             "startTime": "11 April 2026 05:00 PM",
             "stream_url": ""
         }
