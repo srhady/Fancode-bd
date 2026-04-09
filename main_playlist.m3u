@@ -1,12 +1,9 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:24 PM 09-04-2026
+#last update time: 12:45:21 PM 09-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg" group-title="Live Sports", Malaysia A Vs Hong Kong China A | Hong Kong China-A tour of Malaysia-A 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/malaysia_a_vs_hong_kong__china_a_141776_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141748_6028_NYL_PUW_FC-WEB.jpg" group-title="Live Sports", New York Liberty Xi Vs Perth United Warriors | Brisbane Champions League 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/new_york_liberty_xi_vs_perth_united_warriors_141748_english.m3u8
 

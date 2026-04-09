@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:30:24 PM 09-04-2026",
+    "last update time": "12:45:21 PM 09-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,21 +18,6 @@
             "match_id": 141776,
             "startTime": "09 April 2026 07:00 AM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/malaysia_a_vs_hong_kong__china_a_141776_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New York Liberty Xi Vs Perth United Warriors",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141748_6028_NYL_PUW_FC-WEB.jpg",
-            "team_1": "New York Liberty XI",
-            "team_2": "Perth United Warriors",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "New York Liberty Xi Vs Perth United Warriors | Brisbane Champions League 2026 [ENGLISH]",
-            "match_id": 141748,
-            "startTime": "09 April 2026 08:30 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/new_york_liberty_xi_vs_perth_united_warriors_141748_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -572,6 +557,21 @@
             "match_name": "Western Sydney Wanderers Vs Sydney Fc | A League 2025-26 [BLOODY_SWEET]",
             "match_id": 140932,
             "startTime": "11 April 2026 03:05 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Chennaiyin Fc Vs East Bengal Fc",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140482_5956_CFC_EBFC_FC-Web_1772461085009.jpg",
+            "team_1": "Chennaiyin FC",
+            "team_2": "East Bengal FC",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ISL 2025-26",
+            "match_name": "Chennaiyin Fc Vs East Bengal Fc | ISL 2025-26 [BLOODY_SWEET]",
+            "match_id": 140482,
+            "startTime": "11 April 2026 05:00 PM",
             "stream_url": ""
         }
     ]
