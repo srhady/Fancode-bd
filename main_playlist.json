@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:00:27 AM 11-04-2026",
+    "last update time": "12:15:20 AM 11-04-2026",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "title": "Court Ranier Iii",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-            "team_1": "Court Ranier III",
-            "team_2": "Monaco",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
-            "match_name": "Court Ranier Iii | ATP Masters Rolex Monte-Carlo 2026 [ENGLISH]",
-            "match_id": 141917,
-            "startTime": "10 April 2026 02:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/court_ranier_iii_141917_english.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "A. Minaur Vs V. Vacherot",
@@ -321,21 +306,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Newcastle Jets Vs Adelaide United",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140931_5802_NJ_ADL_fc-web.jpg",
-            "team_1": "Newcastle Jets",
-            "team_2": "Adelaide United",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Newcastle Jets Vs Adelaide United | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140931,
-            "startTime": "11 April 2026 12:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Elche Cf Vs Valencia Cf",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131135_5427_ELC_VAL_FC-Web.png",
             "team_1": "Elche CF",
@@ -347,6 +317,21 @@
             "match_name": "Elche Cf Vs Valencia Cf | LALIGA 2025-26 [BLOODY_SWEET]",
             "match_id": 131135,
             "startTime": "11 April 2026 07:45 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Newcastle Jets Vs Adelaide United",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140931_5802_NJ_ADL_fc-web.jpg",
+            "team_1": "Newcastle Jets",
+            "team_2": "Adelaide United",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Newcastle Jets Vs Adelaide United | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140931,
+            "startTime": "11 April 2026 12:30 PM",
             "stream_url": ""
         },
         {
@@ -557,6 +542,21 @@
             "match_name": "Namibia Vs Scotland | ICC CWC League 2, Namibia [BLOODY_SWEET]",
             "match_id": 141651,
             "startTime": "12 April 2026 01:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Melbourne Pirates Vs Everest Falcons",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141753_6028_MEP_EVF_FC-WEB.jpg",
+            "team_1": "Melbourne Pirates",
+            "team_2": "Everest Falcons",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Melbourne Pirates Vs Everest Falcons | Brisbane Champions League 2026 [BLOODY_SWEET]",
+            "match_id": 141753,
+            "startTime": "12 April 2026 01:30 PM",
             "stream_url": ""
         }
     ]
