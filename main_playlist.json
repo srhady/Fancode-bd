@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:15:16 AM 11-04-2026",
+    "last update time": "03:30:23 AM 11-04-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -261,21 +261,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Auckland Vs Melbourne Victory",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140930_5802_AFC_MLV_fc-web.jpg",
-            "team_1": "Auckland",
-            "team_2": "Melbourne Victory",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Auckland Vs Melbourne Victory | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140930,
-            "startTime": "11 April 2026 10:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Fc Barcelona Vs Rcd Espanyol",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131133_5427_BAR_ESL_FC-Web.png",
             "team_1": "FC Barcelona",
@@ -287,6 +272,21 @@
             "match_name": "Fc Barcelona Vs Rcd Espanyol | LALIGA 2025-26 [BLOODY_SWEET]",
             "match_id": 131133,
             "startTime": "11 April 2026 10:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Auckland Vs Melbourne Victory",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140930_5802_AFC_MLV_fc-web.jpg",
+            "team_1": "Auckland",
+            "team_2": "Melbourne Victory",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Auckland Vs Melbourne Victory | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140930,
+            "startTime": "11 April 2026 10:30 AM",
             "stream_url": ""
         },
         {
