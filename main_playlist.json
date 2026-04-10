@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:30:24 PM 10-04-2026",
+    "last update time": "07:45:20 PM 10-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -21,21 +21,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Brazil Women Vs Mozambique Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
-            "team_1": "Brazil Women",
-            "team_2": "Mozambique Women",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Brazil Women Vs Mozambique Women | Kalahari Women's T20 2026 [ENGLISH]",
-            "match_id": 141906,
-            "startTime": "10 April 2026 05:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/brazil_women_vs_mozambique_women_141906_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Zambia Women Vs Malawi Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
             "team_1": "Zambia Women",
@@ -48,66 +33,6 @@
             "match_id": 141907,
             "startTime": "10 April 2026 05:45 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/zambia_women_vs_malawi_women_141907_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Northeast United Fc Vs Sporting Club Delhi",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140480_5956_NEUFC_SCD_FC-Web_1772964305694.jpg",
-            "team_1": "NorthEast United FC",
-            "team_2": "Sporting Club Delhi",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ISL 2025-26",
-            "match_name": "Northeast United Fc Vs Sporting Club Delhi | ISL 2025-26 [ENGLISH]",
-            "match_id": 140480,
-            "startTime": "10 April 2026 05:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/northeast_united_fc_vs_sporting_club_delhi_140480_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Northeast United Fc Vs Sporting Club Delhi",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140480_5956_NEUFC_SCD_FC-Web_1772964305694.jpg",
-            "team_1": "NorthEast United FC",
-            "team_2": "Sporting Club Delhi",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "HINDI",
-            "event_name": "ISL 2025-26",
-            "match_name": "Northeast United Fc Vs Sporting Club Delhi | ISL 2025-26 [HINDI]",
-            "match_id": 140480,
-            "startTime": "10 April 2026 05:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/northeast_united_fc_vs_sporting_club_delhi_140480_hindi.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Northeast United Fc Vs Sporting Club Delhi",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140480_5956_NEUFC_SCD_FC-Web_1772964305694.jpg",
-            "team_1": "NorthEast United FC",
-            "team_2": "Sporting Club Delhi",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "MALAYALAM",
-            "event_name": "ISL 2025-26",
-            "match_name": "Northeast United Fc Vs Sporting Club Delhi | ISL 2025-26 [MALAYALAM]",
-            "match_id": 140480,
-            "startTime": "10 April 2026 05:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/northeast_united_fc_vs_sporting_club_delhi_140480_malayalam.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Northeast United Fc Vs Sporting Club Delhi",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140480_5956_NEUFC_SCD_FC-Web_1772964305694.jpg",
-            "team_1": "NorthEast United FC",
-            "team_2": "Sporting Club Delhi",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "BENGALI",
-            "event_name": "ISL 2025-26",
-            "match_name": "Northeast United Fc Vs Sporting Club Delhi | ISL 2025-26 [BENGALI]",
-            "match_id": 140480,
-            "startTime": "10 April 2026 05:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/northeast_united_fc_vs_sporting_club_delhi_140480_bengali.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -291,21 +216,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Newcastle Jets Vs Adelaide United",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140931_5802_NJ_ADL_fc-web.jpg",
-            "team_1": "Newcastle Jets",
-            "team_2": "Adelaide United",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Newcastle Jets Vs Adelaide United | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140931,
-            "startTime": "11 April 2026 12:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Chennaiyin Fc Vs East Bengal Fc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140482_5956_CFC_EBFC_FC-Web_1772461085009.jpg",
             "team_1": "Chennaiyin FC",
@@ -362,6 +272,21 @@
             "match_name": "Chennaiyin Fc Vs East Bengal Fc | ISL 2025-26  - Regional [BLOODY_SWEET]",
             "match_id": 141807,
             "startTime": "11 April 2026 05:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Newcastle Jets Vs Adelaide United",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140931_5802_NJ_ADL_fc-web.jpg",
+            "team_1": "Newcastle Jets",
+            "team_2": "Adelaide United",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Newcastle Jets Vs Adelaide United | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140931,
+            "startTime": "11 April 2026 12:30 PM",
             "stream_url": ""
         },
         {
@@ -617,6 +542,36 @@
             "match_name": "M\u00e1laga Vs Las Palmas | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
             "match_id": 141687,
             "startTime": "11 April 2026 10:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Sevilla Fc Vs Atletico De Madrid",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131138_5427_SEV_ATL_FC-Web.png",
+            "team_1": "Sevilla FC",
+            "team_2": "Atletico de Madrid",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Sevilla Fc Vs Atletico De Madrid | LALIGA 2025-26 [BLOODY_SWEET]",
+            "match_id": 131138,
+            "startTime": "12 April 2026 12:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
+            "team_1": "Day 3",
+            "team_2": "Georgia, USA",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "The Augusta Masters 2026",
+            "match_name": "Day 3 | The Augusta Masters 2026 [BLOODY_SWEET]",
+            "match_id": 141878,
+            "startTime": "11 April 2026 09:30 PM",
             "stream_url": ""
         }
     ]
