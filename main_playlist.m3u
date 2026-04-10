@@ -1,17 +1,17 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:00:29 PM 10-04-2026
+#last update time: 06:15:45 PM 10-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141650_6025_NAM_OMN_fc-Web.jpg" group-title="Live Sports", Oman Vs Namibia | ICC CWC League 2 Namibia (ENGLISH)
 https://fancode-bd-srhady.vercel.app/oman_vs_namibia_141650_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141752_6028_ISK_BRS_FC-WEB.jpg" group-title="Live Sports", Iconic Super Knights Vs Brisbane Stars | Brisbane Champions League 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/iconic_super_knights_vs_brisbane_stars_141752_english.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png" group-title="Live Sports", Brazil Women Vs Mozambique Women | Kalahari Women's T20 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/brazil_women_vs_mozambique_women_141906_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png" group-title="Live Sports", Zambia Women Vs Malawi Women | Kalahari Women's T20 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/zambia_women_vs_malawi_women_141907_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140480_5956_NEUFC_SCD_FC-Web_1772964305694.jpg" group-title="Live Sports", Northeast United Fc Vs Sporting Club Delhi | ISL 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/northeast_united_fc_vs_sporting_club_delhi_140480_english.m3u8
@@ -25,15 +25,12 @@ https://fancode-bd-srhady.vercel.app/northeast_united_fc_vs_sporting_club_delhi_
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140480_5956_NEUFC_SCD_FC-Web_1772964305694.jpg" group-title="Live Sports", Northeast United Fc Vs Sporting Club Delhi | ISL 2025-26 (BENGALI)
 https://fancode-bd-srhady.vercel.app/northeast_united_fc_vs_sporting_club_delhi_140480_bengali.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140929_5802_CCM_BRB_fc-web.jpg" group-title="Live Sports", Central Coast Mariners Vs Brisbane Roar | A League 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/central_coast_mariners_vs_brisbane_roar_140929_english.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", Court Ranier Iii | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/court_ranier_iii_141917_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", Court Des Princes | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/court_des_princes_141916_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Alexander-Zverev-vs-Joao-Fonseca_web.jpg" group-title="Live Sports", Zverev Vs Fonseca | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/zverev_vs_fonseca_141915_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Felix-Auger-Aliassime_web.jpg" group-title="Live Sports", J. Sinner Vs F. Auger Aliassime | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/j__sinner_vs_f__auger_aliassime_141915_english.m3u8
 
