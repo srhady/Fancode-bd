@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:30:21 PM 10-04-2026",
+    "last update time": "09:45:20 PM 10-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Oman Vs Namibia",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141650_6025_NAM_OMN_fc-Web.jpg",
-            "team_1": "Oman",
-            "team_2": "Namibia",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC CWC League 2, Namibia",
-            "match_name": "Oman Vs Namibia | ICC CWC League 2, Namibia [ENGLISH]",
-            "match_id": 141650,
-            "startTime": "10 April 2026 01:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/oman_vs_namibia_141650_english.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Fc Goa Vs Odisha Fc",
@@ -305,21 +290,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Auckland Vs Melbourne Victory",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140930_5802_AFC_MLV_fc-web.jpg",
-            "team_1": "Auckland",
-            "team_2": "Melbourne Victory",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Auckland Vs Melbourne Victory | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140930,
-            "startTime": "11 April 2026 10:30 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Tbc Vs Tbc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
@@ -347,6 +317,21 @@
             "match_name": "Real Sociedad Vs Deportivo Alaves | LALIGA 2025-26 [BLOODY_SWEET]",
             "match_id": 131137,
             "startTime": "11 April 2026 05:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Auckland Vs Melbourne Victory",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140930_5802_AFC_MLV_fc-web.jpg",
+            "team_1": "Auckland",
+            "team_2": "Melbourne Victory",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Auckland Vs Melbourne Victory | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140930,
+            "startTime": "11 April 2026 10:30 AM",
             "stream_url": ""
         },
         {
@@ -485,21 +470,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Golf",
-            "title": "Day 2",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
-            "team_1": "Day 2",
-            "team_2": "Georgia, USA",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "The Augusta Masters 2026",
-            "match_name": "Day 2 | The Augusta Masters 2026 [BLOODY_SWEET]",
-            "match_id": 141877,
-            "startTime": "10 April 2026 10:30 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "Al Okhdood Club Vs Al Nassr Fc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140729_5655_ALK_ANF_fc-web.jpg",
@@ -512,6 +482,21 @@
             "match_name": "Al Okhdood Club Vs Al Nassr Fc | Roshn Saudi League 2025-2026 [BLOODY_SWEET]",
             "match_id": 140729,
             "startTime": "11 April 2026 11:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
+            "team_1": "Day 2",
+            "team_2": "Georgia, USA",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "The Augusta Masters 2026",
+            "match_name": "Day 2 | The Augusta Masters 2026 [BLOODY_SWEET]",
+            "match_id": 141877,
+            "startTime": "10 April 2026 10:30 PM",
             "stream_url": ""
         },
         {
@@ -602,6 +587,21 @@
             "match_name": "Day 3 | The Augusta Masters 2026 [BLOODY_SWEET]",
             "match_id": 141878,
             "startTime": "11 April 2026 09:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Brisbane Napoleans Vs Melbourne Tuskers",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141755_6028_BNA_MET_FC-WEB.jpg",
+            "team_1": "Brisbane Napoleans",
+            "team_2": "Melbourne Tuskers",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Brisbane Napoleans Vs Melbourne Tuskers | Brisbane Champions League 2026 [BLOODY_SWEET]",
+            "match_id": 141755,
+            "startTime": "12 April 2026 08:30 AM",
             "stream_url": ""
         }
     ]
