@@ -2,53 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:30:23 AM 12-04-2026",
+    "last update time": "12:45:17 AM 12-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Fc Barcelona Vs Rcd Espanyol",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131133_5427_BAR_ESL_FC-Web.png",
-            "team_1": "FC Barcelona",
-            "team_2": "RCD Espanyol",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Fc Barcelona Vs Rcd Espanyol | LALIGA 2025-26 [ENGLISH]",
-            "match_id": 131133,
-            "startTime": "11 April 2026 10:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/fc_barcelona_vs_rcd_espanyol_131133_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Fc Barcelona Vs Rcd Espanyol",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131133_5427_BAR_ESL_FC-Web.png",
-            "team_1": "FC Barcelona",
-            "team_2": "RCD Espanyol",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "HINDI",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Fc Barcelona Vs Rcd Espanyol | LALIGA 2025-26 [HINDI]",
-            "match_id": 131133,
-            "startTime": "11 April 2026 10:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/fc_barcelona_vs_rcd_espanyol_131133_hindi.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Fc Barcelona Vs Rcd Espanyol",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131133_5427_BAR_ESL_FC-Web.png",
-            "team_1": "FC Barcelona",
-            "team_2": "RCD Espanyol",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "BENGALI",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Fc Barcelona Vs Rcd Espanyol | LALIGA 2025-26 [BENGALI]",
-            "match_id": 131133,
-            "startTime": "11 April 2026 10:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/fc_barcelona_vs_rcd_espanyol_131133_bengali.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Al Okhdood Club Vs Al Nassr Fc",
@@ -63,6 +18,21 @@
             "match_id": 140729,
             "startTime": "11 April 2026 11:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/al_okhdood_club_vs_al_nassr_fc_140729_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sevilla Fc Vs Atletico De Madrid",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131138_5427_SEV_ATL_FC-Web.png",
+            "team_1": "Sevilla FC",
+            "team_2": "Atletico de Madrid",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Sevilla Fc Vs Atletico De Madrid | LALIGA 2025-26 [ENGLISH]",
+            "match_id": 131138,
+            "startTime": "12 April 2026 12:30 AM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/sevilla_fc_vs_atletico_de_madrid_131138_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -93,21 +63,6 @@
             "match_id": 141878,
             "startTime": "11 April 2026 09:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/day_3_141878_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sevilla Fc Vs Atletico De Madrid",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131138_5427_SEV_ATL_FC-Web.png",
-            "team_1": "Sevilla FC",
-            "team_2": "Atletico de Madrid",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Sevilla Fc Vs Atletico De Madrid | LALIGA 2025-26 [BLOODY_SWEET]",
-            "match_id": 131138,
-            "startTime": "12 April 2026 12:30 AM",
-            "stream_url": ""
         },
         {
             "event_category": "Cricket",
@@ -276,21 +231,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Melbourne City Vs Wellington Phoenix",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140933_5802_MLC_WEL_fc-web.jpg",
-            "team_1": "Melbourne City",
-            "team_2": "Wellington Phoenix",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne City Vs Wellington Phoenix | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140933,
-            "startTime": "12 April 2026 10:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Rcd Mallorca Vs Rayo Vallecano",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131136_5427_MRC_RVL_FC-Web.png",
             "team_1": "RCD Mallorca",
@@ -302,6 +242,21 @@
             "match_name": "Rcd Mallorca Vs Rayo Vallecano | LALIGA 2025-26 [BLOODY_SWEET]",
             "match_id": 131136,
             "startTime": "12 April 2026 07:45 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Melbourne City Vs Wellington Phoenix",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140933_5802_MLC_WEL_fc-web.jpg",
+            "team_1": "Melbourne City",
+            "team_2": "Wellington Phoenix",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Melbourne City Vs Wellington Phoenix | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140933,
+            "startTime": "12 April 2026 10:30 AM",
             "stream_url": ""
         },
         {
