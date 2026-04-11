@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:30:26 PM 11-04-2026
+#last update time: 05:45:18 PM 11-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-A-Tour-of-Sri-Lanka_FC-WEB.jpg" group-title="Live Sports", New Zealand A Vs Sri Lanka A | New Zealand A Tour of Sri Lanka 2026 (ENGLISH)
@@ -9,6 +9,9 @@ https://fancode-bd-srhady.vercel.app/new_zealand_a_vs_sri_lanka_a_141800_english
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141754_6028_ISK_MET_FC-WEB.jpg" group-title="Live Sports", Iconic Super Knights Vs Melbourne Tuskers | Brisbane Champions League 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/iconic_super_knights_vs_melbourne_tuskers_141754_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141438_5489_NOR_IPT_fc-web.jpg" group-title="Live Sports", Norwich City F.c. Vs Ipswich Town F.c. | EFL Championship 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/norwich_city_f_c__vs_ipswich_town_f_c__141438_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140482_5956_CFC_EBFC_FC-Web_1772461085009.jpg" group-title="Live Sports", Chennaiyin Fc Vs East Bengal Fc | ISL 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/chennaiyin_fc_vs_east_bengal_fc_140482_english.m3u8
@@ -25,17 +28,14 @@ https://fancode-bd-srhady.vercel.app/chennaiyin_fc_vs_east_bengal_fc_140482_mala
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140482_5956_CFC_EBFC_FC-Web_1772461085009.jpg" group-title="Live Sports", Chennaiyin Fc Vs East Bengal Fc | ISL 2025-26 (BENGALI)
 https://fancode-bd-srhady.vercel.app/chennaiyin_fc_vs_east_bengal_fc_140482_bengali.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141438_5489_NOR_IPT_fc-web.jpg" group-title="Live Sports", Norwich City F.c. Vs Ipswich Town F.c. | EFL Championship 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/norwich_city_f_c__vs_ipswich_town_f_c__141438_english.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141808_5973_CFC_EBFC_fc-web.jpg" group-title="Live Sports", Chennaiyin Fc Vs East Bengal Fc | ISL 2025-26  - Regional (BENGALI)
 https://fancode-bd-srhady.vercel.app/chennaiyin_fc_vs_east_bengal_fc_141808_bengali.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141807_5973_CFC_EBFC_fc-web.jpg" group-title="Live Sports", Chennaiyin Fc Vs East Bengal Fc | ISL 2025-26  - Regional (TAMIL)
 https://fancode-bd-srhady.vercel.app/chennaiyin_fc_vs_east_bengal_fc_141807_tamil.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png" group-title="Live Sports", Japan U20 Vs Vietnam U20 | AFC U20 Women's Asian Cup 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/japan_u20_vs_vietnam_u20_141629_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131137_5427_RS_ALA_FC-Web.png" group-title="Live Sports", Real Sociedad Vs Deportivo Alaves | LALIGA 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/real_sociedad_vs_deportivo_alaves_131137_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140932_5802_SYW_SYD_fc-web.jpg" group-title="Live Sports", Western Sydney Wanderers Vs Sydney Fc | A League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/western_sydney_wanderers_vs_sydney_fc_140932_english.m3u8
