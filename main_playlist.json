@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:15:19 PM 11-04-2026",
+    "last update time": "01:30:24 PM 11-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -35,6 +35,21 @@
             "stream_url": "https://fancode-bd-srhady.vercel.app/botswana_women_vs_mozambique_women_141903_english.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Zambia Women Vs Lesotho Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+            "team_1": "Zambia Women",
+            "team_2": "Lesotho Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Zambia Women Vs Lesotho Women | Kalahari Women's T20 2026 [ENGLISH]",
+            "match_id": 141908,
+            "startTime": "11 April 2026 01:00 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/zambia_women_vs_lesotho_women_141908_english.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Auckland Vs Melbourne Victory",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140930_5802_AFC_MLV_fc-web.jpg",
@@ -63,21 +78,6 @@
             "match_id": 140931,
             "startTime": "11 April 2026 12:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/newcastle_jets_vs_adelaide_united_140931_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Zambia Women Vs Lesotho Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
-            "team_1": "Zambia Women",
-            "team_2": "Lesotho Women",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Zambia Women Vs Lesotho Women | Kalahari Women's T20 2026 [BLOODY_SWEET]",
-            "match_id": 141908,
-            "startTime": "11 April 2026 01:00 PM",
-            "stream_url": ""
         },
         {
             "event_category": "Cricket",
