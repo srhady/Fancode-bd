@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:45:18 PM 11-04-2026",
+    "last update time": "06:00:22 PM 11-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -21,18 +21,18 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Iconic Super Knights Vs Melbourne Tuskers",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141754_6028_ISK_MET_FC-WEB.jpg",
-            "team_1": "Iconic Super Knights",
-            "team_2": "Melbourne Tuskers",
+            "title": "Mozambique Women Vs Malawi Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+            "team_1": "Mozambique Women",
+            "team_2": "Malawi Women",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Iconic Super Knights Vs Melbourne Tuskers | Brisbane Champions League 2026 [ENGLISH]",
-            "match_id": 141754,
-            "startTime": "11 April 2026 01:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/iconic_super_knights_vs_melbourne_tuskers_141754_english.m3u8"
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Mozambique Women Vs Malawi Women | Kalahari Women's T20 2026 [ENGLISH]",
+            "match_id": 141909,
+            "startTime": "11 April 2026 05:30 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/mozambique_women_vs_malawi_women_141909_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -127,7 +127,7 @@
         {
             "event_category": "Football",
             "title": "Chennaiyin Fc Vs East Bengal Fc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141808_5973_CFC_EBFC_fc-web.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141807_5973_CFC_EBFC_fc-web.jpg",
             "team_1": "Chennaiyin FC",
             "team_2": "East Bengal FC",
             "status": "LIVE",
@@ -142,7 +142,7 @@
         {
             "event_category": "Football",
             "title": "Chennaiyin Fc Vs East Bengal Fc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141807_5973_CFC_EBFC_fc-web.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141808_5973_CFC_EBFC_fc-web.jpg",
             "team_1": "Chennaiyin FC",
             "team_2": "East Bengal FC",
             "status": "LIVE",
@@ -216,33 +216,18 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Mozambique Women Vs Malawi Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
-            "team_1": "Mozambique Women",
-            "team_2": "Malawi Women",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Mozambique Women Vs Malawi Women | Kalahari Women's T20 2026 [BLOODY_SWEET]",
-            "match_id": 141909,
-            "startTime": "11 April 2026 05:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
             "title": "Brazil Women Vs Botswana Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
             "team_1": "Brazil Women",
             "team_2": "Botswana Women",
             "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Brazil Women Vs Botswana Women | Kalahari Women's T20 2026 [BLOODY_SWEET]",
+            "match_name": "Brazil Women Vs Botswana Women | Kalahari Women's T20 2026 [ENGLISH]",
             "match_id": 141910,
             "startTime": "11 April 2026 05:45 PM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/brazil_women_vs_botswana_women_141910_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -632,6 +617,21 @@
             "match_name": "Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 [BLOODY_SWEET]",
             "match_id": 141948,
             "startTime": "12 April 2026 08:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Thailand U20 Vs Korea Republic U20",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
+            "team_1": "Thailand U20",
+            "team_2": "Korea Republic U20",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "Thailand U20 Vs Korea Republic U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
+            "match_id": 141632,
+            "startTime": "12 April 2026 06:30 PM",
             "stream_url": ""
         }
     ]
