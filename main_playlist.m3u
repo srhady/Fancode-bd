@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:20 PM 11-04-2026
+#last update time: 10:45:19 PM 11-04-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png" group-title="Live Sports", Mozambique Women Vs Malawi Women | Kalahari Women's T20 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/mozambique_women_vs_malawi_women_141909_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131133_5427_BAR_ESL_FC-Web.png" group-title="Live Sports", Fc Barcelona Vs Rcd Espanyol | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/fc_barcelona_vs_rcd_espanyol_131133_english.m3u8
