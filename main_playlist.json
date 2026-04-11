@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:15:16 PM 11-04-2026",
+    "last update time": "10:30:20 PM 11-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,36 +18,6 @@
             "match_id": 141909,
             "startTime": "11 April 2026 05:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/mozambique_women_vs_malawi_women_141909_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sheffield United F.c. Vs Hull City",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141439_5489_SHF_HUL_fc-web.jpg",
-            "team_1": "Sheffield United F.C.",
-            "team_2": "Hull City",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Sheffield United F.c. Vs Hull City | EFL Championship 2025-26 [ENGLISH]",
-            "match_id": 141439,
-            "startTime": "11 April 2026 07:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/sheffield_united_f_c__vs_hull_city_141439_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Elche Cf Vs Valencia Cf",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131135_5427_ELC_VAL_FC-Web.png",
-            "team_1": "Elche CF",
-            "team_2": "Valencia CF",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Elche Cf Vs Valencia Cf | LALIGA 2025-26 [ENGLISH]",
-            "match_id": 131135,
-            "startTime": "11 April 2026 07:45 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/elche_cf_vs_valencia_cf_131135_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -95,6 +65,21 @@
             "stream_url": "https://fancode-bd-srhady.vercel.app/fc_barcelona_vs_rcd_espanyol_131133_bengali.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "M\u00e1laga Vs Las Palmas",
+            "src": "https://images.fancode.com/aig/match/v1774680543089/141687_CASACARDS_APP.png",
+            "team_1": "M\u00e1laga",
+            "team_2": "Las Palmas",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "M\u00e1laga Vs Las Palmas | LALIGA Hypermotion 2025-26 [ENGLISH]",
+            "match_id": 141687,
+            "startTime": "11 April 2026 10:00 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/m_laga_vs_las_palmas_141687_english.m3u8"
+        },
+        {
             "event_category": "Tennis",
             "title": "Doubles Semi Final",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
@@ -126,17 +111,17 @@
         },
         {
             "event_category": "Football",
-            "title": "M\u00e1laga Vs Las Palmas",
-            "src": "https://images.fancode.com/aig/match/v1774680543089/141687_CASACARDS_APP.png",
-            "team_1": "M\u00e1laga",
-            "team_2": "Las Palmas",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
+            "title": "Sheffield United F.c. Vs Hull City",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141439_5489_SHF_HUL_fc-web.jpg",
+            "team_1": "Sheffield United F.C.",
+            "team_2": "Hull City",
+            "status": "LIVE",
+            "streaming_status": "COMPLETED",
             "language": "BLOODY_SWEET",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "M\u00e1laga Vs Las Palmas | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
-            "match_id": 141687,
-            "startTime": "11 April 2026 10:00 PM",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Sheffield United F.c. Vs Hull City | EFL Championship 2025-26 [BLOODY_SWEET]",
+            "match_id": 141439,
+            "startTime": "11 April 2026 07:30 PM",
             "stream_url": ""
         },
         {
@@ -572,6 +557,21 @@
             "match_name": "New York Liberty Xi Vs Melbourne Pirates | Brisbane Champions League 2026 [BLOODY_SWEET]",
             "match_id": 141757,
             "startTime": "13 April 2026 08:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Melbourne Tuskers Vs Brisbane Stars",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141758_6028_MET_BRS_FC-WEB.jpg",
+            "team_1": "Melbourne Tuskers",
+            "team_2": "Brisbane Stars",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Melbourne Tuskers Vs Brisbane Stars | Brisbane Champions League 2026 [BLOODY_SWEET]",
+            "match_id": 141758,
+            "startTime": "13 April 2026 01:30 PM",
             "stream_url": ""
         }
     ]
