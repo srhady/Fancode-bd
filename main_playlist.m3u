@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:45:20 PM 11-04-2026
+#last update time: 12:00:30 AM 12-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131133_5427_BAR_ESL_FC-Web.png" group-title="Live Sports", Fc Barcelona Vs Rcd Espanyol | LALIGA 2025-26 (ENGLISH)
@@ -13,12 +13,12 @@ https://fancode-bd-srhady.vercel.app/fc_barcelona_vs_rcd_espanyol_131133_hindi.m
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131133_5427_BAR_ESL_FC-Web.png" group-title="Live Sports", Fc Barcelona Vs Rcd Espanyol | LALIGA 2025-26 (BENGALI)
 https://fancode-bd-srhady.vercel.app/fc_barcelona_vs_rcd_espanyol_131133_bengali.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140729_5655_ALK_ANF_fc-web.jpg" group-title="Live Sports", Al Okhdood Club Vs Al Nassr Fc | Roshn Saudi League 2025-2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/al_okhdood_club_vs_al_nassr_fc_140729_english.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774680543089/141687_CASACARDS_APP.png" group-title="Live Sports", Málaga Vs Las Palmas | LALIGA Hypermotion 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/m_laga_vs_las_palmas_141687_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg" group-title="Live Sports", Day 3 | The Augusta Masters 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_3_141878_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140729_5655_ALK_ANF_fc-web.jpg" group-title="Live Sports", Al Okhdood Club Vs Al Nassr Fc | Roshn Saudi League 2025-2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/al_okhdood_club_vs_al_nassr_fc_140729_english.m3u8
 
