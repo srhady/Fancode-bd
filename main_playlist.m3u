@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:15:17 AM 12-04-2026
+#last update time: 03:30:22 AM 12-04-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131138_5427_SEV_ATL_FC-Web.png" group-title="Live Sports", Sevilla Fc Vs Atletico De Madrid | LALIGA 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/sevilla_fc_vs_atletico_de_madrid_131138_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg" group-title="Live Sports", Day 3 | The Augusta Masters 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_3_141878_english.m3u8

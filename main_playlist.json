@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:15:17 AM 12-04-2026",
+    "last update time": "03:30:22 AM 12-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Sevilla Fc Vs Atletico De Madrid",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131138_5427_SEV_ATL_FC-Web.png",
-            "team_1": "Sevilla FC",
-            "team_2": "Atletico de Madrid",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Sevilla Fc Vs Atletico De Madrid | LALIGA 2025-26 [ENGLISH]",
-            "match_id": 131138,
-            "startTime": "12 April 2026 12:30 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/sevilla_fc_vs_atletico_de_madrid_131138_english.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Day 3",
@@ -231,21 +216,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Melbourne City Vs Wellington Phoenix",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140933_5802_MLC_WEL_fc-web.jpg",
-            "team_1": "Melbourne City",
-            "team_2": "Wellington Phoenix",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne City Vs Wellington Phoenix | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140933,
-            "startTime": "12 April 2026 10:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Rc Celta Vs Real Oviedo",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131134_5427_CEV_RO_FC-Web.png",
             "team_1": "RC Celta",
@@ -257,6 +227,21 @@
             "match_name": "Rc Celta Vs Real Oviedo | LALIGA 2025-26 [BLOODY_SWEET]",
             "match_id": 131134,
             "startTime": "12 April 2026 10:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Melbourne City Vs Wellington Phoenix",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140933_5802_MLC_WEL_fc-web.jpg",
+            "team_1": "Melbourne City",
+            "team_2": "Wellington Phoenix",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Melbourne City Vs Wellington Phoenix | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140933,
+            "startTime": "12 April 2026 10:30 AM",
             "stream_url": ""
         },
         {
@@ -306,6 +291,21 @@
         },
         {
             "event_category": "Football",
+            "title": "Athletic Club Vs Villarreal Cf",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131132_5427_ATH_VIL_FC-Web.png",
+            "team_1": "Athletic Club",
+            "team_2": "Villarreal CF",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Athletic Club Vs Villarreal Cf | LALIGA 2025-26 [BLOODY_SWEET]",
+            "match_id": 131132,
+            "startTime": "13 April 2026 12:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
             "title": "Luton Town Vs Stockport County",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1772173611237.png",
             "team_1": "Luton Town",
@@ -332,21 +332,6 @@
             "match_name": "Huesca Vs Deportivo La Coruna | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
             "match_id": 141688,
             "startTime": "12 April 2026 07:45 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Athletic Club Vs Villarreal Cf",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131132_5427_ATH_VIL_FC-Web.png",
-            "team_1": "Athletic Club",
-            "team_2": "Villarreal CF",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Athletic Club Vs Villarreal Cf | LALIGA 2025-26 [BLOODY_SWEET]",
-            "match_id": 131132,
-            "startTime": "13 April 2026 12:30 AM",
             "stream_url": ""
         },
         {
