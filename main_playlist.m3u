@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:45:19 PM 11-04-2026
+#last update time: 07:00:26 PM 11-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png" group-title="Live Sports", Mozambique Women Vs Malawi Women | Kalahari Women's T20 2026 (ENGLISH)
@@ -36,6 +36,9 @@ https://fancode-bd-srhady.vercel.app/chennaiyin_fc_vs_east_bengal_fc_141807_tami
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131137_5427_RS_ALA_FC-Web.png" group-title="Live Sports", Real Sociedad Vs Deportivo Alaves | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/real_sociedad_vs_deportivo_alaves_131137_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png" group-title="Live Sports", China Pr U20 Vs Uzbekistan U20 | AFC U20 Women's Asian Cup 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/china_pr_u20_vs_uzbekistan_u20_141630_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", Doubles Semi Final | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/doubles_semi_final_141919_english.m3u8
