@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:21 PM 11-04-2026
+#last update time: 02:45:18 PM 11-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-A-Tour-of-Sri-Lanka_FC-WEB.jpg" group-title="Live Sports", New Zealand A Vs Sri Lanka A | New Zealand A Tour of Sri Lanka 2026 (ENGLISH)
@@ -18,4 +18,7 @@ https://fancode-bd-srhady.vercel.app/zambia_women_vs_lesotho_women_141908_englis
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140931_5802_NJ_ADL_fc-web.jpg" group-title="Live Sports", Newcastle Jets Vs Adelaide United | A League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/newcastle_jets_vs_adelaide_united_140931_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", Doubles Semi Final | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/doubles_semi_final_141919_english.m3u8
 
