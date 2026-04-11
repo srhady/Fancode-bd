@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:00:22 PM 11-04-2026",
+    "last update time": "06:15:18 PM 11-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -35,19 +35,19 @@
             "stream_url": "https://fancode-bd-srhady.vercel.app/mozambique_women_vs_malawi_women_141909_english.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Norwich City F.c. Vs Ipswich Town F.c.",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141438_5489_NOR_IPT_fc-web.jpg",
-            "team_1": "Norwich City F.C.",
-            "team_2": "Ipswich Town F.C.",
+            "event_category": "Cricket",
+            "title": "Brazil Women Vs Botswana Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+            "team_1": "Brazil Women",
+            "team_2": "Botswana Women",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Norwich City F.c. Vs Ipswich Town F.c. | EFL Championship 2025-26 [ENGLISH]",
-            "match_id": 141438,
-            "startTime": "11 April 2026 05:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/norwich_city_f_c__vs_ipswich_town_f_c__141438_english.m3u8"
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "Brazil Women Vs Botswana Women | Kalahari Women's T20 2026 [ENGLISH]",
+            "match_id": 141910,
+            "startTime": "11 April 2026 05:45 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/brazil_women_vs_botswana_women_141910_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -126,6 +126,21 @@
         },
         {
             "event_category": "Football",
+            "title": "Norwich City F.c. Vs Ipswich Town F.c.",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141438_5489_NOR_IPT_fc-web.jpg",
+            "team_1": "Norwich City F.C.",
+            "team_2": "Ipswich Town F.C.",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Norwich City F.c. Vs Ipswich Town F.c. | EFL Championship 2025-26 [ENGLISH]",
+            "match_id": 141438,
+            "startTime": "11 April 2026 05:00 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/norwich_city_f_c__vs_ipswich_town_f_c__141438_english.m3u8"
+        },
+        {
+            "event_category": "Football",
             "title": "Chennaiyin Fc Vs East Bengal Fc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141807_5973_CFC_EBFC_fc-web.jpg",
             "team_1": "Chennaiyin FC",
@@ -160,7 +175,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131137_5427_RS_ALA_FC-Web.png",
             "team_1": "Real Sociedad",
             "team_2": "Deportivo Alaves",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "LALIGA 2025-26",
@@ -215,19 +230,19 @@
             "stream_url": "https://fancode-bd-srhady.vercel.app/a__zverev_vs_j__sinner_141918_english.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Brazil Women Vs Botswana Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
-            "team_1": "Brazil Women",
-            "team_2": "Botswana Women",
+            "event_category": "Football",
+            "title": "China Pr U20 Vs Uzbekistan U20",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
+            "team_1": "China PR U20",
+            "team_2": "Uzbekistan U20",
             "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Brazil Women Vs Botswana Women | Kalahari Women's T20 2026 [ENGLISH]",
-            "match_id": 141910,
-            "startTime": "11 April 2026 05:45 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/brazil_women_vs_botswana_women_141910_english.m3u8"
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "China Pr U20 Vs Uzbekistan U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
+            "match_id": 141630,
+            "startTime": "11 April 2026 06:30 PM",
+            "stream_url": ""
         },
         {
             "event_category": "Football",
@@ -350,18 +365,18 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "China Pr U20 Vs Uzbekistan U20",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
-            "team_1": "China PR U20",
-            "team_2": "Uzbekistan U20",
+            "event_category": "Cricket",
+            "title": "Namibia Vs Scotland",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141651_6025_NAM_SCO_fc-Web.jpg",
+            "team_1": "Namibia",
+            "team_2": "Scotland",
             "status": "NOT_STARTED",
             "streaming_status": "NOT_STARTED",
             "language": "BLOODY_SWEET",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "China Pr U20 Vs Uzbekistan U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
-            "match_id": 141630,
-            "startTime": "11 April 2026 06:30 PM",
+            "event_name": "ICC CWC League 2, Namibia",
+            "match_name": "Namibia Vs Scotland | ICC CWC League 2, Namibia [BLOODY_SWEET]",
+            "match_id": 141651,
+            "startTime": "12 April 2026 01:00 PM",
             "stream_url": ""
         },
         {
@@ -377,21 +392,6 @@
             "match_name": "M\u00e1laga Vs Las Palmas | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
             "match_id": 141687,
             "startTime": "11 April 2026 10:00 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Namibia Vs Scotland",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141651_6025_NAM_SCO_fc-Web.jpg",
-            "team_1": "Namibia",
-            "team_2": "Scotland",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "ICC CWC League 2, Namibia",
-            "match_name": "Namibia Vs Scotland | ICC CWC League 2, Namibia [BLOODY_SWEET]",
-            "match_id": 141651,
-            "startTime": "12 April 2026 01:00 PM",
             "stream_url": ""
         },
         {
