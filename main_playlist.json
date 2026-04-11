@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:45:20 AM 11-04-2026",
+    "last update time": "11:00:25 AM 11-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -40,14 +40,14 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140930_5802_AFC_MLV_fc-web.jpg",
             "team_1": "Auckland",
             "team_2": "Melbourne Victory",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "A League 2025-26",
-            "match_name": "Auckland Vs Melbourne Victory | A League 2025-26 [BLOODY_SWEET]",
+            "match_name": "Auckland Vs Melbourne Victory | A League 2025-26 [ENGLISH]",
             "match_id": 140930,
             "startTime": "11 April 2026 10:30 AM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/auckland_vs_melbourne_victory_140930_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -410,21 +410,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Tennis",
-            "title": "Doubles Semi Final",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-            "team_1": "Doubles Semi-Final",
-            "team_2": "Monaco",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
-            "match_name": "Doubles Semi Final | ATP Masters Rolex Monte-Carlo 2026 [BLOODY_SWEET]",
-            "match_id": 141918,
-            "startTime": "11 April 2026 02:30 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "Melbourne City Vs Wellington Phoenix",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140933_5802_MLC_WEL_fc-web.jpg",
@@ -440,18 +425,18 @@
             "stream_url": ""
         },
         {
-            "event_category": "Golf",
-            "title": "Day 3",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
-            "team_1": "Day 3",
-            "team_2": "Georgia, USA",
+            "event_category": "Tennis",
+            "title": "Doubles Semi Final",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
+            "team_1": "Doubles Semi-Final",
+            "team_2": "Monaco",
             "status": "NOT_STARTED",
             "streaming_status": "NOT_STARTED",
             "language": "BLOODY_SWEET",
-            "event_name": "The Augusta Masters 2026",
-            "match_name": "Day 3 | The Augusta Masters 2026 [BLOODY_SWEET]",
-            "match_id": 141878,
-            "startTime": "11 April 2026 09:30 PM",
+            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
+            "match_name": "Doubles Semi Final | ATP Masters Rolex Monte-Carlo 2026 [BLOODY_SWEET]",
+            "match_id": 141918,
+            "startTime": "11 April 2026 02:30 PM",
             "stream_url": ""
         },
         {
@@ -467,6 +452,21 @@
             "match_name": "Melbourne Pirates Vs Everest Falcons | Brisbane Champions League 2026 [BLOODY_SWEET]",
             "match_id": 141753,
             "startTime": "12 April 2026 01:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
+            "team_1": "Day 3",
+            "team_2": "Georgia, USA",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "The Augusta Masters 2026",
+            "match_name": "Day 3 | The Augusta Masters 2026 [BLOODY_SWEET]",
+            "match_id": 141878,
+            "startTime": "11 April 2026 09:30 PM",
             "stream_url": ""
         },
         {
