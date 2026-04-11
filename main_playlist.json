@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:15:22 PM 11-04-2026",
+    "last update time": "02:30:21 PM 11-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -440,21 +440,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Golf",
-            "title": "Day 3",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
-            "team_1": "Day 3",
-            "team_2": "Georgia, USA",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "The Augusta Masters 2026",
-            "match_name": "Day 3 | The Augusta Masters 2026 [BLOODY_SWEET]",
-            "match_id": 141878,
-            "startTime": "11 April 2026 09:30 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "Birmingham City F.c. Vs Wrexham A.f.c.",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141440_5489_BIR_WRX_fc-web.jpg",
@@ -467,6 +452,21 @@
             "match_name": "Birmingham City F.c. Vs Wrexham A.f.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
             "match_id": 141440,
             "startTime": "12 April 2026 04:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
+            "team_1": "Day 3",
+            "team_2": "Georgia, USA",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "The Augusta Masters 2026",
+            "match_name": "Day 3 | The Augusta Masters 2026 [BLOODY_SWEET]",
+            "match_id": 141878,
+            "startTime": "11 April 2026 09:30 PM",
             "stream_url": ""
         },
         {
