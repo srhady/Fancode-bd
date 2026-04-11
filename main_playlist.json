@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:30:20 AM 11-04-2026",
+    "last update time": "10:45:20 AM 11-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -21,18 +21,18 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Sri Lanka A Vs New Zealand A",
+            "title": "New Zealand A Vs Sri Lanka A",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-A-Tour-of-Sri-Lanka_FC-WEB.jpg",
-            "team_1": "Sri Lanka A",
-            "team_2": "New Zealand A",
+            "team_1": "New Zealand A",
+            "team_2": "Sri Lanka A",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "New Zealand A Tour of Sri Lanka 2026",
-            "match_name": "Sri Lanka A Vs New Zealand A | New Zealand A Tour of Sri Lanka 2026 [ENGLISH]",
+            "match_name": "New Zealand A Vs Sri Lanka A | New Zealand A Tour of Sri Lanka 2026 [ENGLISH]",
             "match_id": 141800,
             "startTime": "11 April 2026 10:00 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/sri_lanka_a_vs_new_zealand_a_141800_english.m3u8"
+            "stream_url": "https://fancode-bd-srhady.vercel.app/new_zealand_a_vs_sri_lanka_a_141800_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -395,6 +395,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Cricket",
+            "title": "Namibia Vs Scotland",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141651_6025_NAM_SCO_fc-Web.jpg",
+            "team_1": "Namibia",
+            "team_2": "Scotland",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ICC CWC League 2, Namibia",
+            "match_name": "Namibia Vs Scotland | ICC CWC League 2, Namibia [BLOODY_SWEET]",
+            "match_id": 141651,
+            "startTime": "12 April 2026 01:00 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Tennis",
             "title": "Doubles Semi Final",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
@@ -422,21 +437,6 @@
             "match_name": "Melbourne City Vs Wellington Phoenix | A League 2025-26 [BLOODY_SWEET]",
             "match_id": 140933,
             "startTime": "12 April 2026 10:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Namibia Vs Scotland",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141651_6025_NAM_SCO_fc-Web.jpg",
-            "team_1": "Namibia",
-            "team_2": "Scotland",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "ICC CWC League 2, Namibia",
-            "match_name": "Namibia Vs Scotland | ICC CWC League 2, Namibia [BLOODY_SWEET]",
-            "match_id": 141651,
-            "startTime": "12 April 2026 01:00 PM",
             "stream_url": ""
         },
         {
