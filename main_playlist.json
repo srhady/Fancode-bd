@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:00:23 AM 12-04-2026",
+    "last update time": "05:15:19 AM 12-04-2026",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Day 3",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
-            "team_1": "Day 3",
-            "team_2": "Georgia, USA",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "The Augusta Masters 2026",
-            "match_name": "Day 3 | The Augusta Masters 2026 [ENGLISH]",
-            "match_id": 141878,
-            "startTime": "11 April 2026 09:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/day_3_141878_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Brisbane Napoleans Vs Melbourne Tuskers",
@@ -572,6 +557,21 @@
             "match_name": "Melbourne Tuskers Vs Sydney Kangaroos | Brisbane Champions League 2026 [BLOODY_SWEET]",
             "match_id": 141759,
             "startTime": "14 April 2026 08:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Melbourne Pirates Vs Genid Royals",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141760_6028_MEP_GER_FC-WEB.jpg",
+            "team_1": "Melbourne Pirates",
+            "team_2": "Genid Royals",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Melbourne Pirates Vs Genid Royals | Brisbane Champions League 2026 [BLOODY_SWEET]",
+            "match_id": 141760,
+            "startTime": "14 April 2026 01:30 PM",
             "stream_url": ""
         }
     ]
