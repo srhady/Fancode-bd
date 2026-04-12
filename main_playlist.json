@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:45:19 PM 12-04-2026",
+    "last update time": "03:00:22 PM 12-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -55,14 +55,14 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
             "team_1": "DPR Korea U20",
             "team_2": "Australia U20",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Dpr Korea U20 Vs Australia U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
+            "match_name": "Dpr Korea U20 Vs Australia U20 | AFC U20 Women's Asian Cup 2026 [ENGLISH]",
             "match_id": 141631,
             "startTime": "12 April 2026 02:30 PM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/dpr_korea_u20_vs_australia_u20_141631_english.m3u8"
         },
         {
             "event_category": "Cricket",
