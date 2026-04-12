@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:15:17 PM 12-04-2026
+#last update time: 10:30:23 PM 12-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force | West Indies Championship 2026 (ENGLISH)
@@ -13,17 +13,8 @@ https://fancode-bd-srhady.vercel.app/windward_islands_volcanoes_vs_guyana_harpy_
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/jamaica_scorpions_vs_barbados_pride_141948_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131136_5427_MRC_RVL_FC-Web.png" group-title="Live Sports", Rcd Mallorca Vs Rayo Vallecano | LALIGA 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/rcd_mallorca_vs_rayo_vallecano_131136_english.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131134_5427_CEV_RO_FC-Web.png" group-title="Live Sports", Rc Celta Vs Real Oviedo | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/rc_celta_vs_real_oviedo_131134_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1772173611237.png" group-title="Live Sports", Luton Town Vs Stockport County | Vertu Trophy 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/luton_town_vs_stockport_county_140877_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774680543090/141688_CASACARDS_APP.png" group-title="Live Sports", Huesca Vs Deportivo La Coruna | LALIGA Hypermotion 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/huesca_vs_deportivo_la_coruna_141688_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg" group-title="Live Sports", Day 4 | The Augusta Masters 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_4_141879_english.m3u8
