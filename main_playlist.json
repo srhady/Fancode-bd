@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:00:25 PM 12-04-2026",
+    "last update time": "02:15:19 PM 12-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,6 +33,36 @@
             "match_id": 141753,
             "startTime": "12 April 2026 01:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/melbourne_pirates_vs_everest_falcons_141753_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Perth Glory Vs Macarthur",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140934_5802_PG_MAC_fc-web.jpg",
+            "team_1": "Perth Glory",
+            "team_2": "Macarthur",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Perth Glory Vs Macarthur | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140934,
+            "startTime": "12 April 2026 02:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Dpr Korea U20 Vs Australia U20",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
+            "team_1": "DPR Korea U20",
+            "team_2": "Australia U20",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "Dpr Korea U20 Vs Australia U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
+            "match_id": 141631,
+            "startTime": "12 April 2026 02:30 PM",
+            "stream_url": ""
         },
         {
             "event_category": "Cricket",
@@ -227,36 +257,6 @@
             "match_name": "New York Liberty Xi Vs Melbourne Pirates | Brisbane Champions League 2026 [BLOODY_SWEET]",
             "match_id": 141757,
             "startTime": "13 April 2026 08:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Perth Glory Vs Macarthur",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140934_5802_PG_MAC_fc-web.jpg",
-            "team_1": "Perth Glory",
-            "team_2": "Macarthur",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Perth Glory Vs Macarthur | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140934,
-            "startTime": "12 April 2026 02:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Dpr Korea U20 Vs Australia U20",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
-            "team_1": "DPR Korea U20",
-            "team_2": "Australia U20",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Dpr Korea U20 Vs Australia U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
-            "match_id": 141631,
-            "startTime": "12 April 2026 02:30 PM",
             "stream_url": ""
         },
         {
