@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:00:26 PM 12-04-2026",
+    "last update time": "04:15:18 PM 12-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -80,6 +80,21 @@
             "stream_url": "https://fancode-bd-srhady.vercel.app/doubles___final_141923_english.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Birmingham City F.c. Vs Wrexham A.f.c.",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141440_5489_BIR_WRX_fc-web.jpg",
+            "team_1": "Birmingham City F.C.",
+            "team_2": "Wrexham A.F.C.",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Birmingham City F.c. Vs Wrexham A.f.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
+            "match_id": 141440,
+            "startTime": "12 April 2026 04:30 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Cricket",
             "title": "Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
@@ -122,21 +137,6 @@
             "match_name": "Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 [BLOODY_SWEET]",
             "match_id": 141948,
             "startTime": "12 April 2026 08:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Birmingham City F.c. Vs Wrexham A.f.c.",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141440_5489_BIR_WRX_fc-web.jpg",
-            "team_1": "Birmingham City F.C.",
-            "team_2": "Wrexham A.F.C.",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Birmingham City F.c. Vs Wrexham A.f.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
-            "match_id": 141440,
-            "startTime": "12 April 2026 04:30 PM",
             "stream_url": ""
         },
         {
