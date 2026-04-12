@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:45:17 PM 12-04-2026
+#last update time: 05:00:25 PM 12-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141651_6025_NAM_SCO_fc-Web.jpg" group-title="Live Sports", Namibia Vs Scotland | ICC CWC League 2 Namibia (ENGLISH)
@@ -9,6 +9,9 @@ https://fancode-bd-srhady.vercel.app/namibia_vs_scotland_141651_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141753_6028_MEP_EVF_FC-WEB.jpg" group-title="Live Sports", Melbourne Pirates Vs Everest Falcons | Brisbane Champions League 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/melbourne_pirates_vs_everest_falcons_141753_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141440_5489_BIR_WRX_fc-web.jpg" group-title="Live Sports", Birmingham City F.c. Vs Wrexham A.f.c. | EFL Championship 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/birmingham_city_f_c__vs_wrexham_a_f_c__141440_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140934_5802_PG_MAC_fc-web.jpg" group-title="Live Sports", Perth Glory Vs Macarthur | A League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/perth_glory_vs_macarthur_140934_english.m3u8
