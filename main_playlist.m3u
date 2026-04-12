@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:45:17 PM 12-04-2026
+#last update time: 06:00:23 PM 12-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141651_6025_NAM_SCO_fc-Web.jpg" group-title="Live Sports", Namibia Vs Scotland | ICC CWC League 2 Namibia (ENGLISH)
@@ -27,7 +27,4 @@ https://fancode-bd-srhady.vercel.app/inter_kashi_vs_mohammedan_sc_141810_bengali
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131139_5427_OSN_RB_FC-Web.png" group-title="Live Sports", Ca Osasuna Vs Real Betis | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/ca_osasuna_vs_real_betis_131139_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Live Sports", Doubles   Final | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/doubles___final_141923_english.m3u8
 
