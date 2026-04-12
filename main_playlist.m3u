@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:45:22 PM 12-04-2026
+#last update time: 08:00:25 PM 12-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141651_6025_NAM_SCO_fc-Web.jpg" group-title="Live Sports", Namibia Vs Scotland | ICC CWC League 2 Namibia (ENGLISH)
@@ -9,6 +9,9 @@ https://fancode-bd-srhady.vercel.app/namibia_vs_scotland_141651_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131139_5427_OSN_RB_FC-Web.png" group-title="Live Sports", Ca Osasuna Vs Real Betis | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/ca_osasuna_vs_real_betis_131139_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force | West Indies Championship 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/leeward_islands_hurricanes_vs_trinidad___tobago_red_force_141947_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Windward Islands Volcanoes Vs Guyana Harpy Eagles | West Indies Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/windward_islands_volcanoes_vs_guyana_harpy_eagles_141949_english.m3u8
@@ -28,6 +31,9 @@ https://fancode-bd-srhady.vercel.app/mohun_bagan_super_giant_vs_punjab_fc_140485
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141811_5973_MBSG_PFC_fc-web.jpg" group-title="Live Sports", Mohun Bagan Super Giant Vs Punjab Fc | ISL 2025-26  - Regional (BENGALI)
 https://fancode-bd-srhady.vercel.app/mohun_bagan_super_giant_vs_punjab_fc_141811_bengali.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131136_5427_MRC_RVL_FC-Web.png" group-title="Live Sports", Rcd Mallorca Vs Rayo Vallecano | LALIGA 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/rcd_mallorca_vs_rayo_vallecano_131136_english.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png" group-title="Live Sports", Thailand U20 Vs Korea Republic U20 | AFC U20 Women's Asian Cup 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/thailand_u20_vs_korea_republic_u20_141632_english.m3u8
 
@@ -36,10 +42,4 @@ https://fancode-bd-srhady.vercel.app/luton_town_vs_stockport_county_140877_engli
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Alcaraz-vs-Sinner_fc-web.jpg" group-title="Live Sports", Alcaraz Vs Sinner | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/alcaraz_vs_sinner_141922_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force | West Indies Championship 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/leeward_islands_hurricanes_vs_trinidad___tobago_red_force_141947_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131136_5427_MRC_RVL_FC-Web.png" group-title="Live Sports", Rcd Mallorca Vs Rayo Vallecano | LALIGA 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/rcd_mallorca_vs_rayo_vallecano_131136_english.m3u8
 
