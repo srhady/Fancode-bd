@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:30:20 AM 13-04-2026",
+    "last update time": "12:45:19 AM 13-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -51,18 +51,18 @@
         },
         {
             "event_category": "Football",
-            "title": "Rc Celta Vs Real Oviedo",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131134_5427_CEV_RO_FC-Web.png",
-            "team_1": "RC Celta",
-            "team_2": "Real Oviedo",
-            "status": "LIVE",
+            "title": "Athletic Club Vs Villarreal Cf",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131132_5427_ATH_VIL_FC-Web.png",
+            "team_1": "Athletic Club",
+            "team_2": "Villarreal CF",
+            "status": "NOT_STARTED",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "LALIGA 2025-26",
-            "match_name": "Rc Celta Vs Real Oviedo | LALIGA 2025-26 [ENGLISH]",
-            "match_id": 131134,
-            "startTime": "12 April 2026 10:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/rc_celta_vs_real_oviedo_131134_english.m3u8"
+            "match_name": "Athletic Club Vs Villarreal Cf | LALIGA 2025-26 [ENGLISH]",
+            "match_id": 131132,
+            "startTime": "13 April 2026 12:30 AM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/athletic_club_vs_villarreal_cf_131132_english.m3u8"
         },
         {
             "event_category": "Golf",
@@ -81,33 +81,18 @@
         },
         {
             "event_category": "Football",
-            "title": "Athletic Club Vs Villarreal Cf",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131132_5427_ATH_VIL_FC-Web.png",
-            "team_1": "Athletic Club",
-            "team_2": "Villarreal CF",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Athletic Club Vs Villarreal Cf | LALIGA 2025-26 [BLOODY_SWEET]",
-            "match_id": 131132,
-            "startTime": "13 April 2026 12:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Racing Club Vs Almer\u00eda",
             "src": "https://images.fancode.com/aig/match/v1774680543089/141689_CASACARDS_APP.png",
             "team_1": "Racing Club",
             "team_2": "Almer\u00eda",
             "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Racing Club Vs Almer\u00eda | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
+            "match_name": "Racing Club Vs Almer\u00eda | LALIGA Hypermotion 2025-26 [ENGLISH]",
             "match_id": 141689,
             "startTime": "13 April 2026 12:30 AM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/racing_club_vs_almer_a_141689_english.m3u8"
         },
         {
             "event_category": "Cricket",
