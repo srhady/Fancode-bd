@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:30:24 PM 12-04-2026",
+    "last update time": "02:45:19 PM 12-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -40,14 +40,14 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140934_5802_PG_MAC_fc-web.jpg",
             "team_1": "Perth Glory",
             "team_2": "Macarthur",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "A League 2025-26",
-            "match_name": "Perth Glory Vs Macarthur | A League 2025-26 [BLOODY_SWEET]",
+            "match_name": "Perth Glory Vs Macarthur | A League 2025-26 [ENGLISH]",
             "match_id": 140934,
             "startTime": "12 April 2026 02:30 PM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/perth_glory_vs_macarthur_140934_english.m3u8"
         },
         {
             "event_category": "Football",
