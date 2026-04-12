@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:45:20 PM 12-04-2026",
+    "last update time": "12:00:26 AM 13-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -17,7 +17,7 @@
             "match_name": "Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force | West Indies Championship 2026 [ENGLISH]",
             "match_id": 141947,
             "startTime": "12 April 2026 07:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/leeward_islands_hurricanes_vs_trinidad___tobago_red_force_141947_english.m3u8"
+            "stream_url": ""
         },
         {
             "event_category": "Cricket",
