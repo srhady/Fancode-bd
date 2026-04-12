@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:00:23 PM 12-04-2026",
+    "last update time": "07:15:22 PM 12-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,21 +18,6 @@
             "match_id": 141651,
             "startTime": "12 April 2026 01:00 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/namibia_vs_scotland_141651_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Birmingham City F.c. Vs Wrexham A.f.c.",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141440_5489_BIR_WRX_fc-web.jpg",
-            "team_1": "Birmingham City F.C.",
-            "team_2": "Wrexham A.F.C.",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Birmingham City F.c. Vs Wrexham A.f.c. | EFL Championship 2025-26 [ENGLISH]",
-            "match_id": 141440,
-            "startTime": "12 April 2026 04:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/birmingham_city_f_c__vs_wrexham_a_f_c__141440_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -185,21 +170,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Cricket",
-            "title": "Jamaica Scorpions Vs Barbados Pride",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-            "team_1": "Jamaica Scorpions",
-            "team_2": "Barbados Pride",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "West Indies Championship 2026",
-            "match_name": "Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 [BLOODY_SWEET]",
-            "match_id": 141948,
-            "startTime": "12 April 2026 08:30 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "Mohun Bagan Super Giant Vs Punjab Fc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140485_5956_MBSG_PFC_FC-Web_1772461439173.jpg",
@@ -227,6 +197,36 @@
             "match_name": "Mohun Bagan Super Giant Vs Punjab Fc | ISL 2025-26  - Regional [BLOODY_SWEET]",
             "match_id": 141811,
             "startTime": "12 April 2026 07:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Luton Town Vs Stockport County",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1772173611237.png",
+            "team_1": "Luton Town",
+            "team_2": "Stockport County",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Vertu Trophy 2025-26",
+            "match_name": "Luton Town Vs Stockport County | Vertu Trophy 2025-26 [BLOODY_SWEET]",
+            "match_id": 140877,
+            "startTime": "12 April 2026 07:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Jamaica Scorpions Vs Barbados Pride",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
+            "team_1": "Jamaica Scorpions",
+            "team_2": "Barbados Pride",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "West Indies Championship 2026",
+            "match_name": "Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 [BLOODY_SWEET]",
+            "match_id": 141948,
+            "startTime": "12 April 2026 08:30 PM",
             "stream_url": ""
         },
         {
@@ -302,21 +302,6 @@
             "match_name": "Melbourne Tuskers Vs Brisbane Stars | Brisbane Champions League 2026 [BLOODY_SWEET]",
             "match_id": 141758,
             "startTime": "13 April 2026 01:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Luton Town Vs Stockport County",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1772173611237.png",
-            "team_1": "Luton Town",
-            "team_2": "Stockport County",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Vertu Trophy 2025-26",
-            "match_name": "Luton Town Vs Stockport County | Vertu Trophy 2025-26 [BLOODY_SWEET]",
-            "match_id": 140877,
-            "startTime": "12 April 2026 07:30 PM",
             "stream_url": ""
         },
         {
@@ -617,6 +602,21 @@
             "match_name": "Al Ittihad Vs Al Wahda | AFC Champions League Elite 2025-26 [BLOODY_SWEET]",
             "match_id": 140859,
             "startTime": "14 April 2026 11:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Portsmouth F.c. Vs Ipswich Town F.c.",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141525_5489_PRM_IPT_fc-web.jpg",
+            "team_1": "Portsmouth F.C.",
+            "team_2": "Ipswich Town F.C.",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Portsmouth F.c. Vs Ipswich Town F.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
+            "match_id": 141525,
+            "startTime": "15 April 2026 12:30 AM",
             "stream_url": ""
         }
     ]
