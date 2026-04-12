@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:00:25 PM 12-04-2026
+#last update time: 10:15:17 PM 12-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force | West Indies Championship 2026 (ENGLISH)
@@ -12,21 +12,6 @@ https://fancode-bd-srhady.vercel.app/windward_islands_volcanoes_vs_guyana_harpy_
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/jamaica_scorpions_vs_barbados_pride_141948_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140485_5956_MBSG_PFC_FC-Web_1772461439173.jpg" group-title="Live Sports", Mohun Bagan Super Giant Vs Punjab Fc | ISL 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/mohun_bagan_super_giant_vs_punjab_fc_140485_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140485_5956_MBSG_PFC_FC-Web_1772461439173.jpg" group-title="Live Sports", Mohun Bagan Super Giant Vs Punjab Fc | ISL 2025-26 (HINDI)
-https://fancode-bd-srhady.vercel.app/mohun_bagan_super_giant_vs_punjab_fc_140485_hindi.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140485_5956_MBSG_PFC_FC-Web_1772461439173.jpg" group-title="Live Sports", Mohun Bagan Super Giant Vs Punjab Fc | ISL 2025-26 (MALAYALAM)
-https://fancode-bd-srhady.vercel.app/mohun_bagan_super_giant_vs_punjab_fc_140485_malayalam.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140485_5956_MBSG_PFC_FC-Web_1772461439173.jpg" group-title="Live Sports", Mohun Bagan Super Giant Vs Punjab Fc | ISL 2025-26 (BENGALI)
-https://fancode-bd-srhady.vercel.app/mohun_bagan_super_giant_vs_punjab_fc_140485_bengali.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141811_5973_MBSG_PFC_fc-web.jpg" group-title="Live Sports", Mohun Bagan Super Giant Vs Punjab Fc | ISL 2025-26  - Regional (BENGALI)
-https://fancode-bd-srhady.vercel.app/mohun_bagan_super_giant_vs_punjab_fc_141811_bengali.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131136_5427_MRC_RVL_FC-Web.png" group-title="Live Sports", Rcd Mallorca Vs Rayo Vallecano | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/rcd_mallorca_vs_rayo_vallecano_131136_english.m3u8
@@ -39,9 +24,6 @@ https://fancode-bd-srhady.vercel.app/luton_town_vs_stockport_county_140877_engli
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774680543090/141688_CASACARDS_APP.png" group-title="Live Sports", Huesca Vs Deportivo La Coruna | LALIGA Hypermotion 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/huesca_vs_deportivo_la_coruna_141688_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Alcaraz-vs-Sinner_fc-web.jpg" group-title="Live Sports", Alcaraz Vs Sinner | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/alcaraz_vs_sinner_141922_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg" group-title="Live Sports", Day 4 | The Augusta Masters 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_4_141879_english.m3u8
