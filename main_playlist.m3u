@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:45:17 PM 12-04-2026
+#last update time: 10:00:25 PM 12-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force | West Indies Championship 2026 (ENGLISH)
@@ -31,8 +31,8 @@ https://fancode-bd-srhady.vercel.app/mohun_bagan_super_giant_vs_punjab_fc_141811
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131136_5427_MRC_RVL_FC-Web.png" group-title="Live Sports", Rcd Mallorca Vs Rayo Vallecano | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/rcd_mallorca_vs_rayo_vallecano_131136_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png" group-title="Live Sports", Thailand U20 Vs Korea Republic U20 | AFC U20 Women's Asian Cup 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/thailand_u20_vs_korea_republic_u20_141632_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131134_5427_CEV_RO_FC-Web.png" group-title="Live Sports", Rc Celta Vs Real Oviedo | LALIGA 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/rc_celta_vs_real_oviedo_131134_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1772173611237.png" group-title="Live Sports", Luton Town Vs Stockport County | Vertu Trophy 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/luton_town_vs_stockport_county_140877_english.m3u8
@@ -42,4 +42,7 @@ https://fancode-bd-srhady.vercel.app/huesca_vs_deportivo_la_coruna_141688_englis
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Alcaraz-vs-Sinner_fc-web.jpg" group-title="Live Sports", Alcaraz Vs Sinner | ATP Masters Rolex Monte-Carlo 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/alcaraz_vs_sinner_141922_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg" group-title="Live Sports", Day 4 | The Augusta Masters 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/day_4_141879_english.m3u8
 
