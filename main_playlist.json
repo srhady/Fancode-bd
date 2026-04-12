@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:00:23 PM 12-04-2026",
+    "last update time": "06:15:17 PM 12-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -115,7 +115,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131139_5427_OSN_RB_FC-Web.png",
             "team_1": "CA Osasuna",
             "team_2": "Real Betis",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "LALIGA 2025-26",
@@ -123,6 +123,21 @@
             "match_id": 131139,
             "startTime": "12 April 2026 05:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/ca_osasuna_vs_real_betis_131139_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Thailand U20 Vs Korea Republic U20",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
+            "team_1": "Thailand U20",
+            "team_2": "Korea Republic U20",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "Thailand U20 Vs Korea Republic U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
+            "match_id": 141632,
+            "startTime": "12 April 2026 06:30 PM",
+            "stream_url": ""
         },
         {
             "event_category": "Cricket",
@@ -261,21 +276,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Thailand U20 Vs Korea Republic U20",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
-            "team_1": "Thailand U20",
-            "team_2": "Korea Republic U20",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Thailand U20 Vs Korea Republic U20 | AFC U20 Women's Asian Cup 2026 [BLOODY_SWEET]",
-            "match_id": 141632,
-            "startTime": "12 April 2026 06:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Luton Town Vs Stockport County",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1772173611237.png",
             "team_1": "Luton Town",
@@ -350,21 +350,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Golf",
-            "title": "Day 4",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
-            "team_1": "Day 4",
-            "team_2": "Georgia, USA",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "The Augusta Masters 2026",
-            "match_name": "Day 4 | The Augusta Masters 2026 [BLOODY_SWEET]",
-            "match_id": 141879,
-            "startTime": "12 April 2026 09:30 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "Al Ahli Saudi Fc Vs Al Duhail",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140854_5647_AAS_ADH_FC-WEB.png",
@@ -377,6 +362,21 @@
             "match_name": "Al Ahli Saudi Fc Vs Al Duhail | AFC Champions League Elite 2025-26 [BLOODY_SWEET]",
             "match_id": 140854,
             "startTime": "13 April 2026 08:15 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
+            "team_1": "Day 4",
+            "team_2": "Georgia, USA",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "The Augusta Masters 2026",
+            "match_name": "Day 4 | The Augusta Masters 2026 [BLOODY_SWEET]",
+            "match_id": 141879,
+            "startTime": "12 April 2026 09:30 PM",
             "stream_url": ""
         },
         {
