@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:30:22 PM 12-04-2026",
+    "last update time": "01:45:20 PM 12-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -25,14 +25,14 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141753_6028_MEP_EVF_FC-WEB.jpg",
             "team_1": "Melbourne Pirates",
             "team_2": "Everest Falcons",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "Brisbane Champions League 2026",
-            "match_name": "Melbourne Pirates Vs Everest Falcons | Brisbane Champions League 2026 [BLOODY_SWEET]",
+            "match_name": "Melbourne Pirates Vs Everest Falcons | Brisbane Champions League 2026 [ENGLISH]",
             "match_id": 141753,
             "startTime": "12 April 2026 01:30 PM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/melbourne_pirates_vs_everest_falcons_141753_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -245,6 +245,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Cricket",
+            "title": "New York Liberty Xi Vs Melbourne Pirates",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141757_6028_NYL_MEP_FC-WEB.jpg",
+            "team_1": "New York Liberty XI",
+            "team_2": "Melbourne Pirates",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "New York Liberty Xi Vs Melbourne Pirates | Brisbane Champions League 2026 [BLOODY_SWEET]",
+            "match_id": 141757,
+            "startTime": "13 April 2026 08:30 AM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Football",
             "title": "Thailand U20 Vs Korea Republic U20",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
@@ -287,21 +302,6 @@
             "match_name": "Huesca Vs Deportivo La Coruna | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
             "match_id": 141688,
             "startTime": "12 April 2026 07:45 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New York Liberty Xi Vs Melbourne Pirates",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141757_6028_NYL_MEP_FC-WEB.jpg",
-            "team_1": "New York Liberty XI",
-            "team_2": "Melbourne Pirates",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "New York Liberty Xi Vs Melbourne Pirates | Brisbane Champions League 2026 [BLOODY_SWEET]",
-            "match_id": 141757,
-            "startTime": "13 April 2026 08:30 AM",
             "stream_url": ""
         },
         {
