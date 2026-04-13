@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:00:26 AM 14-04-2026",
+    "last update time": "03:15:20 AM 14-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -63,21 +63,6 @@
             "match_id": 140858,
             "startTime": "13 April 2026 11:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/al_hilal_sfc_vs_al_sadd_140858_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Levante Vs Getafe Cf",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131130_5427_LE_GEF_FC-Web.png",
-            "team_1": "Levante",
-            "team_2": "Getafe CF",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Levante Vs Getafe Cf | LALIGA 2025-26 [ENGLISH]",
-            "match_id": 131130,
-            "startTime": "14 April 2026 12:30 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/levante_vs_getafe_cf_131130_english.m3u8"
         },
         {
             "event_category": "Football",
