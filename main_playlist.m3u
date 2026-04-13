@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:00:33 AM 14-04-2026
+#last update time: 12:15:22 AM 14-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force | West Indies Championship 2026 (ENGLISH)
@@ -12,9 +12,6 @@ https://fancode-bd-srhady.vercel.app/windward_islands_volcanoes_vs_guyana_harpy_
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/jamaica_scorpions_vs_barbados_pride_141948_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140854_5647_AAS_ADH_FC-WEB.png" group-title="Live Sports", Al Ahli Saudi Fc Vs Al Duhail | AFC Champions League Elite 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/al_ahli_saudi_fc_vs_al_duhail_140854_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140858_5647_AHS_SDD_FC-WEB_1772186883531.png" group-title="Live Sports", Al Hilal Sfc Vs Al Sadd | AFC Champions League Elite 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/al_hilal_sfc_vs_al_sadd_140858_english.m3u8
