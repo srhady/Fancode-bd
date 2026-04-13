@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:15:22 AM 14-04-2026",
+    "last update time": "12:30:27 AM 14-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -65,6 +65,36 @@
             "stream_url": "https://fancode-bd-srhady.vercel.app/al_hilal_sfc_vs_al_sadd_140858_english.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Levante Vs Getafe Cf",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131130_5427_LE_GEF_FC-Web.png",
+            "team_1": "Levante",
+            "team_2": "Getafe CF",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Levante Vs Getafe Cf | LALIGA 2025-26 [ENGLISH]",
+            "match_id": 131130,
+            "startTime": "14 April 2026 12:30 AM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/levante_vs_getafe_cf_131130_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Valladolid Vs Eibar",
+            "src": "https://images.fancode.com/aig/match/v1776063278979/141690_CASACARDS_APP.png",
+            "team_1": "Real Valladolid",
+            "team_2": "Eibar",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Real Valladolid Vs Eibar | LALIGA Hypermotion 2025-26 [ENGLISH]",
+            "match_id": 141690,
+            "startTime": "14 April 2026 12:00 AM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/real_valladolid_vs_eibar_141690_english.m3u8"
+        },
+        {
             "event_category": "Tennis",
             "title": "World Feed",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg",
@@ -78,36 +108,6 @@
             "match_id": 141825,
             "startTime": "13 April 2026 02:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/world_feed_141825_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Levante Vs Getafe Cf",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131130_5427_LE_GEF_FC-Web.png",
-            "team_1": "Levante",
-            "team_2": "Getafe CF",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Levante Vs Getafe Cf | LALIGA 2025-26 [BLOODY_SWEET]",
-            "match_id": 131130,
-            "startTime": "14 April 2026 12:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Valladolid Vs Eibar",
-            "src": "https://images.fancode.com/aig/match/v1776063278979/141690_CASACARDS_APP.png",
-            "team_1": "Real Valladolid",
-            "team_2": "Eibar",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Real Valladolid Vs Eibar | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
-            "match_id": 141690,
-            "startTime": "14 April 2026 12:00 AM",
-            "stream_url": ""
         },
         {
             "event_category": "Cricket",
