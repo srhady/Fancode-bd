@@ -1,9 +1,15 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:45:19 PM 14-04-2026
+#last update time: 03:00:28 PM 14-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141760_6028_MEP_GER_FC-WEB.jpg" group-title="Live Sports", Melbourne Pirates Vs Genid Royals | Brisbane Champions League 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/melbourne_pirates_vs_genid_royals_141760_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg" group-title="Live Sports", World Feed | ATP 500 - Barcelona Open Banc Sabadell 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/world_feed_141826_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg" group-title="Live Sports", World Feed | ATP 500 - BMW Open by Bitpanda 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/world_feed_141841_english.m3u8
 
