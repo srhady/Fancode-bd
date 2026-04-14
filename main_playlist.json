@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:45:18 AM 15-04-2026",
+    "last update time": "01:00:25 AM 15-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -85,14 +85,14 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141525_5489_PRM_IPT_fc-web_1776167542322.jpg",
             "team_1": "Portsmouth F.C.",
             "team_2": "Ipswich Town F.C.",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "EFL Championship 2025-26",
-            "match_name": "Portsmouth F.c. Vs Ipswich Town F.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
+            "match_name": "Portsmouth F.c. Vs Ipswich Town F.c. | EFL Championship 2025-26 [ENGLISH]",
             "match_id": 141525,
             "startTime": "15 April 2026 12:30 AM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/portsmouth_f_c__vs_ipswich_town_f_c__141525_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -100,14 +100,14 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141928_5489_SOU_BLK_fc-web.jpg",
             "team_1": "Southampton F.C.",
             "team_2": "Blackburn Rovers F.C.",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "EFL Championship 2025-26",
-            "match_name": "Southampton F.c. Vs Blackburn Rovers F.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
+            "match_name": "Southampton F.c. Vs Blackburn Rovers F.c. | EFL Championship 2025-26 [ENGLISH]",
             "match_id": 141928,
             "startTime": "15 April 2026 12:30 AM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/southampton_f_c__vs_blackburn_rovers_f_c__141928_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -171,21 +171,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Club Am\u00e9rica Vs Nashville Sc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141885_5954_AME_NSH_FC-Web.png",
-            "team_1": "Club Am\u00e9rica",
-            "team_2": "Nashville SC",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Club Am\u00e9rica Vs Nashville Sc | CONCACAF Champions Cup 2026 [BLOODY_SWEET]",
-            "match_id": 141885,
-            "startTime": "15 April 2026 09:00 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Kerala Blasters Fc Vs Northeast United Fc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140486_5956_KBFC_NEUFC_FC-Web_1772461506678.jpg",
             "team_1": "Kerala Blasters FC",
@@ -212,6 +197,21 @@
             "match_name": "Kerala Blasters Fc Vs Northeast United Fc | ISL 2025-26  - Regional [BLOODY_SWEET]",
             "match_id": 141812,
             "startTime": "15 April 2026 07:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Club Am\u00e9rica Vs Nashville Sc",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141885_5954_AME_NSH_FC-Web.png",
+            "team_1": "Club Am\u00e9rica",
+            "team_2": "Nashville SC",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Club Am\u00e9rica Vs Nashville Sc | CONCACAF Champions Cup 2026 [BLOODY_SWEET]",
+            "match_id": 141885,
+            "startTime": "15 April 2026 09:00 AM",
             "stream_url": ""
         },
         {
