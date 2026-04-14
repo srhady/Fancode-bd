@@ -2,8 +2,23 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:45:22 PM 14-04-2026",
+    "last update time": "02:00:25 PM 14-04-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Melbourne Pirates Vs Genid Royals",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141760_6028_MEP_GER_FC-WEB.jpg",
+            "team_1": "Melbourne Pirates",
+            "team_2": "Genid Royals",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Melbourne Pirates Vs Genid Royals | Brisbane Champions League 2026 [ENGLISH]",
+            "match_id": 141760,
+            "startTime": "14 April 2026 01:30 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/melbourne_pirates_vs_genid_royals_141760_english.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force",
@@ -47,21 +62,6 @@
             "match_name": "Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 [BLOODY_SWEET]",
             "match_id": 141948,
             "startTime": "12 April 2026 08:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Melbourne Pirates Vs Genid Royals",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141760_6028_MEP_GER_FC-WEB.jpg",
-            "team_1": "Melbourne Pirates",
-            "team_2": "Genid Royals",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Melbourne Pirates Vs Genid Royals | Brisbane Champions League 2026 [BLOODY_SWEET]",
-            "match_id": 141760,
-            "startTime": "14 April 2026 01:30 PM",
             "stream_url": ""
         },
         {

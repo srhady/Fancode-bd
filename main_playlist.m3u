@@ -1,6 +1,9 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:45:22 PM 14-04-2026
+#last update time: 02:00:25 PM 14-04-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141760_6028_MEP_GER_FC-WEB.jpg" group-title="Live Sports", Melbourne Pirates Vs Genid Royals | Brisbane Champions League 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/melbourne_pirates_vs_genid_royals_141760_english.m3u8
 
