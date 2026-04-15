@@ -2,38 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:15:18 PM 15-04-2026",
+    "last update time": "12:30:22 PM 15-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Iconic Super Knights Vs Genid Royals",
-            "src": "https://images.fancode.com/aig/match/v1776185704489/141761_CASACARDS_APP.png",
-            "team_1": "Iconic Super Knights",
-            "team_2": "Genid Royals",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Iconic Super Knights Vs Genid Royals | Brisbane Champions League 2026 [ENGLISH]",
-            "match_id": 141761,
-            "startTime": "15 April 2026 08:30 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/iconic_super_knights_vs_genid_royals_141761_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Club Am\u00e9rica Vs Nashville Sc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141885_5954_AME_NSH_FC-Web.png",
-            "team_1": "Club Am\u00e9rica",
-            "team_2": "Nashville SC",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Club Am\u00e9rica Vs Nashville Sc | CONCACAF Champions Cup 2026 [ENGLISH]",
-            "match_id": 141885,
-            "startTime": "15 April 2026 09:00 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/club_am_rica_vs_nashville_sc_141885_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Windward Islands Volcanoes Vs Guyana Harpy Eagles",
@@ -572,6 +542,36 @@
             "match_name": "Odisha Fc Vs Mohammedan Sc | ISL 2025-26  - Regional [BLOODY_SWEET]",
             "match_id": 141815,
             "startTime": "17 April 2026 07:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Al Ahli Saudi Fc Vs Johor Darul Ta'zim",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Al-Ahli Saudi FC",
+            "team_2": "Johor Darul Ta'zim",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Al Ahli Saudi Fc Vs Johor Darul Ta'zim | AFC Champions League Elite 2025-26 [BLOODY_SWEET]",
+            "match_id": 141674,
+            "startTime": "17 April 2026 08:15 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Atp 500   Barcelona Open Banc Sabadell 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg",
+            "team_1": "ATP 500 - Barcelona Open Banc Sabadell 2026",
+            "team_2": "Barcelona",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
+            "match_name": "Atp 500   Barcelona Open Banc Sabadell 2026 | ATP 500 - Barcelona Open Banc Sabadell 2026 [BLOODY_SWEET]",
+            "match_id": 141833,
+            "startTime": "17 April 2026 05:30 PM",
             "stream_url": ""
         }
     ]

@@ -1,12 +1,6 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:15:18 PM 15-04-2026
+#last update time: 12:30:22 PM 15-04-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776185704489/141761_CASACARDS_APP.png" group-title="Live Sports", Iconic Super Knights Vs Genid Royals | Brisbane Champions League 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/iconic_super_knights_vs_genid_royals_141761_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141885_5954_AME_NSH_FC-Web.png" group-title="Live Sports", Club América Vs Nashville Sc | CONCACAF Champions Cup 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/club_am_rica_vs_nashville_sc_141885_english.m3u8
 
