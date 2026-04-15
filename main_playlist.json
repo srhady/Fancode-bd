@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:30:25 PM 15-04-2026",
+    "last update time": "11:45:19 PM 15-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -56,13 +56,13 @@
             "team_1": "Al-Nassr FC",
             "team_2": "Al-Ettifaq",
             "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al Nassr Fc Vs Al Ettifaq | Roshn Saudi League 2025-2026 [BLOODY_SWEET]",
+            "match_name": "Al Nassr Fc Vs Al Ettifaq | Roshn Saudi League 2025-2026 [ENGLISH]",
             "match_id": 140731,
             "startTime": "15 April 2026 11:30 PM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/al_nassr_fc_vs_al_ettifaq_140731_english.m3u8"
         },
         {
             "event_category": "Cricket",
