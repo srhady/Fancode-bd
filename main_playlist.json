@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:15:20 AM 16-04-2026",
+    "last update time": "05:30:23 AM 16-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Jamaica Scorpions Vs Barbados Pride",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-            "team_1": "Jamaica Scorpions",
-            "team_2": "Barbados Pride",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "West Indies Championship 2026",
-            "match_name": "Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 [ENGLISH]",
-            "match_id": 141948,
-            "startTime": "12 April 2026 08:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/jamaica_scorpions_vs_barbados_pride_141948_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Genid Royals Vs Melbourne Tuskers",
@@ -572,6 +557,21 @@
             "match_name": "World Feed   Day 2 | RBC Heritage 2026 [BLOODY_SWEET]",
             "match_id": 141931,
             "startTime": "18 April 2026 12:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Rwanda Women Vs Italy Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142046_6045_RWA-W_ITA-W_fc-web.jpg",
+            "team_1": "Rwanda Women",
+            "team_2": "Italy Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ICC Women's T20I Challenge Trophy, 2026",
+            "match_name": "Rwanda Women Vs Italy Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
+            "match_id": 142046,
+            "startTime": "18 April 2026 12:30 PM",
             "stream_url": ""
         }
     ]
