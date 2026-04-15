@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:15:17 PM 15-04-2026
+#last update time: 05:30:20 PM 15-04-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776029190668/141634_CASACARDS_APP.png" group-title="Live Sports", Dpr Korea U20 Vs Korea Republic U20 | AFC U20 Women's Asian Cup 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/dpr_korea_u20_vs_korea_republic_u20_141634_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg" group-title="Live Sports", World Feed | ATP 500 - Barcelona Open Banc Sabadell 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/world_feed_141828_english.m3u8
