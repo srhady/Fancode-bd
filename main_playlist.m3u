@@ -1,11 +1,14 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:45:20 PM 15-04-2026
+#last update time: 09:00:29 PM 15-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Windward Islands Volcanoes Vs Guyana Harpy Eagles | West Indies Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/windward_islands_volcanoes_vs_guyana_harpy_eagles_141949_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/jamaica_scorpions_vs_barbados_pride_141948_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png" group-title="Live Sports", Namibia Vs Scotland | Scotland tour of Namibia 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/namibia_vs_scotland_142015_english.m3u8
@@ -24,9 +27,6 @@ https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_northeast_united_fc_1
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141812_5973_KBFC_NEUFC_fc-web.jpg" group-title="Live Sports", Kerala Blasters Fc Vs Northeast United Fc | ISL 2025-26  - Regional (ENGLISH)
 https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_northeast_united_fc_141812_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140873_5648_BU_OSK_FC-WEB.jpg" group-title="Live Sports", Bangkok United Vs Gamba Osaka | AFC Champions League Two 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/bangkok_united_vs_gamba_osaka_140873_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776029205857/141633_CASACARDS_APP.png" group-title="Live Sports", China Pr U20 Vs Japan U20 | AFC U20 Women's Asian Cup 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/china_pr_u20_vs_japan_u20_141633_english.m3u8
