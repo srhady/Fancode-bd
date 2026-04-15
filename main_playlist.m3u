@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:45:20 PM 15-04-2026
+#last update time: 10:00:27 PM 15-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Windward Islands Volcanoes Vs Guyana Harpy Eagles | West Indies Championship 2026 (ENGLISH)
@@ -9,21 +9,6 @@ https://fancode-bd-srhady.vercel.app/windward_islands_volcanoes_vs_guyana_harpy_
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/jamaica_scorpions_vs_barbados_pride_141948_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140486_5956_KBFC_NEUFC_FC-Web_1772461506678.jpg" group-title="Live Sports", Kerala Blasters Fc Vs Northeast United Fc | ISL 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_northeast_united_fc_140486_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140486_5956_KBFC_NEUFC_FC-Web_1772461506678.jpg" group-title="Live Sports", Kerala Blasters Fc Vs Northeast United Fc | ISL 2025-26 (HINDI)
-https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_northeast_united_fc_140486_hindi.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140486_5956_KBFC_NEUFC_FC-Web_1772461506678.jpg" group-title="Live Sports", Kerala Blasters Fc Vs Northeast United Fc | ISL 2025-26 (MALAYALAM)
-https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_northeast_united_fc_140486_malayalam.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140486_5956_KBFC_NEUFC_FC-Web_1772461506678.jpg" group-title="Live Sports", Kerala Blasters Fc Vs Northeast United Fc | ISL 2025-26 (BENGALI)
-https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_northeast_united_fc_140486_bengali.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141812_5973_KBFC_NEUFC_fc-web.jpg" group-title="Live Sports", Kerala Blasters Fc Vs Northeast United Fc | ISL 2025-26  - Regional (ENGLISH)
-https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_northeast_united_fc_141812_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg" group-title="Live Sports", World Feed | ATP 500 - Barcelona Open Banc Sabadell 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/world_feed_141828_english.m3u8
