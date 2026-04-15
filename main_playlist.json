@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:00:26 AM 16-04-2026",
+    "last update time": "02:15:20 AM 16-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,21 +18,6 @@
             "match_id": 141948,
             "startTime": "12 April 2026 08:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/jamaica_scorpions_vs_barbados_pride_141948_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al Nassr Fc Vs Al Ettifaq",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140731_5655_ANF_ETT_fc-web.jpg",
-            "team_1": "Al-Nassr FC",
-            "team_2": "Al-Ettifaq",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al Nassr Fc Vs Al Ettifaq | Roshn Saudi League 2025-2026 [ENGLISH]",
-            "match_id": 140731,
-            "startTime": "15 April 2026 11:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/al_nassr_fc_vs_al_ettifaq_140731_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -275,21 +260,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Golf",
-            "title": "World Feed   Day 1",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
-            "team_1": "World Feed - Day 1",
-            "team_2": "Harbour Town Golf Links - Hilton Head Island, Sout",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "RBC Heritage 2026",
-            "match_name": "World Feed   Day 1 | RBC Heritage 2026 [BLOODY_SWEET]",
-            "match_id": 141930,
-            "startTime": "17 April 2026 12:30 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Bangladesh Vs New Zealand",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web.jpg",
@@ -302,6 +272,21 @@
             "match_name": "Bangladesh Vs New Zealand | New Zealand tour of Bangladesh, 2026 [BLOODY_SWEET]",
             "match_id": 142066,
             "startTime": "17 April 2026 10:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "World Feed   Day 1",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
+            "team_1": "World Feed - Day 1",
+            "team_2": "Harbour Town Golf Links - Hilton Head Island, Sout",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "RBC Heritage 2026",
+            "match_name": "World Feed   Day 1 | RBC Heritage 2026 [BLOODY_SWEET]",
+            "match_id": 141930,
+            "startTime": "17 April 2026 12:30 AM",
             "stream_url": ""
         },
         {
