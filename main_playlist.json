@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:15:18 PM 15-04-2026",
+    "last update time": "09:30:23 PM 15-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,21 +33,6 @@
             "match_id": 141948,
             "startTime": "12 April 2026 08:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/jamaica_scorpions_vs_barbados_pride_141948_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Namibia Vs Scotland",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png",
-            "team_1": "Namibia",
-            "team_2": "Scotland",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Scotland tour of Namibia, 2026",
-            "match_name": "Namibia Vs Scotland | Scotland tour of Namibia, 2026 [ENGLISH]",
-            "match_id": 142015,
-            "startTime": "15 April 2026 05:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/namibia_vs_scotland_142015_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -123,21 +108,6 @@
             "match_id": 141812,
             "startTime": "15 April 2026 07:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_northeast_united_fc_141812_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "China Pr U20 Vs Japan U20",
-            "src": "https://images.fancode.com/aig/match/v1776029205857/141633_CASACARDS_APP.png",
-            "team_1": "China PR U20",
-            "team_2": "Japan U20",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "China Pr U20 Vs Japan U20 | AFC U20 Women's Asian Cup 2026 [ENGLISH]",
-            "match_id": 141633,
-            "startTime": "15 April 2026 06:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/china_pr_u20_vs_japan_u20_141633_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -617,6 +587,36 @@
             "match_name": "Atp 500   Bmw Open By Bitpanda 2026 | ATP 500 - BMW Open by Bitpanda 2026 [BLOODY_SWEET]",
             "match_id": 141846,
             "startTime": "17 April 2026 05:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Main Feed   Day 2",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
+            "team_1": "Main Feed - Day 2",
+            "team_2": "Harbour Town Golf Links - Hilton Head Island, Sout",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "RBC Heritage 2026",
+            "match_name": "Main Feed   Day 2 | RBC Heritage 2026 [BLOODY_SWEET]",
+            "match_id": 141937,
+            "startTime": "17 April 2026 05:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Groups   Day 2",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
+            "team_1": "Featured Groups - Day 2",
+            "team_2": "Harbour Town Golf Links - Hilton Head Island, Sout",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "RBC Heritage 2026",
+            "match_name": "Featured Groups   Day 2 | RBC Heritage 2026 [BLOODY_SWEET]",
+            "match_id": 141939,
+            "startTime": "17 April 2026 07:00 PM",
             "stream_url": ""
         }
     ]
