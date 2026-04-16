@@ -1,23 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:00:37 PM 16-04-2026
+#last update time: 10:15:28 PM 16-04-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140487_5956_EBFC_BFC_FC-Web_1772461581168.jpg" group-title="Live Sports", East Bengal Fc Vs Bengaluru Fc | ISL 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/east_bengal_fc_vs_bengaluru_fc_140487_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140487_5956_EBFC_BFC_FC-Web_1772461581168.jpg" group-title="Live Sports", East Bengal Fc Vs Bengaluru Fc | ISL 2025-26 (HINDI)
-https://fancode-bd-srhady.vercel.app/east_bengal_fc_vs_bengaluru_fc_140487_hindi.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140487_5956_EBFC_BFC_FC-Web_1772461581168.jpg" group-title="Live Sports", East Bengal Fc Vs Bengaluru Fc | ISL 2025-26 (MALAYALAM)
-https://fancode-bd-srhady.vercel.app/east_bengal_fc_vs_bengaluru_fc_140487_malayalam.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140487_5956_EBFC_BFC_FC-Web_1772461581168.jpg" group-title="Live Sports", East Bengal Fc Vs Bengaluru Fc | ISL 2025-26 (BENGALI)
-https://fancode-bd-srhady.vercel.app/east_bengal_fc_vs_bengaluru_fc_140487_bengali.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141813_5973_EBFC_BFC_fc-web.jpg" group-title="Live Sports", East Bengal Fc Vs Bengaluru Fc | ISL 2025-26  - Regional (ENGLISH)
-https://fancode-bd-srhady.vercel.app/east_bengal_fc_vs_bengaluru_fc_141813_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776321743537/141673_CASACARDS_APP.png" group-title="Live Sports", Al Sadd Vs Vissel Kobe | AFC Champions League Elite 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/al_sadd_vs_vissel_kobe_141673_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg" group-title="Live Sports", World Feed | ATP 500 - Barcelona Open Banc Sabadell 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/world_feed_141830_english.m3u8
