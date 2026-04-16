@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:15:17 AM 16-04-2026",
+    "last update time": "09:30:22 AM 16-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -40,14 +40,14 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141887_5954_SS_TIG_FC-Web.png",
             "team_1": "Seattle Sounders FC",
             "team_2": "Tigres",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Seattle Sounders Fc Vs Tigres | CONCACAF Champions Cup 2026 [BLOODY_SWEET]",
+            "match_name": "Seattle Sounders Fc Vs Tigres | CONCACAF Champions Cup 2026 [ENGLISH]",
             "match_id": 141887,
             "startTime": "16 April 2026 09:00 AM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/seattle_sounders_fc_vs_tigres_141887_english.m3u8"
         },
         {
             "event_category": "Cricket",
