@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:45:17 AM 16-04-2026",
+    "last update time": "12:00:23 PM 16-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,21 +18,6 @@
             "match_id": 141763,
             "startTime": "16 April 2026 08:30 AM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/genid_royals_vs_melbourne_tuskers_141763_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Seattle Sounders Fc Vs Tigres",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141887_5954_SS_TIG_FC-Web.png",
-            "team_1": "Seattle Sounders FC",
-            "team_2": "Tigres",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Seattle Sounders Fc Vs Tigres | CONCACAF Champions Cup 2026 [ENGLISH]",
-            "match_id": 141887,
-            "startTime": "16 April 2026 09:00 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/seattle_sounders_fc_vs_tigres_141887_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -472,7 +457,7 @@
         {
             "event_category": "Golf",
             "title": "Day 2",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Senior-PGA-Championship_FC-WEB.jpg",
             "team_1": "Day 2",
             "team_2": "Concession Golf Course",
             "status": "NOT_STARTED",
@@ -572,6 +557,21 @@
             "match_name": "Tbc Vs Tbc | Brisbane Champions League 2026 [BLOODY_SWEET]",
             "match_id": 141765,
             "startTime": "18 April 2026 01:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Brisbane Roar Vs Melbourne City",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140937_5802_BRB_MLC_fc-web.jpg",
+            "team_1": "Brisbane Roar",
+            "team_2": "Melbourne City",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Brisbane Roar Vs Melbourne City | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140937,
+            "startTime": "18 April 2026 12:30 PM",
             "stream_url": ""
         }
     ]

@@ -1,12 +1,9 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:45:17 AM 16-04-2026
+#last update time: 12:00:23 PM 16-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776285447656/141763_CASACARDS_APP.png" group-title="Live Sports", Genid Royals Vs Melbourne Tuskers | Brisbane Champions League 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/genid_royals_vs_melbourne_tuskers_141763_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141887_5954_SS_TIG_FC-Web.png" group-title="Live Sports", Seattle Sounders Fc Vs Tigres | CONCACAF Champions Cup 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/seattle_sounders_fc_vs_tigres_141887_english.m3u8
 
