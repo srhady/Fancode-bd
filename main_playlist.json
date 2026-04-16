@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:15:23 PM 16-04-2026",
+    "last update time": "05:30:24 PM 16-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Melbourne Pirates Vs Everest Falcons",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141753_6028_MEP_EVF_FC-WEB.jpg",
-            "team_1": "Melbourne Pirates",
-            "team_2": "Everest Falcons",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Melbourne Pirates Vs Everest Falcons | Brisbane Champions League 2026 [ENGLISH]",
-            "match_id": 141764,
-            "startTime": "16 April 2026 01:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/melbourne_pirates_vs_everest_falcons_141764_english.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "World Feed",
@@ -260,21 +245,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Golf",
-            "title": "World Feed   Day 1",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
-            "team_1": "World Feed - Day 1",
-            "team_2": "Harbour Town Golf Links - Hilton Head Island, Sout",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "RBC Heritage 2026",
-            "match_name": "World Feed   Day 1 | RBC Heritage 2026 [BLOODY_SWEET]",
-            "match_id": 141930,
-            "startTime": "17 April 2026 12:30 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "Odisha Fc Vs Mohammedan Sc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140489_5956_ODS_MSC_FC-Web_1772461730611.jpg",
@@ -302,6 +272,21 @@
             "match_name": "Odisha Fc Vs Mohammedan Sc | ISL 2025-26  - Regional [BLOODY_SWEET]",
             "match_id": 141815,
             "startTime": "17 April 2026 07:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "World Feed   Day 1",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
+            "team_1": "World Feed - Day 1",
+            "team_2": "Harbour Town Golf Links - Hilton Head Island, Sout",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "RBC Heritage 2026",
+            "match_name": "World Feed   Day 1 | RBC Heritage 2026 [BLOODY_SWEET]",
+            "match_id": 141930,
+            "startTime": "17 April 2026 12:30 AM",
             "stream_url": ""
         },
         {
@@ -572,6 +557,21 @@
             "match_name": "Nepal Women Vs Usa Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
             "match_id": 142047,
             "startTime": "18 April 2026 05:20 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Sydney Fc Vs Perth Glory",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140938_5802_SYD_PG_fc-web.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Perth Glory",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Sydney Fc Vs Perth Glory | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140938,
+            "startTime": "18 April 2026 03:05 PM",
             "stream_url": ""
         }
     ]
