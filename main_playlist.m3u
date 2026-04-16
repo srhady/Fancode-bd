@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:00:35 PM 16-04-2026
+#last update time: 08:15:27 PM 16-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140487_5956_EBFC_BFC_FC-Web_1772461581168.jpg" group-title="Live Sports", East Bengal Fc Vs Bengaluru Fc | ISL 2025-26 (ENGLISH)
@@ -25,8 +25,8 @@ https://fancode-bd-srhady.vercel.app/world_feed_141830_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg" group-title="Live Sports", World Feed | ATP 500 - BMW Open by Bitpanda 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/world_feed_141845_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg" group-title="Live Sports", Doubles Qf's Ft. Bhambri | ATP 500 - BMW Open by Bitpanda 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/doubles_qf_s_ft__bhambri_141844_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg" group-title="Live Sports", Court 1 | ATP 500 - BMW Open by Bitpanda 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/court_1_141844_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", Main Feed   Day 1 | RBC Heritage 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/main_feed___day_1_141934_english.m3u8
