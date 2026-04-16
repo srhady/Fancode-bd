@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:30:24 AM 17-04-2026
+#last update time: 03:45:21 AM 17-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", Main Feed   Day 1 | RBC Heritage 2026 (ENGLISH)
@@ -9,9 +9,6 @@ https://fancode-bd-srhady.vercel.app/main_feed___day_1_141934_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", Featured Groups   Day 1 | RBC Heritage 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/featured_groups___day_1_141936_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", Marquee Group   Day 1 | RBC Heritage 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/marquee_group___day_1_141935_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", World Feed   Day 1 | RBC Heritage 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/world_feed___day_1_141930_english.m3u8
