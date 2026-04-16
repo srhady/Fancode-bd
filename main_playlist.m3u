@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:30:25 AM 17-04-2026
+#last update time: 01:45:16 AM 17-04-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776321743537/141673_CASACARDS_APP.png" group-title="Live Sports", Al Sadd Vs Vissel Kobe | AFC Champions League Elite 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/al_sadd_vs_vissel_kobe_141673_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Live Sports", Bromley Vs Cambridge United | League Two 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/bromley_vs_cambridge_united_141530_english.m3u8
