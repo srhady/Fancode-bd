@@ -1,8 +1,23 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:30:22 PM 16-04-2026
+#last update time: 07:45:23 PM 16-04-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140487_5956_EBFC_BFC_FC-Web_1772461581168.jpg" group-title="Live Sports", East Bengal Fc Vs Bengaluru Fc | ISL 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/east_bengal_fc_vs_bengaluru_fc_140487_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140487_5956_EBFC_BFC_FC-Web_1772461581168.jpg" group-title="Live Sports", East Bengal Fc Vs Bengaluru Fc | ISL 2025-26 (HINDI)
+https://fancode-bd-srhady.vercel.app/east_bengal_fc_vs_bengaluru_fc_140487_hindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140487_5956_EBFC_BFC_FC-Web_1772461581168.jpg" group-title="Live Sports", East Bengal Fc Vs Bengaluru Fc | ISL 2025-26 (MALAYALAM)
+https://fancode-bd-srhady.vercel.app/east_bengal_fc_vs_bengaluru_fc_140487_malayalam.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140487_5956_EBFC_BFC_FC-Web_1772461581168.jpg" group-title="Live Sports", East Bengal Fc Vs Bengaluru Fc | ISL 2025-26 (BENGALI)
+https://fancode-bd-srhady.vercel.app/east_bengal_fc_vs_bengaluru_fc_140487_bengali.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141813_5973_EBFC_BFC_fc-web.jpg" group-title="Live Sports", East Bengal Fc Vs Bengaluru Fc | ISL 2025-26  - Regional (ENGLISH)
+https://fancode-bd-srhady.vercel.app/east_bengal_fc_vs_bengaluru_fc_141813_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg" group-title="Live Sports", World Feed | ATP 500 - Barcelona Open Banc Sabadell 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/world_feed_141830_english.m3u8
@@ -15,4 +30,13 @@ https://fancode-bd-srhady.vercel.app/doubles_qf_s_ft__bhambri_141844_english.m3u
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", Main Feed   Day 1 | RBC Heritage 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/main_feed___day_1_141934_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", Featured Groups   Day 1 | RBC Heritage 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/featured_groups___day_1_141936_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", Marquee Group   Day 1 | RBC Heritage 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/marquee_group___day_1_141935_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Senior-PGA-Championship_FC-WEB.jpg" group-title="Live Sports", Day 1 | Senior PGA Championship 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/day_1_142042_english.m3u8
 
