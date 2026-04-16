@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:45:17 AM 16-04-2026",
+    "last update time": "07:00:22 AM 16-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -10,14 +10,14 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141886_5954_LAG_TOL_FC-Web.png",
             "team_1": "LA Galaxy",
             "team_2": "Toluca",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "La Galaxy Vs Toluca | CONCACAF Champions Cup 2026 [BLOODY_SWEET]",
+            "match_name": "La Galaxy Vs Toluca | CONCACAF Champions Cup 2026 [ENGLISH]",
             "match_id": 141886,
             "startTime": "16 April 2026 06:30 AM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/la_galaxy_vs_toluca_141886_english.m3u8"
         },
         {
             "event_category": "Cricket",
