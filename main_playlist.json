@@ -2,8 +2,23 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:45:18 PM 17-04-2026",
+    "last update time": "12:00:25 AM 18-04-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Machida Zelvia Vs Al Ittihad",
+            "src": "https://images.fancode.com/aig/match/v1776321743565/141675_CASACARDS_APP.png",
+            "team_1": "Machida Zelvia",
+            "team_2": "Al-Ittihad",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Machida Zelvia Vs Al Ittihad | AFC Champions League Elite 2025-26 [ENGLISH]",
+            "match_id": 141675,
+            "startTime": "17 April 2026 11:30 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/machida_zelvia_vs_al_ittihad_141675_english.m3u8"
+        },
         {
             "event_category": "Golf",
             "title": "Main Feed   Day 2",
@@ -62,21 +77,6 @@
             "match_name": "Rwanda Women Vs Italy Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
             "match_id": 142046,
             "startTime": "18 April 2026 12:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Machida Zelvia Vs Al Ittihad",
-            "src": "https://images.fancode.com/aig/match/v1776321743565/141675_CASACARDS_APP.png",
-            "team_1": "Machida Zelvia",
-            "team_2": "Al-Ittihad",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Machida Zelvia Vs Al Ittihad | AFC Champions League Elite 2025-26 [BLOODY_SWEET]",
-            "match_id": 141675,
-            "startTime": "17 April 2026 11:30 PM",
             "stream_url": ""
         },
         {
