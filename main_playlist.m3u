@@ -1,11 +1,14 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:15:18 AM 18-04-2026
+#last update time: 12:30:21 AM 18-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776321743565/141675_CASACARDS_APP.png" group-title="Live Sports", Machida Zelvia Vs Al Ittihad | AFC Champions League Elite 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/machida_zelvia_vs_al_ittihad_141675_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776063278978/141959_CASACARDS_APP.png" group-title="Live Sports", Real Sociedad B Vs Racing Club | LALIGA Hypermotion 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/real_sociedad_b_vs_racing_club_141959_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", Main Feed   Day 2 | RBC Heritage 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/main_feed___day_2_141937_english.m3u8
