@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:15:22 PM 17-04-2026
+#last update time: 08:30:27 PM 17-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png" group-title="Live Sports", Scotland Vs Namibia | Scotland tour of Namibia 2026 (ENGLISH)
@@ -22,14 +22,14 @@ https://fancode-bd-srhady.vercel.app/odisha_fc_vs_mohammedan_sc_140489_bengali.m
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ods-vs-mcs_web.jpg" group-title="Live Sports", Odisha Fc Vs Mohammedan Sc | ISL 2025-26  - Regional (ENGLISH)
 https://fancode-bd-srhady.vercel.app/odisha_fc_vs_mohammedan_sc_141815_english.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776321743565/141674_CASACARDS_APP.png" group-title="Live Sports", Al Ahli Saudi Fc Vs Johor Darul Ta'zim | AFC Champions League Elite 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/al_ahli_saudi_fc_vs_johor_darul_ta_zim_141674_english.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg" group-title="Live Sports", Day 7 | ATP 500 - Barcelona Open Banc Sabadell 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_7_141833_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg" group-title="Live Sports", Day 7 | ATP 500 - BMW Open by Bitpanda 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_7_141847_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg" group-title="Live Sports", Doubles Sf' Ft. Bhambri | ATP 500 - BMW Open by Bitpanda 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/doubles_sf__ft__bhambri_141846_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", Main Feed   Day 2 | RBC Heritage 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/main_feed___day_2_141937_english.m3u8
