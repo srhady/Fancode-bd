@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:30:20 AM 18-04-2026",
+    "last update time": "01:45:17 AM 18-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -276,21 +276,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Sydney Fc Vs Perth Glory",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140938_5802_SYD_PG_fc-web.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Perth Glory",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney Fc Vs Perth Glory | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140938,
-            "startTime": "18 April 2026 03:05 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Buriram United Vs Shabab Al Ahli",
             "src": "https://images.fancode.com/aig/match/v1776321743564/141676_CASACARDS_APP.png",
             "team_1": "Buriram United",
@@ -302,6 +287,21 @@
             "match_name": "Buriram United Vs Shabab Al Ahli | AFC Champions League Elite 2025-26 [BLOODY_SWEET]",
             "match_id": 141676,
             "startTime": "18 April 2026 09:45 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Sydney Fc Vs Perth Glory",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140938_5802_SYD_PG_fc-web.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Perth Glory",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Sydney Fc Vs Perth Glory | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140938,
+            "startTime": "18 April 2026 03:05 PM",
             "stream_url": ""
         },
         {
@@ -515,21 +515,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Golf",
-            "title": "Day 1",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14)_1776151284392.png",
-            "team_1": "Day 1",
-            "team_2": "Randpark Golf Club",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Joburg Ladies Open 2026",
-            "match_name": "Day 1 | Joburg Ladies Open 2026 [BLOODY_SWEET]",
-            "match_id": 141640,
-            "startTime": "18 April 2026 05:00 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Rwanda Women Vs Vanuatu Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142048_6045_RWA-W_VANW_fc-web.jpg",
@@ -542,6 +527,21 @@
             "match_name": "Rwanda Women Vs Vanuatu Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
             "match_id": 142048,
             "startTime": "19 April 2026 12:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14)_1776151284392.png",
+            "team_1": "Day 1",
+            "team_2": "Randpark Golf Club",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Joburg Ladies Open 2026",
+            "match_name": "Day 1 | Joburg Ladies Open 2026 [BLOODY_SWEET]",
+            "match_id": 141640,
+            "startTime": "18 April 2026 05:00 PM",
             "stream_url": ""
         },
         {
