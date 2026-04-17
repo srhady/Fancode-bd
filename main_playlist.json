@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:45:18 PM 17-04-2026",
+    "last update time": "06:00:23 PM 17-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,6 +18,21 @@
             "match_id": 142066,
             "startTime": "17 April 2026 10:30 AM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/new_zealand_vs_bangladesh_142066_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Scotland Vs Namibia",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png",
+            "team_1": "Scotland",
+            "team_2": "Namibia",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Scotland tour of Namibia, 2026",
+            "match_name": "Scotland Vs Namibia | Scotland tour of Namibia, 2026 [ENGLISH]",
+            "match_id": 142016,
+            "startTime": "17 April 2026 05:30 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/scotland_vs_namibia_142016_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -108,21 +123,6 @@
             "match_id": 141814,
             "startTime": "17 April 2026 05:00 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/chennaiyin_fc_vs_sporting_club_delhi_141814_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Scotland Vs Namibia",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png",
-            "team_1": "Scotland",
-            "team_2": "Namibia",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Scotland tour of Namibia, 2026",
-            "match_name": "Scotland Vs Namibia | Scotland tour of Namibia, 2026 [ENGLISH]",
-            "match_id": 142016,
-            "startTime": "17 April 2026 05:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/scotland_vs_namibia_142016_english.m3u8"
         },
         {
             "event_category": "Football",
