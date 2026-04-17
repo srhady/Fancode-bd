@@ -1,11 +1,29 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:00:22 PM 17-04-2026
+#last update time: 05:15:21 PM 17-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web.jpg" group-title="Live Sports", New Zealand Vs Bangladesh | New Zealand tour of Bangladesh 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/new_zealand_vs_bangladesh_142066_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140488_5956_CFC_SCD_FC-Web_1772964305704.jpg" group-title="Live Sports", Chennaiyin Fc Vs Sporting Club Delhi | ISL 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/chennaiyin_fc_vs_sporting_club_delhi_140488_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140488_5956_CFC_SCD_FC-Web_1772964305704.jpg" group-title="Live Sports", Chennaiyin Fc Vs Sporting Club Delhi | ISL 2025-26 (HINDI)
+https://fancode-bd-srhady.vercel.app/chennaiyin_fc_vs_sporting_club_delhi_140488_hindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140488_5956_CFC_SCD_FC-Web_1772964305704.jpg" group-title="Live Sports", Chennaiyin Fc Vs Sporting Club Delhi | ISL 2025-26 (TAMIL)
+https://fancode-bd-srhady.vercel.app/chennaiyin_fc_vs_sporting_club_delhi_140488_tamil.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140488_5956_CFC_SCD_FC-Web_1772964305704.jpg" group-title="Live Sports", Chennaiyin Fc Vs Sporting Club Delhi | ISL 2025-26 (MALAYALAM)
+https://fancode-bd-srhady.vercel.app/chennaiyin_fc_vs_sporting_club_delhi_140488_malayalam.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140488_5956_CFC_SCD_FC-Web_1772964305704.jpg" group-title="Live Sports", Chennaiyin Fc Vs Sporting Club Delhi | ISL 2025-26 (BENGALI)
+https://fancode-bd-srhady.vercel.app/chennaiyin_fc_vs_sporting_club_delhi_140488_bengali.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/cfc-vs-scd_web.jpg" group-title="Live Sports", Chennaiyin Fc Vs Sporting Club Delhi | ISL 2025-26  - Regional (ENGLISH)
+https://fancode-bd-srhady.vercel.app/chennaiyin_fc_vs_sporting_club_delhi_141814_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140935_5802_MLV_NJ_fc-web.jpg" group-title="Live Sports", Melbourne Victory Vs Newcastle Jets | A League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/melbourne_victory_vs_newcastle_jets_140935_english.m3u8
