@@ -1,14 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:00:21 AM 18-04-2026
+#last update time: 03:15:17 AM 18-04-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141526_5489_BLK_CVC_fc-web_1776167542995.jpg" group-title="Live Sports", Blackburn Rovers F.c. Vs Coventry City F.c. | EFL Championship 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/blackburn_rovers_f_c__vs_coventry_city_f_c__141526_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776063278978/141959_CASACARDS_APP.png" group-title="Live Sports", Real Sociedad B Vs Racing Club | LALIGA Hypermotion 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/real_sociedad_b_vs_racing_club_141959_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", Main Feed   Day 2 | RBC Heritage 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/main_feed___day_2_141937_english.m3u8

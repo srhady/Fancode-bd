@@ -2,38 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:00:21 AM 18-04-2026",
+    "last update time": "03:15:17 AM 18-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Blackburn Rovers F.c. Vs Coventry City F.c.",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141526_5489_BLK_CVC_fc-web_1776167542995.jpg",
-            "team_1": "Blackburn Rovers F.C.",
-            "team_2": "Coventry City F.C.",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Blackburn Rovers F.c. Vs Coventry City F.c. | EFL Championship 2025-26 [ENGLISH]",
-            "match_id": 141526,
-            "startTime": "18 April 2026 12:30 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/blackburn_rovers_f_c__vs_coventry_city_f_c__141526_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Sociedad B Vs Racing Club",
-            "src": "https://images.fancode.com/aig/match/v1776063278978/141959_CASACARDS_APP.png",
-            "team_1": "Real Sociedad B",
-            "team_2": "Racing Club",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Real Sociedad B Vs Racing Club | LALIGA Hypermotion 2025-26 [ENGLISH]",
-            "match_id": 141959,
-            "startTime": "18 April 2026 12:00 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/real_sociedad_b_vs_racing_club_141959_english.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Main Feed   Day 2",
@@ -231,21 +201,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Wellington Phoenix Vs Western Sydney Wanderers",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140936_5802_WEL_SYW_fc-web.jpg",
-            "team_1": "Wellington Phoenix",
-            "team_2": "Western Sydney Wanderers",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Wellington Phoenix Vs Western Sydney Wanderers | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140936,
-            "startTime": "18 April 2026 10:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Buriram United Vs Shabab Al Ahli",
             "src": "https://images.fancode.com/aig/match/v1776321743564/141676_CASACARDS_APP.png",
             "team_1": "Buriram United",
@@ -257,6 +212,21 @@
             "match_name": "Buriram United Vs Shabab Al Ahli | AFC Champions League Elite 2025-26 [BLOODY_SWEET]",
             "match_id": 141676,
             "startTime": "18 April 2026 09:45 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Wellington Phoenix Vs Western Sydney Wanderers",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140936_5802_WEL_SYW_fc-web.jpg",
+            "team_1": "Wellington Phoenix",
+            "team_2": "Western Sydney Wanderers",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Wellington Phoenix Vs Western Sydney Wanderers | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140936,
+            "startTime": "18 April 2026 10:30 AM",
             "stream_url": ""
         },
         {
@@ -557,6 +527,21 @@
             "match_name": "Italy Women Vs Nepal Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
             "match_id": 142049,
             "startTime": "19 April 2026 05:20 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Ipswich Town F.c. Vs Middlesbrough F.c.",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141529_5489_IPT_MIDD_fc-web_1776167542451.jpg",
+            "team_1": "Ipswich Town F.C.",
+            "team_2": "Middlesbrough F.C.",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Ipswich Town F.c. Vs Middlesbrough F.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
+            "match_id": 141529,
+            "startTime": "19 April 2026 04:30 PM",
             "stream_url": ""
         }
     ]
