@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:15:18 PM 17-04-2026",
+    "last update time": "07:30:24 PM 17-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -185,6 +185,21 @@
             "stream_url": "https://fancode-bd-srhady.vercel.app/main_feed___day_2_141937_english.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "Featured Groups   Day 2",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
+            "team_1": "Featured Groups - Day 2",
+            "team_2": "Harbour Town Golf Links - Hilton Head Island, Sout",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "RBC Heritage 2026",
+            "match_name": "Featured Groups   Day 2 | RBC Heritage 2026 [ENGLISH]",
+            "match_id": 141939,
+            "startTime": "17 April 2026 07:00 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/featured_groups___day_2_141939_english.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Odisha Fc Vs Mohammedan Sc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140489_5956_ODS_MSC_FC-Web_1772461730611.jpg",
@@ -321,21 +336,6 @@
         },
         {
             "event_category": "Golf",
-            "title": "Featured Groups   Day 2",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
-            "team_1": "Featured Groups - Day 2",
-            "team_2": "Harbour Town Golf Links - Hilton Head Island, Sout",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "RBC Heritage 2026",
-            "match_name": "Featured Groups   Day 2 | RBC Heritage 2026 [BLOODY_SWEET]",
-            "match_id": 141939,
-            "startTime": "17 April 2026 07:00 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Golf",
             "title": "Marquee Group   Day 2",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
             "team_1": "Marquee Group - Day 2",
@@ -381,21 +381,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Brisbane Roar Vs Melbourne City",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140937_5802_BRB_MLC_fc-web.jpg",
-            "team_1": "Brisbane Roar",
-            "team_2": "Melbourne City",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Brisbane Roar Vs Melbourne City | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140937,
-            "startTime": "18 April 2026 12:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Kerala Blasters Fc Vs Jamshedpur Fc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140490_5956_KBFC_JFC_FC-Web_1772461810739.jpg",
             "team_1": "Kerala Blasters FC",
@@ -437,6 +422,21 @@
             "match_name": "Kerala Blasters Fc Vs Jamshedpur Fc | ISL 2025-26  - Regional [BLOODY_SWEET]",
             "match_id": 141816,
             "startTime": "18 April 2026 05:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Brisbane Roar Vs Melbourne City",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140937_5802_BRB_MLC_fc-web.jpg",
+            "team_1": "Brisbane Roar",
+            "team_2": "Melbourne City",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Brisbane Roar Vs Melbourne City | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140937,
+            "startTime": "18 April 2026 12:30 PM",
             "stream_url": ""
         },
         {
