@@ -1,17 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:15:26 PM 17-04-2026
+#last update time: 11:30:22 PM 17-04-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776321743565/141674_CASACARDS_APP.png" group-title="Live Sports", Al Ahli Saudi Fc Vs Johor Darul Ta'zim | AFC Champions League Elite 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/al_ahli_saudi_fc_vs_johor_darul_ta_zim_141674_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg" group-title="Live Sports", Day 7 | ATP 500 - Barcelona Open Banc Sabadell 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/day_7_141833_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg" group-title="Live Sports", Day 7 | ATP 500 - BMW Open by Bitpanda 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/day_7_141847_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", Main Feed   Day 2 | RBC Heritage 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/main_feed___day_2_141937_english.m3u8
@@ -21,7 +12,4 @@ https://fancode-bd-srhady.vercel.app/featured_groups___day_2_141939_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", Marquee Group   Day 2 | RBC Heritage 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/marquee_group___day_2_141938_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Senior-PGA-Championship_FC-WEB.jpg" group-title="Live Sports", Day 2 | Senior PGA Championship 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/day_2_142043_english.m3u8
 
