@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:30:20 PM 17-04-2026",
+    "last update time": "03:45:18 PM 17-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -66,21 +66,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Namibia Vs Scotland",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png",
-            "team_1": "Namibia",
-            "team_2": "Scotland",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Scotland tour of Namibia, 2026",
-            "match_name": "Namibia Vs Scotland | Scotland tour of Namibia, 2026 [BLOODY_SWEET]",
-            "match_id": 142016,
-            "startTime": "17 April 2026 05:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
             "title": "Rwanda Women Vs Italy Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142046_6045_RWA-W_ITA-W_fc-web.jpg",
             "team_1": "Rwanda Women",
@@ -92,6 +77,21 @@
             "match_name": "Rwanda Women Vs Italy Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
             "match_id": 142046,
             "startTime": "18 April 2026 12:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Namibia Vs Scotland",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png",
+            "team_1": "Namibia",
+            "team_2": "Scotland",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Scotland tour of Namibia, 2026",
+            "match_name": "Namibia Vs Scotland | Scotland tour of Namibia, 2026 [BLOODY_SWEET]",
+            "match_id": 142016,
+            "startTime": "17 April 2026 05:30 PM",
             "stream_url": ""
         },
         {
