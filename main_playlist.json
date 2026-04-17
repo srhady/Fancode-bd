@@ -2,22 +2,22 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:45:18 AM 17-04-2026",
+    "last update time": "11:00:26 AM 17-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Bangladesh Vs New Zealand",
+            "title": "New Zealand Vs Bangladesh",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web.jpg",
-            "team_1": "Bangladesh",
-            "team_2": "New Zealand",
+            "team_1": "New Zealand",
+            "team_2": "Bangladesh",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "New Zealand tour of Bangladesh, 2026",
-            "match_name": "Bangladesh Vs New Zealand | New Zealand tour of Bangladesh, 2026 [ENGLISH]",
+            "match_name": "New Zealand Vs Bangladesh | New Zealand tour of Bangladesh, 2026 [ENGLISH]",
             "match_id": 142066,
             "startTime": "17 April 2026 10:30 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/bangladesh_vs_new_zealand_142066_english.m3u8"
+            "stream_url": "https://fancode-bd-srhady.vercel.app/new_zealand_vs_bangladesh_142066_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -185,6 +185,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Football",
+            "title": "Wellington Phoenix Vs Western Sydney Wanderers",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140936_5802_WEL_SYW_fc-web.jpg",
+            "team_1": "Wellington Phoenix",
+            "team_2": "Western Sydney Wanderers",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Wellington Phoenix Vs Western Sydney Wanderers | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140936,
+            "startTime": "18 April 2026 10:30 AM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Tennis",
             "title": "Day 7",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg",
@@ -227,21 +242,6 @@
             "match_name": "Doubles Sf' Ft. Bhambri | ATP 500 - BMW Open by Bitpanda 2026 [BLOODY_SWEET]",
             "match_id": 141846,
             "startTime": "17 April 2026 04:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Wellington Phoenix Vs Western Sydney Wanderers",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140936_5802_WEL_SYW_fc-web.jpg",
-            "team_1": "Wellington Phoenix",
-            "team_2": "Western Sydney Wanderers",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Wellington Phoenix Vs Western Sydney Wanderers | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140936,
-            "startTime": "18 April 2026 10:30 AM",
             "stream_url": ""
         },
         {
@@ -307,7 +307,7 @@
         {
             "event_category": "Cricket",
             "title": "Melbourne Tuskers Vs Everest Falcons",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "src": "https://images.fancode.com/aig/match/v1776400770484/141765_CASACARDS_APP.png",
             "team_1": "Melbourne Tuskers",
             "team_2": "Everest Falcons",
             "status": "NOT_STARTED",
@@ -335,21 +335,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Brisbane Roar Vs Melbourne City",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140937_5802_BRB_MLC_fc-web.jpg",
-            "team_1": "Brisbane Roar",
-            "team_2": "Melbourne City",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Brisbane Roar Vs Melbourne City | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140937,
-            "startTime": "18 April 2026 12:30 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Nepal Women Vs Usa Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142047_6045_NP-W_USA-W_fc-web.jpg",
@@ -362,6 +347,21 @@
             "match_name": "Nepal Women Vs Usa Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
             "match_id": 142047,
             "startTime": "18 April 2026 05:20 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Brisbane Roar Vs Melbourne City",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140937_5802_BRB_MLC_fc-web.jpg",
+            "team_1": "Brisbane Roar",
+            "team_2": "Melbourne City",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Brisbane Roar Vs Melbourne City | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140937,
+            "startTime": "18 April 2026 12:30 PM",
             "stream_url": ""
         },
         {
