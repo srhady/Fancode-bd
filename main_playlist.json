@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:15:18 PM 17-04-2026",
+    "last update time": "03:30:20 PM 17-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,6 +18,21 @@
             "match_id": 142066,
             "startTime": "17 April 2026 10:30 AM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/new_zealand_vs_bangladesh_142066_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Melbourne Victory Vs Newcastle Jets",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140935_5802_MLV_NJ_fc-web.jpg",
+            "team_1": "Melbourne Victory",
+            "team_2": "Newcastle Jets",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "A League 2025-26",
+            "match_name": "Melbourne Victory Vs Newcastle Jets | A League 2025-26 [ENGLISH]",
+            "match_id": 140935,
+            "startTime": "17 April 2026 03:05 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/melbourne_victory_vs_newcastle_jets_140935_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -50,21 +65,6 @@
             "stream_url": "https://fancode-bd-srhady.vercel.app/day_7_141847_english.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Melbourne Victory Vs Newcastle Jets",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140935_5802_MLV_NJ_fc-web.jpg",
-            "team_1": "Melbourne Victory",
-            "team_2": "Newcastle Jets",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne Victory Vs Newcastle Jets | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140935,
-            "startTime": "17 April 2026 03:05 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Namibia Vs Scotland",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png",
@@ -77,6 +77,21 @@
             "match_name": "Namibia Vs Scotland | Scotland tour of Namibia, 2026 [BLOODY_SWEET]",
             "match_id": 142016,
             "startTime": "17 April 2026 05:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Rwanda Women Vs Italy Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142046_6045_RWA-W_ITA-W_fc-web.jpg",
+            "team_1": "Rwanda Women",
+            "team_2": "Italy Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ICC Women's T20I Challenge Trophy, 2026",
+            "match_name": "Rwanda Women Vs Italy Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
+            "match_id": 142046,
+            "startTime": "18 April 2026 12:30 PM",
             "stream_url": ""
         },
         {
@@ -137,21 +152,6 @@
             "match_name": "Odisha Fc Vs Mohammedan Sc | ISL 2025-26  - Regional [BLOODY_SWEET]",
             "match_id": 141815,
             "startTime": "17 April 2026 07:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Rwanda Women Vs Italy Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142046_6045_RWA-W_ITA-W_fc-web.jpg",
-            "team_1": "Rwanda Women",
-            "team_2": "Italy Women",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "ICC Women's T20I Challenge Trophy, 2026",
-            "match_name": "Rwanda Women Vs Italy Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
-            "match_id": 142046,
-            "startTime": "18 April 2026 12:30 PM",
             "stream_url": ""
         },
         {
@@ -320,6 +320,36 @@
             "stream_url": ""
         },
         {
+            "event_category": "Cricket",
+            "title": "Namibia Vs Scotland",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png",
+            "team_1": "Namibia",
+            "team_2": "Scotland",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Scotland tour of Namibia, 2026",
+            "match_name": "Namibia Vs Scotland | Scotland tour of Namibia, 2026 [BLOODY_SWEET]",
+            "match_id": 142017,
+            "startTime": "18 April 2026 05:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Sydney Fc Vs Perth Glory",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140938_5802_SYD_PG_fc-web.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Perth Glory",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Sydney Fc Vs Perth Glory | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140938,
+            "startTime": "18 April 2026 03:05 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Tennis",
             "title": "Doubles Sf' Ft. Bhambri",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg",
@@ -392,36 +422,6 @@
             "match_name": "Day 2 | Senior PGA Championship 2026 [BLOODY_SWEET]",
             "match_id": 142043,
             "startTime": "17 April 2026 07:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Namibia Vs Scotland",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png",
-            "team_1": "Namibia",
-            "team_2": "Scotland",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Scotland tour of Namibia, 2026",
-            "match_name": "Namibia Vs Scotland | Scotland tour of Namibia, 2026 [BLOODY_SWEET]",
-            "match_id": 142017,
-            "startTime": "18 April 2026 05:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Sydney Fc Vs Perth Glory",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140938_5802_SYD_PG_fc-web.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Perth Glory",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney Fc Vs Perth Glory | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140938,
-            "startTime": "18 April 2026 03:05 PM",
             "stream_url": ""
         },
         {
