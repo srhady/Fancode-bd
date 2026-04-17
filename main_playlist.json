@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:15:19 AM 18-04-2026",
+    "last update time": "05:30:18 AM 18-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -186,21 +186,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Sydney Fc Vs Perth Glory",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140938_5802_SYD_PG_fc-web.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Perth Glory",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney Fc Vs Perth Glory | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140938,
-            "startTime": "18 April 2026 03:05 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Atletico De Madrid Vs Real Sociedad",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid_vs_Real-Sociedad_FC-WEB.jpg",
             "team_1": "Atletico de Madrid",
@@ -212,6 +197,21 @@
             "match_name": "Atletico De Madrid Vs Real Sociedad | Copa del Rey, 2025-26 [BLOODY_SWEET]",
             "match_id": 141270,
             "startTime": "19 April 2026 12:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Sydney Fc Vs Perth Glory",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140938_5802_SYD_PG_fc-web.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Perth Glory",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Sydney Fc Vs Perth Glory | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140938,
+            "startTime": "18 April 2026 03:05 PM",
             "stream_url": ""
         },
         {
@@ -380,21 +380,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Golf",
-            "title": "Day 3",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Senior-PGA-Championship_FC-WEB.jpg",
-            "team_1": "Day 3",
-            "team_2": "Concession Golf Course",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Senior PGA Championship 2026",
-            "match_name": "Day 3 | Senior PGA Championship 2026 [BLOODY_SWEET]",
-            "match_id": 142044,
-            "startTime": "19 April 2026 12:30 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Rwanda Women Vs Vanuatu Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142048_6045_RWA-W_VANW_fc-web.jpg",
@@ -407,6 +392,21 @@
             "match_name": "Rwanda Women Vs Vanuatu Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
             "match_id": 142048,
             "startTime": "19 April 2026 12:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Senior-PGA-Championship_FC-WEB.jpg",
+            "team_1": "Day 3",
+            "team_2": "Concession Golf Course",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Senior PGA Championship 2026",
+            "match_name": "Day 3 | Senior PGA Championship 2026 [BLOODY_SWEET]",
+            "match_id": 142044,
+            "startTime": "19 April 2026 12:30 AM",
             "stream_url": ""
         },
         {
