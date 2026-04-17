@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:45:17 PM 17-04-2026",
+    "last update time": "03:00:22 PM 17-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,6 +18,36 @@
             "match_id": 142066,
             "startTime": "17 April 2026 10:30 AM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/new_zealand_vs_bangladesh_142066_english.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 7",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg",
+            "team_1": "Day 7",
+            "team_2": "Barcelona",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
+            "match_name": "Day 7 | ATP 500 - Barcelona Open Banc Sabadell 2026 [ENGLISH]",
+            "match_id": 141833,
+            "startTime": "17 April 2026 02:30 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/day_7_141833_english.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 7",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg",
+            "team_1": "Day 7",
+            "team_2": "Munich, Germany",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ATP 500 - BMW Open by Bitpanda 2026",
+            "match_name": "Day 7 | ATP 500 - BMW Open by Bitpanda 2026 [ENGLISH]",
+            "match_id": 141847,
+            "startTime": "17 April 2026 02:30 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/day_7_141847_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -140,21 +170,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Blackburn Rovers F.c. Vs Coventry City F.c.",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141526_5489_BLK_CVC_fc-web_1776167542995.jpg",
-            "team_1": "Blackburn Rovers F.C.",
-            "team_2": "Coventry City F.C.",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Blackburn Rovers F.c. Vs Coventry City F.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
-            "match_id": 141526,
-            "startTime": "18 April 2026 12:30 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Rwanda Women Vs Italy Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142046_6045_RWA-W_ITA-W_fc-web.jpg",
@@ -171,6 +186,21 @@
         },
         {
             "event_category": "Football",
+            "title": "Blackburn Rovers F.c. Vs Coventry City F.c.",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141526_5489_BLK_CVC_fc-web_1776167542995.jpg",
+            "team_1": "Blackburn Rovers F.C.",
+            "team_2": "Coventry City F.C.",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Blackburn Rovers F.c. Vs Coventry City F.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
+            "match_id": 141526,
+            "startTime": "18 April 2026 12:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
             "title": "Real Sociedad B Vs Racing Club",
             "src": "https://images.fancode.com/aig/match/v1776063278978/141959_CASACARDS_APP.png",
             "team_1": "Real Sociedad B",
@@ -182,36 +212,6 @@
             "match_name": "Real Sociedad B Vs Racing Club | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
             "match_id": 141959,
             "startTime": "18 April 2026 12:00 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 7",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg",
-            "team_1": "Day 7",
-            "team_2": "Barcelona",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
-            "match_name": "Day 7 | ATP 500 - Barcelona Open Banc Sabadell 2026 [BLOODY_SWEET]",
-            "match_id": 141833,
-            "startTime": "17 April 2026 02:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 7",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg",
-            "team_1": "Day 7",
-            "team_2": "Munich, Germany",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "ATP 500 - BMW Open by Bitpanda 2026",
-            "match_name": "Day 7 | ATP 500 - BMW Open by Bitpanda 2026 [BLOODY_SWEET]",
-            "match_id": 141847,
-            "startTime": "17 April 2026 02:30 PM",
             "stream_url": ""
         },
         {
@@ -410,21 +410,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Sydney Fc Vs Perth Glory",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140938_5802_SYD_PG_fc-web.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Perth Glory",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney Fc Vs Perth Glory | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140938,
-            "startTime": "18 April 2026 03:05 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Namibia Vs Scotland",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png",
@@ -437,6 +422,21 @@
             "match_name": "Namibia Vs Scotland | Scotland tour of Namibia, 2026 [BLOODY_SWEET]",
             "match_id": 142017,
             "startTime": "18 April 2026 05:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Sydney Fc Vs Perth Glory",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140938_5802_SYD_PG_fc-web.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Perth Glory",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Sydney Fc Vs Perth Glory | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140938,
+            "startTime": "18 April 2026 03:05 PM",
             "stream_url": ""
         },
         {
