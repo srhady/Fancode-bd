@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:15:17 PM 17-04-2026",
+    "last update time": "06:30:29 PM 17-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -123,21 +123,6 @@
             "match_id": 141814,
             "startTime": "17 April 2026 05:00 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/chennaiyin_fc_vs_sporting_club_delhi_141814_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Melbourne Victory Vs Newcastle Jets",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140935_5802_MLV_NJ_fc-web.jpg",
-            "team_1": "Melbourne Victory",
-            "team_2": "Newcastle Jets",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne Victory Vs Newcastle Jets | A League 2025-26 [ENGLISH]",
-            "match_id": 140935,
-            "startTime": "17 April 2026 03:05 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/melbourne_victory_vs_newcastle_jets_140935_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -587,6 +572,21 @@
             "match_name": "Real Zaragoza Vs Ceuta | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
             "match_id": 141960,
             "startTime": "18 April 2026 07:45 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Atletico De Madrid Vs Real Sociedad",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid_vs_Real-Sociedad_FC-WEB.jpg",
+            "team_1": "Atletico de Madrid",
+            "team_2": "Real Sociedad",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Copa del Rey, 2025-26",
+            "match_name": "Atletico De Madrid Vs Real Sociedad | Copa del Rey, 2025-26 [BLOODY_SWEET]",
+            "match_id": 141270,
+            "startTime": "19 April 2026 12:30 AM",
             "stream_url": ""
         },
         {
