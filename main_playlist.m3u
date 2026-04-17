@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:15:20 PM 17-04-2026
+#last update time: 09:30:22 PM 17-04-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png" group-title="Live Sports", Scotland Vs Namibia | Scotland tour of Namibia 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/scotland_vs_namibia_142016_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140489_5956_ODS_MSC_FC-Web_1772461730611.jpg" group-title="Live Sports", Odisha Fc Vs Mohammedan Sc | ISL 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/odisha_fc_vs_mohammedan_sc_140489_english.m3u8
