@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:15:20 AM 17-04-2026",
+    "last update time": "10:30:24 AM 17-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -10,14 +10,14 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web.jpg",
             "team_1": "Bangladesh",
             "team_2": "New Zealand",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "New Zealand tour of Bangladesh, 2026",
-            "match_name": "Bangladesh Vs New Zealand | New Zealand tour of Bangladesh, 2026 [BLOODY_SWEET]",
+            "match_name": "Bangladesh Vs New Zealand | New Zealand tour of Bangladesh, 2026 [ENGLISH]",
             "match_id": 142066,
             "startTime": "17 April 2026 10:30 AM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/bangladesh_vs_new_zealand_142066_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -245,6 +245,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Football",
+            "title": "Wellington Phoenix Vs Western Sydney Wanderers",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140936_5802_WEL_SYW_fc-web.jpg",
+            "team_1": "Wellington Phoenix",
+            "team_2": "Western Sydney Wanderers",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Wellington Phoenix Vs Western Sydney Wanderers | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140936,
+            "startTime": "18 April 2026 10:30 AM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Golf",
             "title": "Featured Groups   Day 2",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
@@ -290,18 +305,18 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Wellington Phoenix Vs Western Sydney Wanderers",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140936_5802_WEL_SYW_fc-web.jpg",
-            "team_1": "Wellington Phoenix",
-            "team_2": "Western Sydney Wanderers",
+            "event_category": "Cricket",
+            "title": "Melbourne Tuskers Vs Everest Falcons",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Melbourne Tuskers",
+            "team_2": "Everest Falcons",
             "status": "NOT_STARTED",
             "streaming_status": "NOT_STARTED",
             "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Wellington Phoenix Vs Western Sydney Wanderers | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140936,
-            "startTime": "18 April 2026 10:30 AM",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Melbourne Tuskers Vs Everest Falcons | Brisbane Champions League 2026 [BLOODY_SWEET]",
+            "match_id": 141765,
+            "startTime": "18 April 2026 01:30 PM",
             "stream_url": ""
         },
         {
@@ -317,21 +332,6 @@
             "match_name": "World Feed   Day 2 | RBC Heritage 2026 [BLOODY_SWEET]",
             "match_id": 141931,
             "startTime": "18 April 2026 12:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Tbc Vs Tbc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Tbc Vs Tbc | Brisbane Champions League 2026 [BLOODY_SWEET]",
-            "match_id": 141765,
-            "startTime": "18 April 2026 01:30 PM",
             "stream_url": ""
         },
         {
