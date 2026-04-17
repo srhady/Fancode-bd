@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:15:22 AM 18-04-2026",
+    "last update time": "02:30:22 AM 18-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Machida Zelvia Vs Al Ittihad",
-            "src": "https://images.fancode.com/aig/match/v1776321743565/141675_CASACARDS_APP.png",
-            "team_1": "Machida Zelvia",
-            "team_2": "Al-Ittihad",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Machida Zelvia Vs Al Ittihad | AFC Champions League Elite 2025-26 [ENGLISH]",
-            "match_id": 141675,
-            "startTime": "17 April 2026 11:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/machida_zelvia_vs_al_ittihad_141675_english.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Blackburn Rovers F.c. Vs Coventry City F.c.",
@@ -557,6 +542,21 @@
             "match_name": "Adelaide United Vs Macarthur | A League 2025-26 [BLOODY_SWEET]",
             "match_id": 140940,
             "startTime": "19 April 2026 11:00 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Italy Women Vs Nepal Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142049_6045_ITA-W_NP-W_fc-web.jpg",
+            "team_1": "Italy Women",
+            "team_2": "Nepal Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ICC Women's T20I Challenge Trophy, 2026",
+            "match_name": "Italy Women Vs Nepal Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
+            "match_id": 142049,
+            "startTime": "19 April 2026 05:20 PM",
             "stream_url": ""
         }
     ]
