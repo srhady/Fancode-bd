@@ -1,23 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:00:22 PM 17-04-2026
+#last update time: 10:15:19 PM 17-04-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140489_5956_ODS_MSC_FC-Web_1772461730611.jpg" group-title="Live Sports", Odisha Fc Vs Mohammedan Sc | ISL 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/odisha_fc_vs_mohammedan_sc_140489_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140489_5956_ODS_MSC_FC-Web_1772461730611.jpg" group-title="Live Sports", Odisha Fc Vs Mohammedan Sc | ISL 2025-26 (HINDI)
-https://fancode-bd-srhady.vercel.app/odisha_fc_vs_mohammedan_sc_140489_hindi.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140489_5956_ODS_MSC_FC-Web_1772461730611.jpg" group-title="Live Sports", Odisha Fc Vs Mohammedan Sc | ISL 2025-26 (MALAYALAM)
-https://fancode-bd-srhady.vercel.app/odisha_fc_vs_mohammedan_sc_140489_malayalam.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140489_5956_ODS_MSC_FC-Web_1772461730611.jpg" group-title="Live Sports", Odisha Fc Vs Mohammedan Sc | ISL 2025-26 (BENGALI)
-https://fancode-bd-srhady.vercel.app/odisha_fc_vs_mohammedan_sc_140489_bengali.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ods-vs-mcs_web.jpg" group-title="Live Sports", Odisha Fc Vs Mohammedan Sc | ISL 2025-26  - Regional (ENGLISH)
-https://fancode-bd-srhady.vercel.app/odisha_fc_vs_mohammedan_sc_141815_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776321743565/141674_CASACARDS_APP.png" group-title="Live Sports", Al Ahli Saudi Fc Vs Johor Darul Ta'zim | AFC Champions League Elite 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/al_ahli_saudi_fc_vs_johor_darul_ta_zim_141674_english.m3u8
