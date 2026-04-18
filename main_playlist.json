@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:00:20 PM 18-04-2026",
+    "last update time": "06:15:19 PM 18-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -48,21 +48,6 @@
             "match_id": 142017,
             "startTime": "18 April 2026 05:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/scotland_vs_namibia_142017_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Portsmouth F.c. Vs Leicester City F.c.",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141527_5489_PRM_LEI_fc-web_1776167542382.jpg",
-            "team_1": "Portsmouth F.C.",
-            "team_2": "Leicester City F.C.",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Portsmouth F.c. Vs Leicester City F.c. | EFL Championship 2025-26 [ENGLISH]",
-            "match_id": 141527,
-            "startTime": "18 April 2026 05:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/portsmouth_f_c__vs_leicester_city_f_c__141527_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -126,6 +111,21 @@
         },
         {
             "event_category": "Football",
+            "title": "Portsmouth F.c. Vs Leicester City F.c.",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141527_5489_PRM_LEI_fc-web_1776167542382.jpg",
+            "team_1": "Portsmouth F.C.",
+            "team_2": "Leicester City F.C.",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Portsmouth F.c. Vs Leicester City F.c. | EFL Championship 2025-26 [ENGLISH]",
+            "match_id": 141527,
+            "startTime": "18 April 2026 05:00 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/portsmouth_f_c__vs_leicester_city_f_c__141527_english.m3u8"
+        },
+        {
+            "event_category": "Football",
             "title": "Kerala Blasters Fc Vs Jamshedpur Fc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/KB-vs-JP_fc-web.jpg",
             "team_1": "Kerala Blasters FC",
@@ -138,21 +138,6 @@
             "match_id": 141816,
             "startTime": "18 April 2026 05:00 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_jamshedpur_fc_141816_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sydney Fc Vs Perth Glory",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140938_5802_SYD_PG_fc-web.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Perth Glory",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney Fc Vs Perth Glory | A League 2025-26 [ENGLISH]",
-            "match_id": 140938,
-            "startTime": "18 April 2026 03:05 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/sydney_fc_vs_perth_glory_140938_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -485,6 +470,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Cricket",
+            "title": "Jamaica Scorpions Vs Barbados Pride",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
+            "team_1": "Jamaica Scorpions",
+            "team_2": "Barbados Pride",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "West Indies Championship 2026",
+            "match_name": "Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 [BLOODY_SWEET]",
+            "match_id": 141951,
+            "startTime": "19 April 2026 08:30 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Golf",
             "title": "World Feed   Day 3",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
@@ -512,21 +512,6 @@
             "match_name": "Day 3 | Senior PGA Championship 2026 [BLOODY_SWEET]",
             "match_id": 142044,
             "startTime": "19 April 2026 12:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Jamaica Scorpions Vs Barbados Pride",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-            "team_1": "Jamaica Scorpions",
-            "team_2": "Barbados Pride",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "West Indies Championship 2026",
-            "match_name": "Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 [BLOODY_SWEET]",
-            "match_id": 141951,
-            "startTime": "19 April 2026 08:30 PM",
             "stream_url": ""
         },
         {
@@ -586,6 +571,21 @@
             "event_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
             "match_name": "Atp 500   Barcelona Open Banc Sabadell 2026 | ATP 500 - Barcelona Open Banc Sabadell 2026 [BLOODY_SWEET]",
             "match_id": 141837,
+            "startTime": "19 April 2026 05:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Atp 500   Barcelona Open Banc Sabadell 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg",
+            "team_1": "ATP 500 - Barcelona Open Banc Sabadell 2026",
+            "team_2": "Barcelona",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
+            "match_name": "Atp 500   Barcelona Open Banc Sabadell 2026 | ATP 500 - Barcelona Open Banc Sabadell 2026 [BLOODY_SWEET]",
+            "match_id": 141836,
             "startTime": "19 April 2026 05:30 PM",
             "stream_url": ""
         }
