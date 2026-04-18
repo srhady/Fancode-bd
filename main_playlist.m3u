@@ -1,15 +1,24 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:30:19 PM 18-04-2026
+#last update time: 04:45:17 PM 18-04-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142046_6045_RWA-W_ITA-W_fc-web.jpg" group-title="Live Sports", Italy Women Vs Rwanda Women | ICC Women's T20I Challenge Trophy 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/italy_women_vs_rwanda_women_142046_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142047_6045_NP-W_USA-W_fc-web.jpg" group-title="Live Sports", Nepal Women Vs Usa Women | ICC Women's T20I Challenge Trophy 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/nepal_women_vs_usa_women_142047_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Tusker-vs-Everest-Falcons_FC-WEB.jpg" group-title="Live Sports", Melbourne Tuskers Vs Everest Falcons | Brisbane Champions League 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/melbourne_tuskers_vs_everest_falcons_141765_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140938_5802_SYD_PG_fc-web.jpg" group-title="Live Sports", Sydney Fc Vs Perth Glory | A League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/sydney_fc_vs_perth_glory_140938_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png" group-title="Live Sports", Japan U20 Vs Dpr Korea U20 | AFC U20 Women's Asian Cup 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/japan_u20_vs_dpr_korea_u20_141635_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", Featured Groups   Day 3 | RBC Heritage 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/featured_groups___day_3_141942_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", Main Feed   Day 3 | RBC Heritage 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/main_feed___day_3_141940_english.m3u8
 
