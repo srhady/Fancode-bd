@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:15:16 PM 18-04-2026
+#last update time: 03:30:23 PM 18-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142046_6045_RWA-W_ITA-W_fc-web.jpg" group-title="Live Sports", Italy Women Vs Rwanda Women | ICC Women's T20I Challenge Trophy 2026 (ENGLISH)
@@ -10,6 +10,6 @@ https://fancode-bd-srhady.vercel.app/italy_women_vs_rwanda_women_142046_english.
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Tusker-vs-Everest-Falcons_FC-WEB.jpg" group-title="Live Sports", Melbourne Tuskers Vs Everest Falcons | Brisbane Champions League 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/melbourne_tuskers_vs_everest_falcons_141765_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140937_5802_BRB_MLC_fc-web.jpg" group-title="Live Sports", Brisbane Roar Vs Melbourne City | A League 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/brisbane_roar_vs_melbourne_city_140937_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140938_5802_SYD_PG_fc-web.jpg" group-title="Live Sports", Sydney Fc Vs Perth Glory | A League 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/sydney_fc_vs_perth_glory_140938_english.m3u8
 
