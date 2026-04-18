@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:30:19 PM 18-04-2026
+#last update time: 05:45:16 PM 18-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142047_6045_NP-W_USA-W_fc-web.jpg" group-title="Live Sports", Usa Women Vs Nepal Women | ICC Women's T20I Challenge Trophy 2026 (ENGLISH)
@@ -9,6 +9,9 @@ https://fancode-bd-srhady.vercel.app/usa_women_vs_nepal_women_142047_english.m3u
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Tusker-vs-Everest-Falcons_FC-WEB.jpg" group-title="Live Sports", Melbourne Tuskers Vs Everest Falcons | Brisbane Champions League 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/melbourne_tuskers_vs_everest_falcons_141765_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141527_5489_PRM_LEI_fc-web_1776167542382.jpg" group-title="Live Sports", Portsmouth F.c. Vs Leicester City F.c. | EFL Championship 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/portsmouth_f_c__vs_leicester_city_f_c__141527_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140490_5956_KBFC_JFC_FC-Web_1772461810739.jpg" group-title="Live Sports", Kerala Blasters Fc Vs Jamshedpur Fc | ISL 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_jamshedpur_fc_140490_english.m3u8
@@ -21,9 +24,6 @@ https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_jamshedpur_fc_140490_
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140490_5956_KBFC_JFC_FC-Web_1772461810739.jpg" group-title="Live Sports", Kerala Blasters Fc Vs Jamshedpur Fc | ISL 2025-26 (BENGALI)
 https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_jamshedpur_fc_140490_bengali.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141527_5489_PRM_LEI_fc-web_1776167542382.jpg" group-title="Live Sports", Portsmouth F.c. Vs Leicester City F.c. | EFL Championship 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/portsmouth_f_c__vs_leicester_city_f_c__141527_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KB-vs-JP_fc-web.jpg" group-title="Live Sports", Kerala Blasters Fc Vs Jamshedpur Fc | ISL 2025-26  - Regional (ENGLISH)
 https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_jamshedpur_fc_141816_english.m3u8
