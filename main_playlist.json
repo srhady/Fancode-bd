@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:45:20 PM 18-04-2026",
+    "last update time": "02:00:19 PM 18-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,6 +18,21 @@
             "match_id": 142046,
             "startTime": "18 April 2026 12:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/italy_women_vs_rwanda_women_142046_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Melbourne Tuskers Vs Everest Falcons",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Tusker-vs-Everest-Falcons_FC-WEB.jpg",
+            "team_1": "Melbourne Tuskers",
+            "team_2": "Everest Falcons",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Melbourne Tuskers Vs Everest Falcons | Brisbane Champions League 2026 [ENGLISH]",
+            "match_id": 141765,
+            "startTime": "18 April 2026 01:30 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/melbourne_tuskers_vs_everest_falcons_141765_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -48,21 +63,6 @@
             "match_id": 142047,
             "startTime": "18 April 2026 04:30 PM",
             "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Melbourne Tuskers Vs Everest Falcons",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Tusker-vs-Everest-Falcons_FC-WEB.jpg",
-            "team_1": "Melbourne Tuskers",
-            "team_2": "Everest Falcons",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Melbourne Tuskers Vs Everest Falcons | Brisbane Champions League 2026 [ENGLISH]",
-            "match_id": 141765,
-            "startTime": "18 April 2026 01:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/melbourne_tuskers_vs_everest_falcons_141765_english.m3u8"
         },
         {
             "event_category": "Cricket",
