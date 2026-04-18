@@ -1,14 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:30:18 PM 18-04-2026
+#last update time: 06:45:17 PM 18-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142047_6045_NP-W_USA-W_fc-web.jpg" group-title="Live Sports", Usa Women Vs Nepal Women | ICC Women's T20I Challenge Trophy 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/usa_women_vs_nepal_women_142047_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Tusker-vs-Everest-Falcons_FC-WEB.jpg" group-title="Live Sports", Melbourne Tuskers Vs Everest Falcons | Brisbane Champions League 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/melbourne_tuskers_vs_everest_falcons_141765_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png" group-title="Live Sports", Scotland Vs Namibia | Scotland tour of Namibia 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/scotland_vs_namibia_142017_english.m3u8
@@ -51,4 +48,7 @@ https://fancode-bd-srhady.vercel.app/day_8_141835_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg" group-title="Live Sports", Day 8 | ATP 500 - BMW Open by Bitpanda 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_8_141849_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", Marquee Group   Day 3 | RBC Heritage 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/marquee_group___day_3_141941_english.m3u8
 
