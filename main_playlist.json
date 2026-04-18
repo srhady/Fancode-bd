@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:45:16 PM 18-04-2026",
+    "last update time": "06:00:20 PM 18-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,6 +33,21 @@
             "match_id": 141765,
             "startTime": "18 April 2026 01:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/melbourne_tuskers_vs_everest_falcons_141765_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Scotland Vs Namibia",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png",
+            "team_1": "Scotland",
+            "team_2": "Namibia",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Scotland tour of Namibia, 2026",
+            "match_name": "Scotland Vs Namibia | Scotland tour of Namibia, 2026 [ENGLISH]",
+            "match_id": 142017,
+            "startTime": "18 April 2026 05:30 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/scotland_vs_namibia_142017_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -246,21 +261,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Scotland Vs Namibia",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png",
-            "team_1": "Scotland",
-            "team_2": "Namibia",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Scotland tour of Namibia, 2026",
-            "match_name": "Scotland Vs Namibia | Scotland tour of Namibia, 2026 [BLOODY_SWEET]",
-            "match_id": 142017,
-            "startTime": "18 April 2026 05:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
             "title": "Rwanda Women Vs Vanuatu Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142048_6045_RWA-W_VANW_fc-web.jpg",
             "team_1": "Rwanda Women",
@@ -362,6 +362,21 @@
             "match_name": "Real Zaragoza Vs Ceuta | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
             "match_id": 141960,
             "startTime": "18 April 2026 07:45 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Marquee Group   Day 3",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
+            "team_1": "Marquee Group - Day 3",
+            "team_2": "Harbour Town Golf Links - Hilton Head Island, Sout",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "RBC Heritage 2026",
+            "match_name": "Marquee Group   Day 3 | RBC Heritage 2026 [BLOODY_SWEET]",
+            "match_id": 141941,
+            "startTime": "18 April 2026 06:15 PM",
             "stream_url": ""
         },
         {
@@ -467,21 +482,6 @@
             "match_name": "Northeast United Fc Vs Mohun Bagan Super Giant | ISL 2025-26  - Regional [BLOODY_SWEET]",
             "match_id": 141817,
             "startTime": "19 April 2026 07:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Golf",
-            "title": "Marquee Group   Day 3",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
-            "team_1": "Marquee Group - Day 3",
-            "team_2": "Harbour Town Golf Links - Hilton Head Island, Sout",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "RBC Heritage 2026",
-            "match_name": "Marquee Group   Day 3 | RBC Heritage 2026 [BLOODY_SWEET]",
-            "match_id": 141941,
-            "startTime": "18 April 2026 06:15 PM",
             "stream_url": ""
         },
         {
