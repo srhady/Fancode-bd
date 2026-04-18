@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:00:20 PM 18-04-2026",
+    "last update time": "08:15:19 PM 18-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -36,11 +36,26 @@
         },
         {
             "event_category": "Football",
+            "title": "Hull City Vs Birmingham City F.c.",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141528_5489_HUL_BIR_fc-web_1776167543071.jpg",
+            "team_1": "Hull City",
+            "team_2": "Birmingham City F.C.",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Hull City Vs Birmingham City F.c. | EFL Championship 2025-26 [ENGLISH]",
+            "match_id": 141528,
+            "startTime": "18 April 2026 07:30 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/hull_city_vs_birmingham_city_f_c__141528_english.m3u8"
+        },
+        {
+            "event_category": "Football",
             "title": "Fc Goa Vs Mumbai City Fc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140491_5956_FCG_MCFC_FC-Web_1772466137053.jpg",
             "team_1": "FC Goa",
             "team_2": "Mumbai City FC",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "ISL 2025-26",
@@ -55,7 +70,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140491_5956_FCG_MCFC_FC-Web_1772466137053.jpg",
             "team_1": "FC Goa",
             "team_2": "Mumbai City FC",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "HINDI",
             "event_name": "ISL 2025-26",
@@ -70,7 +85,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140491_5956_FCG_MCFC_FC-Web_1772466137053.jpg",
             "team_1": "FC Goa",
             "team_2": "Mumbai City FC",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "MALAYALAM",
             "event_name": "ISL 2025-26",
@@ -85,7 +100,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140491_5956_FCG_MCFC_FC-Web_1772466137053.jpg",
             "team_1": "FC Goa",
             "team_2": "Mumbai City FC",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "BENGALI",
             "event_name": "ISL 2025-26",
@@ -93,36 +108,6 @@
             "match_id": 140491,
             "startTime": "18 April 2026 07:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/fc_goa_vs_mumbai_city_fc_140491_bengali.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Hull City Vs Birmingham City F.c.",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141528_5489_HUL_BIR_fc-web_1776167543071.jpg",
-            "team_1": "Hull City",
-            "team_2": "Birmingham City F.C.",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Hull City Vs Birmingham City F.c. | EFL Championship 2025-26 [ENGLISH]",
-            "match_id": 141528,
-            "startTime": "18 April 2026 07:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/hull_city_vs_birmingham_city_f_c__141528_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Japan U20 Vs Dpr Korea U20",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
-            "team_1": "Japan U20",
-            "team_2": "DPR Korea U20",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Japan U20 Vs Dpr Korea U20 | AFC U20 Women's Asian Cup 2026 [ENGLISH]",
-            "match_id": 141635,
-            "startTime": "18 April 2026 04:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/japan_u20_vs_dpr_korea_u20_141635_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -138,6 +123,21 @@
             "match_id": 141497,
             "startTime": "18 April 2026 05:00 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/dunfermline_vs_falkirk_141497_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Zaragoza Vs Ceuta",
+            "src": "https://images.fancode.com/aig/match/v1776063278978/141960_CASACARDS_APP.png",
+            "team_1": "Real Zaragoza",
+            "team_2": "Ceuta",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Real Zaragoza Vs Ceuta | LALIGA Hypermotion 2025-26 [ENGLISH]",
+            "match_id": 141960,
+            "startTime": "18 April 2026 07:45 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/real_zaragoza_vs_ceuta_141960_english.m3u8"
         },
         {
             "event_category": "Golf",
@@ -242,21 +242,6 @@
             "match_name": "Rwanda Women Vs Vanuatu Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
             "match_id": 142048,
             "startTime": "19 April 2026 12:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Zaragoza Vs Ceuta",
-            "src": "https://images.fancode.com/aig/match/v1776063278978/141960_CASACARDS_APP.png",
-            "team_1": "Real Zaragoza",
-            "team_2": "Ceuta",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Real Zaragoza Vs Ceuta | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
-            "match_id": 141960,
-            "startTime": "18 April 2026 07:45 PM",
             "stream_url": ""
         },
         {
@@ -602,6 +587,21 @@
             "match_name": "Marquee Group   Day 4 | RBC Heritage 2026 [BLOODY_SWEET]",
             "match_id": 141944,
             "startTime": "19 April 2026 06:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Al Ahli (qat) Vs Al Hussein",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140872_5648_ASC_HUS_FC-WEB_1775570097662.jpg",
+            "team_1": "Al Ahli (QAT)",
+            "team_2": "Al Hussein",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Al Ahli (qat) Vs Al Hussein | AFC Champions League Two 2025-26 [BLOODY_SWEET]",
+            "match_id": 140872,
+            "startTime": "20 April 2026 12:30 AM",
             "stream_url": ""
         }
     ]
