@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:30:20 PM 18-04-2026
+#last update time: 07:45:18 PM 18-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142047_6045_NP-W_USA-W_fc-web.jpg" group-title="Live Sports", Usa Women Vs Nepal Women | ICC Women's T20I Challenge Trophy 2026 (ENGLISH)
@@ -10,23 +10,17 @@ https://fancode-bd-srhady.vercel.app/usa_women_vs_nepal_women_142047_english.m3u
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png" group-title="Live Sports", Scotland Vs Namibia | Scotland tour of Namibia 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/scotland_vs_namibia_142017_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140490_5956_KBFC_JFC_FC-Web_1772461810739.jpg" group-title="Live Sports", Kerala Blasters Fc Vs Jamshedpur Fc | ISL 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_jamshedpur_fc_140490_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140491_5956_FCG_MCFC_FC-Web_1772466137053.jpg" group-title="Live Sports", Fc Goa Vs Mumbai City Fc | ISL 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/fc_goa_vs_mumbai_city_fc_140491_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140490_5956_KBFC_JFC_FC-Web_1772461810739.jpg" group-title="Live Sports", Kerala Blasters Fc Vs Jamshedpur Fc | ISL 2025-26 (HINDI)
-https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_jamshedpur_fc_140490_hindi.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140491_5956_FCG_MCFC_FC-Web_1772466137053.jpg" group-title="Live Sports", Fc Goa Vs Mumbai City Fc | ISL 2025-26 (HINDI)
+https://fancode-bd-srhady.vercel.app/fc_goa_vs_mumbai_city_fc_140491_hindi.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140490_5956_KBFC_JFC_FC-Web_1772461810739.jpg" group-title="Live Sports", Kerala Blasters Fc Vs Jamshedpur Fc | ISL 2025-26 (MALAYALAM)
-https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_jamshedpur_fc_140490_malayalam.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140491_5956_FCG_MCFC_FC-Web_1772466137053.jpg" group-title="Live Sports", Fc Goa Vs Mumbai City Fc | ISL 2025-26 (MALAYALAM)
+https://fancode-bd-srhady.vercel.app/fc_goa_vs_mumbai_city_fc_140491_malayalam.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140490_5956_KBFC_JFC_FC-Web_1772461810739.jpg" group-title="Live Sports", Kerala Blasters Fc Vs Jamshedpur Fc | ISL 2025-26 (BENGALI)
-https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_jamshedpur_fc_140490_bengali.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141527_5489_PRM_LEI_fc-web_1776167542382.jpg" group-title="Live Sports", Portsmouth F.c. Vs Leicester City F.c. | EFL Championship 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/portsmouth_f_c__vs_leicester_city_f_c__141527_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KB-vs-JP_fc-web.jpg" group-title="Live Sports", Kerala Blasters Fc Vs Jamshedpur Fc | ISL 2025-26  - Regional (ENGLISH)
-https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_jamshedpur_fc_141816_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140491_5956_FCG_MCFC_FC-Web_1772466137053.jpg" group-title="Live Sports", Fc Goa Vs Mumbai City Fc | ISL 2025-26 (BENGALI)
+https://fancode-bd-srhady.vercel.app/fc_goa_vs_mumbai_city_fc_140491_bengali.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png" group-title="Live Sports", Japan U20 Vs Dpr Korea U20 | AFC U20 Women's Asian Cup 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/japan_u20_vs_dpr_korea_u20_141635_english.m3u8
@@ -51,4 +45,7 @@ https://fancode-bd-srhady.vercel.app/day_8_141849_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", Marquee Group   Day 3 | RBC Heritage 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/marquee_group___day_3_141941_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141528_5489_HUL_BIR_fc-web_1776167543071.jpg" group-title="Live Sports", Hull City Vs Birmingham City F.c. | EFL Championship 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/hull_city_vs_birmingham_city_f_c__141528_english.m3u8
 
