@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:30:22 PM 18-04-2026",
+    "last update time": "09:45:18 PM 18-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Scotland Vs Namibia",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png",
-            "team_1": "Scotland",
-            "team_2": "Namibia",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Scotland tour of Namibia, 2026",
-            "match_name": "Scotland Vs Namibia | Scotland tour of Namibia, 2026 [ENGLISH]",
-            "match_id": 142017,
-            "startTime": "18 April 2026 05:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/scotland_vs_namibia_142017_english.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Fc Goa Vs Mumbai City Fc",
