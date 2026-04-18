@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:30:19 PM 18-04-2026",
+    "last update time": "12:45:16 PM 18-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -25,14 +25,14 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142046_6045_RWA-W_ITA-W_fc-web.jpg",
             "team_1": "Rwanda Women",
             "team_2": "Italy Women",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "ICC Women's T20I Challenge Trophy, 2026",
-            "match_name": "Rwanda Women Vs Italy Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
+            "match_name": "Rwanda Women Vs Italy Women | ICC Women's T20I Challenge Trophy, 2026 [ENGLISH]",
             "match_id": 142046,
             "startTime": "18 April 2026 12:30 PM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/rwanda_women_vs_italy_women_142046_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -200,21 +200,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Sydney Fc Vs Perth Glory",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140938_5802_SYD_PG_fc-web.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Perth Glory",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney Fc Vs Perth Glory | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140938,
-            "startTime": "18 April 2026 03:05 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Rwanda Women Vs Vanuatu Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142048_6045_RWA-W_VANW_fc-web.jpg",
@@ -227,6 +212,21 @@
             "match_name": "Rwanda Women Vs Vanuatu Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
             "match_id": 142048,
             "startTime": "19 April 2026 12:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Sydney Fc Vs Perth Glory",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140938_5802_SYD_PG_fc-web.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Perth Glory",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Sydney Fc Vs Perth Glory | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140938,
+            "startTime": "18 April 2026 03:05 PM",
             "stream_url": ""
         },
         {
