@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:15:17 PM 18-04-2026",
+    "last update time": "01:30:20 PM 18-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,21 +18,6 @@
             "match_id": 142046,
             "startTime": "18 April 2026 12:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/italy_women_vs_rwanda_women_142046_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Wellington Phoenix Vs Western Sydney Wanderers",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140936_5802_WEL_SYW_fc-web.jpg",
-            "team_1": "Wellington Phoenix",
-            "team_2": "Western Sydney Wanderers",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "A League 2025-26",
-            "match_name": "Wellington Phoenix Vs Western Sydney Wanderers | A League 2025-26 [ENGLISH]",
-            "match_id": 140936,
-            "startTime": "18 April 2026 10:30 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/wellington_phoenix_vs_western_sydney_wanderers_140936_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -557,6 +542,21 @@
             "match_name": "Al Wasl F.c. Vs Al Nassr Fc | AFC Champions League Two 2025-26 [BLOODY_SWEET]",
             "match_id": 140870,
             "startTime": "19 April 2026 07:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14)_1776151284392.png",
+            "team_1": "Day 2",
+            "team_2": "Randpark Golf Club",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Joburg Ladies Open 2026",
+            "match_name": "Day 2 | Joburg Ladies Open 2026 [BLOODY_SWEET]",
+            "match_id": 141641,
+            "startTime": "19 April 2026 04:00 PM",
             "stream_url": ""
         }
     ]
