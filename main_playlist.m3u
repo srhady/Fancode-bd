@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:45:16 PM 18-04-2026
+#last update time: 12:00:26 AM 19-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776321743564/141676_CASACARDS_APP.png" group-title="Live Sports", Buriram United Vs Shabab Al Ahli | AFC Champions League Elite 2025-26 (ENGLISH)
@@ -15,4 +15,7 @@ https://fancode-bd-srhady.vercel.app/main_feed___day_3_141940_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", Marquee Group   Day 3 | RBC Heritage 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/marquee_group___day_3_141941_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", World Feed   Day 3 | RBC Heritage 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/world_feed___day_3_141932_english.m3u8
 
