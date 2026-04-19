@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:00:22 PM 19-04-2026",
+    "last update time": "07:15:16 PM 19-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,21 +18,6 @@
             "match_id": 142049,
             "startTime": "19 April 2026 04:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/nepal_women_vs_italy_women_142049_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Ipswich Town F.c. Vs Middlesbrough F.c.",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141529_5489_IPT_MIDD_fc-web_1776167542451.jpg",
-            "team_1": "Ipswich Town F.C.",
-            "team_2": "Middlesbrough F.C.",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Ipswich Town F.c. Vs Middlesbrough F.c. | EFL Championship 2025-26 [ENGLISH]",
-            "match_id": 141529,
-            "startTime": "19 April 2026 04:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/ipswich_town_f_c__vs_middlesbrough_f_c__141529_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -171,21 +156,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bangladesh Vs New Zealand",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web.jpg",
-            "team_1": "Bangladesh",
-            "team_2": "New Zealand",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "New Zealand tour of Bangladesh, 2026",
-            "match_name": "Bangladesh Vs New Zealand | New Zealand tour of Bangladesh, 2026 [BLOODY_SWEET]",
-            "match_id": 142067,
-            "startTime": "20 April 2026 10:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
             "title": "Windward Islands Volcanoes Vs Guyana Harpy Eagles",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
             "team_1": "Windward Islands Volcanoes",
@@ -216,17 +186,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Jamaica Scorpions Vs Barbados Pride",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-            "team_1": "Jamaica Scorpions",
-            "team_2": "Barbados Pride",
+            "title": "Bangladesh Vs New Zealand",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "New Zealand",
             "status": "NOT_STARTED",
             "streaming_status": "NOT_STARTED",
             "language": "BLOODY_SWEET",
-            "event_name": "West Indies Championship 2026",
-            "match_name": "Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 [BLOODY_SWEET]",
-            "match_id": 141951,
-            "startTime": "19 April 2026 08:30 PM",
+            "event_name": "New Zealand tour of Bangladesh, 2026",
+            "match_name": "Bangladesh Vs New Zealand | New Zealand tour of Bangladesh, 2026 [BLOODY_SWEET]",
+            "match_id": 142067,
+            "startTime": "20 April 2026 10:30 AM",
             "stream_url": ""
         },
         {
@@ -275,6 +245,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Cricket",
+            "title": "Jamaica Scorpions Vs Barbados Pride",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
+            "team_1": "Jamaica Scorpions",
+            "team_2": "Barbados Pride",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "West Indies Championship 2026",
+            "match_name": "Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 [BLOODY_SWEET]",
+            "match_id": 141951,
+            "startTime": "19 April 2026 08:30 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Football",
             "title": "Al Ahli (qat) Vs Al Hussein",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140872_5648_ASC_HUS_FC-WEB_1775570097662.jpg",
@@ -305,21 +290,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Punjab Fc Vs Inter Kashi",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140493_5956_PFC_KSHI_FC-Web_1772466287509.jpg",
-            "team_1": "Punjab FC",
-            "team_2": "Inter Kashi",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "ISL 2025-26",
-            "match_name": "Punjab Fc Vs Inter Kashi | ISL 2025-26 [BLOODY_SWEET]",
-            "match_id": 140493,
-            "startTime": "20 April 2026 07:30 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Tennis",
             "title": "A. Rublev Vs A. Fils",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Andrey-Rublev-vs-Arthur-Fils_FC-WEB.jpg",
@@ -332,6 +302,21 @@
             "match_name": "A. Rublev Vs A. Fils | ATP 500 - Barcelona Open Banc Sabadell 2026 [BLOODY_SWEET]",
             "match_id": 141837,
             "startTime": "19 April 2026 07:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Punjab Fc Vs Inter Kashi",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140493_5956_PFC_KSHI_FC-Web_1772466287509.jpg",
+            "team_1": "Punjab FC",
+            "team_2": "Inter Kashi",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ISL 2025-26",
+            "match_name": "Punjab Fc Vs Inter Kashi | ISL 2025-26 [BLOODY_SWEET]",
+            "match_id": 140493,
+            "startTime": "20 April 2026 07:30 PM",
             "stream_url": ""
         },
         {

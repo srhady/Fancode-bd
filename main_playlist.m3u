@@ -1,14 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:00:22 PM 19-04-2026
+#last update time: 07:15:16 PM 19-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142049_6045_ITA-W_NP-W_fc-web.jpg" group-title="Live Sports", Nepal Women Vs Italy Women | ICC Women's T20I Challenge Trophy 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/nepal_women_vs_italy_women_142049_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141529_5489_IPT_MIDD_fc-web_1776167542451.jpg" group-title="Live Sports", Ipswich Town F.c. Vs Middlesbrough F.c. | EFL Championship 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/ipswich_town_f_c__vs_middlesbrough_f_c__141529_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Scottish_Cup_2026_FC-Web.jpg" group-title="Live Sports", Celtic Vs St. Mirren | Scottish Cup 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/celtic_vs_st__mirren_141498_english.m3u8
