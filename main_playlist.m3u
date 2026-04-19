@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:15:18 AM 20-04-2026
+#last update time: 03:30:21 AM 20-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Windward Islands Volcanoes Vs Guyana Harpy Eagles | West Indies Championship 2026 (ENGLISH)
@@ -13,17 +13,8 @@ https://fancode-bd-srhady.vercel.app/leeward_islands_hurricanes_vs_trinidad___to
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/jamaica_scorpions_vs_barbados_pride_141951_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140872_5648_ASC_HUS_FC-WEB_1775570097662.jpg" group-title="Live Sports", Al Ahli (qat) Vs Al Hussein | AFC Champions League Two 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/al_ahli__qat__vs_al_hussein_140872_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776063278980/141961_CASACARDS_APP.png" group-title="Live Sports", Almería Vs Málaga | LALIGA Hypermotion 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/almer_a_vs_m_laga_141961_english.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", Featured Groups   Day 4 | RBC Heritage 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/featured_groups___day_4_141945_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", Main Feed   Day 4 | RBC Heritage 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/main_feed___day_4_141943_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", World Feed   Day 4 | RBC Heritage 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/world_feed___day_4_141933_english.m3u8
