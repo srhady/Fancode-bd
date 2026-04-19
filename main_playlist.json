@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:30:21 PM 19-04-2026",
+    "last update time": "04:45:16 PM 19-04-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -36,18 +36,18 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Italy Women Vs Nepal Women",
+            "title": "Nepal Women Vs Italy Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142049_6045_ITA-W_NP-W_fc-web.jpg",
-            "team_1": "Italy Women",
-            "team_2": "Nepal Women",
+            "team_1": "Nepal Women",
+            "team_2": "Italy Women",
             "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "ICC Women's T20I Challenge Trophy, 2026",
-            "match_name": "Italy Women Vs Nepal Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
+            "match_name": "Nepal Women Vs Italy Women | ICC Women's T20I Challenge Trophy, 2026 [ENGLISH]",
             "match_id": 142049,
             "startTime": "19 April 2026 04:30 PM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/nepal_women_vs_italy_women_142049_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -56,13 +56,13 @@
             "team_1": "Ipswich Town F.C.",
             "team_2": "Middlesbrough F.C.",
             "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "EFL Championship 2025-26",
-            "match_name": "Ipswich Town F.c. Vs Middlesbrough F.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
+            "match_name": "Ipswich Town F.c. Vs Middlesbrough F.c. | EFL Championship 2025-26 [ENGLISH]",
             "match_id": 141529,
             "startTime": "19 April 2026 04:30 PM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/ipswich_town_f_c__vs_middlesbrough_f_c__141529_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -235,14 +235,14 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg",
             "team_1": "Doubles Finals",
             "team_2": "Barcelona",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
-            "match_name": "Doubles Finals | ATP 500 - Barcelona Open Banc Sabadell 2026 [BLOODY_SWEET]",
+            "match_name": "Doubles Finals | ATP 500 - Barcelona Open Banc Sabadell 2026 [ENGLISH]",
             "match_id": 141836,
             "startTime": "19 April 2026 04:30 PM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/doubles_finals_141836_english.m3u8"
         },
         {
             "event_category": "Golf",
@@ -250,14 +250,14 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
             "team_1": "Featured Groups - Day 4",
             "team_2": "Harbour Town Golf Links - Hilton Head Island, Sout",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "RBC Heritage 2026",
-            "match_name": "Featured Groups   Day 4 | RBC Heritage 2026 [BLOODY_SWEET]",
+            "match_name": "Featured Groups   Day 4 | RBC Heritage 2026 [ENGLISH]",
             "match_id": 141945,
             "startTime": "19 April 2026 04:30 PM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/featured_groups___day_4_141945_english.m3u8"
         },
         {
             "event_category": "Golf",
@@ -526,6 +526,21 @@
             "event_name": "LALIGA 2025-26",
             "match_name": "Girona Fc Vs Real Betis | LALIGA 2025-26 [BLOODY_SWEET]",
             "match_id": 131158,
+            "startTime": "22 April 2026 01:00 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Madrid Vs Deportivo Alaves",
+            "src": "https://images.fancode.com/aig/match/v1/131156_CASACARDS_APP.png",
+            "team_1": "Real Madrid",
+            "team_2": "Deportivo Alaves",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Real Madrid Vs Deportivo Alaves | LALIGA 2025-26 [BLOODY_SWEET]",
+            "match_id": 131156,
             "startTime": "22 April 2026 01:00 AM",
             "stream_url": ""
         }
