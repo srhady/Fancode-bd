@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:30:19 PM 19-04-2026
+#last update time: 05:45:16 PM 19-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142049_6045_ITA-W_NP-W_fc-web.jpg" group-title="Live Sports", Nepal Women Vs Italy Women | ICC Women's T20I Challenge Trophy 2026 (ENGLISH)
@@ -27,4 +27,7 @@ https://fancode-bd-srhady.vercel.app/marquee_group___day_4_141944_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Flavio-Cobolli-vs-Ben-Shelton_FC-WEB.jpg" group-title="Live Sports", F. Cobolli Vs B. Shelton | ATP 500 - BMW Open by Bitpanda 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/f__cobolli_vs_b__shelton_141851_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", Main Feed   Day 4 | RBC Heritage 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/main_feed___day_4_141943_english.m3u8
 
