@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:00:22 PM 19-04-2026",
+    "last update time": "12:15:16 PM 19-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Auckland Vs Central Coast Mariners",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140939_5802_AFC_CCM_fc-web.jpg",
-            "team_1": "Auckland",
-            "team_2": "Central Coast Mariners",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "A League 2025-26",
-            "match_name": "Auckland Vs Central Coast Mariners | A League 2025-26 [ENGLISH]",
-            "match_id": 140939,
-            "startTime": "19 April 2026 08:30 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/auckland_vs_central_coast_mariners_140939_english.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Adelaide United Vs Macarthur",
@@ -541,6 +526,21 @@
             "event_name": "LALIGA 2025-26",
             "match_name": "Rcd Mallorca Vs Valencia Cf | LALIGA 2025-26 [BLOODY_SWEET]",
             "match_id": 131154,
+            "startTime": "21 April 2026 10:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Athletic Club Vs Ca Osasuna",
+            "src": "https://images.fancode.com/aig/match/v1/131151_CASACARDS_APP.png",
+            "team_1": "Athletic Club",
+            "team_2": "CA Osasuna",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Athletic Club Vs Ca Osasuna | LALIGA 2025-26 [BLOODY_SWEET]",
+            "match_id": 131151,
             "startTime": "21 April 2026 10:30 PM",
             "stream_url": ""
         }
