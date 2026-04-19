@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:45:18 PM 19-04-2026",
+    "last update time": "02:00:22 PM 19-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,21 +18,6 @@
             "match_id": 142048,
             "startTime": "19 April 2026 12:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/rwanda_women_vs_vanuatu_women_142048_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Adelaide United Vs Macarthur",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140940_5802_ADL_MAC_fc-web.jpg",
-            "team_1": "Adelaide United",
-            "team_2": "Macarthur",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "A League 2025-26",
-            "match_name": "Adelaide United Vs Macarthur | A League 2025-26 [ENGLISH]",
-            "match_id": 140940,
-            "startTime": "19 April 2026 11:00 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/adelaide_united_vs_macarthur_140940_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -502,7 +487,7 @@
         {
             "event_category": "Football",
             "title": "Machida Zelvia Vs Shabab Al Ahli",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://images.fancode.com/aig/match/v1776584789874/141678_CASACARDS_APP.png",
             "team_1": "Machida Zelvia",
             "team_2": "Shabab Al Ahli",
             "status": "NOT_STARTED",
@@ -542,6 +527,21 @@
             "match_name": "Athletic Club Vs Ca Osasuna | LALIGA 2025-26 [BLOODY_SWEET]",
             "match_id": 131151,
             "startTime": "21 April 2026 10:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Girona Fc Vs Real Betis",
+            "src": "https://images.fancode.com/aig/match/v1/131158_CASACARDS_APP.png",
+            "team_1": "Girona FC",
+            "team_2": "Real Betis",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Girona Fc Vs Real Betis | LALIGA 2025-26 [BLOODY_SWEET]",
+            "match_id": 131158,
+            "startTime": "22 April 2026 01:00 AM",
             "stream_url": ""
         }
     ]
