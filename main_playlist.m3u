@@ -1,11 +1,14 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:45:18 PM 19-04-2026
+#last update time: 08:00:24 PM 19-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142049_6045_ITA-W_NP-W_fc-web.jpg" group-title="Live Sports", Nepal Women Vs Italy Women | ICC Women's T20I Challenge Trophy 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/nepal_women_vs_italy_women_142049_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Windward Islands Volcanoes Vs Guyana Harpy Eagles | West Indies Championship 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/windward_islands_volcanoes_vs_guyana_harpy_eagles_141952_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force | West Indies Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/leeward_islands_hurricanes_vs_trinidad___tobago_red_force_141950_english.m3u8
@@ -31,9 +34,6 @@ https://fancode-bd-srhady.vercel.app/al_wasl_f_c__vs_al_nassr_fc_140870_english.
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Scottish_Cup_2026_FC-Web.jpg" group-title="Live Sports", Celtic Vs St. Mirren | Scottish Cup 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/celtic_vs_st__mirren_141498_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg" group-title="Live Sports", Doubles Finals | ATP 500 - BMW Open by Bitpanda 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/doubles_finals_141850_english.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14)_1776151284392.png" group-title="Live Sports", Day 2 | Joburg Ladies Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_2_141641_english.m3u8
 
@@ -43,15 +43,9 @@ https://fancode-bd-srhady.vercel.app/featured_groups___day_4_141945_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", Marquee Group   Day 4 | RBC Heritage 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/marquee_group___day_4_141944_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Flavio-Cobolli-vs-Ben-Shelton_FC-WEB.jpg" group-title="Live Sports", F. Cobolli Vs B. Shelton | ATP 500 - BMW Open by Bitpanda 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/f__cobolli_vs_b__shelton_141851_english.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="Live Sports", Main Feed   Day 4 | RBC Heritage 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/main_feed___day_4_141943_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Andrey-Rublev-vs-Arthur-Fils_FC-WEB.jpg" group-title="Live Sports", A. Rublev Vs A. Fils | ATP 500 - Barcelona Open Banc Sabadell 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/a__rublev_vs_a__fils_141837_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Windward Islands Volcanoes Vs Guyana Harpy Eagles | West Indies Championship 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/windward_islands_volcanoes_vs_guyana_harpy_eagles_141952_english.m3u8
 
