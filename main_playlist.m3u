@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:00:27 PM 20-04-2026
+#last update time: 10:15:18 PM 20-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Windward Islands Volcanoes Vs Guyana Harpy Eagles | West Indies Championship 2026 (ENGLISH)
@@ -12,4 +12,7 @@ https://fancode-bd-srhady.vercel.app/leeward_islands_hurricanes_vs_trinidad___to
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/jamaica_scorpions_vs_barbados_pride_141951_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1776543519169.png" group-title="Live Sports", Vissel Kobe Vs Al Ahli Saudi Fc | AFC Champions League Elite 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/vissel_kobe_vs_al_ahli_saudi_fc_141677_english.m3u8
 
