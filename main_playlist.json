@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:15:18 AM 21-04-2026",
+    "last update time": "04:30:25 AM 21-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Jamaica Scorpions Vs Barbados Pride",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-            "team_1": "Jamaica Scorpions",
-            "team_2": "Barbados Pride",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "West Indies Championship 2026",
-            "match_name": "Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 [ENGLISH]",
-            "match_id": 141951,
-            "startTime": "19 April 2026 08:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/jamaica_scorpions_vs_barbados_pride_141951_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Rwanda Women Vs Usa Women",
@@ -62,6 +47,21 @@
             "match_name": "Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force | West Indies Championship 2026 [BLOODY_SWEET]",
             "match_id": 141950,
             "startTime": "19 April 2026 07:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Jamaica Scorpions Vs Barbados Pride",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
+            "team_1": "Jamaica Scorpions",
+            "team_2": "Barbados Pride",
+            "status": "LIVE",
+            "streaming_status": "PAUSED",
+            "language": "BLOODY_SWEET",
+            "event_name": "West Indies Championship 2026",
+            "match_name": "Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 [BLOODY_SWEET]",
+            "match_id": 141951,
+            "startTime": "19 April 2026 08:30 PM",
             "stream_url": ""
         },
         {
