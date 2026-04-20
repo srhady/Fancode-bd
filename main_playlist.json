@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:00:26 PM 20-04-2026",
+    "last update time": "05:15:18 PM 20-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Sri Lanka Women Vs Bangladesh Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg",
-            "team_1": "Sri Lanka Women",
-            "team_2": "Bangladesh Women",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Sri Lanka Women's tour of Bangladesh, 2026",
-            "match_name": "Sri Lanka Women Vs Bangladesh Women | Sri Lanka Women's tour of Bangladesh, 2026 [ENGLISH]",
-            "match_id": 142072,
-            "startTime": "20 April 2026 09:00 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/sri_lanka_women_vs_bangladesh_women_142072_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "New Zealand Vs Bangladesh",
