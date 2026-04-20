@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:45:21 AM 21-04-2026",
+    "last update time": "03:00:24 AM 21-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -48,21 +48,6 @@
             "match_id": 141951,
             "startTime": "19 April 2026 08:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/jamaica_scorpions_vs_barbados_pride_141951_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Deportivo La Coruna Vs Mirand\u00e9s",
-            "src": "https://images.fancode.com/aig/match/v1776063278981/141962_CASACARDS_APP.png",
-            "team_1": "Deportivo La Coruna",
-            "team_2": "Mirand\u00e9s",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Deportivo La Coruna Vs Mirand\u00e9s | LALIGA Hypermotion 2025-26 [ENGLISH]",
-            "match_id": 141962,
-            "startTime": "21 April 2026 12:00 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/deportivo_la_coruna_vs_mirand_s_141962_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -542,6 +527,21 @@
             "match_name": "Marquee Group   Day 1 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
             "match_id": 142003,
             "startTime": "23 April 2026 07:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Vfb Stuttgart Vs Sc Freiburg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/06_VfB-Stuttgart-vs-SC-Freiburg_1776065202358.png",
+            "team_1": "VfB Stuttgart",
+            "team_2": "SC Freiburg",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "DFB Pokal 2025-26",
+            "match_name": "Vfb Stuttgart Vs Sc Freiburg | DFB Pokal 2025-26 [BLOODY_SWEET]",
+            "match_id": 141681,
+            "startTime": "24 April 2026 12:15 AM",
             "stream_url": ""
         }
     ]
