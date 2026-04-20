@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:30:18 AM 21-04-2026",
+    "last update time": "12:45:20 AM 21-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -48,21 +48,6 @@
             "match_id": 141951,
             "startTime": "19 April 2026 08:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/jamaica_scorpions_vs_barbados_pride_141951_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Vissel Kobe Vs Al Ahli Saudi Fc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1776543519169.png",
-            "team_1": "Vissel Kobe",
-            "team_2": "Al-Ahli Saudi FC",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Vissel Kobe Vs Al Ahli Saudi Fc | AFC Champions League Elite 2025-26 [ENGLISH]",
-            "match_id": 141677,
-            "startTime": "20 April 2026 09:45 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/vissel_kobe_vs_al_ahli_saudi_fc_141677_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -542,6 +527,21 @@
             "match_name": "Rayo Vallecano Vs Rcd Espanyol | LALIGA 2025-26 [BLOODY_SWEET]",
             "match_id": 131159,
             "startTime": "23 April 2026 11:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Marquee Group   Day 1",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+            "team_1": "Marquee Group - Day 1",
+            "team_2": "TPC Louisiana - Avondale, Louisiana ",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Zurich Classic of New Orleans 2026",
+            "match_name": "Marquee Group   Day 1 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
+            "match_id": 142003,
+            "startTime": "23 April 2026 07:30 PM",
             "stream_url": ""
         }
     ]
