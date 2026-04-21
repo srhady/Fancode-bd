@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:00:32 PM 21-04-2026",
+    "last update time": "10:15:20 PM 21-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -21,21 +21,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-            "team_1": "Leeward Islands Hurricanes",
-            "team_2": "Trinidad & Tobago Red Force",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "West Indies Championship 2026",
-            "match_name": "Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force | West Indies Championship 2026 [ENGLISH]",
-            "match_id": 141950,
-            "startTime": "19 April 2026 07:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/leeward_islands_hurricanes_vs_trinidad___tobago_red_force_141950_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Jamaica Scorpions Vs Barbados Pride",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
             "team_1": "Jamaica Scorpions",
@@ -48,6 +33,36 @@
             "match_id": 141951,
             "startTime": "19 April 2026 08:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/jamaica_scorpions_vs_barbados_pride_141951_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Machida Zelvia Vs Shabab Al Ahli",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Old-Match-Card_1776694825679.jpg",
+            "team_1": "Machida Zelvia",
+            "team_2": "Shabab Al Ahli",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Machida Zelvia Vs Shabab Al Ahli | AFC Champions League Elite 2025-26 [ENGLISH]",
+            "match_id": 141678,
+            "startTime": "21 April 2026 09:45 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/machida_zelvia_vs_shabab_al_ahli_141678_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
+            "team_1": "Leeward Islands Hurricanes",
+            "team_2": "Trinidad & Tobago Red Force",
+            "status": "LIVE",
+            "streaming_status": "PAUSED",
+            "language": "BLOODY_SWEET",
+            "event_name": "West Indies Championship 2026",
+            "match_name": "Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force | West Indies Championship 2026 [BLOODY_SWEET]",
+            "match_id": 141950,
+            "startTime": "19 April 2026 07:30 PM",
+            "stream_url": ""
         },
         {
             "event_category": "Cricket",
@@ -81,36 +96,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Machida Zelvia Vs Shabab Al Ahli",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Old-Match-Card_1776694825679.jpg",
-            "team_1": "Machida Zelvia",
-            "team_2": "Shabab Al Ahli",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Machida Zelvia Vs Shabab Al Ahli | AFC Champions League Elite 2025-26 [BLOODY_SWEET]",
-            "match_id": 141678,
-            "startTime": "21 April 2026 09:45 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Usa Women Vs Vanuatu Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142053_6045_USA-W_VANW_fc-web.jpg",
-            "team_1": "USA Women",
-            "team_2": "Vanuatu Women",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "ICC Women's T20I Challenge Trophy, 2026",
-            "match_name": "Usa Women Vs Vanuatu Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
-            "match_id": 142053,
-            "startTime": "22 April 2026 04:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Rcd Mallorca Vs Valencia Cf",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131154_5427_MRC_VAL_FC-Web.png",
             "team_1": "RCD Mallorca",
@@ -137,6 +122,21 @@
             "match_name": "Athletic Club Vs Ca Osasuna | LALIGA 2025-26 [BLOODY_SWEET]",
             "match_id": 131151,
             "startTime": "21 April 2026 10:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Usa Women Vs Vanuatu Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142053_6045_USA-W_VANW_fc-web.jpg",
+            "team_1": "USA Women",
+            "team_2": "Vanuatu Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ICC Women's T20I Challenge Trophy, 2026",
+            "match_name": "Usa Women Vs Vanuatu Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
+            "match_id": 142053,
+            "startTime": "22 April 2026 04:30 PM",
             "stream_url": ""
         },
         {
@@ -527,6 +527,21 @@
             "match_name": "Day 1 | Investec South African Women's Open 2026 [BLOODY_SWEET]",
             "match_id": 141642,
             "startTime": "23 April 2026 05:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Salford City Vs Bromley",
+            "src": "https://images.fancode.com/aig/match/v1776758829422/141924_CASACARDS_APP.png",
+            "team_1": "Salford City",
+            "team_2": "Bromley",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "League Two 2025-26",
+            "match_name": "Salford City Vs Bromley | League Two 2025-26 [BLOODY_SWEET]",
+            "match_id": 141924,
+            "startTime": "24 April 2026 12:30 AM",
             "stream_url": ""
         }
     ]
