@@ -1,18 +1,9 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:45:16 AM 22-04-2026
+#last update time: 04:00:26 AM 22-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/jamaica_scorpions_vs_barbados_pride_141951_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131156_5427_RM_ALA_FC-Web.png" group-title="Live Sports", Real Madrid Vs Deportivo Alaves | LALIGA 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/real_madrid_vs_deportivo_alaves_131156_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131156_5427_RM_ALA_FC-Web.png" group-title="Live Sports", Real Madrid Vs Deportivo Alaves | LALIGA 2025-26 (HINDI)
-https://fancode-bd-srhady.vercel.app/real_madrid_vs_deportivo_alaves_131156_hindi.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131156_5427_RM_ALA_FC-Web.png" group-title="Live Sports", Real Madrid Vs Deportivo Alaves | LALIGA 2025-26 (BENGALI)
-https://fancode-bd-srhady.vercel.app/real_madrid_vs_deportivo_alaves_131156_bengali.m3u8
 
