@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:15:15 AM 22-04-2026",
+    "last update time": "03:30:22 AM 22-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,21 +18,6 @@
             "match_id": 141951,
             "startTime": "19 April 2026 08:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/jamaica_scorpions_vs_barbados_pride_141951_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Girona Fc Vs Real Betis",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131158_5427_GIR_RB_FC-Web.png",
-            "team_1": "Girona FC",
-            "team_2": "Real Betis",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Girona Fc Vs Real Betis | LALIGA 2025-26 [ENGLISH]",
-            "match_id": 131158,
-            "startTime": "22 April 2026 01:00 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/girona_fc_vs_real_betis_131158_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -557,6 +542,21 @@
             "match_name": "Italy Women Vs Usa Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
             "match_id": 142055,
             "startTime": "24 April 2026 04:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Day 1   Red Bull Ring",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(15).png",
+            "team_1": "Day 1 - Red Bull Ring",
+            "team_2": "Red Bull Ring",
+            "status": "NOT_STARTED",
+            "streaming_status": "COMPLETED",
+            "language": "BLOODY_SWEET",
+            "event_name": "DTM 2026",
+            "match_name": "Day 1   Red Bull Ring | DTM 2026 [BLOODY_SWEET]",
+            "match_id": 142107,
+            "startTime": "24 April 2026 11:40 AM",
             "stream_url": ""
         }
     ]
