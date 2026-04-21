@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:30:21 PM 21-04-2026",
+    "last update time": "12:45:16 PM 21-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -11,13 +11,13 @@
             "team_1": "Rwanda Women",
             "team_2": "USA Women",
             "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "ICC Women's T20I Challenge Trophy, 2026",
-            "match_name": "Rwanda Women Vs Usa Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
+            "match_name": "Rwanda Women Vs Usa Women | ICC Women's T20I Challenge Trophy, 2026 [ENGLISH]",
             "match_id": 142050,
             "startTime": "21 April 2026 12:30 PM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/rwanda_women_vs_usa_women_142050_english.m3u8"
         },
         {
             "event_category": "Cricket",
