@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:30:24 PM 21-04-2026",
+    "last update time": "10:45:18 PM 21-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -50,6 +50,36 @@
             "stream_url": "https://fancode-bd-srhady.vercel.app/machida_zelvia_vs_shabab_al_ahli_141678_english.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Rcd Mallorca Vs Valencia Cf",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131154_5427_MRC_VAL_FC-Web.png",
+            "team_1": "RCD Mallorca",
+            "team_2": "Valencia CF",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Rcd Mallorca Vs Valencia Cf | LALIGA 2025-26 [ENGLISH]",
+            "match_id": 131154,
+            "startTime": "21 April 2026 10:30 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/rcd_mallorca_vs_valencia_cf_131154_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Athletic Club Vs Ca Osasuna",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131151_5427_ATH_OSN_FC-Web.png",
+            "team_1": "Athletic Club",
+            "team_2": "CA Osasuna",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Athletic Club Vs Ca Osasuna | LALIGA 2025-26 [ENGLISH]",
+            "match_id": 131151,
+            "startTime": "21 April 2026 10:30 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/athletic_club_vs_ca_osasuna_131151_english.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
@@ -92,36 +122,6 @@
             "match_name": "Rwanda Women Vs Nepal Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
             "match_id": 142052,
             "startTime": "22 April 2026 12:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Rcd Mallorca Vs Valencia Cf",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131154_5427_MRC_VAL_FC-Web.png",
-            "team_1": "RCD Mallorca",
-            "team_2": "Valencia CF",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Rcd Mallorca Vs Valencia Cf | LALIGA 2025-26 [BLOODY_SWEET]",
-            "match_id": 131154,
-            "startTime": "21 April 2026 10:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Athletic Club Vs Ca Osasuna",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131151_5427_ATH_OSN_FC-Web.png",
-            "team_1": "Athletic Club",
-            "team_2": "CA Osasuna",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Athletic Club Vs Ca Osasuna | LALIGA 2025-26 [BLOODY_SWEET]",
-            "match_id": 131151,
-            "startTime": "21 April 2026 10:30 PM",
             "stream_url": ""
         },
         {
