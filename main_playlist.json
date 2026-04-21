@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:00:24 PM 21-04-2026",
+    "last update time": "04:15:18 PM 21-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Rwanda Women Vs Usa Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142050_6045_RWA-W_USA-W_fc-web.jpg",
-            "team_1": "Rwanda Women",
-            "team_2": "USA Women",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Women's T20I Challenge Trophy, 2026",
-            "match_name": "Rwanda Women Vs Usa Women | ICC Women's T20I Challenge Trophy, 2026 [ENGLISH]",
-            "match_id": 142050,
-            "startTime": "21 April 2026 12:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/rwanda_women_vs_usa_women_142050_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Vanuatu Women Vs Italy Women",
@@ -112,7 +97,7 @@
         {
             "event_category": "Football",
             "title": "Chennaiyin Fc Vs Mohammedan Sc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140459_5956_CFC_MSC_FC-Web_1772451129165.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140459_5956_CFC_MSC_FC-Web_1772400660609.jpg",
             "team_1": "Chennaiyin FC",
             "team_2": "Mohammedan SC",
             "status": "NOT_STARTED",
@@ -532,7 +517,7 @@
         {
             "event_category": "Golf",
             "title": "Day 1",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa_web.jpg",
             "team_1": "Day 1",
             "team_2": "Royal Cape Golf Club",
             "status": "NOT_STARTED",
