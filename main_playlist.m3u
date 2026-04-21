@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:15:22 AM 22-04-2026
+#last update time: 12:45:19 AM 22-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Windward Islands Volcanoes Vs Guyana Harpy Eagles | West Indies Championship 2026 (ENGLISH)
@@ -10,12 +10,12 @@ https://fancode-bd-srhady.vercel.app/windward_islands_volcanoes_vs_guyana_harpy_
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/jamaica_scorpions_vs_barbados_pride_141951_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Old-Match-Card_1776694825679.jpg" group-title="Live Sports", Machida Zelvia Vs Shabab Al Ahli | AFC Champions League Elite 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/machida_zelvia_vs_shabab_al_ahli_141678_english.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131154_5427_MRC_VAL_FC-Web.png" group-title="Live Sports", Rcd Mallorca Vs Valencia Cf | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/rcd_mallorca_vs_valencia_cf_131154_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131151_5427_ATH_OSN_FC-Web.png" group-title="Live Sports", Athletic Club Vs Ca Osasuna | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/athletic_club_vs_ca_osasuna_131151_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776773188197/142186_CASACARDS_APP.png" group-title="Live Sports", Leicester City F.c. Vs Hull City | EFL Championship 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/leicester_city_f_c__vs_hull_city_142186_english.m3u8
 
