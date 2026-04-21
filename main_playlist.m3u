@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:45:19 AM 22-04-2026
+#last update time: 01:00:26 AM 22-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Windward Islands Volcanoes Vs Guyana Harpy Eagles | West Indies Championship 2026 (ENGLISH)
@@ -18,4 +18,16 @@ https://fancode-bd-srhady.vercel.app/athletic_club_vs_ca_osasuna_131151_english.
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776773188197/142186_CASACARDS_APP.png" group-title="Live Sports", Leicester City F.c. Vs Hull City | EFL Championship 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/leicester_city_f_c__vs_hull_city_142186_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131158_5427_GIR_RB_FC-Web.png" group-title="Live Sports", Girona Fc Vs Real Betis | LALIGA 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/girona_fc_vs_real_betis_131158_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131156_5427_RM_ALA_FC-Web.png" group-title="Live Sports", Real Madrid Vs Deportivo Alaves | LALIGA 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/real_madrid_vs_deportivo_alaves_131156_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131156_5427_RM_ALA_FC-Web.png" group-title="Live Sports", Real Madrid Vs Deportivo Alaves | LALIGA 2025-26 (HINDI)
+https://fancode-bd-srhady.vercel.app/real_madrid_vs_deportivo_alaves_131156_hindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131156_5427_RM_ALA_FC-Web.png" group-title="Live Sports", Real Madrid Vs Deportivo Alaves | LALIGA 2025-26 (BENGALI)
+https://fancode-bd-srhady.vercel.app/real_madrid_vs_deportivo_alaves_131156_bengali.m3u8
 
