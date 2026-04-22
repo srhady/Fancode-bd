@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:45:17 AM 23-04-2026",
+    "last update time": "04:00:25 AM 23-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,51 +18,6 @@
             "match_id": 141951,
             "startTime": "19 April 2026 08:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/jamaica_scorpions_vs_barbados_pride_141951_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Fc Barcelona Vs Rc Celta",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131152_5427_BAR_CEV_FC-Web.png",
-            "team_1": "FC Barcelona",
-            "team_2": "RC Celta",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Fc Barcelona Vs Rc Celta | LALIGA 2025-26 [ENGLISH]",
-            "match_id": 131152,
-            "startTime": "23 April 2026 01:00 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/fc_barcelona_vs_rc_celta_131152_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Fc Barcelona Vs Rc Celta",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131152_5427_BAR_CEV_FC-Web.png",
-            "team_1": "FC Barcelona",
-            "team_2": "RC Celta",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "HINDI",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Fc Barcelona Vs Rc Celta | LALIGA 2025-26 [HINDI]",
-            "match_id": 131152,
-            "startTime": "23 April 2026 01:00 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/fc_barcelona_vs_rc_celta_131152_hindi.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Fc Barcelona Vs Rc Celta",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131152_5427_BAR_CEV_FC-Web.png",
-            "team_1": "FC Barcelona",
-            "team_2": "RC Celta",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "BENGALI",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Fc Barcelona Vs Rc Celta | LALIGA 2025-26 [BENGALI]",
-            "match_id": 131152,
-            "startTime": "23 April 2026 01:00 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/fc_barcelona_vs_rc_celta_131152_bengali.m3u8"
         },
         {
             "event_category": "Cricket",
