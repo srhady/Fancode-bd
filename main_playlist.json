@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:30:20 AM 23-04-2026",
+    "last update time": "05:45:16 AM 23-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Jamaica Scorpions Vs Barbados Pride",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-            "team_1": "Jamaica Scorpions",
-            "team_2": "Barbados Pride",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "West Indies Championship 2026",
-            "match_name": "Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 [ENGLISH]",
-            "match_id": 141951,
-            "startTime": "19 April 2026 08:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/jamaica_scorpions_vs_barbados_pride_141951_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Bangladesh Vs New Zealand",
@@ -527,6 +512,21 @@
             "match_name": "World Feed   Day 2 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
             "match_id": 141996,
             "startTime": "25 April 2026 01:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh Women Vs Sri Lanka Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg",
+            "team_1": "Bangladesh Women",
+            "team_2": "Sri Lanka Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Sri Lanka Women's tour of Bangladesh, 2026",
+            "match_name": "Bangladesh Women Vs Sri Lanka Women | Sri Lanka Women's tour of Bangladesh, 2026 [BLOODY_SWEET]",
+            "match_id": 142074,
+            "startTime": "25 April 2026 09:00 AM",
             "stream_url": ""
         }
     ]
