@@ -1,14 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:00:24 AM 23-04-2026
+#last update time: 02:15:17 AM 23-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/jamaica_scorpions_vs_barbados_pride_141951_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131150_5427_RS_GEF_FC-Web.png" group-title="Live Sports", Real Sociedad Vs Getafe Cf | LALIGA 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/real_sociedad_vs_getafe_cf_131150_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/05_Bayer-vs-FC-Bayern-M%C3%AAnchen_1776065116326.png" group-title="Live Sports", Bayer 04 Leverkusen Vs Fc Bayern München | DFB Pokal 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/bayer_04_leverkusen_vs_fc_bayern_m_nchen_141680_english.m3u8
@@ -24,9 +21,6 @@ https://fancode-bd-srhady.vercel.app/fc_barcelona_vs_rc_celta_131152_hindi.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131152_5427_BAR_CEV_FC-Web.png" group-title="Live Sports", Fc Barcelona Vs Rc Celta | LALIGA 2025-26 (BENGALI)
 https://fancode-bd-srhady.vercel.app/fc_barcelona_vs_rc_celta_131152_bengali.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png" group-title="Live Sports", Day 1   Court 4 | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/day_1___court_4_141853_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png" group-title="Live Sports", Day 1   Main Feed | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_1___main_feed_141852_english.m3u8
