@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:45:26 AM 23-04-2026
+#last update time: 01:00:22 AM 23-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 (ENGLISH)
@@ -24,4 +24,13 @@ https://fancode-bd-srhady.vercel.app/day_1___court_4_141853_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png" group-title="Live Sports", Day 1   Main Feed | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_1___main_feed_141852_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131152_5427_BAR_CEV_FC-Web.png" group-title="Live Sports", Fc Barcelona Vs Rc Celta | LALIGA 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/fc_barcelona_vs_rc_celta_131152_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131152_5427_BAR_CEV_FC-Web.png" group-title="Live Sports", Fc Barcelona Vs Rc Celta | LALIGA 2025-26 (HINDI)
+https://fancode-bd-srhady.vercel.app/fc_barcelona_vs_rc_celta_131152_hindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131152_5427_BAR_CEV_FC-Web.png" group-title="Live Sports", Fc Barcelona Vs Rc Celta | LALIGA 2025-26 (BENGALI)
+https://fancode-bd-srhady.vercel.app/fc_barcelona_vs_rc_celta_131152_bengali.m3u8
 
