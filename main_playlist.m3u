@@ -1,9 +1,12 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:45:20 PM 22-04-2026
+#last update time: 01:00:30 PM 22-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg" group-title="Live Sports", Bangladesh Women Vs Sri Lanka Women | Sri Lanka Women's tour of Bangladesh 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/bangladesh_women_vs_sri_lanka_women_142073_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142052_6045_RWA-W_NP-W_fc-web.jpg" group-title="Live Sports", Rwanda Women Vs Nepal Women | ICC Women's T20I Challenge Trophy 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/rwanda_women_vs_nepal_women_142052_english.m3u8
 
