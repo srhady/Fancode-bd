@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:00:24 PM 22-04-2026",
+    "last update time": "10:15:20 PM 22-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -25,7 +25,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC--(Al-Nassr)-vs-(Al-Ahli-SC)--old.jpg",
             "team_1": "Al-Nassr FC",
             "team_2": "Al Ahli (QAT)",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "AFC Champions League Two 2025-26",
