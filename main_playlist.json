@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:00:21 AM 23-04-2026",
+    "last update time": "03:15:20 AM 23-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,21 +33,6 @@
             "match_id": 141680,
             "startTime": "23 April 2026 12:15 AM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/bayer_04_leverkusen_vs_fc_bayern_m_nchen_141680_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Charlton Athletic F.c Vs Ipswich Town F.c.",
-            "src": "https://images.fancode.com/aig/match/v1776853695708/142187_CASACARDS_APP.png",
-            "team_1": "Charlton Athletic F.C",
-            "team_2": "Ipswich Town F.C.",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Charlton Athletic F.c Vs Ipswich Town F.c. | EFL Championship 2025-26 [ENGLISH]",
-            "match_id": 142187,
-            "startTime": "23 April 2026 12:15 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/charlton_athletic_f_c_vs_ipswich_town_f_c__142187_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -557,6 +542,21 @@
             "match_name": "Leicester City F.c. Vs Millwall F.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
             "match_id": 141925,
             "startTime": "25 April 2026 12:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa_web.jpg",
+            "team_1": "Day 2",
+            "team_2": "Royal Cape Golf Club",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Investec South African Women's Open 2026",
+            "match_name": "Day 2 | Investec South African Women's Open 2026 [BLOODY_SWEET]",
+            "match_id": 141643,
+            "startTime": "24 April 2026 05:00 PM",
             "stream_url": ""
         }
     ]
