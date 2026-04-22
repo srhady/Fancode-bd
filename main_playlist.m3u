@@ -1,14 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:15:20 AM 23-04-2026
+#last update time: 03:30:20 AM 23-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/jamaica_scorpions_vs_barbados_pride_141951_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/05_Bayer-vs-FC-Bayern-M%C3%AAnchen_1776065116326.png" group-title="Live Sports", Bayer 04 Leverkusen Vs Fc Bayern München | DFB Pokal 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/bayer_04_leverkusen_vs_fc_bayern_m_nchen_141680_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131152_5427_BAR_CEV_FC-Web.png" group-title="Live Sports", Fc Barcelona Vs Rc Celta | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/fc_barcelona_vs_rc_celta_131152_english.m3u8
