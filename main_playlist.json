@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:15:18 AM 24-04-2026",
+    "last update time": "05:30:20 AM 24-04-2026",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Main Feed   Day 1",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
-            "team_1": "Main Feed - Day 1",
-            "team_2": "TPC Louisiana - Avondale, Louisiana ",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Zurich Classic of New Orleans 2026",
-            "match_name": "Main Feed   Day 1 | Zurich Classic of New Orleans 2026 [ENGLISH]",
-            "match_id": 141999,
-            "startTime": "23 April 2026 06:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/main_feed___day_1_141999_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Nepal Women Vs Vanuatu Women",
@@ -66,21 +51,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Macarthur Vs Wellington Phoenix",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140941_5802_MAC_WEL_fc-web.jpg",
-            "team_1": "Macarthur",
-            "team_2": "Wellington Phoenix",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Macarthur Vs Wellington Phoenix | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140941,
-            "startTime": "24 April 2026 03:05 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Real Betis Vs Real Madrid",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131142_5427_RB_RM_FC-Web.png",
             "team_1": "Real Betis",
@@ -107,6 +77,21 @@
             "match_name": "Leicester City F.c. Vs Millwall F.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
             "match_id": 141925,
             "startTime": "25 April 2026 12:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Macarthur Vs Wellington Phoenix",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140941_5802_MAC_WEL_fc-web.jpg",
+            "team_1": "Macarthur",
+            "team_2": "Wellington Phoenix",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Macarthur Vs Wellington Phoenix | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140941,
+            "startTime": "24 April 2026 03:05 PM",
             "stream_url": ""
         },
         {
@@ -140,6 +125,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Football",
+            "title": "Albacete Vs Eibar",
+            "src": "https://images.fancode.com/aig/match/v1776063278978/142038_CASACARDS_APP.png",
+            "team_1": "Albacete",
+            "team_2": "Eibar",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Albacete Vs Eibar | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
+            "match_id": 142038,
+            "startTime": "25 April 2026 12:00 AM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Motorsports",
             "title": "Day 1   Red Bull Ring",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(15).png",
@@ -167,21 +167,6 @@
             "match_name": "Spain Gp | ESTRELLA GALICIA 0,0 GRAND PRIX OF SPAIN 2026 [BLOODY_SWEET]",
             "match_id": 139936,
             "startTime": "24 April 2026 12:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Albacete Vs Eibar",
-            "src": "https://images.fancode.com/aig/match/v1776063278978/142038_CASACARDS_APP.png",
-            "team_1": "Albacete",
-            "team_2": "Eibar",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Albacete Vs Eibar | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
-            "match_id": 142038,
-            "startTime": "25 April 2026 12:00 AM",
             "stream_url": ""
         },
         {
@@ -587,6 +572,21 @@
             "match_name": "Europe   Day 1 | Ferrari Challenge Series 2026 [BLOODY_SWEET]",
             "match_id": 142183,
             "startTime": "25 April 2026 05:20 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Valencia Cf Vs Girona Fc",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131140_5427_VAL_GIR_FC-Web.png",
+            "team_1": "Valencia CF",
+            "team_2": "Girona FC",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Valencia Cf Vs Girona Fc | LALIGA 2025-26 [BLOODY_SWEET]",
+            "match_id": 131140,
+            "startTime": "25 April 2026 10:00 PM",
             "stream_url": ""
         }
     ]
