@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:45:20 PM 23-04-2026",
+    "last update time": "10:00:26 PM 23-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -123,21 +123,6 @@
             "match_id": 142206,
             "startTime": "23 April 2026 04:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/day_2___court_3_142206_english.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 1",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa_web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Royal Cape Golf Club",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Investec South African Women's Open 2026",
-            "match_name": "Day 1 | Investec South African Women's Open 2026 [ENGLISH]",
-            "match_id": 141642,
-            "startTime": "23 April 2026 05:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/day_1_141642_english.m3u8"
         },
         {
             "event_category": "Golf",
@@ -632,6 +617,21 @@
             "match_name": "Japan   Day 1 | Ferrari Challenge Series 2026 [BLOODY_SWEET]",
             "match_id": 142154,
             "startTime": "25 April 2026 09:15 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Day 2   Red Bull Ring",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(15).png",
+            "team_1": "Day 2 - Red Bull Ring",
+            "team_2": "Red Bull Ring",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "DTM 2026",
+            "match_name": "Day 2   Red Bull Ring | DTM 2026 [BLOODY_SWEET]",
+            "match_id": 142108,
+            "startTime": "25 April 2026 11:45 AM",
             "stream_url": ""
         }
     ]
