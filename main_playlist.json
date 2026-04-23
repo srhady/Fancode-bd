@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:30:24 AM 24-04-2026",
+    "last update time": "04:45:22 AM 24-04-2026",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Marquee Group   Day 1",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
-            "team_1": "Marquee Group - Day 1",
-            "team_2": "TPC Louisiana - Avondale, Louisiana ",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Zurich Classic of New Orleans 2026",
-            "match_name": "Marquee Group   Day 1 | Zurich Classic of New Orleans 2026 [ENGLISH]",
-            "match_id": 142003,
-            "startTime": "23 April 2026 06:15 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/marquee_group___day_1_142003_english.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Main Feed   Day 1",
@@ -587,6 +572,21 @@
             "match_name": "Bayern Munich Women Vs Barcelona Women | UEFA Women's Champions League 2025-26 [BLOODY_SWEET]",
             "match_id": 141963,
             "startTime": "25 April 2026 09:45 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Europe   Day 1",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
+            "team_1": "Europe - Day 1",
+            "team_2": "Mugello, Italy",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Ferrari Challenge Series 2026",
+            "match_name": "Europe   Day 1 | Ferrari Challenge Series 2026 [BLOODY_SWEET]",
+            "match_id": 142183,
+            "startTime": "25 April 2026 05:20 PM",
             "stream_url": ""
         }
     ]
