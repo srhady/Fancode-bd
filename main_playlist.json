@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:00:23 AM 24-04-2026",
+    "last update time": "03:15:19 AM 24-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -33,21 +33,6 @@
             "match_id": 131155,
             "startTime": "24 April 2026 01:00 AM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/real_oviedo_vs_villarreal_cf_131155_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Salford City Vs Bromley",
-            "src": "https://images.fancode.com/aig/match/v1776758829422/141924_CASACARDS_APP.png",
-            "team_1": "Salford City",
-            "team_2": "Bromley",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "League Two 2025-26",
-            "match_name": "Salford City Vs Bromley | League Two 2025-26 [ENGLISH]",
-            "match_id": 141924,
-            "startTime": "24 April 2026 12:30 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/salford_city_vs_bromley_141924_english.m3u8"
         },
         {
             "event_category": "Golf",
@@ -245,6 +230,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Cricket",
+            "title": "Bangladesh Women Vs Sri Lanka Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg",
+            "team_1": "Bangladesh Women",
+            "team_2": "Sri Lanka Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Sri Lanka Women's tour of Bangladesh, 2026",
+            "match_name": "Bangladesh Women Vs Sri Lanka Women | Sri Lanka Women's tour of Bangladesh, 2026 [BLOODY_SWEET]",
+            "match_id": 142074,
+            "startTime": "25 April 2026 09:00 AM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Golf",
             "title": "Day 2",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa_web.jpg",
@@ -291,17 +291,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bangladesh Women Vs Sri Lanka Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg",
-            "team_1": "Bangladesh Women",
-            "team_2": "Sri Lanka Women",
+            "title": "Nepal Vs United Arab Emirates",
+            "src": "https://images.fancode.com/aig/match/v1776838876233/141976_CASACARDS_APP.png",
+            "team_1": "Nepal",
+            "team_2": "United Arab Emirates",
             "status": "NOT_STARTED",
             "streaming_status": "NOT_STARTED",
             "language": "BLOODY_SWEET",
-            "event_name": "Sri Lanka Women's tour of Bangladesh, 2026",
-            "match_name": "Bangladesh Women Vs Sri Lanka Women | Sri Lanka Women's tour of Bangladesh, 2026 [BLOODY_SWEET]",
-            "match_id": 142074,
-            "startTime": "25 April 2026 09:00 AM",
+            "event_name": "ICC CWC League 2, Nepal 2026",
+            "match_name": "Nepal Vs United Arab Emirates | ICC CWC League 2, Nepal 2026 [BLOODY_SWEET]",
+            "match_id": 141976,
+            "startTime": "25 April 2026 09:15 AM",
             "stream_url": ""
         },
         {
@@ -347,21 +347,6 @@
             "match_name": "Marquee Group   Day 2 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
             "match_id": 142004,
             "startTime": "24 April 2026 06:45 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Nepal Vs United Arab Emirates",
-            "src": "https://images.fancode.com/aig/match/v1776838876233/141976_CASACARDS_APP.png",
-            "team_1": "Nepal",
-            "team_2": "United Arab Emirates",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "ICC CWC League 2, Nepal 2026",
-            "match_name": "Nepal Vs United Arab Emirates | ICC CWC League 2, Nepal 2026 [BLOODY_SWEET]",
-            "match_id": 141976,
-            "startTime": "25 April 2026 09:15 AM",
             "stream_url": ""
         },
         {

@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:00:23 AM 24-04-2026
+#last update time: 03:15:19 AM 24-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/06_VfB-Stuttgart-vs-SC-Freiburg_1776065202358.png" group-title="Live Sports", Vfb Stuttgart Vs Sc Freiburg | DFB Pokal 2025-26 (ENGLISH)
@@ -9,9 +9,6 @@ https://fancode-bd-srhady.vercel.app/vfb_stuttgart_vs_sc_freiburg_141681_english
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131155_5427_RO_VIL_FC-Web.png" group-title="Live Sports", Real Oviedo Vs Villarreal Cf | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/real_oviedo_vs_villarreal_cf_131155_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776758829422/141924_CASACARDS_APP.png" group-title="Live Sports", Salford City Vs Bromley | League Two 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/salford_city_vs_bromley_141924_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg" group-title="Live Sports", Featured Groups   Day 1 | Zurich Classic of New Orleans 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/featured_groups___day_1_142007_english.m3u8
