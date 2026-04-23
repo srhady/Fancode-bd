@@ -1,23 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:00:26 PM 23-04-2026
+#last update time: 10:15:21 PM 23-04-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140494_5956_KBFC_ODS_FC-Web_1772466373449.jpg" group-title="Live Sports", Kerala Blasters Fc Vs Odisha Fc | ISL 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_odisha_fc_140494_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140494_5956_KBFC_ODS_FC-Web_1772466373449.jpg" group-title="Live Sports", Kerala Blasters Fc Vs Odisha Fc | ISL 2025-26 (HINDI)
-https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_odisha_fc_140494_hindi.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140494_5956_KBFC_ODS_FC-Web_1772466373449.jpg" group-title="Live Sports", Kerala Blasters Fc Vs Odisha Fc | ISL 2025-26 (MALAYALAM)
-https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_odisha_fc_140494_malayalam.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140494_5956_KBFC_ODS_FC-Web_1772466373449.jpg" group-title="Live Sports", Kerala Blasters Fc Vs Odisha Fc | ISL 2025-26 (BENGALI)
-https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_odisha_fc_140494_bengali.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KBF-vs-OF_fc-web.jpg" group-title="Live Sports", Kerala Blasters Fc Vs Odisha Fc | ISL 2025-26  - Regional (ENGLISH)
-https://fancode-bd-srhady.vercel.app/kerala_blasters_fc_vs_odisha_fc_141820_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png" group-title="Live Sports", Day 2   Main Feed | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_2___main_feed_141854_english.m3u8
