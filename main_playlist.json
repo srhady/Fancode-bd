@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:45:17 AM 24-04-2026",
+    "last update time": "03:00:23 AM 24-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -290,36 +290,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Golf",
-            "title": "Featured Groups   Day 2",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
-            "team_1": "Featured Groups - Day 2",
-            "team_2": "TPC Louisiana - Avondale, Louisiana ",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Zurich Classic of New Orleans 2026",
-            "match_name": "Featured Groups   Day 2 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
-            "match_id": 142008,
-            "startTime": "24 April 2026 06:45 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Golf",
-            "title": "Marquee Group   Day 2",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
-            "team_1": "Marquee Group - Day 2",
-            "team_2": "TPC Louisiana - Avondale, Louisiana ",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Zurich Classic of New Orleans 2026",
-            "match_name": "Marquee Group   Day 2 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
-            "match_id": 142004,
-            "startTime": "24 April 2026 06:45 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Bangladesh Women Vs Sri Lanka Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg",
@@ -351,6 +321,51 @@
         },
         {
             "event_category": "Golf",
+            "title": "Featured Groups   Day 2",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+            "team_1": "Featured Groups - Day 2",
+            "team_2": "TPC Louisiana - Avondale, Louisiana ",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Zurich Classic of New Orleans 2026",
+            "match_name": "Featured Groups   Day 2 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
+            "match_id": 142008,
+            "startTime": "24 April 2026 06:45 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Marquee Group   Day 2",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+            "team_1": "Marquee Group - Day 2",
+            "team_2": "TPC Louisiana - Avondale, Louisiana ",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Zurich Classic of New Orleans 2026",
+            "match_name": "Marquee Group   Day 2 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
+            "match_id": 142004,
+            "startTime": "24 April 2026 06:45 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Nepal Vs United Arab Emirates",
+            "src": "https://images.fancode.com/aig/match/v1776838876233/141976_CASACARDS_APP.png",
+            "team_1": "Nepal",
+            "team_2": "United Arab Emirates",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ICC CWC League 2, Nepal 2026",
+            "match_name": "Nepal Vs United Arab Emirates | ICC CWC League 2, Nepal 2026 [BLOODY_SWEET]",
+            "match_id": 141976,
+            "startTime": "25 April 2026 09:15 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
             "title": "Main Feed   Day 2",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
             "team_1": "Main Feed - Day 2",
@@ -377,21 +392,6 @@
             "match_name": "Featured Holes   Day 2 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
             "match_id": 142012,
             "startTime": "24 April 2026 07:45 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Nepal Vs United Arab Emirates",
-            "src": "https://images.fancode.com/aig/match/v1776838876233/141976_CASACARDS_APP.png",
-            "team_1": "Nepal",
-            "team_2": "United Arab Emirates",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "ICC CWC League 2, Nepal 2026",
-            "match_name": "Nepal Vs United Arab Emirates | ICC CWC League 2, Nepal 2026 [BLOODY_SWEET]",
-            "match_id": 141976,
-            "startTime": "25 April 2026 09:15 AM",
             "stream_url": ""
         },
         {
@@ -470,21 +470,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Motorsports",
-            "title": "Day 2   Red Bull Ring",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(15).png",
-            "team_1": "Day 2 - Red Bull Ring",
-            "team_2": "Red Bull Ring",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "DTM 2026",
-            "match_name": "Day 2   Red Bull Ring | DTM 2026 [BLOODY_SWEET]",
-            "match_id": 142108,
-            "startTime": "25 April 2026 11:45 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "Brighton And Hove Albion Women Vs Manchester City Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142164_5826_BHA-W_MCI-W_FC-Web.jpg",
@@ -497,6 +482,21 @@
             "match_name": "Brighton And Hove Albion Women Vs Manchester City Women | Women's Super League 2025-26 [BLOODY_SWEET]",
             "match_id": 142164,
             "startTime": "25 April 2026 04:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Day 2   Red Bull Ring",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(15).png",
+            "team_1": "Day 2 - Red Bull Ring",
+            "team_2": "Red Bull Ring",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "DTM 2026",
+            "match_name": "Day 2   Red Bull Ring | DTM 2026 [BLOODY_SWEET]",
+            "match_id": 142108,
+            "startTime": "25 April 2026 11:45 AM",
             "stream_url": ""
         },
         {
