@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:45:21 AM 25-04-2026
+#last update time: 01:00:26 AM 25-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131142_5427_RB_RM_FC-Web.png" group-title="Live Sports", Real Betis Vs Real Madrid | LALIGA 2025-26 (ENGLISH)
@@ -12,6 +12,9 @@ https://fancode-bd-srhady.vercel.app/real_betis_vs_real_madrid_131142_hindi.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131142_5427_RB_RM_FC-Web.png" group-title="Live Sports", Real Betis Vs Real Madrid | LALIGA 2025-26 (BENGALI)
 https://fancode-bd-srhady.vercel.app/real_betis_vs_real_madrid_131142_bengali.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141925_5489_LEI_MLW_fc-web.jpg" group-title="Live Sports", Leicester City F.c. Vs Millwall F.c. | EFL Championship 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/leicester_city_f_c__vs_millwall_f_c__141925_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776063278978/142038_CASACARDS_APP.png" group-title="Live Sports", Albacete Vs Eibar | LALIGA Hypermotion 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/albacete_vs_eibar_142038_english.m3u8
@@ -27,9 +30,6 @@ https://fancode-bd-srhady.vercel.app/day_3___court_4_142276_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png" group-title="Live Sports", Day 3   Arantxa Sanchez Stadium | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_3___arantxa_sanchez_stadium_141857_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png" group-title="Live Sports", Day 3   Court 3 | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/day_3___court_3_142275_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg" group-title="Live Sports", Featured Groups   Day 2 | Zurich Classic of New Orleans 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/featured_groups___day_2_142008_english.m3u8
