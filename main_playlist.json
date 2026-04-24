@@ -2,8 +2,23 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:45:22 PM 24-04-2026",
+    "last update time": "05:00:22 PM 24-04-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Usa Women Vs Italy Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142055_6045_ITA-W_USA-W_fc-web.jpg",
+            "team_1": "USA Women",
+            "team_2": "Italy Women",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ICC Women's T20I Challenge Trophy, 2026",
+            "match_name": "Usa Women Vs Italy Women | ICC Women's T20I Challenge Trophy, 2026 [ENGLISH]",
+            "match_id": 142055,
+            "startTime": "24 April 2026 04:30 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/usa_women_vs_italy_women_142055_english.m3u8"
+        },
         {
             "event_category": "Football",
             "title": "Macarthur Vs Wellington Phoenix",
@@ -108,21 +123,6 @@
             "match_id": 141857,
             "startTime": "24 April 2026 04:00 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/day_3___arantxa_sanchez_stadium_141857_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Usa Women Vs Italy Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142055_6045_ITA-W_USA-W_fc-web.jpg",
-            "team_1": "USA Women",
-            "team_2": "Italy Women",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "ICC Women's T20I Challenge Trophy, 2026",
-            "match_name": "Usa Women Vs Italy Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
-            "match_id": 142055,
-            "startTime": "24 April 2026 04:30 PM",
-            "stream_url": ""
         },
         {
             "event_category": "Football",
@@ -470,21 +470,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Live Events",
-            "title": "World Fencing League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Fencing-old.jpg",
-            "team_1": "World Fencing League 2026",
-            "team_2": "The Shrine, Los Angeles ",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "World Fencing League 2026",
-            "match_name": "World Fencing League 2026 | World Fencing League 2026 [BLOODY_SWEET]",
-            "match_id": 142163,
-            "startTime": "25 April 2026 06:45 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "Getafe Cf Vs Fc Barcelona",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131147_5427_GEF_BAR_FC-Web.png",
@@ -497,6 +482,21 @@
             "match_name": "Getafe Cf Vs Fc Barcelona | LALIGA 2025-26 [BLOODY_SWEET]",
             "match_id": 131147,
             "startTime": "25 April 2026 07:45 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Live Events",
+            "title": "World Fencing League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Fencing-old.jpg",
+            "team_1": "World Fencing League 2026",
+            "team_2": "The Shrine, Los Angeles ",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "World Fencing League 2026",
+            "match_name": "World Fencing League 2026 | World Fencing League 2026 [BLOODY_SWEET]",
+            "match_id": 142163,
+            "startTime": "25 April 2026 06:45 AM",
             "stream_url": ""
         },
         {
