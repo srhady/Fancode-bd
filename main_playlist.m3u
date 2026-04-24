@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:15:21 PM 24-04-2026
+#last update time: 07:30:23 PM 24-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142055_6045_ITA-W_USA-W_fc-web.jpg" group-title="Live Sports", Usa Women Vs Italy Women | ICC Women's T20I Challenge Trophy 2026 (ENGLISH)
@@ -48,4 +48,7 @@ https://fancode-bd-srhady.vercel.app/featured_groups___day_2_142008_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg" group-title="Live Sports", Marquee Group   Day 2 | Zurich Classic of New Orleans 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/marquee_group___day_2_142004_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg" group-title="Live Sports", Main Feed   Day 2 | Zurich Classic of New Orleans 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/main_feed___day_2_142000_english.m3u8
 
