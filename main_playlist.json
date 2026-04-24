@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:15:20 PM 24-04-2026",
+    "last update time": "06:30:21 PM 24-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -78,21 +78,6 @@
             "match_id": 140495,
             "startTime": "24 April 2026 05:00 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/northeast_united_fc_vs_fc_goa_140495_bengali.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Macarthur Vs Wellington Phoenix",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140941_5802_MAC_WEL_fc-web.jpg",
-            "team_1": "Macarthur",
-            "team_2": "Wellington Phoenix",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "A League 2025-26",
-            "match_name": "Macarthur Vs Wellington Phoenix | A League 2025-26 [ENGLISH]",
-            "match_id": 140941,
-            "startTime": "24 April 2026 03:05 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/macarthur_vs_wellington_phoenix_140941_english.m3u8"
         },
         {
             "event_category": "MotoGP",
@@ -290,18 +275,33 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Newcastle Jets Vs Central Coast Mariners",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140942_5802_NJ_CCM_fc-web.jpg",
-            "team_1": "Newcastle Jets",
-            "team_2": "Central Coast Mariners",
+            "event_category": "Golf",
+            "title": "Featured Groups   Day 2",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+            "team_1": "Featured Groups - Day 2",
+            "team_2": "TPC Louisiana - Avondale, Louisiana ",
             "status": "NOT_STARTED",
             "streaming_status": "NOT_STARTED",
             "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Newcastle Jets Vs Central Coast Mariners | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140942,
-            "startTime": "25 April 2026 12:30 PM",
+            "event_name": "Zurich Classic of New Orleans 2026",
+            "match_name": "Featured Groups   Day 2 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
+            "match_id": 142008,
+            "startTime": "24 April 2026 06:45 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Marquee Group   Day 2",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+            "team_1": "Marquee Group - Day 2",
+            "team_2": "TPC Louisiana - Avondale, Louisiana ",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Zurich Classic of New Orleans 2026",
+            "match_name": "Marquee Group   Day 2 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
+            "match_id": 142004,
+            "startTime": "24 April 2026 06:45 PM",
             "stream_url": ""
         },
         {
@@ -317,6 +317,21 @@
             "match_name": "Brighton And Hove Albion Women Vs Manchester City Women | Women's Super League 2025-26 [BLOODY_SWEET]",
             "match_id": 142164,
             "startTime": "25 April 2026 04:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Newcastle Jets Vs Central Coast Mariners",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140942_5802_NJ_CCM_fc-web.jpg",
+            "team_1": "Newcastle Jets",
+            "team_2": "Central Coast Mariners",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Newcastle Jets Vs Central Coast Mariners | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140942,
+            "startTime": "25 April 2026 12:30 PM",
             "stream_url": ""
         },
         {
@@ -426,21 +441,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Perth Glory Vs Brisbane Roar",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140944_5802_PG_BRB_fc-web.jpg",
-            "team_1": "Perth Glory",
-            "team_2": "Brisbane Roar",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Perth Glory Vs Brisbane Roar | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140944,
-            "startTime": "25 April 2026 05:15 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Getafe Cf Vs Fc Barcelona",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131147_5427_GEF_BAR_FC-Web.png",
             "team_1": "Getafe CF",
@@ -455,33 +455,18 @@
             "stream_url": ""
         },
         {
-            "event_category": "Golf",
-            "title": "Featured Groups   Day 2",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
-            "team_1": "Featured Groups - Day 2",
-            "team_2": "TPC Louisiana - Avondale, Louisiana ",
+            "event_category": "Football",
+            "title": "Perth Glory Vs Brisbane Roar",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140944_5802_PG_BRB_fc-web.jpg",
+            "team_1": "Perth Glory",
+            "team_2": "Brisbane Roar",
             "status": "NOT_STARTED",
             "streaming_status": "NOT_STARTED",
             "language": "BLOODY_SWEET",
-            "event_name": "Zurich Classic of New Orleans 2026",
-            "match_name": "Featured Groups   Day 2 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
-            "match_id": 142008,
-            "startTime": "24 April 2026 06:45 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Golf",
-            "title": "Marquee Group   Day 2",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
-            "team_1": "Marquee Group - Day 2",
-            "team_2": "TPC Louisiana - Avondale, Louisiana ",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Zurich Classic of New Orleans 2026",
-            "match_name": "Marquee Group   Day 2 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
-            "match_id": 142004,
-            "startTime": "24 April 2026 06:45 PM",
+            "event_name": "A League 2025-26",
+            "match_name": "Perth Glory Vs Brisbane Roar | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140944,
+            "startTime": "25 April 2026 05:15 PM",
             "stream_url": ""
         },
         {
@@ -541,7 +526,7 @@
             "event_name": "Ferrari Challenge Series 2026",
             "match_name": "Japan   Day 1 | Ferrari Challenge Series 2026 [BLOODY_SWEET]",
             "match_id": 142154,
-            "startTime": "25 April 2026 09:25 AM",
+            "startTime": "25 April 2026 09:10 AM",
             "stream_url": ""
         },
         {
@@ -632,6 +617,21 @@
             "match_name": "Day 3 | Investec South African Women's Open 2026 [BLOODY_SWEET]",
             "match_id": 141644,
             "startTime": "25 April 2026 04:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Atletico De Madrid Vs Athletic Club",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131146_5427_ATL_ATH_FC-Web.png",
+            "team_1": "Atletico de Madrid",
+            "team_2": "Athletic Club",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Atletico De Madrid Vs Athletic Club | LALIGA 2025-26 [BLOODY_SWEET]",
+            "match_id": 131146,
+            "startTime": "26 April 2026 12:30 AM",
             "stream_url": ""
         }
     ]
