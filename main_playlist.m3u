@@ -1,9 +1,12 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:45:17 PM 24-04-2026
+#last update time: 01:00:24 PM 24-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142054_6045_NP-W_VANW_fc-web.jpg" group-title="Live Sports", Vanuatu Women Vs Nepal Women | ICC Women's T20I Challenge Trophy 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/vanuatu_women_vs_nepal_women_142054_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-_GRAND-PRIX-OF-SPAIN_FC-Web.jpg" group-title="Live Sports", Spain Gp | ESTRELLA GALICIA 00 GRAND PRIX OF SPAIN 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/spain_gp_139936_english.m3u8
 
