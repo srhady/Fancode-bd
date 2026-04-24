@@ -2,8 +2,23 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:15:28 AM 25-04-2026",
+    "last update time": "12:30:23 AM 25-04-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Albacete Vs Eibar",
+            "src": "https://images.fancode.com/aig/match/v1776063278978/142038_CASACARDS_APP.png",
+            "team_1": "Albacete",
+            "team_2": "Eibar",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Albacete Vs Eibar | LALIGA Hypermotion 2025-26 [ENGLISH]",
+            "match_id": 142038,
+            "startTime": "25 April 2026 12:00 AM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/albacete_vs_eibar_142038_english.m3u8"
+        },
         {
             "event_category": "Tennis",
             "title": "Day 3   Main Feed\t",
@@ -197,21 +212,6 @@
             "match_name": "Leicester City F.c. Vs Millwall F.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
             "match_id": 141925,
             "startTime": "25 April 2026 12:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Albacete Vs Eibar",
-            "src": "https://images.fancode.com/aig/match/v1776063278978/142038_CASACARDS_APP.png",
-            "team_1": "Albacete",
-            "team_2": "Eibar",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Albacete Vs Eibar | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
-            "match_id": 142038,
-            "startTime": "25 April 2026 12:00 AM",
             "stream_url": ""
         },
         {
