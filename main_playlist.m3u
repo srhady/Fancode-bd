@@ -1,23 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:30:23 PM 24-04-2026
+#last update time: 07:45:20 PM 24-04-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142055_6045_ITA-W_USA-W_fc-web.jpg" group-title="Live Sports", Usa Women Vs Italy Women | ICC Women's T20I Challenge Trophy 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/usa_women_vs_italy_women_142055_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140495_5956_NEUFC_FCG_FC-Web_1772466446452.jpg" group-title="Live Sports", Northeast United Fc Vs Fc Goa | ISL 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/northeast_united_fc_vs_fc_goa_140495_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140495_5956_NEUFC_FCG_FC-Web_1772466446452.jpg" group-title="Live Sports", Northeast United Fc Vs Fc Goa | ISL 2025-26 (HINDI)
-https://fancode-bd-srhady.vercel.app/northeast_united_fc_vs_fc_goa_140495_hindi.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140495_5956_NEUFC_FCG_FC-Web_1772466446452.jpg" group-title="Live Sports", Northeast United Fc Vs Fc Goa | ISL 2025-26 (MALAYALAM)
-https://fancode-bd-srhady.vercel.app/northeast_united_fc_vs_fc_goa_140495_malayalam.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140495_5956_NEUFC_FCG_FC-Web_1772466446452.jpg" group-title="Live Sports", Northeast United Fc Vs Fc Goa | ISL 2025-26 (BENGALI)
-https://fancode-bd-srhady.vercel.app/northeast_united_fc_vs_fc_goa_140495_bengali.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-_GRAND-PRIX-OF-SPAIN_FC-Web.jpg" group-title="Live Sports", Spain Gp | ESTRELLA GALICIA 00 GRAND PRIX OF SPAIN 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/spain_gp_139936_english.m3u8

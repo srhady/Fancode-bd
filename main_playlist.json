@@ -2,83 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:30:23 PM 24-04-2026",
+    "last update time": "07:45:20 PM 24-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Usa Women Vs Italy Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142055_6045_ITA-W_USA-W_fc-web.jpg",
-            "team_1": "USA Women",
-            "team_2": "Italy Women",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Women's T20I Challenge Trophy, 2026",
-            "match_name": "Usa Women Vs Italy Women | ICC Women's T20I Challenge Trophy, 2026 [ENGLISH]",
-            "match_id": 142055,
-            "startTime": "24 April 2026 04:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/usa_women_vs_italy_women_142055_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Northeast United Fc Vs Fc Goa",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140495_5956_NEUFC_FCG_FC-Web_1772466446452.jpg",
-            "team_1": "NorthEast United FC",
-            "team_2": "FC Goa",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ISL 2025-26",
-            "match_name": "Northeast United Fc Vs Fc Goa | ISL 2025-26 [ENGLISH]",
-            "match_id": 140495,
-            "startTime": "24 April 2026 05:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/northeast_united_fc_vs_fc_goa_140495_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Northeast United Fc Vs Fc Goa",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140495_5956_NEUFC_FCG_FC-Web_1772466446452.jpg",
-            "team_1": "NorthEast United FC",
-            "team_2": "FC Goa",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "HINDI",
-            "event_name": "ISL 2025-26",
-            "match_name": "Northeast United Fc Vs Fc Goa | ISL 2025-26 [HINDI]",
-            "match_id": 140495,
-            "startTime": "24 April 2026 05:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/northeast_united_fc_vs_fc_goa_140495_hindi.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Northeast United Fc Vs Fc Goa",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140495_5956_NEUFC_FCG_FC-Web_1772466446452.jpg",
-            "team_1": "NorthEast United FC",
-            "team_2": "FC Goa",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "MALAYALAM",
-            "event_name": "ISL 2025-26",
-            "match_name": "Northeast United Fc Vs Fc Goa | ISL 2025-26 [MALAYALAM]",
-            "match_id": 140495,
-            "startTime": "24 April 2026 05:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/northeast_united_fc_vs_fc_goa_140495_malayalam.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Northeast United Fc Vs Fc Goa",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140495_5956_NEUFC_FCG_FC-Web_1772466446452.jpg",
-            "team_1": "NorthEast United FC",
-            "team_2": "FC Goa",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "BENGALI",
-            "event_name": "ISL 2025-26",
-            "match_name": "Northeast United Fc Vs Fc Goa | ISL 2025-26 [BENGALI]",
-            "match_id": 140495,
-            "startTime": "24 April 2026 05:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/northeast_united_fc_vs_fc_goa_140495_bengali.m3u8"
-        },
         {
             "event_category": "MotoGP",
             "title": "Spain Gp",
@@ -230,6 +155,21 @@
             "stream_url": "https://fancode-bd-srhady.vercel.app/marquee_group___day_2_142004_english.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "Main Feed   Day 2",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+            "team_1": "Main Feed - Day 2",
+            "team_2": "TPC Louisiana - Avondale, Louisiana ",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Zurich Classic of New Orleans 2026",
+            "match_name": "Main Feed   Day 2 | Zurich Classic of New Orleans 2026 [ENGLISH]",
+            "match_id": 142000,
+            "startTime": "24 April 2026 07:15 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/main_feed___day_2_142000_english.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Bangladesh Women Vs Sri Lanka Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg",
@@ -303,21 +243,6 @@
             "match_id": 142038,
             "startTime": "25 April 2026 12:00 AM",
             "stream_url": ""
-        },
-        {
-            "event_category": "Golf",
-            "title": "Main Feed   Day 2",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
-            "team_1": "Main Feed - Day 2",
-            "team_2": "TPC Louisiana - Avondale, Louisiana ",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Zurich Classic of New Orleans 2026",
-            "match_name": "Main Feed   Day 2 | Zurich Classic of New Orleans 2026 [ENGLISH]",
-            "match_id": 142000,
-            "startTime": "24 April 2026 07:15 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/main_feed___day_2_142000_english.m3u8"
         },
         {
             "event_category": "Golf",
@@ -500,21 +425,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Golf",
-            "title": "World Feed   Day 2",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
-            "team_1": "World Feed - Day 2",
-            "team_2": "TPC Louisiana - Avondale, Louisiana ",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Zurich Classic of New Orleans 2026",
-            "match_name": "World Feed   Day 2 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
-            "match_id": 141996,
-            "startTime": "25 April 2026 01:30 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "Al Ahli Saudi Fc Vs Machida Zelvia",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(16).png",
@@ -542,6 +452,21 @@
             "match_name": "Bayern Munich Women Vs Barcelona Women | UEFA Women's Champions League 2025-26 [BLOODY_SWEET]",
             "match_id": 141963,
             "startTime": "25 April 2026 09:45 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "World Feed   Day 2",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+            "team_1": "World Feed - Day 2",
+            "team_2": "TPC Louisiana - Avondale, Louisiana ",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Zurich Classic of New Orleans 2026",
+            "match_name": "World Feed   Day 2 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
+            "match_id": 141996,
+            "startTime": "25 April 2026 01:30 AM",
             "stream_url": ""
         },
         {
@@ -632,6 +557,21 @@
             "match_name": "Atletico De Madrid Vs Athletic Club | LALIGA 2025-26 [BLOODY_SWEET]",
             "match_id": 131146,
             "startTime": "26 April 2026 12:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Europe   Day 1",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
+            "team_1": "Europe - Day 1",
+            "team_2": "Mugello, Italy",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Ferrari Challenge Series 2026",
+            "match_name": "Europe   Day 1 | Ferrari Challenge Series 2026 [BLOODY_SWEET]",
+            "match_id": 142183,
+            "startTime": "25 April 2026 05:20 PM",
             "stream_url": ""
         }
     ]
