@@ -1,11 +1,23 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:15:16 PM 24-04-2026
+#last update time: 05:30:20 PM 24-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142055_6045_ITA-W_USA-W_fc-web.jpg" group-title="Live Sports", Usa Women Vs Italy Women | ICC Women's T20I Challenge Trophy 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/usa_women_vs_italy_women_142055_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140495_5956_NEUFC_FCG_FC-Web_1772466446452.jpg" group-title="Live Sports", Northeast United Fc Vs Fc Goa | ISL 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/northeast_united_fc_vs_fc_goa_140495_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140495_5956_NEUFC_FCG_FC-Web_1772466446452.jpg" group-title="Live Sports", Northeast United Fc Vs Fc Goa | ISL 2025-26 (HINDI)
+https://fancode-bd-srhady.vercel.app/northeast_united_fc_vs_fc_goa_140495_hindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140495_5956_NEUFC_FCG_FC-Web_1772466446452.jpg" group-title="Live Sports", Northeast United Fc Vs Fc Goa | ISL 2025-26 (MALAYALAM)
+https://fancode-bd-srhady.vercel.app/northeast_united_fc_vs_fc_goa_140495_malayalam.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140495_5956_NEUFC_FCG_FC-Web_1772466446452.jpg" group-title="Live Sports", Northeast United Fc Vs Fc Goa | ISL 2025-26 (BENGALI)
+https://fancode-bd-srhady.vercel.app/northeast_united_fc_vs_fc_goa_140495_bengali.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140941_5802_MAC_WEL_fc-web.jpg" group-title="Live Sports", Macarthur Vs Wellington Phoenix | A League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/macarthur_vs_wellington_phoenix_140941_english.m3u8
@@ -28,9 +40,9 @@ https://fancode-bd-srhady.vercel.app/day_1___red_bull_ring_142277_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png" group-title="Live Sports", Day 3   Arantxa Sanchez Stadium | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_3___arantxa_sanchez_stadium_141857_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png" group-title="Live Sports", Day 3   Court 3 | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/day_3___court_3_142275_english.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/South-Africa_web.jpg" group-title="Live Sports", Day 2 | Investec South African Women's Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_2_141643_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png" group-title="Live Sports", Day 3   Court 3 | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/day_3___court_3_142275_english.m3u8
 
