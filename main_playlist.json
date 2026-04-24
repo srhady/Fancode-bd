@@ -2,8 +2,53 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:30:23 AM 25-04-2026",
+    "last update time": "12:45:21 AM 25-04-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Real Betis Vs Real Madrid",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131142_5427_RB_RM_FC-Web.png",
+            "team_1": "Real Betis",
+            "team_2": "Real Madrid",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Real Betis Vs Real Madrid | LALIGA 2025-26 [ENGLISH]",
+            "match_id": 131142,
+            "startTime": "25 April 2026 12:30 AM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/real_betis_vs_real_madrid_131142_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Betis Vs Real Madrid",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131142_5427_RB_RM_FC-Web.png",
+            "team_1": "Real Betis",
+            "team_2": "Real Madrid",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "HINDI",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Real Betis Vs Real Madrid | LALIGA 2025-26 [HINDI]",
+            "match_id": 131142,
+            "startTime": "25 April 2026 12:30 AM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/real_betis_vs_real_madrid_131142_hindi.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Betis Vs Real Madrid",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131142_5427_RB_RM_FC-Web.png",
+            "team_1": "Real Betis",
+            "team_2": "Real Madrid",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "BENGALI",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Real Betis Vs Real Madrid | LALIGA 2025-26 [BENGALI]",
+            "match_id": 131142,
+            "startTime": "25 April 2026 12:30 AM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/real_betis_vs_real_madrid_131142_bengali.m3u8"
+        },
         {
             "event_category": "Football",
             "title": "Albacete Vs Eibar",
@@ -182,21 +227,6 @@
             "match_name": "Nepal Vs United Arab Emirates | ICC CWC League 2, Nepal 2026 [BLOODY_SWEET]",
             "match_id": 141976,
             "startTime": "25 April 2026 09:15 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Betis Vs Real Madrid",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131142_5427_RB_RM_FC-Web.png",
-            "team_1": "Real Betis",
-            "team_2": "Real Madrid",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Betis Vs Real Madrid | LALIGA 2025-26 [BLOODY_SWEET]",
-            "match_id": 131142,
-            "startTime": "25 April 2026 12:30 AM",
             "stream_url": ""
         },
         {
@@ -396,21 +426,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Perth Glory Vs Brisbane Roar",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140944_5802_PG_BRB_fc-web.jpg",
-            "team_1": "Perth Glory",
-            "team_2": "Brisbane Roar",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Perth Glory Vs Brisbane Roar | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140944,
-            "startTime": "25 April 2026 05:15 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Valencia Cf Vs Girona Fc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131140_5427_VAL_GIR_FC-Web.png",
             "team_1": "Valencia CF",
@@ -422,6 +437,21 @@
             "match_name": "Valencia Cf Vs Girona Fc | LALIGA 2025-26 [BLOODY_SWEET]",
             "match_id": 131140,
             "startTime": "25 April 2026 10:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Perth Glory Vs Brisbane Roar",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140944_5802_PG_BRB_fc-web.jpg",
+            "team_1": "Perth Glory",
+            "team_2": "Brisbane Roar",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Perth Glory Vs Brisbane Roar | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140944,
+            "startTime": "25 April 2026 05:15 PM",
             "stream_url": ""
         },
         {
@@ -455,21 +485,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Motorsports",
-            "title": "Japan   Day 1",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
-            "team_1": "Japan - Day 1",
-            "team_2": "Japan",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Ferrari Challenge Series 2026",
-            "match_name": "Japan   Day 1 | Ferrari Challenge Series 2026 [BLOODY_SWEET]",
-            "match_id": 142154,
-            "startTime": "25 April 2026 09:10 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "M\u00e1laga Vs Castell\u00f3n",
             "src": "https://images.fancode.com/aig/match/v1776063278981/142039_CASACARDS_APP.png",
@@ -482,6 +497,21 @@
             "match_name": "M\u00e1laga Vs Castell\u00f3n | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
             "match_id": 142039,
             "startTime": "26 April 2026 12:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Japan   Day 1",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
+            "team_1": "Japan - Day 1",
+            "team_2": "Japan",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Ferrari Challenge Series 2026",
+            "match_name": "Japan   Day 1 | Ferrari Challenge Series 2026 [BLOODY_SWEET]",
+            "match_id": 142154,
+            "startTime": "25 April 2026 09:10 AM",
             "stream_url": ""
         },
         {
