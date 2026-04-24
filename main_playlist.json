@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:30:26 PM 24-04-2026",
+    "last update time": "04:45:22 PM 24-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -111,15 +111,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Italy Women Vs Usa Women",
+            "title": "Usa Women Vs Italy Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142055_6045_ITA-W_USA-W_fc-web.jpg",
-            "team_1": "Italy Women",
-            "team_2": "USA Women",
+            "team_1": "USA Women",
+            "team_2": "Italy Women",
             "status": "NOT_STARTED",
             "streaming_status": "NOT_STARTED",
             "language": "BLOODY_SWEET",
             "event_name": "ICC Women's T20I Challenge Trophy, 2026",
-            "match_name": "Italy Women Vs Usa Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
+            "match_name": "Usa Women Vs Italy Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
             "match_id": 142055,
             "startTime": "24 April 2026 04:30 PM",
             "stream_url": ""
@@ -425,21 +425,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Live Events",
-            "title": "World Fencing League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Fencing-old.jpg",
-            "team_1": "World Fencing League 2026",
-            "team_2": "The Shrine, Los Angeles ",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "World Fencing League 2026",
-            "match_name": "World Fencing League 2026 | World Fencing League 2026 [BLOODY_SWEET]",
-            "match_id": 142163,
-            "startTime": "25 April 2026 06:45 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "Jamshedpur Fc Vs Chennaiyin Fc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140498_5956_JFC_CFC_FC-Web_1772466830393.jpg",
@@ -485,6 +470,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Live Events",
+            "title": "World Fencing League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Fencing-old.jpg",
+            "team_1": "World Fencing League 2026",
+            "team_2": "The Shrine, Los Angeles ",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "World Fencing League 2026",
+            "match_name": "World Fencing League 2026 | World Fencing League 2026 [BLOODY_SWEET]",
+            "match_id": 142163,
+            "startTime": "25 April 2026 06:45 AM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Football",
             "title": "Getafe Cf Vs Fc Barcelona",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131147_5427_GEF_BAR_FC-Web.png",
@@ -511,7 +511,7 @@
             "event_name": "Ferrari Challenge Series 2026",
             "match_name": "Japan   Day 1 | Ferrari Challenge Series 2026 [BLOODY_SWEET]",
             "match_id": 142154,
-            "startTime": "25 April 2026 09:15 AM",
+            "startTime": "25 April 2026 09:25 AM",
             "stream_url": ""
         },
         {
