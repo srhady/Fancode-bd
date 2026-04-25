@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:00:22 PM 25-04-2026",
+    "last update time": "12:15:20 PM 25-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -48,6 +48,21 @@
             "match_id": 142154,
             "startTime": "25 April 2026 09:10 AM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/japan___day_1_142154_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Newcastle Jets Vs Central Coast Mariners",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140942_5802_NJ_CCM_fc-web.jpg",
+            "team_1": "Newcastle Jets",
+            "team_2": "Central Coast Mariners",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Newcastle Jets Vs Central Coast Mariners | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140942,
+            "startTime": "25 April 2026 12:30 PM",
+            "stream_url": ""
         },
         {
             "event_category": "Football",
@@ -227,21 +242,6 @@
             "match_name": "Atletico De Madrid Vs Athletic Club | LALIGA 2025-26 [BLOODY_SWEET]",
             "match_id": 131146,
             "startTime": "26 April 2026 12:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Newcastle Jets Vs Central Coast Mariners",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140942_5802_NJ_CCM_fc-web.jpg",
-            "team_1": "Newcastle Jets",
-            "team_2": "Central Coast Mariners",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Newcastle Jets Vs Central Coast Mariners | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140942,
-            "startTime": "25 April 2026 12:30 PM",
             "stream_url": ""
         },
         {
