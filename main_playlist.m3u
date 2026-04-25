@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:30:19 PM 25-04-2026
+#last update time: 11:45:15 PM 25-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(16).png" group-title="Live Sports", Al Ahli Saudi Fc Vs Machida Zelvia | AFC Champions League Elite 2025-26 (ENGLISH)
@@ -12,9 +12,6 @@ https://fancode-bd-srhady.vercel.app/bayern_munich_women_vs_barcelona_women_1419
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131140_5427_VAL_GIR_FC-Web.png" group-title="Live Sports", Valencia Cf Vs Girona Fc | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/valencia_cf_vs_girona_fc_131140_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(15).png" group-title="Live Sports", Day 2   Red Bull Ring | DTM 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/day_2___red_bull_ring_142108_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png" group-title="Live Sports", Day 4   Main Feed | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_4___main_feed_141859_english.m3u8
