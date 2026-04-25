@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:30:21 PM 25-04-2026
+#last update time: 06:45:16 PM 25-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142164_5826_BHA-W_MCI-W_FC-Web.jpg" group-title="Live Sports", Brighton And Hove Albion Women Vs Manchester City Women | Women's Super League 2025-26 (ENGLISH)
@@ -24,9 +24,6 @@ https://fancode-bd-srhady.vercel.app/west_bromwich_albion_f_c__vs_ipswich_town_f
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131141_5427_ALA_MRC_FC-Web.png" group-title="Live Sports", Deportivo Alaves Vs Rcd Mallorca | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/deportivo_alaves_vs_rcd_mallorca_131141_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140943_5802_SYW_MLV_fc-web.jpg" group-title="Live Sports", Western Sydney Wanderers Vs Melbourne Victory | A League 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/western_sydney_wanderers_vs_melbourne_victory_140943_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140944_5802_PG_BRB_fc-web.jpg" group-title="Live Sports", Perth Glory Vs Brisbane Roar | A League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/perth_glory_vs_brisbane_roar_140944_english.m3u8
