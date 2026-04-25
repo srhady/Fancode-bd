@@ -1,26 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:45:16 PM 25-04-2026
+#last update time: 10:00:23 PM 25-04-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140498_5956_JFC_CFC_FC-Web_1772466830393.jpg" group-title="Live Sports", Jamshedpur Fc Vs Chennaiyin Fc | ISL 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/jamshedpur_fc_vs_chennaiyin_fc_140498_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140498_5956_JFC_CFC_FC-Web_1772466830393.jpg" group-title="Live Sports", Jamshedpur Fc Vs Chennaiyin Fc | ISL 2025-26 (HINDI)
-https://fancode-bd-srhady.vercel.app/jamshedpur_fc_vs_chennaiyin_fc_140498_hindi.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140498_5956_JFC_CFC_FC-Web_1772466830393.jpg" group-title="Live Sports", Jamshedpur Fc Vs Chennaiyin Fc | ISL 2025-26 (TAMIL)
-https://fancode-bd-srhady.vercel.app/jamshedpur_fc_vs_chennaiyin_fc_140498_tamil.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140498_5956_JFC_CFC_FC-Web_1772466830393.jpg" group-title="Live Sports", Jamshedpur Fc Vs Chennaiyin Fc | ISL 2025-26 (MALAYALAM)
-https://fancode-bd-srhady.vercel.app/jamshedpur_fc_vs_chennaiyin_fc_140498_malayalam.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140498_5956_JFC_CFC_FC-Web_1772466830393.jpg" group-title="Live Sports", Jamshedpur Fc Vs Chennaiyin Fc | ISL 2025-26 (BENGALI)
-https://fancode-bd-srhady.vercel.app/jamshedpur_fc_vs_chennaiyin_fc_140498_bengali.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/JAM-vs-CHE_FC-web.jpg" group-title="Live Sports", Jamshedpur Fc Vs Chennaiyin Fc | ISL 2025-26  - Regional (ENGLISH)
-https://fancode-bd-srhady.vercel.app/jamshedpur_fc_vs_chennaiyin_fc_141821_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141927_5489_QPR_DER_fc-web.jpg" group-title="Live Sports", Queens Park Rangers F.c. Vs Derby County Football Club | EFL Championship 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/queens_park_rangers_f_c__vs_derby_county_football_club_141927_english.m3u8
@@ -60,4 +42,7 @@ https://fancode-bd-srhady.vercel.app/featured_holes___day_3_142013_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg" group-title="Live Sports", Marquee Group   Day 3 | Zurich Classic of New Orleans 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/marquee_group___day_3_142005_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131140_5427_VAL_GIR_FC-Web.png" group-title="Live Sports", Valencia Cf Vs Girona Fc | LALIGA 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/valencia_cf_vs_girona_fc_131140_english.m3u8
 
