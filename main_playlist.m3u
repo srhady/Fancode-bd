@@ -1,14 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:30:20 PM 25-04-2026
+#last update time: 05:45:18 PM 25-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142164_5826_BHA-W_MCI-W_FC-Web.jpg" group-title="Live Sports", Brighton And Hove Albion Women Vs Manchester City Women | Women's Super League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/brighton_and_hove_albion_women_vs_manchester_city_women_142164_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141926_5489_WBA_IPT_fc-web.jpg" group-title="Live Sports", West Bromwich Albion F.c. Vs Ipswich Town F.c. | EFL Championship 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/west_bromwich_albion_f_c__vs_ipswich_town_f_c__141926_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140497_5956_BFC_MCFC_FC-Web_1772466726321.jpg" group-title="Live Sports", Bengaluru Fc Vs Mumbai City Fc | ISL 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/bengaluru_fc_vs_mumbai_city_fc_140497_english.m3u8
@@ -22,8 +19,17 @@ https://fancode-bd-srhady.vercel.app/bengaluru_fc_vs_mumbai_city_fc_140497_malay
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140497_5956_BFC_MCFC_FC-Web_1772466726321.jpg" group-title="Live Sports", Bengaluru Fc Vs Mumbai City Fc | ISL 2025-26 (BENGALI)
 https://fancode-bd-srhady.vercel.app/bengaluru_fc_vs_mumbai_city_fc_140497_bengali.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141926_5489_WBA_IPT_fc-web.jpg" group-title="Live Sports", West Bromwich Albion F.c. Vs Ipswich Town F.c. | EFL Championship 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/west_bromwich_albion_f_c__vs_ipswich_town_f_c__141926_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131141_5427_ALA_MRC_FC-Web.png" group-title="Live Sports", Deportivo Alaves Vs Rcd Mallorca | LALIGA 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/deportivo_alaves_vs_rcd_mallorca_131141_english.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140943_5802_SYW_MLV_fc-web.jpg" group-title="Live Sports", Western Sydney Wanderers Vs Melbourne Victory | A League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/western_sydney_wanderers_vs_melbourne_victory_140943_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140944_5802_PG_BRB_fc-web.jpg" group-title="Live Sports", Perth Glory Vs Brisbane Roar | A League 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/perth_glory_vs_brisbane_roar_140944_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-_GRAND-PRIX-OF-SPAIN_FC-Web.jpg" group-title="Live Sports", Spain Gp | ESTRELLA GALICIA 00 GRAND PRIX OF SPAIN 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/spain_gp_139937_english.m3u8
