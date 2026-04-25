@@ -1,20 +1,17 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:00:23 PM 25-04-2026
+#last update time: 10:15:17 PM 25-04-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141927_5489_QPR_DER_fc-web.jpg" group-title="Live Sports", Queens Park Rangers F.c. Vs Derby County Football Club | EFL Championship 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/queens_park_rangers_f_c__vs_derby_county_football_club_141927_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(16).png" group-title="Live Sports", Al Ahli Saudi Fc Vs Machida Zelvia | AFC Champions League Elite 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/al_ahli_saudi_fc_vs_machida_zelvia_141679_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131147_5427_GEF_BAR_FC-Web.png" group-title="Live Sports", Getafe Cf Vs Fc Barcelona | LALIGA 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/getafe_cf_vs_fc_barcelona_131147_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bayern-Munich-Women-vs-Barcelona-Women_fc-web.jpg" group-title="Live Sports", Bayern Munich Women Vs Barcelona Women | UEFA Women's Champions League 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/bayern_munich_women_vs_barcelona_women_141963_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131147_5427_GEF_BAR_FC-Web.png" group-title="Live Sports", Getafe Cf Vs Fc Barcelona | LALIGA 2025-26 (HINDI)
-https://fancode-bd-srhady.vercel.app/getafe_cf_vs_fc_barcelona_131147_hindi.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131147_5427_GEF_BAR_FC-Web.png" group-title="Live Sports", Getafe Cf Vs Fc Barcelona | LALIGA 2025-26 (BENGALI)
-https://fancode-bd-srhady.vercel.app/getafe_cf_vs_fc_barcelona_131147_bengali.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131140_5427_VAL_GIR_FC-Web.png" group-title="Live Sports", Valencia Cf Vs Girona Fc | LALIGA 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/valencia_cf_vs_girona_fc_131140_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(15).png" group-title="Live Sports", Day 2   Red Bull Ring | DTM 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_2___red_bull_ring_142108_english.m3u8
@@ -42,7 +39,4 @@ https://fancode-bd-srhady.vercel.app/featured_holes___day_3_142013_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg" group-title="Live Sports", Marquee Group   Day 3 | Zurich Classic of New Orleans 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/marquee_group___day_3_142005_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131140_5427_VAL_GIR_FC-Web.png" group-title="Live Sports", Valencia Cf Vs Girona Fc | LALIGA 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/valencia_cf_vs_girona_fc_131140_english.m3u8
 
