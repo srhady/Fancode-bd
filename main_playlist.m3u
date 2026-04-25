@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:00:22 PM 25-04-2026
+#last update time: 09:15:19 PM 25-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140498_5956_JFC_CFC_FC-Web_1772466830393.jpg" group-title="Live Sports", Jamshedpur Fc Vs Chennaiyin Fc | ISL 2025-26 (ENGLISH)
@@ -34,9 +34,6 @@ https://fancode-bd-srhady.vercel.app/getafe_cf_vs_fc_barcelona_131147_hindi.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131147_5427_GEF_BAR_FC-Web.png" group-title="Live Sports", Getafe Cf Vs Fc Barcelona | LALIGA 2025-26 (BENGALI)
 https://fancode-bd-srhady.vercel.app/getafe_cf_vs_fc_barcelona_131147_bengali.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-_GRAND-PRIX-OF-SPAIN_FC-Web.jpg" group-title="Live Sports", Spain Gp | ESTRELLA GALICIA 00 GRAND PRIX OF SPAIN 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/spain_gp_139937_english.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(15).png" group-title="Live Sports", Day 2   Red Bull Ring | DTM 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_2___red_bull_ring_142108_english.m3u8
 
@@ -57,4 +54,10 @@ https://fancode-bd-srhady.vercel.app/main_feed___day_3_142001_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg" group-title="Live Sports", Featured Groups   Day 3 | Zurich Classic of New Orleans 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/featured_groups___day_3_142009_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg" group-title="Live Sports", Featured Holes   Day 3 | Zurich Classic of New Orleans 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/featured_holes___day_3_142013_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg" group-title="Live Sports", Marquee Group   Day 3 | Zurich Classic of New Orleans 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/marquee_group___day_3_142005_english.m3u8
 
