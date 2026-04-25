@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:00:21 AM 26-04-2026",
+    "last update time": "03:15:20 AM 26-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "M\u00e1laga Vs Castell\u00f3n",
-            "src": "https://images.fancode.com/aig/match/v1776063278981/142039_CASACARDS_APP.png",
-            "team_1": "M\u00e1laga",
-            "team_2": "Castell\u00f3n",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "M\u00e1laga Vs Castell\u00f3n | LALIGA Hypermotion 2025-26 [ENGLISH]",
-            "match_id": 142039,
-            "startTime": "26 April 2026 12:30 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/m_laga_vs_castell_n_142039_english.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Day 4   Main Feed",
@@ -63,21 +48,6 @@
             "match_id": 142009,
             "startTime": "25 April 2026 08:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/featured_groups___day_3_142009_english.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Holes   Day 3",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
-            "team_1": "Featured Holes - Day 3",
-            "team_2": "TPC Louisiana - Avondale, Louisiana ",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Zurich Classic of New Orleans 2026",
-            "match_name": "Featured Holes   Day 3 | Zurich Classic of New Orleans 2026 [ENGLISH]",
-            "match_id": 142013,
-            "startTime": "25 April 2026 08:45 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/featured_holes___day_3_142013_english.m3u8"
         },
         {
             "event_category": "Golf",
@@ -530,6 +500,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Cricket",
+            "title": "United Arab Emirates Vs Oman",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg",
+            "team_1": "United Arab Emirates",
+            "team_2": "Oman",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ICC CWC League 2, Nepal 2026",
+            "match_name": "United Arab Emirates Vs Oman | ICC CWC League 2, Nepal 2026 [BLOODY_SWEET]",
+            "match_id": 141977,
+            "startTime": "27 April 2026 09:15 AM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Golf",
             "title": "Main Feed   Day 4",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
@@ -545,18 +530,33 @@
             "stream_url": ""
         },
         {
-            "event_category": "Cricket",
-            "title": "United Arab Emirates Vs Oman",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg",
-            "team_1": "United Arab Emirates",
-            "team_2": "Oman",
+            "event_category": "Golf",
+            "title": "Featured Holes   Day 4",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+            "team_1": "Featured Holes - Day 4",
+            "team_2": "TPC Louisiana - Avondale, Louisiana ",
             "status": "NOT_STARTED",
             "streaming_status": "NOT_STARTED",
             "language": "BLOODY_SWEET",
-            "event_name": "ICC CWC League 2, Nepal 2026",
-            "match_name": "United Arab Emirates Vs Oman | ICC CWC League 2, Nepal 2026 [BLOODY_SWEET]",
-            "match_id": 141977,
-            "startTime": "27 April 2026 09:15 AM",
+            "event_name": "Zurich Classic of New Orleans 2026",
+            "match_name": "Featured Holes   Day 4 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
+            "match_id": 142014,
+            "startTime": "26 April 2026 08:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Groups   Day 4",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+            "team_1": "Featured Groups - Day 4",
+            "team_2": "TPC Louisiana - Avondale, Louisiana ",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Zurich Classic of New Orleans 2026",
+            "match_name": "Featured Groups   Day 4 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
+            "match_id": 142010,
+            "startTime": "26 April 2026 08:15 PM",
             "stream_url": ""
         }
     ]
