@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:45:20 AM 26-04-2026",
+    "last update time": "04:00:23 AM 26-04-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -18,21 +18,6 @@
             "match_id": 142009,
             "startTime": "25 April 2026 08:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/featured_groups___day_3_142009_english.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Marquee Group   Day 3",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
-            "team_1": "Marquee Group - Day 3",
-            "team_2": "TPC Louisiana - Avondale, Louisiana ",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Zurich Classic of New Orleans 2026",
-            "match_name": "Marquee Group   Day 3 | Zurich Classic of New Orleans 2026 [ENGLISH]",
-            "match_id": 142005,
-            "startTime": "25 April 2026 08:45 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/marquee_group___day_3_142005_english.m3u8"
         },
         {
             "event_category": "Golf",
@@ -380,6 +365,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Cricket",
+            "title": "United Arab Emirates Vs Oman",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg",
+            "team_1": "United Arab Emirates",
+            "team_2": "Oman",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ICC CWC League 2, Nepal 2026",
+            "match_name": "United Arab Emirates Vs Oman | ICC CWC League 2, Nepal 2026 [BLOODY_SWEET]",
+            "match_id": 141977,
+            "startTime": "27 April 2026 09:15 AM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Motorsports",
             "title": "Day 3   Red Bull Ring",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(15).png",
@@ -407,21 +407,6 @@
             "match_name": "Race Day | ESTRELLA GALICIA 0,0 GRAND PRIX OF SPAIN 2026 [BLOODY_SWEET]",
             "match_id": 139938,
             "startTime": "26 April 2026 02:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "United Arab Emirates Vs Oman",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg",
-            "team_1": "United Arab Emirates",
-            "team_2": "Oman",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "ICC CWC League 2, Nepal 2026",
-            "match_name": "United Arab Emirates Vs Oman | ICC CWC League 2, Nepal 2026 [BLOODY_SWEET]",
-            "match_id": 141977,
-            "startTime": "27 April 2026 09:15 AM",
             "stream_url": ""
         },
         {
@@ -572,6 +557,21 @@
             "match_name": "Rwanda Women Vs Italy Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
             "match_id": 142058,
             "startTime": "27 April 2026 12:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh Vs New Zealand",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "New Zealand",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "New Zealand tour of Bangladesh, 2026",
+            "match_name": "Bangladesh Vs New Zealand | New Zealand tour of Bangladesh, 2026 [BLOODY_SWEET]",
+            "match_id": 142069,
+            "startTime": "27 April 2026 01:30 PM",
             "stream_url": ""
         }
     ]
