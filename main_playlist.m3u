@@ -1,11 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:00:24 PM 25-04-2026
+#last update time: 08:15:17 PM 25-04-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131141_5427_ALA_MRC_FC-Web.png" group-title="Live Sports", Deportivo Alaves Vs Rcd Mallorca | LALIGA 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/deportivo_alaves_vs_rcd_mallorca_131141_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141927_5489_QPR_DER_fc-web.jpg" group-title="Live Sports", Queens Park Rangers F.c. Vs Derby County Football Club | EFL Championship 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/queens_park_rangers_f_c__vs_derby_county_football_club_141927_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140498_5956_JFC_CFC_FC-Web_1772466830393.jpg" group-title="Live Sports", Jamshedpur Fc Vs Chennaiyin Fc | ISL 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/jamshedpur_fc_vs_chennaiyin_fc_140498_english.m3u8
@@ -25,9 +25,6 @@ https://fancode-bd-srhady.vercel.app/jamshedpur_fc_vs_chennaiyin_fc_140498_benga
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/JAM-vs-CHE_FC-web.jpg" group-title="Live Sports", Jamshedpur Fc Vs Chennaiyin Fc | ISL 2025-26  - Regional (ENGLISH)
 https://fancode-bd-srhady.vercel.app/jamshedpur_fc_vs_chennaiyin_fc_141821_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141927_5489_QPR_DER_fc-web.jpg" group-title="Live Sports", Queens Park Rangers F.c. Vs Derby County Football Club | EFL Championship 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/queens_park_rangers_f_c__vs_derby_county_football_club_141927_english.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131147_5427_GEF_BAR_FC-Web.png" group-title="Live Sports", Getafe Cf Vs Fc Barcelona | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/getafe_cf_vs_fc_barcelona_131147_english.m3u8
 
@@ -36,9 +33,6 @@ https://fancode-bd-srhady.vercel.app/getafe_cf_vs_fc_barcelona_131147_hindi.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131147_5427_GEF_BAR_FC-Web.png" group-title="Live Sports", Getafe Cf Vs Fc Barcelona | LALIGA 2025-26 (BENGALI)
 https://fancode-bd-srhady.vercel.app/getafe_cf_vs_fc_barcelona_131147_bengali.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140944_5802_PG_BRB_fc-web.jpg" group-title="Live Sports", Perth Glory Vs Brisbane Roar | A League 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/perth_glory_vs_brisbane_roar_140944_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-_GRAND-PRIX-OF-SPAIN_FC-Web.jpg" group-title="Live Sports", Spain Gp | ESTRELLA GALICIA 00 GRAND PRIX OF SPAIN 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/spain_gp_139937_english.m3u8
