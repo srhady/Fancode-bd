@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:30:19 AM 26-04-2026",
+    "last update time": "12:45:23 AM 26-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -36,18 +36,18 @@
         },
         {
             "event_category": "Football",
-            "title": "Valencia Cf Vs Girona Fc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131140_5427_VAL_GIR_FC-Web.png",
-            "team_1": "Valencia CF",
-            "team_2": "Girona FC",
-            "status": "LIVE",
+            "title": "Atletico De Madrid Vs Athletic Club",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131146_5427_ATL_ATH_FC-Web.png",
+            "team_1": "Atletico de Madrid",
+            "team_2": "Athletic Club",
+            "status": "NOT_STARTED",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "LALIGA 2025-26",
-            "match_name": "Valencia Cf Vs Girona Fc | LALIGA 2025-26 [ENGLISH]",
-            "match_id": 131140,
-            "startTime": "25 April 2026 10:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/valencia_cf_vs_girona_fc_131140_english.m3u8"
+            "match_name": "Atletico De Madrid Vs Athletic Club | LALIGA 2025-26 [ENGLISH]",
+            "match_id": 131146,
+            "startTime": "26 April 2026 12:30 AM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/atletico_de_madrid_vs_athletic_club_131146_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -197,21 +197,6 @@
             "match_name": "Rwanda Women Vs Vanuatu Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
             "match_id": 142056,
             "startTime": "26 April 2026 12:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Atletico De Madrid Vs Athletic Club",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131146_5427_ATL_ATH_FC-Web.png",
-            "team_1": "Atletico de Madrid",
-            "team_2": "Athletic Club",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Atletico De Madrid Vs Athletic Club | LALIGA 2025-26 [BLOODY_SWEET]",
-            "match_id": 131146,
-            "startTime": "26 April 2026 12:30 AM",
             "stream_url": ""
         },
         {
