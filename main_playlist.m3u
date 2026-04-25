@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:30:20 PM 25-04-2026
+#last update time: 04:45:15 PM 25-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg" group-title="Live Sports", Bangladesh Women Vs Sri Lanka Women | Sri Lanka Women's tour of Bangladesh 2026 (ENGLISH)
@@ -9,6 +9,9 @@ https://fancode-bd-srhady.vercel.app/bangladesh_women_vs_sri_lanka_women_142074_
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg" group-title="Live Sports", Nepal Vs United Arab Emirates | ICC CWC League 2 Nepal 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/nepal_vs_united_arab_emirates_141976_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142164_5826_BHA-W_MCI-W_FC-Web.jpg" group-title="Live Sports", Brighton And Hove Albion Women Vs Manchester City Women | Women's Super League 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/brighton_and_hove_albion_women_vs_manchester_city_women_142164_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140943_5802_SYW_MLV_fc-web.jpg" group-title="Live Sports", Western Sydney Wanderers Vs Melbourne Victory | A League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/western_sydney_wanderers_vs_melbourne_victory_140943_english.m3u8
