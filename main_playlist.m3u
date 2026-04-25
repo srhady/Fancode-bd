@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:45:18 PM 25-04-2026
+#last update time: 06:00:23 PM 25-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142164_5826_BHA-W_MCI-W_FC-Web.jpg" group-title="Live Sports", Brighton And Hove Albion Women Vs Manchester City Women | Women's Super League 2025-26 (ENGLISH)
@@ -48,4 +48,7 @@ https://fancode-bd-srhady.vercel.app/day_4___court_4_142279_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/South-Africa_web.jpg" group-title="Live Sports", Day 3 | Investec South African Women's Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_3_141644_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg" group-title="Live Sports", Europe   Day 1 | Ferrari Challenge Series 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/europe___day_1_142183_english.m3u8
 
