@@ -1,11 +1,14 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:30:20 PM 25-04-2026
+#last update time: 07:45:17 PM 25-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131141_5427_ALA_MRC_FC-Web.png" group-title="Live Sports", Deportivo Alaves Vs Rcd Mallorca | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/deportivo_alaves_vs_rcd_mallorca_131141_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/JAM-vs-CHE_FC-web.jpg" group-title="Live Sports", Jamshedpur Fc Vs Chennaiyin Fc | ISL 2025-26  - Regional (ENGLISH)
+https://fancode-bd-srhady.vercel.app/jamshedpur_fc_vs_chennaiyin_fc_141821_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140944_5802_PG_BRB_fc-web.jpg" group-title="Live Sports", Perth Glory Vs Brisbane Roar | A League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/perth_glory_vs_brisbane_roar_140944_english.m3u8
