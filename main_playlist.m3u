@@ -1,14 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:15:20 AM 26-04-2026
+#last update time: 03:30:19 AM 26-04-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png" group-title="Live Sports", Day 4   Main Feed | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/day_4___main_feed_141859_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg" group-title="Live Sports", Main Feed   Day 3 | Zurich Classic of New Orleans 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/main_feed___day_3_142001_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg" group-title="Live Sports", Featured Groups   Day 3 | Zurich Classic of New Orleans 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/featured_groups___day_3_142009_english.m3u8
