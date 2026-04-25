@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:30:20 AM 25-04-2026",
+    "last update time": "10:45:18 AM 25-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -365,6 +365,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Football",
+            "title": "Sydney Fc Vs Auckland",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140945_5802_SYD_AFC_fc-web.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Auckland",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Sydney Fc Vs Auckland | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140945,
+            "startTime": "26 April 2026 10:30 AM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Golf",
             "title": "Day 3",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa_web.jpg",
@@ -406,22 +421,7 @@
             "event_name": "Zurich Classic of New Orleans 2026",
             "match_name": "Main Feed   Day 3 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
             "match_id": 142001,
-            "startTime": "25 April 2026 07:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Holes   Day 3",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
-            "team_1": "Featured Holes - Day 3",
-            "team_2": "TPC Louisiana - Avondale, Louisiana ",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Zurich Classic of New Orleans 2026",
-            "match_name": "Featured Holes   Day 3 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
-            "match_id": 142013,
-            "startTime": "25 April 2026 08:00 PM",
+            "startTime": "25 April 2026 08:15 PM",
             "stream_url": ""
         },
         {
@@ -436,7 +436,22 @@
             "event_name": "Zurich Classic of New Orleans 2026",
             "match_name": "Featured Groups   Day 3 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
             "match_id": 142009,
-            "startTime": "25 April 2026 08:15 PM",
+            "startTime": "25 April 2026 08:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Holes   Day 3",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+            "team_1": "Featured Holes - Day 3",
+            "team_2": "TPC Louisiana - Avondale, Louisiana ",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Zurich Classic of New Orleans 2026",
+            "match_name": "Featured Holes   Day 3 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
+            "match_id": 142013,
+            "startTime": "25 April 2026 08:45 PM",
             "stream_url": ""
         },
         {
@@ -451,22 +466,7 @@
             "event_name": "Zurich Classic of New Orleans 2026",
             "match_name": "Marquee Group   Day 3 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
             "match_id": 142005,
-            "startTime": "25 April 2026 08:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Sydney Fc Vs Auckland",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140945_5802_SYD_AFC_fc-web.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Auckland",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney Fc Vs Auckland | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140945,
-            "startTime": "26 April 2026 10:30 AM",
+            "startTime": "25 April 2026 08:45 PM",
             "stream_url": ""
         },
         {
@@ -500,21 +500,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Live Events",
-            "title": "World Fencing League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/World_Fencing_2026_FC-Web.jpg",
-            "team_1": "World Fencing League 2026",
-            "team_2": "The Shrine, Los Angeles ",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "World Fencing League 2026",
-            "match_name": "World Fencing League 2026 | World Fencing League 2026 [BLOODY_SWEET]",
-            "match_id": 142163,
-            "startTime": "26 April 2026 06:00 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "Melbourne City Vs Adelaide United",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140946_5802_MLC_ADL_fc-web.jpg",
@@ -530,18 +515,18 @@
             "stream_url": ""
         },
         {
-            "event_category": "Motorsports",
-            "title": "Japan   Day 2",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
-            "team_1": "Japan - Day 2",
-            "team_2": "Japan",
+            "event_category": "Live Events",
+            "title": "World Fencing League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/World_Fencing_2026_FC-Web.jpg",
+            "team_1": "World Fencing League 2026",
+            "team_2": "The Shrine, Los Angeles ",
             "status": "NOT_STARTED",
             "streaming_status": "NOT_STARTED",
             "language": "BLOODY_SWEET",
-            "event_name": "Ferrari Challenge Series 2026",
-            "match_name": "Japan   Day 2 | Ferrari Challenge Series 2026 [BLOODY_SWEET]",
-            "match_id": 142155,
-            "startTime": "26 April 2026 09:10 AM",
+            "event_name": "World Fencing League 2026",
+            "match_name": "World Fencing League 2026 | World Fencing League 2026 [BLOODY_SWEET]",
+            "match_id": 142163,
+            "startTime": "26 April 2026 06:00 AM",
             "stream_url": ""
         },
         {
@@ -571,6 +556,21 @@
             "event_name": "Women's Super League 2025-26",
             "match_name": "Everton Women Vs Chelsea F.c. Women | Women's Super League 2025-26 [BLOODY_SWEET]",
             "match_id": 142167,
+            "startTime": "26 April 2026 04:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "London City Lionesses Vs Leicester City Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142166_5826_LCL_LEI-W_FC-Web.jpg",
+            "team_1": "London City Lionesses",
+            "team_2": "Leicester City Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Women's Super League 2025-26",
+            "match_name": "London City Lionesses Vs Leicester City Women | Women's Super League 2025-26 [BLOODY_SWEET]",
+            "match_id": 142166,
             "startTime": "26 April 2026 04:30 PM",
             "stream_url": ""
         }
