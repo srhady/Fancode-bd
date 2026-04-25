@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:45:15 PM 25-04-2026
+#last update time: 12:00:21 AM 26-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(16).png" group-title="Live Sports", Al Ahli Saudi Fc Vs Machida Zelvia | AFC Champions League Elite 2025-26 (ENGLISH)
@@ -36,4 +36,7 @@ https://fancode-bd-srhady.vercel.app/featured_holes___day_3_142013_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg" group-title="Live Sports", Marquee Group   Day 3 | Zurich Classic of New Orleans 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/marquee_group___day_3_142005_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg" group-title="Live Sports", World Feed   Day 3 | Zurich Classic of New Orleans 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/world_feed___day_3_141997_english.m3u8
 
