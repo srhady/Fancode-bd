@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:15:18 PM 25-04-2026",
+    "last update time": "06:30:21 PM 25-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -620,6 +620,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Cricket",
+            "title": "Jamaica Scorpions Vs Barbados Pride",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
+            "team_1": "Jamaica Scorpions",
+            "team_2": "Barbados Pride",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "West Indies Championship 2026",
+            "match_name": "Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 [BLOODY_SWEET]",
+            "match_id": 141954,
+            "startTime": "26 April 2026 08:30 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Tennis",
             "title": "Day 4   Manolo Santana Stadium",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png",
@@ -632,21 +647,6 @@
             "match_name": "Day 4   Manolo Santana Stadium | ATP Masters Mutua Madrid Open 2026 [BLOODY_SWEET]",
             "match_id": 142280,
             "startTime": "25 April 2026 07:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Golf",
-            "title": "Main Feed   Day 3",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
-            "team_1": "Main Feed - Day 3",
-            "team_2": "TPC Louisiana - Avondale, Louisiana ",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Zurich Classic of New Orleans 2026",
-            "match_name": "Main Feed   Day 3 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
-            "match_id": 142001,
-            "startTime": "25 April 2026 08:15 PM",
             "stream_url": ""
         }
     ]
