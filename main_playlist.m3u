@@ -1,11 +1,23 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:45:18 PM 26-04-2026
+#last update time: 05:00:22 PM 26-04-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142057_6045_USA-W_NP-W_fc-web.jpg" group-title="Live Sports", Nepal Women Vs Usa Women | ICC Women's T20I Challenge Trophy 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/nepal_women_vs_usa_women_142057_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141929_5489_CVC_WRX_fc-web.jpg" group-title="Live Sports", Coventry City F.c. Vs Wrexham A.f.c. | EFL Championship 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/coventry_city_f_c__vs_wrexham_a_f_c__141929_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142167_5826_EVE-W_CHE-W_FC-Web.jpg" group-title="Live Sports", Everton Women Vs Chelsea F.c. Women | Women's Super League 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/everton_women_vs_chelsea_f_c__women_142167_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142166_5826_LCL_LEI-W_FC-Web.jpg" group-title="Live Sports", London City Lionesses Vs Leicester City Women | Women's Super League 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/london_city_lionesses_vs_leicester_city_women_142166_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142165_5826_TOT-W_MUN-W_FC-Web.jpg" group-title="Live Sports", Tottenham Hotspur Women Vs Manchester United Women | Women's Super League 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/tottenham_hotspur_women_vs_manchester_united_women_142165_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(15).png" group-title="Live Sports", Day 3   Red Bull Ring | DTM 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_3___red_bull_ring_142109_english.m3u8
@@ -27,10 +39,4 @@ https://fancode-bd-srhady.vercel.app/day_5___court_4_142282_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/South-Africa_web.jpg" group-title="Live Sports", Day 4 | Investec South African Women's Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_4_141645_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142057_6045_USA-W_NP-W_fc-web.jpg" group-title="Live Sports", Usa Women Vs Nepal Women | ICC Women's T20I Challenge Trophy 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/usa_women_vs_nepal_women_142057_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142165_5826_TOT-W_MUN-W_FC-Web.jpg" group-title="Live Sports", Tottenham Hotspur Women Vs Manchester United Women | Women's Super League 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/tottenham_hotspur_women_vs_manchester_united_women_142165_english.m3u8
 
