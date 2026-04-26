@@ -1,29 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:15:19 PM 26-04-2026
+#last update time: 07:30:21 PM 26-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142057_6045_USA-W_NP-W_fc-web.jpg" group-title="Live Sports", Nepal Women Vs Usa Women | ICC Women's T20I Challenge Trophy 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/nepal_women_vs_usa_women_142057_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142165_5826_TOT-W_MUN-W_FC-Web.jpg" group-title="Live Sports", Tottenham Hotspur Women Vs Manchester United Women | Women's Super League 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/tottenham_hotspur_women_vs_manchester_united_women_142165_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140499_5956_SCD_MSC_FC-Web_1772964305722.jpg" group-title="Live Sports", Sporting Club Delhi Vs Mohammedan Sc | ISL 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/sporting_club_delhi_vs_mohammedan_sc_140499_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140499_5956_SCD_MSC_FC-Web_1772964305722.jpg" group-title="Live Sports", Sporting Club Delhi Vs Mohammedan Sc | ISL 2025-26 (HINDI)
-https://fancode-bd-srhady.vercel.app/sporting_club_delhi_vs_mohammedan_sc_140499_hindi.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140499_5956_SCD_MSC_FC-Web_1772964305722.jpg" group-title="Live Sports", Sporting Club Delhi Vs Mohammedan Sc | ISL 2025-26 (MALAYALAM)
-https://fancode-bd-srhady.vercel.app/sporting_club_delhi_vs_mohammedan_sc_140499_malayalam.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140499_5956_SCD_MSC_FC-Web_1772964305722.jpg" group-title="Live Sports", Sporting Club Delhi Vs Mohammedan Sc | ISL 2025-26 (BENGALI)
-https://fancode-bd-srhady.vercel.app/sporting_club_delhi_vs_mohammedan_sc_140499_bengali.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SCD_MSC_FC-web.jpg" group-title="Live Sports", Sporting Club Delhi Vs Mohammedan Sc | ISL 2025-26  - Regional (ENGLISH)
-https://fancode-bd-srhady.vercel.app/sporting_club_delhi_vs_mohammedan_sc_141822_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131145_5427_RVL_RS_FC-Web.png" group-title="Live Sports", Rayo Vallecano Vs Real Sociedad | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/rayo_vallecano_vs_real_sociedad_131145_english.m3u8
@@ -33,9 +15,6 @@ https://fancode-bd-srhady.vercel.app/liverpool_women_vs_west_ham_united_women_14
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(15).png" group-title="Live Sports", Day 3   Red Bull Ring | DTM 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_3___red_bull_ring_142109_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-_GRAND-PRIX-OF-SPAIN_FC-Web.jpg" group-title="Live Sports", Race Day | ESTRELLA GALICIA 00 GRAND PRIX OF SPAIN 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/race_day_139938_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png" group-title="Live Sports", Day 5   Main Feed | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_5___main_feed_141861_english.m3u8
