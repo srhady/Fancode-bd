@@ -2,8 +2,23 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:00:24 AM 26-04-2026",
+    "last update time": "06:15:19 AM 26-04-2026",
     "matches": [
+        {
+            "event_category": "Live Events",
+            "title": "World Fencing League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/World_Fencing_2026_FC-Web.jpg",
+            "team_1": "World Fencing League 2026",
+            "team_2": "The Shrine, Los Angeles ",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "World Fencing League 2026",
+            "match_name": "World Fencing League 2026 | World Fencing League 2026 [ENGLISH]",
+            "match_id": 142163,
+            "startTime": "26 April 2026 06:00 AM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/world_fencing_league_2026_142163_english.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Rwanda Women Vs Vanuatu Women",
@@ -246,21 +261,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Sydney Fc Vs Auckland",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140945_5802_SYD_AFC_fc-web.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Auckland",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney Fc Vs Auckland | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140945,
-            "startTime": "26 April 2026 10:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Villarreal Cf Vs Rc Celta",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131148_5427_VIL_CEV_FC-Web.png",
             "team_1": "Villarreal CF",
@@ -276,6 +276,21 @@
         },
         {
             "event_category": "Football",
+            "title": "Sydney Fc Vs Auckland",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140945_5802_SYD_AFC_fc-web.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Auckland",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Sydney Fc Vs Auckland | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 140945,
+            "startTime": "26 April 2026 10:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
             "title": "Melbourne City Vs Adelaide United",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140946_5802_MLC_ADL_fc-web.jpg",
             "team_1": "Melbourne City",
@@ -287,21 +302,6 @@
             "match_name": "Melbourne City Vs Adelaide United | A League 2025-26 [BLOODY_SWEET]",
             "match_id": 140946,
             "startTime": "26 April 2026 01:00 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Live Events",
-            "title": "World Fencing League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/World_Fencing_2026_FC-Web.jpg",
-            "team_1": "World Fencing League 2026",
-            "team_2": "The Shrine, Los Angeles ",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "World Fencing League 2026",
-            "match_name": "World Fencing League 2026 | World Fencing League 2026 [BLOODY_SWEET]",
-            "match_id": 142163,
-            "startTime": "26 April 2026 06:00 AM",
             "stream_url": ""
         },
         {
