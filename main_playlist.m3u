@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:45:16 PM 26-04-2026
+#last update time: 08:00:23 PM 26-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131145_5427_RVL_RS_FC-Web.png" group-title="Live Sports", Rayo Vallecano Vs Real Sociedad | LALIGA 2025-26 (ENGLISH)
@@ -9,6 +9,12 @@ https://fancode-bd-srhady.vercel.app/rayo_vallecano_vs_real_sociedad_131145_engl
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142168_5826_LIV-W_WHU-W_FC-Web.jpg" group-title="Live Sports", Liverpool Women Vs West Ham United Women | Women's Super League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/liverpool_women_vs_west_ham_united_women_142168_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Windward Islands Volcanoes Vs Guyana Harpy Eagles | West Indies Championship 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/windward_islands_volcanoes_vs_guyana_harpy_eagles_141955_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force | West Indies Championship 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/leeward_islands_hurricanes_vs_trinidad___tobago_red_force_141953_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131149_5427_RO_ELC_FC-Web.png" group-title="Live Sports", Real Oviedo Vs Elche Cf | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/real_oviedo_vs_elche_cf_131149_english.m3u8
