@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:15:16 AM 26-04-2026",
+    "last update time": "09:30:21 AM 26-04-2026",
     "matches": [
-        {
-            "event_category": "Live Events",
-            "title": "World Fencing League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/World_Fencing_2026_FC-Web.jpg",
-            "team_1": "World Fencing League 2026",
-            "team_2": "The Shrine, Los Angeles ",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "World Fencing League 2026",
-            "match_name": "World Fencing League 2026 | World Fencing League 2026 [ENGLISH]",
-            "match_id": 142163,
-            "startTime": "26 April 2026 06:00 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/world_fencing_league_2026_142163_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Rwanda Women Vs Vanuatu Women",
