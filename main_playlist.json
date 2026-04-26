@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:15:17 PM 26-04-2026",
+    "last update time": "08:30:17 PM 26-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Rayo Vallecano Vs Real Sociedad",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131145_5427_RVL_RS_FC-Web.png",
-            "team_1": "Rayo Vallecano",
-            "team_2": "Real Sociedad",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Rayo Vallecano Vs Real Sociedad | LALIGA 2025-26 [ENGLISH]",
-            "match_id": 131145,
-            "startTime": "26 April 2026 05:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/rayo_vallecano_vs_real_sociedad_131145_english.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Liverpool Women Vs West Ham United Women",
@@ -78,6 +63,21 @@
             "match_id": 131149,
             "startTime": "26 April 2026 07:45 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/real_oviedo_vs_elche_cf_131149_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Arsenal Women Vs Lyon Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-Women-vs-Lyon-Women_fc-web.jpg",
+            "team_1": "Arsenal Women",
+            "team_2": "Lyon Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "UEFA Women's Champions League 2025-26",
+            "match_name": "Arsenal Women Vs Lyon Women | UEFA Women's Champions League 2025-26 [ENGLISH]",
+            "match_id": 141964,
+            "startTime": "26 April 2026 08:00 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/arsenal_women_vs_lyon_women_141964_english.m3u8"
         },
         {
             "event_category": "Motorsports",
@@ -155,19 +155,34 @@
             "stream_url": "https://fancode-bd-srhady.vercel.app/day_5___court_4_142282_english.m3u8"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Europe   Day 2",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
-            "team_1": "Europe - Day 2",
-            "team_2": "Mugello, Italy",
+            "event_category": "Golf",
+            "title": "Featured Groups   Day 4",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+            "team_1": "Featured Groups - Day 4",
+            "team_2": "TPC Louisiana - Avondale, Louisiana ",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
-            "event_name": "Ferrari Challenge Series 2026",
-            "match_name": "Europe   Day 2 | Ferrari Challenge Series 2026 [ENGLISH]",
-            "match_id": 142184,
-            "startTime": "26 April 2026 05:20 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/europe___day_2_142184_english.m3u8"
+            "event_name": "Zurich Classic of New Orleans 2026",
+            "match_name": "Featured Groups   Day 4 | Zurich Classic of New Orleans 2026 [ENGLISH]",
+            "match_id": 142010,
+            "startTime": "26 April 2026 08:00 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/featured_groups___day_4_142010_english.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Main Feed   Day 4",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+            "team_1": "Main Feed - Day 4",
+            "team_2": "TPC Louisiana - Avondale, Louisiana ",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Zurich Classic of New Orleans 2026",
+            "match_name": "Main Feed   Day 4 | Zurich Classic of New Orleans 2026 [ENGLISH]",
+            "match_id": 142002,
+            "startTime": "26 April 2026 08:00 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/main_feed___day_4_142002_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -197,21 +212,6 @@
             "match_name": "Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 [BLOODY_SWEET]",
             "match_id": 141954,
             "startTime": "26 April 2026 08:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Arsenal Women Vs Lyon Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-Women-vs-Lyon-Women_fc-web.jpg",
-            "team_1": "Arsenal Women",
-            "team_2": "Lyon Women",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "UEFA Women's Champions League 2025-26",
-            "match_name": "Arsenal Women Vs Lyon Women | UEFA Women's Champions League 2025-26 [BLOODY_SWEET]",
-            "match_id": 141964,
-            "startTime": "26 April 2026 08:00 PM",
             "stream_url": ""
         },
         {
@@ -302,36 +302,6 @@
             "match_name": "Huesca Vs Real Zaragoza | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
             "match_id": 142040,
             "startTime": "26 April 2026 10:00 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Groups   Day 4",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
-            "team_1": "Featured Groups - Day 4",
-            "team_2": "TPC Louisiana - Avondale, Louisiana ",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Zurich Classic of New Orleans 2026",
-            "match_name": "Featured Groups   Day 4 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
-            "match_id": 142010,
-            "startTime": "26 April 2026 08:00 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Golf",
-            "title": "Main Feed   Day 4",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
-            "team_1": "Main Feed - Day 4",
-            "team_2": "TPC Louisiana - Avondale, Louisiana ",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Zurich Classic of New Orleans 2026",
-            "match_name": "Main Feed   Day 4 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
-            "match_id": 142002,
-            "startTime": "26 April 2026 08:00 PM",
             "stream_url": ""
         },
         {

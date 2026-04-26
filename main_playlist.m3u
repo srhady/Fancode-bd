@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:15:17 PM 26-04-2026
+#last update time: 08:30:17 PM 26-04-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131145_5427_RVL_RS_FC-Web.png" group-title="Live Sports", Rayo Vallecano Vs Real Sociedad | LALIGA 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/rayo_vallecano_vs_real_sociedad_131145_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142168_5826_LIV-W_WHU-W_FC-Web.jpg" group-title="Live Sports", Liverpool Women Vs West Ham United Women | Women's Super League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/liverpool_women_vs_west_ham_united_women_142168_english.m3u8
@@ -18,6 +15,9 @@ https://fancode-bd-srhady.vercel.app/leeward_islands_hurricanes_vs_trinidad___to
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131149_5427_RO_ELC_FC-Web.png" group-title="Live Sports", Real Oviedo Vs Elche Cf | LALIGA 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/real_oviedo_vs_elche_cf_131149_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arsenal-Women-vs-Lyon-Women_fc-web.jpg" group-title="Live Sports", Arsenal Women Vs Lyon Women | UEFA Women's Champions League 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/arsenal_women_vs_lyon_women_141964_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(15).png" group-title="Live Sports", Day 3   Red Bull Ring | DTM 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_3___red_bull_ring_142109_english.m3u8
@@ -34,6 +34,9 @@ https://fancode-bd-srhady.vercel.app/day_5___manolo_santana_stadium_141860_engli
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png" group-title="Live Sports", Day 5   Court 4 | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_5___court_4_142282_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg" group-title="Live Sports", Europe   Day 2 | Ferrari Challenge Series 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/europe___day_2_142184_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg" group-title="Live Sports", Featured Groups   Day 4 | Zurich Classic of New Orleans 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/featured_groups___day_4_142010_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg" group-title="Live Sports", Main Feed   Day 4 | Zurich Classic of New Orleans 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/main_feed___day_4_142002_english.m3u8
 
