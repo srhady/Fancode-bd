@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:30:19 PM 26-04-2026",
+    "last update time": "06:45:16 PM 26-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -258,21 +258,6 @@
             "match_id": 142282,
             "startTime": "26 April 2026 03:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/day_5___court_4_142282_english.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 4",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa_web.jpg",
-            "team_1": "Day 4",
-            "team_2": "Royal Cape Golf Club",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Investec South African Women's Open 2026",
-            "match_name": "Day 4 | Investec South African Women's Open 2026 [ENGLISH]",
-            "match_id": 141645,
-            "startTime": "26 April 2026 04:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/day_4_141645_english.m3u8"
         },
         {
             "event_category": "Motorsports",
@@ -602,6 +587,21 @@
             "match_name": "Atp Masters Mutua Madrid Open 2026 | ATP Masters Mutua Madrid Open 2026 [BLOODY_SWEET]",
             "match_id": 141862,
             "startTime": "27 April 2026 05:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "C\u00e1diz Vs Las Palmas",
+            "src": "https://images.fancode.com/aig/match/v1776063278977/142041_CASACARDS_APP.png",
+            "team_1": "C\u00e1diz",
+            "team_2": "Las Palmas",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "C\u00e1diz Vs Las Palmas | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
+            "match_id": 142041,
+            "startTime": "28 April 2026 12:00 AM",
             "stream_url": ""
         }
     ]
