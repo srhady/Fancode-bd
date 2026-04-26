@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:15:19 AM 26-04-2026",
+    "last update time": "08:30:20 AM 26-04-2026",
     "matches": [
         {
             "event_category": "Live Events",
@@ -350,6 +350,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Cricket",
+            "title": "Bangladesh Vs New Zealand",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "New Zealand",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "New Zealand tour of Bangladesh, 2026",
+            "match_name": "Bangladesh Vs New Zealand | New Zealand tour of Bangladesh, 2026 [BLOODY_SWEET]",
+            "match_id": 142069,
+            "startTime": "27 April 2026 01:30 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Motorsports",
             "title": "Japan   Day 2",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
@@ -392,21 +407,6 @@
             "match_name": "Race Day | ESTRELLA GALICIA 0,0 GRAND PRIX OF SPAIN 2026 [BLOODY_SWEET]",
             "match_id": 139938,
             "startTime": "26 April 2026 02:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh Vs New Zealand",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg",
-            "team_1": "Bangladesh",
-            "team_2": "New Zealand",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "New Zealand tour of Bangladesh, 2026",
-            "match_name": "Bangladesh Vs New Zealand | New Zealand tour of Bangladesh, 2026 [BLOODY_SWEET]",
-            "match_id": 142069,
-            "startTime": "27 April 2026 01:30 PM",
             "stream_url": ""
         },
         {
