@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:45:21 AM 26-04-2026",
+    "last update time": "08:00:29 AM 26-04-2026",
     "matches": [
         {
             "event_category": "Live Events",
@@ -140,21 +140,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Rayo Vallecano Vs Real Sociedad",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131145_5427_RVL_RS_FC-Web.png",
-            "team_1": "Rayo Vallecano",
-            "team_2": "Real Sociedad",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Rayo Vallecano Vs Real Sociedad | LALIGA 2025-26 [BLOODY_SWEET]",
-            "match_id": 131145,
-            "startTime": "26 April 2026 05:30 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Windward Islands Volcanoes Vs Guyana Harpy Eagles",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
@@ -182,6 +167,21 @@
             "match_name": "Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force | West Indies Championship 2026 [BLOODY_SWEET]",
             "match_id": 141953,
             "startTime": "26 April 2026 07:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Rayo Vallecano Vs Real Sociedad",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131145_5427_RVL_RS_FC-Web.png",
+            "team_1": "Rayo Vallecano",
+            "team_2": "Real Sociedad",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Rayo Vallecano Vs Real Sociedad | LALIGA 2025-26 [BLOODY_SWEET]",
+            "match_id": 131145,
+            "startTime": "26 April 2026 05:30 PM",
             "stream_url": ""
         },
         {
@@ -455,6 +455,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Cricket",
+            "title": "Bangladesh Vs New Zealand",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "New Zealand",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "New Zealand tour of Bangladesh, 2026",
+            "match_name": "Bangladesh Vs New Zealand | New Zealand tour of Bangladesh, 2026 [BLOODY_SWEET]",
+            "match_id": 142069,
+            "startTime": "27 April 2026 01:30 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Golf",
             "title": "Main Feed   Day 4",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
@@ -512,21 +527,6 @@
             "match_name": "Marquee Group   Day 4 | Zurich Classic of New Orleans 2026 [BLOODY_SWEET]",
             "match_id": 142006,
             "startTime": "26 April 2026 08:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh Vs New Zealand",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg",
-            "team_1": "Bangladesh",
-            "team_2": "New Zealand",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "New Zealand tour of Bangladesh, 2026",
-            "match_name": "Bangladesh Vs New Zealand | New Zealand tour of Bangladesh, 2026 [BLOODY_SWEET]",
-            "match_id": 142069,
-            "startTime": "27 April 2026 01:30 PM",
             "stream_url": ""
         },
         {
