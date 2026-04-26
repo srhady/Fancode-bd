@@ -2,8 +2,23 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:30:21 AM 26-04-2026",
+    "last update time": "10:45:17 AM 26-04-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Sydney Fc Vs Auckland",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140945_5802_SYD_AFC_fc-web.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Auckland",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "A League 2025-26",
+            "match_name": "Sydney Fc Vs Auckland | A League 2025-26 [ENGLISH]",
+            "match_id": 140945,
+            "startTime": "26 April 2026 10:30 AM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/sydney_fc_vs_auckland_140945_english.m3u8"
+        },
         {
             "event_category": "Motorsports",
             "title": "Japan   Day 2",
@@ -47,21 +62,6 @@
             "match_name": "Usa Women Vs Nepal Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
             "match_id": 142057,
             "startTime": "26 April 2026 04:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Sydney Fc Vs Auckland",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140945_5802_SYD_AFC_fc-web.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Auckland",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney Fc Vs Auckland | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 140945,
-            "startTime": "26 April 2026 10:30 AM",
             "stream_url": ""
         },
         {
@@ -185,21 +185,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Rayo Vallecano Vs Real Sociedad",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131145_5427_RVL_RS_FC-Web.png",
-            "team_1": "Rayo Vallecano",
-            "team_2": "Real Sociedad",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Rayo Vallecano Vs Real Sociedad | LALIGA 2025-26 [BLOODY_SWEET]",
-            "match_id": 131145,
-            "startTime": "26 April 2026 05:30 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Jamaica Scorpions Vs Barbados Pride",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
@@ -212,6 +197,21 @@
             "match_name": "Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 [BLOODY_SWEET]",
             "match_id": 141954,
             "startTime": "26 April 2026 08:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Rayo Vallecano Vs Real Sociedad",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131145_5427_RVL_RS_FC-Web.png",
+            "team_1": "Rayo Vallecano",
+            "team_2": "Real Sociedad",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Rayo Vallecano Vs Real Sociedad | LALIGA 2025-26 [BLOODY_SWEET]",
+            "match_id": 131145,
+            "startTime": "26 April 2026 05:30 PM",
             "stream_url": ""
         },
         {
@@ -275,21 +275,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Villarreal Cf Vs Rc Celta",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131148_5427_VIL_CEV_FC-Web.png",
-            "team_1": "Villarreal CF",
-            "team_2": "RC Celta",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Villarreal Cf Vs Rc Celta | LALIGA 2025-26 [BLOODY_SWEET]",
-            "match_id": 131148,
-            "startTime": "27 April 2026 12:30 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "United Arab Emirates Vs Oman",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg",
@@ -302,6 +287,21 @@
             "match_name": "United Arab Emirates Vs Oman | ICC CWC League 2, Nepal 2026 [BLOODY_SWEET]",
             "match_id": 141977,
             "startTime": "27 April 2026 09:15 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Villarreal Cf Vs Rc Celta",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131148_5427_VIL_CEV_FC-Web.png",
+            "team_1": "Villarreal CF",
+            "team_2": "RC Celta",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Villarreal Cf Vs Rc Celta | LALIGA 2025-26 [BLOODY_SWEET]",
+            "match_id": 131148,
+            "startTime": "27 April 2026 12:30 AM",
             "stream_url": ""
         },
         {
