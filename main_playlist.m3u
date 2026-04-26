@@ -1,11 +1,14 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:30:17 PM 26-04-2026
+#last update time: 08:45:18 PM 26-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142168_5826_LIV-W_WHU-W_FC-Web.jpg" group-title="Live Sports", Liverpool Women Vs West Ham United Women | Women's Super League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/liverpool_women_vs_west_ham_united_women_142168_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131149_5427_RO_ELC_FC-Web.png" group-title="Live Sports", Real Oviedo Vs Elche Cf | LALIGA 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/real_oviedo_vs_elche_cf_131149_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Windward Islands Volcanoes Vs Guyana Harpy Eagles | West Indies Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/windward_islands_volcanoes_vs_guyana_harpy_eagles_141955_english.m3u8
@@ -13,14 +16,8 @@ https://fancode-bd-srhady.vercel.app/windward_islands_volcanoes_vs_guyana_harpy_
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force | West Indies Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/leeward_islands_hurricanes_vs_trinidad___tobago_red_force_141953_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131149_5427_RO_ELC_FC-Web.png" group-title="Live Sports", Real Oviedo Vs Elche Cf | LALIGA 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/real_oviedo_vs_elche_cf_131149_english.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arsenal-Women-vs-Lyon-Women_fc-web.jpg" group-title="Live Sports", Arsenal Women Vs Lyon Women | UEFA Women's Champions League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/arsenal_women_vs_lyon_women_141964_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(15).png" group-title="Live Sports", Day 3   Red Bull Ring | DTM 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/day_3___red_bull_ring_142109_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png" group-title="Live Sports", Day 5   Main Feed | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_5___main_feed_141861_english.m3u8
