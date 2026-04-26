@@ -1,20 +1,14 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:00:23 AM 27-04-2026
+#last update time: 04:15:19 AM 27-04-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force | West Indies Championship 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/leeward_islands_hurricanes_vs_trinidad___tobago_red_force_141953_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Jamaica Scorpions Vs Barbados Pride | West Indies Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/jamaica_scorpions_vs_barbados_pride_141954_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png" group-title="Live Sports", Day 5   Main Feed | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_5___main_feed_141861_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg" group-title="Live Sports", Featured Groups   Day 4 | Zurich Classic of New Orleans 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/featured_groups___day_4_142010_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg" group-title="Live Sports", World Feed   Day 4 | Zurich Classic of New Orleans 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/world_feed___day_4_141998_english.m3u8
