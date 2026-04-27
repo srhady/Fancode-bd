@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:21 PM 27-04-2026
+#last update time: 02:45:19 PM 27-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg" group-title="Live Sports", United Arab Emirates Vs Oman | ICC CWC League 2 Nepal 2026 (ENGLISH)
@@ -12,4 +12,7 @@ https://fancode-bd-srhady.vercel.app/italy_women_vs_rwanda_women_142058_english.
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg" group-title="Live Sports", New Zealand Vs Bangladesh | New Zealand tour of Bangladesh 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/new_zealand_vs_bangladesh_142069_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old--(1).png" group-title="Live Sports", Day 6   Main Feed | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/day_6___main_feed_141862_english.m3u8
 
