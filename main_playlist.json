@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:45:21 PM 27-04-2026",
+    "last update time": "05:00:24 PM 27-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -40,7 +40,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142059_6045_USA-W_VANW_fc-web.jpg",
             "team_1": "USA Women",
             "team_2": "Vanuatu Women",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "ICC Women's T20I Challenge Trophy, 2026",
