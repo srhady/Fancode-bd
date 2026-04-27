@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:45:22 PM 27-04-2026",
+    "last update time": "01:00:23 PM 27-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -21,18 +21,18 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Rwanda Women Vs Italy Women",
+            "title": "Italy Women Vs Rwanda Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142058_6045_RWA-W_ITA-W_fc-web.jpg",
-            "team_1": "Rwanda Women",
-            "team_2": "Italy Women",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "team_1": "Italy Women",
+            "team_2": "Rwanda Women",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "ICC Women's T20I Challenge Trophy, 2026",
-            "match_name": "Rwanda Women Vs Italy Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
+            "match_name": "Italy Women Vs Rwanda Women | ICC Women's T20I Challenge Trophy, 2026 [ENGLISH]",
             "match_id": 142058,
             "startTime": "27 April 2026 12:30 PM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/italy_women_vs_rwanda_women_142058_english.m3u8"
         },
         {
             "event_category": "Cricket",
