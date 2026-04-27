@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:15:20 PM 27-04-2026",
+    "last update time": "01:30:20 PM 27-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -41,13 +41,13 @@
             "team_1": "Bangladesh",
             "team_2": "New Zealand",
             "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "New Zealand tour of Bangladesh, 2026",
-            "match_name": "Bangladesh Vs New Zealand | New Zealand tour of Bangladesh, 2026 [BLOODY_SWEET]",
+            "match_name": "Bangladesh Vs New Zealand | New Zealand tour of Bangladesh, 2026 [ENGLISH]",
             "match_id": 142069,
             "startTime": "27 April 2026 01:30 PM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/bangladesh_vs_new_zealand_142069_english.m3u8"
         },
         {
             "event_category": "Cricket",
