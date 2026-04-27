@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:15:20 AM 28-04-2026",
+    "last update time": "12:30:22 AM 28-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -48,6 +48,21 @@
             "match_id": 141954,
             "startTime": "26 April 2026 08:30 PM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/jamaica_scorpions_vs_barbados_pride_141954_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "C\u00e1diz Vs Las Palmas",
+            "src": "https://images.fancode.com/aig/match/v1776063278977/142041_CASACARDS_APP.png",
+            "team_1": "C\u00e1diz",
+            "team_2": "Las Palmas",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "C\u00e1diz Vs Las Palmas | LALIGA Hypermotion 2025-26 [ENGLISH]",
+            "match_id": 142041,
+            "startTime": "28 April 2026 12:00 AM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/c_diz_vs_las_palmas_142041_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -125,21 +140,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Rcd Espanyol Vs Levante",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131143_5427_ESL_LE_FC-Web.png",
-            "team_1": "RCD Espanyol",
-            "team_2": "Levante",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Rcd Espanyol Vs Levante | LALIGA 2025-26 [BLOODY_SWEET]",
-            "match_id": 131143,
-            "startTime": "28 April 2026 12:30 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Italy Women Vs Vanuatu Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142061_6045_ITA-W_VANW_fc-web.jpg",
@@ -152,21 +152,6 @@
             "match_name": "Italy Women Vs Vanuatu Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
             "match_id": 142061,
             "startTime": "28 April 2026 04:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "C\u00e1diz Vs Las Palmas",
-            "src": "https://images.fancode.com/aig/match/v1776063278977/142041_CASACARDS_APP.png",
-            "team_1": "C\u00e1diz",
-            "team_2": "Las Palmas",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "C\u00e1diz Vs Las Palmas | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
-            "match_id": 142041,
-            "startTime": "28 April 2026 12:00 AM",
             "stream_url": ""
         },
         {
@@ -545,21 +530,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Rcd Espanyol Vs Levante",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131143_5427_ESL_LE_FC-App.png",
-            "team_1": "",
-            "team_2": "",
-            "status": "NOT_STARTED",
-            "streaming_status": "",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Rcd Espanyol Vs Levante | LALIGA 2025-26 [BLOODY_SWEET]",
-            "match_id": 131143,
-            "startTime": "28 April 2026 12:30 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Italy Women Vs Vanuatu Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142061_6045_ITA-W_VANW_fc-app.jpg",
@@ -587,6 +557,36 @@
             "match_name": "East Bengal Fc Vs Odisha Fc | ISL 2025-26 [BLOODY_SWEET]",
             "match_id": 140501,
             "startTime": "28 April 2026 07:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "East Bengal Fc Vs Odisha Fc",
+            "src": "https://images.fancode.com/aig/match/v1775535874219/141823_CASACARDS_SPORTY_APP.png",
+            "team_1": "",
+            "team_2": "",
+            "status": "NOT_STARTED",
+            "streaming_status": "",
+            "language": "BLOODY_SWEET",
+            "event_name": "ISL 2025-26  - Regional",
+            "match_name": "East Bengal Fc Vs Odisha Fc | ISL 2025-26  - Regional [BLOODY_SWEET]",
+            "match_id": 141823,
+            "startTime": "28 April 2026 07:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Al Hilal Sfc Vs Damac Fc",
+            "src": "https://images.fancode.com/aig/match/v1776758614709/142139_CASACARDS_SPORTY_APP.png",
+            "team_1": "",
+            "team_2": "",
+            "status": "NOT_STARTED",
+            "streaming_status": "",
+            "language": "BLOODY_SWEET",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al Hilal Sfc Vs Damac Fc | Roshn Saudi League 2025-2026 [BLOODY_SWEET]",
+            "match_id": 142139,
+            "startTime": "28 April 2026 11:30 PM",
             "stream_url": ""
         }
     ]
