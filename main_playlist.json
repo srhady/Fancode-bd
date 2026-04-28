@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:30:24 PM 28-04-2026",
+    "last update time": "04:45:20 PM 28-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Sri Lanka Women Vs Bangladesh Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg",
-            "team_1": "Sri Lanka Women",
-            "team_2": "Bangladesh Women",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Sri Lanka Women's tour of Bangladesh, 2026",
-            "match_name": "Sri Lanka Women Vs Bangladesh Women | Sri Lanka Women's tour of Bangladesh, 2026 [ENGLISH]",
-            "match_id": 142075,
-            "startTime": "28 April 2026 01:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/sri_lanka_women_vs_bangladesh_women_142075_english.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Day 7   Arantxa Sanchez Stadium",
@@ -56,13 +41,13 @@
             "team_1": "Italy Women",
             "team_2": "Vanuatu Women",
             "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
             "event_name": "ICC Women's T20I Challenge Trophy, 2026",
-            "match_name": "Italy Women Vs Vanuatu Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
+            "match_name": "Italy Women Vs Vanuatu Women | ICC Women's T20I Challenge Trophy, 2026 [ENGLISH]",
             "match_id": 142061,
             "startTime": "28 April 2026 04:30 PM",
-            "stream_url": ""
+            "stream_url": "https://fancode-bd-srhady.vercel.app/italy_women_vs_vanuatu_women_142061_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -512,21 +497,6 @@
             "match_name": "Italy Women Vs Nepal Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
             "match_id": 142065,
             "startTime": "01 May 2026 04:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Italy Women Vs Vanuatu Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142061_6045_ITA-W_VANW_fc-app.jpg",
-            "team_1": "",
-            "team_2": "",
-            "status": "NOT_STARTED",
-            "streaming_status": "",
-            "language": "BLOODY_SWEET",
-            "event_name": "ICC Women's T20I Challenge Trophy, 2026",
-            "match_name": "Italy Women Vs Vanuatu Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
-            "match_id": 142061,
-            "startTime": "28 April 2026 04:30 PM",
             "stream_url": ""
         },
         {
