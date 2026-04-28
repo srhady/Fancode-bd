@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:45:19 AM 28-04-2026",
+    "last update time": "11:00:22 AM 28-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -140,21 +140,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Southampton F.c. Vs Ipswich Town F.c.",
-            "src": "https://images.fancode.com/aig/match/v1777341776603/142174_CASACARDS_APP.png",
-            "team_1": "Southampton F.C.",
-            "team_2": "Ipswich Town F.C.",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Southampton F.c. Vs Ipswich Town F.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
-            "match_id": 142174,
-            "startTime": "29 April 2026 12:15 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Nepal Vs Oman",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg",
@@ -167,6 +152,21 @@
             "match_name": "Nepal Vs Oman | ICC CWC League 2, Nepal 2026 [BLOODY_SWEET]",
             "match_id": 141978,
             "startTime": "29 April 2026 09:15 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Southampton F.c. Vs Ipswich Town F.c.",
+            "src": "https://images.fancode.com/aig/match/v1777341776603/142174_CASACARDS_APP.png",
+            "team_1": "Southampton F.C.",
+            "team_2": "Ipswich Town F.C.",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Southampton F.c. Vs Ipswich Town F.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
+            "match_id": 142174,
+            "startTime": "29 April 2026 12:15 AM",
             "stream_url": ""
         },
         {
