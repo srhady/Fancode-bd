@@ -1,15 +1,15 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:45:20 PM 28-04-2026
+#last update time: 05:00:25 PM 28-04-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142061_6045_ITA-W_VANW_fc-web.jpg" group-title="Live Sports", Vanuatu Women Vs Italy Women | ICC Women's T20I Challenge Trophy 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/vanuatu_women_vs_italy_women_142061_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old--(1).png" group-title="Live Sports", Day 7   Arantxa Sanchez Stadium | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_7___arantxa_sanchez_stadium_141865_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sinner-vs-Norrie-old-player-vs-player.png" group-title="Live Sports", Sinner Vs Norrie | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/sinner_vs_norrie_141864_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142061_6045_ITA-W_VANW_fc-web.jpg" group-title="Live Sports", Italy Women Vs Vanuatu Women | ICC Women's T20I Challenge Trophy 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/italy_women_vs_vanuatu_women_142061_english.m3u8
 
