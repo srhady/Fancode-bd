@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:45:21 PM 28-04-2026",
+    "last update time": "04:00:27 PM 28-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -185,21 +185,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Southampton F.c. Vs Ipswich Town F.c.",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Southampton-F.C.-vs-Ipswich-Town-F.C_fc-web.jpg",
-            "team_1": "Southampton F.C.",
-            "team_2": "Ipswich Town F.C.",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Southampton F.c. Vs Ipswich Town F.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
-            "match_id": 142174,
-            "startTime": "29 April 2026 12:15 AM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Cricket",
             "title": "Bangladesh Vs New Zealand",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg",
@@ -212,6 +197,21 @@
             "match_name": "Bangladesh Vs New Zealand | New Zealand tour of Bangladesh, 2026 [BLOODY_SWEET]",
             "match_id": 142070,
             "startTime": "29 April 2026 01:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Southampton F.c. Vs Ipswich Town F.c.",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Southampton-F.C.-vs-Ipswich-Town-F.C_fc-web.jpg",
+            "team_1": "Southampton F.C.",
+            "team_2": "Ipswich Town F.C.",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Southampton F.c. Vs Ipswich Town F.c. | EFL Championship 2025-26 [BLOODY_SWEET]",
+            "match_id": 142174,
+            "startTime": "29 April 2026 12:15 AM",
             "stream_url": ""
         },
         {
