@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:00:29 PM 28-04-2026",
+    "last update time": "07:15:25 PM 28-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -110,21 +110,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Cricket",
-            "title": "Bangladesh Vs New Zealand",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg",
-            "team_1": "Bangladesh",
-            "team_2": "New Zealand",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "New Zealand tour of Bangladesh, 2026",
-            "match_name": "Bangladesh Vs New Zealand | New Zealand tour of Bangladesh, 2026 [BLOODY_SWEET]",
-            "match_id": 142070,
-            "startTime": "29 April 2026 01:30 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "East Bengal Fc Vs Odisha Fc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140501_5956_EBFC_ODS_FC-Web_1772467652152.jpg",
@@ -152,6 +137,21 @@
             "match_name": "East Bengal Fc Vs Odisha Fc | ISL 2025-26  - Regional [BLOODY_SWEET]",
             "match_id": 141823,
             "startTime": "28 April 2026 07:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh Vs New Zealand",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "New Zealand",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "New Zealand tour of Bangladesh, 2026",
+            "match_name": "Bangladesh Vs New Zealand | New Zealand tour of Bangladesh, 2026 [BLOODY_SWEET]",
+            "match_id": 142070,
+            "startTime": "29 April 2026 01:30 PM",
             "stream_url": ""
         },
         {
@@ -545,21 +545,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Cricket",
-            "title": "Bangladesh Vs New Zealand",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-app_1777018704011.jpg",
-            "team_1": "",
-            "team_2": "",
-            "status": "NOT_STARTED",
-            "streaming_status": "",
-            "language": "BLOODY_SWEET",
-            "event_name": "New Zealand tour of Bangladesh, 2026",
-            "match_name": "Bangladesh Vs New Zealand | New Zealand tour of Bangladesh, 2026 [BLOODY_SWEET]",
-            "match_id": 142070,
-            "startTime": "29 April 2026 01:30 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Football",
             "title": "East Bengal Fc Vs Odisha Fc",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140501_5956_EBFC_ODS_FC-App_1772467641279.jpg",
@@ -587,6 +572,21 @@
             "match_name": "East Bengal Fc Vs Odisha Fc | ISL 2025-26  - Regional [BLOODY_SWEET]",
             "match_id": 141823,
             "startTime": "28 April 2026 07:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh Vs New Zealand",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-app_1777018704011.jpg",
+            "team_1": "",
+            "team_2": "",
+            "status": "NOT_STARTED",
+            "streaming_status": "",
+            "language": "BLOODY_SWEET",
+            "event_name": "New Zealand tour of Bangladesh, 2026",
+            "match_name": "Bangladesh Vs New Zealand | New Zealand tour of Bangladesh, 2026 [BLOODY_SWEET]",
+            "match_id": 142070,
+            "startTime": "29 April 2026 01:30 PM",
             "stream_url": ""
         },
         {
