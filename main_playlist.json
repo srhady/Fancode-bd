@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:15:25 AM 30-04-2026",
+    "last update time": "02:30:22 AM 30-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-            "team_1": "Leeward Islands Hurricanes",
-            "team_2": "Trinidad & Tobago Red Force",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "West Indies Championship 2026",
-            "match_name": "Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force | West Indies Championship 2026 [ENGLISH]",
-            "match_id": 141953,
-            "startTime": "26 April 2026 07:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/leeward_islands_hurricanes_vs_trinidad___tobago_red_force_141953_english.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Arsenal Women Vs Leicester City Women",
@@ -48,6 +33,21 @@
             "match_id": 141867,
             "startTime": "30 April 2026 01:00 AM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/fils_vs_lehecka_141867_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
+            "team_1": "Leeward Islands Hurricanes",
+            "team_2": "Trinidad & Tobago Red Force",
+            "status": "LIVE",
+            "streaming_status": "PAUSED",
+            "language": "BLOODY_SWEET",
+            "event_name": "West Indies Championship 2026",
+            "match_name": "Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force | West Indies Championship 2026 [BLOODY_SWEET]",
+            "match_id": 141953,
+            "startTime": "26 April 2026 07:30 PM",
+            "stream_url": ""
         },
         {
             "event_category": "Cricket",
@@ -526,6 +526,21 @@
             "event_name": "Japan Premier League T20 2026",
             "match_name": "East Kanto Sunrisers Vs Kansai Chargers | Japan Premier League T20 2026 [BLOODY_SWEET]",
             "match_id": 142391,
+            "startTime": "02 May 2026 07:00 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "North Kanto Lions Vs South Kanto Super Kings",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "North Kanto Lions",
+            "team_2": "South Kanto Super Kings",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Japan Premier League T20 2026",
+            "match_name": "North Kanto Lions Vs South Kanto Super Kings | Japan Premier League T20 2026 [BLOODY_SWEET]",
+            "match_id": 142390,
             "startTime": "02 May 2026 07:00 AM",
             "stream_url": ""
         },
