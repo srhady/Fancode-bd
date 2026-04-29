@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:15:17 AM 30-04-2026
+#last update time: 12:30:32 AM 30-04-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Live Sports", Windward Islands Volcanoes Vs Guyana Harpy Eagles | West Indies Championship 2026 (ENGLISH)
@@ -15,7 +15,4 @@ https://fancode-bd-srhady.vercel.app/al_nassr_fc_vs_al_ahli_saudi_fc_142143_engl
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142169_5826_ARS-W_LEI-W_FC-Web.jpg" group-title="Live Sports", Arsenal Women Vs Leicester City Women | Women's Super League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/arsenal_women_vs_leicester_city_women_142169_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Taawoun-FC-vs-Al-Ittihad_fc-web.jpg" group-title="Live Sports", Al Taawoun Fc Vs Al Ittihad | Roshn Saudi League 2025-2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/al_taawoun_fc_vs_al_ittihad_142142_english.m3u8
 
