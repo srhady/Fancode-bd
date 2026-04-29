@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:00:25 AM 30-04-2026",
+    "last update time": "03:15:27 AM 30-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Arsenal Women Vs Leicester City Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142169_5826_ARS-W_LEI-W_FC-Web.jpg",
-            "team_1": "Arsenal Women",
-            "team_2": "Leicester City Women",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Women's Super League 2025-26",
-            "match_name": "Arsenal Women Vs Leicester City Women | Women's Super League 2025-26 [ENGLISH]",
-            "match_id": 142169,
-            "startTime": "29 April 2026 11:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/arsenal_women_vs_leicester_city_women_142169_english.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Fils Vs Lehecka",
@@ -36,21 +21,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-            "team_1": "Leeward Islands Hurricanes",
-            "team_2": "Trinidad & Tobago Red Force",
-            "status": "LIVE",
-            "streaming_status": "PAUSED",
-            "language": "BLOODY_SWEET",
-            "event_name": "West Indies Championship 2026",
-            "match_name": "Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force | West Indies Championship 2026 [BLOODY_SWEET]",
-            "match_id": 141953,
-            "startTime": "26 April 2026 07:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
             "title": "Italy Women Vs Usa Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142062_6045_ITA-W_USA-W_fc-web.jpg",
             "team_1": "Italy Women",
@@ -62,6 +32,21 @@
             "match_name": "Italy Women Vs Usa Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
             "match_id": 142062,
             "startTime": "30 April 2026 12:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
+            "team_1": "Leeward Islands Hurricanes",
+            "team_2": "Trinidad & Tobago Red Force",
+            "status": "LIVE",
+            "streaming_status": "PAUSED",
+            "language": "BLOODY_SWEET",
+            "event_name": "West Indies Championship 2026",
+            "match_name": "Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force | West Indies Championship 2026 [BLOODY_SWEET]",
+            "match_id": 141953,
+            "startTime": "26 April 2026 07:30 PM",
             "stream_url": ""
         },
         {
@@ -170,6 +155,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Cricket",
+            "title": "Nepal Vs United Arab Emirates",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg",
+            "team_1": "Nepal",
+            "team_2": "United Arab Emirates",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ICC CWC League 2, Nepal 2026",
+            "match_name": "Nepal Vs United Arab Emirates | ICC CWC League 2, Nepal 2026 [BLOODY_SWEET]",
+            "match_id": 141979,
+            "startTime": "01 May 2026 09:15 AM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Golf",
             "title": "Featured Groups   Day 1",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg",
@@ -197,21 +197,6 @@
             "match_name": "Marquee Group   Day 1 | Cadillac Championship 2026 [BLOODY_SWEET]",
             "match_id": 142020,
             "startTime": "30 April 2026 07:00 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Nepal Vs United Arab Emirates",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg",
-            "team_1": "Nepal",
-            "team_2": "United Arab Emirates",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "ICC CWC League 2, Nepal 2026",
-            "match_name": "Nepal Vs United Arab Emirates | ICC CWC League 2, Nepal 2026 [BLOODY_SWEET]",
-            "match_id": 141979,
-            "startTime": "01 May 2026 09:15 AM",
             "stream_url": ""
         },
         {
@@ -542,6 +527,21 @@
             "match_name": "North Kanto Lions Vs South Kanto Super Kings | Japan Premier League T20 2026 [BLOODY_SWEET]",
             "match_id": 142390,
             "startTime": "02 May 2026 07:00 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Speen Ghar Region Vs Boost Region",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Speen Ghar Region",
+            "team_2": "Boost Region",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Super Cola National T20 Cup, 2026",
+            "match_name": "Speen Ghar Region Vs Boost Region | Super Cola National T20 Cup, 2026 [BLOODY_SWEET]",
+            "match_id": 142403,
+            "startTime": "02 May 2026 10:00 AM",
             "stream_url": ""
         },
         {
