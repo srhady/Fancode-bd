@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:30:31 PM 30-04-2026",
+    "last update time": "06:45:18 PM 30-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -170,21 +170,6 @@
             "stream_url": ""
         },
         {
-            "event_category": "Football",
-            "title": "Jamshedpur Fc Vs Fc Goa",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140502_5956_JFC_FCG_FC-Web_1772467740735.jpg",
-            "team_1": "Jamshedpur FC",
-            "team_2": "FC Goa",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "ISL 2025-26",
-            "match_name": "Jamshedpur Fc Vs Fc Goa | ISL 2025-26 [BLOODY_SWEET]",
-            "match_id": 140502,
-            "startTime": "01 May 2026 07:30 PM",
-            "stream_url": ""
-        },
-        {
             "event_category": "Golf",
             "title": "Marquee Group   Day 1",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg",
@@ -197,6 +182,21 @@
             "match_name": "Marquee Group   Day 1 | Cadillac Championship 2026 [BLOODY_SWEET]",
             "match_id": 142020,
             "startTime": "30 April 2026 07:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Jamshedpur Fc Vs Fc Goa",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140502_5956_JFC_FCG_FC-Web_1772467740735.jpg",
+            "team_1": "Jamshedpur FC",
+            "team_2": "FC Goa",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ISL 2025-26",
+            "match_name": "Jamshedpur Fc Vs Fc Goa | ISL 2025-26 [BLOODY_SWEET]",
+            "match_id": 140502,
+            "startTime": "01 May 2026 07:30 PM",
             "stream_url": ""
         },
         {
