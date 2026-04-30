@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:00:31 PM 30-04-2026",
+    "last update time": "05:15:24 PM 30-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -561,6 +561,21 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Mis E Ainak Region Vs Amo Region",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Mis-e-Ainak Region",
+            "team_2": "Amo Region",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Super Cola National T20 Cup, 2026",
+            "match_name": "Mis E Ainak Region Vs Amo Region | Super Cola National T20 Cup, 2026 [BLOODY_SWEET]",
+            "match_id": 142404,
+            "startTime": "02 May 2026 03:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
             "title": "Malaysia Vs Indonesia",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(18).png",
             "team_1": "",
@@ -647,6 +662,21 @@
             "match_name": "Germany Vs Austria | Austria tour of Germany, 2026 [BLOODY_SWEET]",
             "match_id": 142342,
             "startTime": "01 May 2026 07:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Jamshedpur Fc Vs Fc Goa",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140502_5956_JFC_FCG_FC-App_1772467727632.jpg",
+            "team_1": "",
+            "team_2": "",
+            "status": "NOT_STARTED",
+            "streaming_status": "",
+            "language": "BLOODY_SWEET",
+            "event_name": "ISL 2025-26",
+            "match_name": "Jamshedpur Fc Vs Fc Goa | ISL 2025-26 [BLOODY_SWEET]",
+            "match_id": 140502,
+            "startTime": "01 May 2026 07:30 PM",
             "stream_url": ""
         }
     ]
