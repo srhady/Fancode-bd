@@ -1,9 +1,15 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:45:17 PM 30-04-2026
+#last update time: 05:00:31 PM 30-04-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg" group-title="Live Sports", Sri Lanka Women Vs Bangladesh Women | Sri Lanka Women's tour of Bangladesh 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/sri_lanka_women_vs_bangladesh_women_142076_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142063_6045_NP-W_VANW_fc-web.jpg" group-title="Live Sports", Nepal Women Vs Vanuatu Women | ICC Women's T20I Challenge Trophy 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/nepal_women_vs_vanuatu_women_142063_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Casper-Ruud-vs-Alexander-Blockx-old-player-vs-player.png" group-title="Live Sports", Qf: Ruud Vs Blockx | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/qf__ruud_vs_blockx_141869_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png" group-title="Live Sports", Day 9   Men's Doubles Qf's | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/day_9___men_s_doubles_qf_s_142424_english.m3u8
 
