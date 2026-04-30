@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:00:30 AM 30-04-2026",
+    "last update time": "09:15:26 AM 30-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -617,6 +617,21 @@
             "match_name": "Nepal Vs United Arab Emirates | ICC CWC League 2, Nepal 2026 [BLOODY_SWEET]",
             "match_id": 141979,
             "startTime": "01 May 2026 09:15 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Rwanda Women Vs Usa Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142064_6045_RWA-W_USA-W_fc-app.jpg",
+            "team_1": "",
+            "team_2": "",
+            "status": "NOT_STARTED",
+            "streaming_status": "",
+            "language": "BLOODY_SWEET",
+            "event_name": "ICC Women's T20I Challenge Trophy, 2026",
+            "match_name": "Rwanda Women Vs Usa Women | ICC Women's T20I Challenge Trophy, 2026 [BLOODY_SWEET]",
+            "match_id": 142064,
+            "startTime": "01 May 2026 12:30 PM",
             "stream_url": ""
         }
     ]
