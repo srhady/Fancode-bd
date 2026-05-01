@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:45:16 PM 01-05-2026
+#last update time: 08:00:22 PM 01-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142065_6045_ITA-W_NP-W_fc-web.jpg" group-title="Live Sports", Italy Women Vs Nepal Women | ICC Women's T20I Challenge Trophy 2026 (ENGLISH)
@@ -9,9 +9,6 @@ https://fancode-bd-srhady.vercel.app/italy_women_vs_nepal_women_142065_english.m
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg" group-title="Live Sports", Germany Vs Austria | Austria tour of Germany 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/germany_vs_austria_142342_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCB-Ladies-Classic_2026_Web_1080_x_810.jpg" group-title="Live Sports", Day 1 | MCB Ladies Classic 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/day_1_142285_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old--(1).png" group-title="Live Sports", Day 10   Men's Doubles Sf's | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_10___men_s_doubles_sf_s_142454_english.m3u8
