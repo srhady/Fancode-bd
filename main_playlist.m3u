@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:00:30 PM 01-05-2026
+#last update time: 10:15:20 PM 01-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg" group-title="Live Sports", Germany Vs Austria | Austria tour of Germany 2026 (ENGLISH)
@@ -15,7 +15,4 @@ https://fancode-bd-srhady.vercel.app/featured_groups___day_2_142025_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Live Sports", Marquee Group   Day 2 | Cadillac Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/marquee_group___day_2_142024_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Arthur-Fils_FC-Web.png" group-title="Live Sports", Sf: J. Sinner Vs A. Fils | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/sf__j__sinner_vs_a__fils_141870_english.m3u8
 
