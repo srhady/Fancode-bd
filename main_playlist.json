@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:00:27 PM 01-05-2026",
+    "last update time": "04:15:24 PM 01-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,21 +18,6 @@
             "match_id": 141979,
             "startTime": "01 May 2026 09:15 AM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/nepal_vs_united_arab_emirates_141979_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Usa Women Vs Rwanda Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142064_6045_RWA-W_USA-W_fc-web.jpg",
-            "team_1": "USA Women",
-            "team_2": "Rwanda Women",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Women's T20I Challenge Trophy, 2026",
-            "match_name": "Usa Women Vs Rwanda Women | ICC Women's T20I Challenge Trophy, 2026 [ENGLISH]",
-            "match_id": 142064,
-            "startTime": "01 May 2026 12:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/usa_women_vs_rwanda_women_142064_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -560,6 +545,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Football",
+            "title": "Lyon Women Vs Arsenal Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Lyon_W-vs-Arsenal_W_fc-web.jpg",
+            "team_1": "Lyon Women",
+            "team_2": "Arsenal Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "UEFA Women's Champions League 2025-26",
+            "match_name": "Lyon Women Vs Arsenal Women | UEFA Women's Champions League 2025-26 [BLOODY_SWEET]",
+            "match_id": 141965,
+            "startTime": "02 May 2026 06:30 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Formula 1",
             "title": "Sprint Qualifying",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami-Grand-Prix-2026-old-match-card.png",
@@ -576,17 +576,17 @@
         },
         {
             "event_category": "Football",
-            "title": "Lyon Women Vs Arsenal Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Lyon_W-vs-Arsenal_W_fc-web.jpg",
-            "team_1": "Lyon Women",
-            "team_2": "Arsenal Women",
+            "title": "Sporting Club Delhi Vs Punjab Fc",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140504_5956_SCD_PFC_FC-Web_1772964305712.jpg",
+            "team_1": "Sporting Club Delhi",
+            "team_2": "Punjab FC",
             "status": "NOT_STARTED",
             "streaming_status": "NOT_STARTED",
             "language": "BLOODY_SWEET",
-            "event_name": "UEFA Women's Champions League 2025-26",
-            "match_name": "Lyon Women Vs Arsenal Women | UEFA Women's Champions League 2025-26 [BLOODY_SWEET]",
-            "match_id": 141965,
-            "startTime": "02 May 2026 06:30 PM",
+            "event_name": "ISL 2025-26",
+            "match_name": "Sporting Club Delhi Vs Punjab Fc | ISL 2025-26 [BLOODY_SWEET]",
+            "match_id": 140504,
+            "startTime": "02 May 2026 07:30 PM",
             "stream_url": ""
         },
         {
@@ -662,6 +662,21 @@
             "match_name": "Bangladesh Women Vs Sri Lanka Women | Sri Lanka Women's tour of Bangladesh, 2026 [BLOODY_SWEET]",
             "match_id": 142077,
             "startTime": "02 May 2026 01:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Jamshedpur Fc Vs Fc Goa",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140502_5956_JFC_FCG_FC-App_1772467727632.jpg",
+            "team_1": "",
+            "team_2": "",
+            "status": "NOT_STARTED",
+            "streaming_status": "",
+            "language": "BLOODY_SWEET",
+            "event_name": "ISL 2025-26",
+            "match_name": "Jamshedpur Fc Vs Fc Goa | ISL 2025-26 [BLOODY_SWEET]",
+            "match_id": 140502,
+            "startTime": "01 May 2026 07:30 PM",
             "stream_url": ""
         }
     ]
