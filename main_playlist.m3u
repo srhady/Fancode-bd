@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:45:24 PM 01-05-2026
+#last update time: 04:00:27 PM 01-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg" group-title="Live Sports", Nepal Vs United Arab Emirates | ICC CWC League 2 Nepal 2026 (ENGLISH)
@@ -12,4 +12,7 @@ https://fancode-bd-srhady.vercel.app/usa_women_vs_rwanda_women_142064_english.m3
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg" group-title="Live Sports", Germany Vs Austria | Austria tour of Germany 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/germany_vs_austria_142341_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCB-Ladies-Classic_2026_Web_1080_x_810.jpg" group-title="Live Sports", Day 1 | MCB Ladies Classic 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/day_1_142285_english.m3u8
 
