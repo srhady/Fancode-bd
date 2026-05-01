@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:00:22 PM 01-05-2026",
+    "last update time": "08:15:17 PM 01-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -40,7 +40,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140502_5956_JFC_FCG_FC-Web_1772467740735.jpg",
             "team_1": "Jamshedpur FC",
             "team_2": "FC Goa",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "ISL 2025-26",
@@ -55,7 +55,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140502_5956_JFC_FCG_FC-Web_1772467740735.jpg",
             "team_1": "Jamshedpur FC",
             "team_2": "FC Goa",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "HINDI",
             "event_name": "ISL 2025-26",
@@ -70,7 +70,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140502_5956_JFC_FCG_FC-Web_1772467740735.jpg",
             "team_1": "Jamshedpur FC",
             "team_2": "FC Goa",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "MALAYALAM",
             "event_name": "ISL 2025-26",
@@ -85,7 +85,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140502_5956_JFC_FCG_FC-Web_1772467740735.jpg",
             "team_1": "Jamshedpur FC",
             "team_2": "FC Goa",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "BENGALI",
             "event_name": "ISL 2025-26",
@@ -381,21 +381,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Auckland Vs Melbourne City",
-            "src": "https://images.fancode.com/aig/match/v1777548687049/142449_CASACARDS_APP.png",
-            "team_1": "Auckland",
-            "team_2": "Melbourne City",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "A League 2025-26",
-            "match_name": "Auckland Vs Melbourne City | A League 2025-26 [BLOODY_SWEET]",
-            "match_id": 142449,
-            "startTime": "02 May 2026 10:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Manchester United Women Vs Brighton And Hove Albion Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142170_5826_MUN-W_BHA-W_FC-Web.jpg",
             "team_1": "Manchester United Women",
@@ -407,6 +392,21 @@
             "match_name": "Manchester United Women Vs Brighton And Hove Albion Women | Women's Super League 2025-26 [BLOODY_SWEET]",
             "match_id": 142170,
             "startTime": "02 May 2026 04:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Auckland Vs Melbourne City",
+            "src": "https://images.fancode.com/aig/match/v1777548687049/142449_CASACARDS_APP.png",
+            "team_1": "Auckland",
+            "team_2": "Melbourne City",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "A League 2025-26",
+            "match_name": "Auckland Vs Melbourne City | A League 2025-26 [BLOODY_SWEET]",
+            "match_id": 142449,
+            "startTime": "02 May 2026 10:30 AM",
             "stream_url": ""
         },
         {
@@ -560,6 +560,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Football",
+            "title": "Deportivo Alaves Vs Athletic Club",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131162_5427_ALA_ATH_FC-Web.png",
+            "team_1": "Deportivo Alaves",
+            "team_2": "Athletic Club",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Deportivo Alaves Vs Athletic Club | LALIGA 2025-26 [BLOODY_SWEET]",
+            "match_id": 131162,
+            "startTime": "02 May 2026 10:00 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Formula 1",
             "title": "Practice 1",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami-Grand-Prix-2026-old-match-card.png",
@@ -617,21 +632,6 @@
             "match_name": "World Feed   Day 2 | Cadillac Championship 2026 [BLOODY_SWEET]",
             "match_id": 142022,
             "startTime": "02 May 2026 12:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Deportivo Alaves Vs Athletic Club",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131162_5427_ALA_ATH_FC-Web.png",
-            "team_1": "Deportivo Alaves",
-            "team_2": "Athletic Club",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Deportivo Alaves Vs Athletic Club | LALIGA 2025-26 [BLOODY_SWEET]",
-            "match_id": 131162,
-            "startTime": "02 May 2026 10:00 PM",
             "stream_url": ""
         },
         {
