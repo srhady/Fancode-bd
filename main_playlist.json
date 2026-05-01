@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:30:19 PM 01-05-2026",
+    "last update time": "06:45:23 PM 01-05-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Nepal Vs United Arab Emirates",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg",
-            "team_1": "Nepal",
-            "team_2": "United Arab Emirates",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC CWC League 2, Nepal 2026",
-            "match_name": "Nepal Vs United Arab Emirates | ICC CWC League 2, Nepal 2026 [ENGLISH]",
-            "match_id": 141979,
-            "startTime": "01 May 2026 09:15 AM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/nepal_vs_united_arab_emirates_141979_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Italy Women Vs Nepal Women",
