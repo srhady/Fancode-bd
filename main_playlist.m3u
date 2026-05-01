@@ -1,11 +1,14 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:15:27 PM 01-05-2026
+#last update time: 07:30:21 PM 01-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142065_6045_ITA-W_NP-W_fc-web.jpg" group-title="Live Sports", Italy Women Vs Nepal Women | ICC Women's T20I Challenge Trophy 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/italy_women_vs_nepal_women_142065_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg" group-title="Live Sports", Germany Vs Austria | Austria tour of Germany 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/germany_vs_austria_142342_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCB-Ladies-Classic_2026_Web_1080_x_810.jpg" group-title="Live Sports", Day 1 | MCB Ladies Classic 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_1_142285_english.m3u8
@@ -18,4 +21,7 @@ https://fancode-bd-srhady.vercel.app/main_feed___day_2_142023_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Live Sports", Featured Groups   Day 2 | Cadillac Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/featured_groups___day_2_142025_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Live Sports", Marquee Group   Day 2 | Cadillac Championship 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/marquee_group___day_2_142024_english.m3u8
 
