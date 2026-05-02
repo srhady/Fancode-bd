@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:30:23 PM 02-05-2026",
+    "last update time": "04:45:17 PM 02-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -486,6 +486,21 @@
         },
         {
             "event_category": "Football",
+            "title": "Rc Celta Vs Elche Cf",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131164_5427_CEV_ELC_FC-Web.png",
+            "team_1": "RC Celta",
+            "team_2": "Elche CF",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Rc Celta Vs Elche Cf | LALIGA 2025-26 [BLOODY_SWEET]",
+            "match_id": 131164,
+            "startTime": "03 May 2026 05:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
             "title": "Bengaluru Football Club Vs Jamshedpur Fc Junior",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
             "team_1": "Bengaluru Football Club",
@@ -512,21 +527,6 @@
             "match_name": "Minerva Academy Fc Vs Sesa Football Academy | Dream Sports Championship Football 2026 [BLOODY_SWEET]",
             "match_id": 142331,
             "startTime": "03 May 2026 07:30 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Rc Celta Vs Elche Cf",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131164_5427_CEV_ELC_FC-Web.png",
-            "team_1": "RC Celta",
-            "team_2": "Elche CF",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Rc Celta Vs Elche Cf | LALIGA 2025-26 [BLOODY_SWEET]",
-            "match_id": 131164,
-            "startTime": "03 May 2026 05:30 PM",
             "stream_url": ""
         },
         {
