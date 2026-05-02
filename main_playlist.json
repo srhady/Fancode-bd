@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:15:21 AM 03-05-2026",
+    "last update time": "03:30:18 AM 03-05-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Eibar Vs M\u00e1laga",
-            "src": "https://images.fancode.com/aig/match/v1776595898849/142135_CASACARDS_APP.png",
-            "team_1": "Eibar",
-            "team_2": "M\u00e1laga",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Eibar Vs M\u00e1laga | LALIGA Hypermotion 2025-26 [ENGLISH]",
-            "match_id": "142135",
-            "startTime": "03 May 2026 12:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/eibar_vs_m_laga_142135_english.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "World Feed   Day 3",
@@ -37,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/world_feed___day_3_142026_english.m3u8"
-        },
-        {
-            "event_category": "Formula 1",
-            "title": "Qualifying",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami-Grand-Prix-2026-old-match-card.png",
-            "team_1": "Qualifying",
-            "team_2": "Miami",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "F1 CRYPTO COM MIAMI GRAND PRIX 2026",
-            "match_name": "Qualifying | F1 CRYPTO COM MIAMI GRAND PRIX 2026 [ENGLISH]",
-            "match_id": "139440",
-            "startTime": "03 May 2026 01:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/qualifying_139440_english.m3u8"
         }
     ]
 }
