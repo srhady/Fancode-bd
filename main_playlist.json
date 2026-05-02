@@ -2,22 +2,22 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:00:23 PM 02-05-2026",
+    "last update time": "07:15:19 PM 02-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Mis E Ainak Region Vs Amo Region",
+            "title": "Amo Region Vs Mis E Ainak Region",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
-            "team_1": "Mis-e-Ainak Region",
-            "team_2": "Amo Region",
+            "team_1": "Amo Region",
+            "team_2": "Mis-e-Ainak Region",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Super Cola National T20 Cup, 2026",
-            "match_name": "Mis E Ainak Region Vs Amo Region | Super Cola National T20 Cup, 2026 [ENGLISH]",
+            "match_name": "Amo Region Vs Mis E Ainak Region | Super Cola National T20 Cup, 2026 [ENGLISH]",
             "match_id": 142404,
             "startTime": "02 May 2026 03:00 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/mis_e_ainak_region_vs_amo_region_142404_english.m3u8"
+            "stream_url": "https://fancode-bd-srhady.vercel.app/amo_region_vs_mis_e_ainak_region_142404_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -160,7 +160,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Lyon_W-vs-Arsenal_W_fc-web.jpg",
             "team_1": "Lyon Women",
             "team_2": "Arsenal Women",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "UEFA Women's Champions League 2025-26",
@@ -290,6 +290,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Football",
+            "title": "Sporting Club Delhi Vs Punjab Fc",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140504_5956_SCD_PFC_FC-Web_1772964305712.jpg",
+            "team_1": "Sporting Club Delhi",
+            "team_2": "Punjab FC",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "ISL 2025-26",
+            "match_name": "Sporting Club Delhi Vs Punjab Fc | ISL 2025-26 [BLOODY_SWEET]",
+            "match_id": 140504,
+            "startTime": "02 May 2026 07:30 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Cricket",
             "title": "Germany Vs Austria",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg",
@@ -321,16 +336,16 @@
         },
         {
             "event_category": "Football",
-            "title": "Sporting Club Delhi Vs Punjab Fc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140504_5956_SCD_PFC_FC-Web_1772964305712.jpg",
-            "team_1": "Sporting Club Delhi",
-            "team_2": "Punjab FC",
+            "title": "Exeter City Vs Bradford City",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Exeter City",
+            "team_2": "Bradford City",
             "status": "NOT_STARTED",
             "streaming_status": "NOT_STARTED",
             "language": "BLOODY_SWEET",
-            "event_name": "ISL 2025-26",
-            "match_name": "Sporting Club Delhi Vs Punjab Fc | ISL 2025-26 [BLOODY_SWEET]",
-            "match_id": 140504,
+            "event_name": "League One 2025-26",
+            "match_name": "Exeter City Vs Bradford City | League One 2025-26 [BLOODY_SWEET]",
+            "match_id": 142336,
             "startTime": "02 May 2026 07:30 PM",
             "stream_url": ""
         },
@@ -456,21 +471,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Exeter City Vs Bradford City",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Exeter City",
-            "team_2": "Bradford City",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "League One 2025-26",
-            "match_name": "Exeter City Vs Bradford City | League One 2025-26 [BLOODY_SWEET]",
-            "match_id": 142336,
-            "startTime": "02 May 2026 07:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Eibar Vs M\u00e1laga",
             "src": "https://images.fancode.com/aig/match/v1776595898849/142135_CASACARDS_APP.png",
             "team_1": "Eibar",
@@ -482,6 +482,21 @@
             "match_name": "Eibar Vs M\u00e1laga | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
             "match_id": 142135,
             "startTime": "03 May 2026 12:30 AM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Sprint Race",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card.jpg",
+            "team_1": "Sprint Race",
+            "team_2": "Miami International Autodrome",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "F2 MIAMI 2026",
+            "match_name": "Sprint Race | F2 MIAMI 2026 [BLOODY_SWEET]",
+            "match_id": 142085,
+            "startTime": "02 May 2026 07:30 PM",
             "stream_url": ""
         },
         {
@@ -617,21 +632,6 @@
             "match_name": "Racing Club Vs Huesca | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
             "match_id": 142136,
             "startTime": "03 May 2026 05:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Sprint Race",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card.jpg",
-            "team_1": "Sprint Race",
-            "team_2": "Miami International Autodrome",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "F2 MIAMI 2026",
-            "match_name": "Sprint Race | F2 MIAMI 2026 [BLOODY_SWEET]",
-            "match_id": 142085,
-            "startTime": "02 May 2026 07:30 PM",
             "stream_url": ""
         }
     ]
