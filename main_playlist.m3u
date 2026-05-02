@@ -1,24 +1,59 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:00:26 PM 02-05-2026
+#last update time: 09:15:17 PM 02-05-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg" group-title="Live Sports", Germany Vs Austria | Austria tour of Germany 2026 (ENGLISH)
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg" group-title="Cricket", Germany Vs Austria | Austria tour of Germany 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/germany_vs_austria_142344_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Lyon_W-vs-Arsenal_W_fc-web.jpg" group-title="Live Sports", Lyon Women Vs Arsenal Women | UEFA Women's Champions League 2025-26 (ENGLISH)
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131160_5427_VIL_LE_FC-Web.png" group-title="Football", Villarreal Cf Vs Levante | LALIGA 2025-26 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9427c5a97c5e408b899cb20664e161ff:0f25e879017a051a6000285f57fba9ca
+https://bd-mc-flive.fancode.com/mumbai/131160_english_dash_69214_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Lyon_W-vs-Arsenal_W_fc-web.jpg" group-title="Football", Lyon Women Vs Arsenal Women | UEFA Women's Champions League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/lyon_women_vs_arsenal_women_141965_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Live Sports", Exeter City Vs Bradford City | League One 2025-26 (ENGLISH)
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140504_5956_SCD_PFC_FC-Web_1772964305712.jpg" group-title="Football", Sporting Club Delhi Vs Punjab Fc | ISL 2025-26 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5db8f6cd9ab34b5d86dff8eb6c27c1ad:23a8b1b842827c113ebad85d12a3d203
+https://bd-mc-flive.fancode.com/mumbai/140504_english_dash_18068_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140504_5956_SCD_PFC_FC-Web_1772964305712.jpg" group-title="Football", Sporting Club Delhi Vs Punjab Fc | ISL 2025-26 (HINDI) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cf124bf8b2342bbb7ecd54aa7ee1eec:1a45d92761620c7400281092ab09b5c3
+https://bd-mc-flive.fancode.com/mumbai/140504_hindi_dash_65414_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140504_5956_SCD_PFC_FC-Web_1772964305712.jpg" group-title="Football", Sporting Club Delhi Vs Punjab Fc | ISL 2025-26 (MALAYALAM) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8776b02f70234ee78170db90664f690c:5aa54220e5403ee5bc521b5fd7687565
+https://bd-mc-flive.fancode.com/mumbai/140504_malayalam_dash_58165_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140504_5956_SCD_PFC_FC-Web_1772964305712.jpg" group-title="Football", Sporting Club Delhi Vs Punjab Fc | ISL 2025-26 (BENGALI) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=567b7a6da86f454abbf34e503c03d48a:29e4014b4969c78b514cd778f14d7095
+https://bd-mc-flive.fancode.com/mumbai/140504_bengali_dash_64610_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131168_5427_VAL_ATL_FC-Web.png" group-title="Football", Valencia Cf Vs Atletico De Madrid | LALIGA 2025-26 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82bece419f2d4bf59e0af7f7e9e171f6:8bf1d4ae6efae809b0e564cd7da9a92b
+https://bd-mc-flive.fancode.com/mumbai/131168_english_dash_83680_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Football", Exeter City Vs Bradford City | League One 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/exeter_city_vs_bradford_city_142336_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Live Sports", Main Feed   Day 3 | Cadillac Championship 2026 (ENGLISH)
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Golf", Main Feed   Day 3 | Cadillac Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/main_feed___day_3_142027_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Live Sports", Featured Groups   Day 3 | Cadillac Championship 2026 (ENGLISH)
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Golf", Featured Groups   Day 3 | Cadillac Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/featured_groups___day_3_142029_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Live Sports", Marquee Group   Day 3 | Cadillac Championship 2026 (ENGLISH)
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Golf", Marquee Group   Day 3 | Cadillac Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/marquee_group___day_3_142028_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card.jpg" group-title="Motorsports", Sprint Race | F2 MIAMI 2026 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4c5a41980c44562afb568ba4e31d62c:2db7d9723b29d27f77f767dee1fc8d10
+https://bd-mc-flive.fancode.com/mumbai/142085_english_dash_45831_1drmta-di_h264/index.mpd
 
