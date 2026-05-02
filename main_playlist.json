@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:15:17 PM 02-05-2026",
+    "last update time": "01:30:25 PM 02-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,6 +20,36 @@
             "stream_url": "https://fancode-bd-srhady.vercel.app/speen_ghar_region_vs_boost_region_142403_english.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Bangladesh Women Vs Sri Lanka Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg",
+            "team_1": "Bangladesh Women",
+            "team_2": "Sri Lanka Women",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Sri Lanka Women's tour of Bangladesh, 2026",
+            "match_name": "Bangladesh Women Vs Sri Lanka Women | Sri Lanka Women's tour of Bangladesh, 2026 [ENGLISH]",
+            "match_id": 142077,
+            "startTime": "02 May 2026 01:00 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/bangladesh_women_vs_sri_lanka_women_142077_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh Vs New Zealand",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "New Zealand",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "New Zealand tour of Bangladesh, 2026",
+            "match_name": "Bangladesh Vs New Zealand | New Zealand tour of Bangladesh, 2026 [ENGLISH]",
+            "match_id": 142071,
+            "startTime": "02 May 2026 01:30 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/bangladesh_vs_new_zealand_142071_english.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Auckland Vs Melbourne City",
             "src": "https://images.fancode.com/aig/match/v1777548687049/142449_CASACARDS_APP.png",
@@ -33,36 +63,6 @@
             "match_id": 142449,
             "startTime": "02 May 2026 10:30 AM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/auckland_vs_melbourne_city_142449_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh Women Vs Sri Lanka Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg",
-            "team_1": "Bangladesh Women",
-            "team_2": "Sri Lanka Women",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Sri Lanka Women's tour of Bangladesh, 2026",
-            "match_name": "Bangladesh Women Vs Sri Lanka Women | Sri Lanka Women's tour of Bangladesh, 2026 [BLOODY_SWEET]",
-            "match_id": 142077,
-            "startTime": "02 May 2026 01:00 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh Vs New Zealand",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg",
-            "team_1": "Bangladesh",
-            "team_2": "New Zealand",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "New Zealand tour of Bangladesh, 2026",
-            "match_name": "Bangladesh Vs New Zealand | New Zealand tour of Bangladesh, 2026 [BLOODY_SWEET]",
-            "match_id": 142071,
-            "startTime": "02 May 2026 01:30 PM",
-            "stream_url": ""
         },
         {
             "event_category": "Cricket",
@@ -587,36 +587,6 @@
             "match_name": "F1 Kids 2026 | F1 Kids 2026 [BLOODY_SWEET]",
             "match_id": 142380,
             "startTime": "02 May 2026 08:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh Women Vs Sri Lanka Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL-old-sporty.jpg",
-            "team_1": "",
-            "team_2": "",
-            "status": "NOT_STARTED",
-            "streaming_status": "",
-            "language": "BLOODY_SWEET",
-            "event_name": "Sri Lanka Women's tour of Bangladesh, 2026",
-            "match_name": "Bangladesh Women Vs Sri Lanka Women | Sri Lanka Women's tour of Bangladesh, 2026 [BLOODY_SWEET]",
-            "match_id": 142077,
-            "startTime": "02 May 2026 01:00 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh Vs New Zealand",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-app_1777018704011.jpg",
-            "team_1": "",
-            "team_2": "",
-            "status": "NOT_STARTED",
-            "streaming_status": "",
-            "language": "BLOODY_SWEET",
-            "event_name": "New Zealand tour of Bangladesh, 2026",
-            "match_name": "Bangladesh Vs New Zealand | New Zealand tour of Bangladesh, 2026 [BLOODY_SWEET]",
-            "match_id": 142071,
-            "startTime": "02 May 2026 01:30 PM",
             "stream_url": ""
         },
         {
