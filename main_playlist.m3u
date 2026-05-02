@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:00:22 PM 02-05-2026
+#last update time: 06:15:17 PM 02-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg" group-title="Live Sports", Bangladesh Vs New Zealand | New Zealand tour of Bangladesh 2026 (ENGLISH)
@@ -25,9 +25,6 @@ https://fancode-bd-srhady.vercel.app/millwall_f_c__vs_oxford_united_142383_engli
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ipswich-Town-F_1777563517815.C.vs-Queens-Park-Rangers-F.C._fc-web.jpg" group-title="Live Sports", Ipswich Town F.c. Vs Queens Park Rangers F.c. | EFL Championship 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/ipswich_town_f_c__vs_queens_park_rangers_f_c__142382_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139395_5802_MLV_SYD_FC-Web.jpg" group-title="Live Sports", Melbourne Victory Vs Sydney Fc | A League 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/melbourne_victory_vs_sydney_fc_142450_english.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCB-Ladies-Classic_2026_Web_1080_x_810.jpg" group-title="Live Sports", Day 2 | MCB Ladies Classic 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_2_142286_english.m3u8
 
@@ -36,4 +33,7 @@ https://fancode-bd-srhady.vercel.app/main_feed___day_3_142027_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old--(1).png" group-title="Live Sports", Men's Doubles Finals | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/men_s_doubles_finals_141873_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Live Sports", Featured Groups   Day 3 | Cadillac Championship 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/featured_groups___day_3_142029_english.m3u8
 

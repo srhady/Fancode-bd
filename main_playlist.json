@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:00:22 PM 02-05-2026",
+    "last update time": "06:15:17 PM 02-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -175,7 +175,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131160_5427_VIL_LE_FC-Web.png",
             "team_1": "Villarreal CF",
             "team_2": "Levante",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "LALIGA 2025-26",
@@ -183,21 +183,6 @@
             "match_id": 131160,
             "startTime": "02 May 2026 05:30 PM",
             "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Melbourne Victory Vs Sydney Fc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139395_5802_MLV_SYD_FC-Web.jpg",
-            "team_1": "Melbourne Victory",
-            "team_2": "Sydney FC",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne Victory Vs Sydney Fc | A League 2025-26 [ENGLISH]",
-            "match_id": 142450,
-            "startTime": "02 May 2026 03:15 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/melbourne_victory_vs_sydney_fc_142450_english.m3u8"
         },
         {
             "event_category": "Golf",
@@ -245,6 +230,21 @@
             "stream_url": "https://fancode-bd-srhady.vercel.app/men_s_doubles_finals_141873_english.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "Featured Groups   Day 3",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg",
+            "team_1": "Featured Groups - Day 3",
+            "team_2": "Trump National Doral (Blue Monster) - Miami, Flori",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Cadillac Championship 2026",
+            "match_name": "Featured Groups   Day 3 | Cadillac Championship 2026 [ENGLISH]",
+            "match_id": 142029,
+            "startTime": "02 May 2026 05:45 PM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/featured_groups___day_3_142029_english.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Germany Vs Austria",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg",
@@ -290,6 +290,21 @@
             "stream_url": ""
         },
         {
+            "event_category": "Football",
+            "title": "Lyon Women Vs Arsenal Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Lyon_W-vs-Arsenal_W_fc-web.jpg",
+            "team_1": "Lyon Women",
+            "team_2": "Arsenal Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "UEFA Women's Champions League 2025-26",
+            "match_name": "Lyon Women Vs Arsenal Women | UEFA Women's Champions League 2025-26 [BLOODY_SWEET]",
+            "match_id": 141965,
+            "startTime": "02 May 2026 06:30 PM",
+            "stream_url": ""
+        },
+        {
             "event_category": "Cricket",
             "title": "Germany Vs Austria",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg",
@@ -317,21 +332,6 @@
             "match_name": "Speen Ghar Region Vs Band E Amir Region | Super Cola National T20 Cup, 2026 [BLOODY_SWEET]",
             "match_id": 142406,
             "startTime": "03 May 2026 03:00 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
-            "title": "Lyon Women Vs Arsenal Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Lyon_W-vs-Arsenal_W_fc-web.jpg",
-            "team_1": "Lyon Women",
-            "team_2": "Arsenal Women",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "UEFA Women's Champions League 2025-26",
-            "match_name": "Lyon Women Vs Arsenal Women | UEFA Women's Champions League 2025-26 [BLOODY_SWEET]",
-            "match_id": 141965,
-            "startTime": "02 May 2026 06:30 PM",
             "stream_url": ""
         },
         {
@@ -501,21 +501,6 @@
         },
         {
             "event_category": "Golf",
-            "title": "Featured Groups   Day 3",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg",
-            "team_1": "Featured Groups - Day 3",
-            "team_2": "Trump National Doral (Blue Monster) - Miami, Flori",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Cadillac Championship 2026",
-            "match_name": "Featured Groups   Day 3 | Cadillac Championship 2026 [BLOODY_SWEET]",
-            "match_id": 142029,
-            "startTime": "02 May 2026 05:45 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Golf",
             "title": "Marquee Group   Day 3",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg",
             "team_1": "Marquee Group - Day 3",
@@ -632,6 +617,36 @@
             "match_name": "Getafe Cf Vs Rayo Vallecano | LALIGA 2025-26 [BLOODY_SWEET]",
             "match_id": 131166,
             "startTime": "03 May 2026 07:45 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Racing Club Vs Huesca",
+            "src": "https://images.fancode.com/aig/match/v1776595961744/142136_CASACARDS_APP.png",
+            "team_1": "Racing Club",
+            "team_2": "Huesca",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Racing Club Vs Huesca | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
+            "match_id": 142136,
+            "startTime": "03 May 2026 05:30 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Barcelona Women Vs Bayern Munich Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-W-vs-Bayern-Munich-W_fc-web.jpg",
+            "team_1": "Barcelona Women",
+            "team_2": "Bayern Munich Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "UEFA Women's Champions League 2025-26",
+            "match_name": "Barcelona Women Vs Bayern Munich Women | UEFA Women's Champions League 2025-26 [BLOODY_SWEET]",
+            "match_id": 141966,
+            "startTime": "03 May 2026 08:00 PM",
             "stream_url": ""
         }
     ]
