@@ -2,23 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:30:21 PM 02-05-2026",
+    "last update time": "06:45:22 PM 02-05-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh Vs New Zealand",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg",
-            "team_1": "Bangladesh",
-            "team_2": "New Zealand",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "New Zealand tour of Bangladesh, 2026",
-            "match_name": "Bangladesh Vs New Zealand | New Zealand tour of Bangladesh, 2026 [ENGLISH]",
-            "match_id": 142071,
-            "startTime": "02 May 2026 01:30 PM",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/bangladesh_vs_new_zealand_142071_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Mis E Ainak Region Vs Amo Region",
@@ -546,6 +531,21 @@
         },
         {
             "event_category": "Football",
+            "title": "Leicester City Women Vs Chelsea",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142173_5826_LEI-W_CHE_FC-Web.jpg",
+            "team_1": "Leicester City Women",
+            "team_2": "Chelsea",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "Women's Super League 2025-26",
+            "match_name": "Leicester City Women Vs Chelsea | Women's Super League 2025-26 [BLOODY_SWEET]",
+            "match_id": 142173,
+            "startTime": "03 May 2026 07:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
             "title": "Bengaluru Football Club Vs Jamshedpur Fc Junior",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
             "team_1": "Bengaluru Football Club",
@@ -576,21 +576,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Leicester City Women Vs Chelsea",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142173_5826_LEI-W_CHE_FC-Web.jpg",
-            "team_1": "Leicester City Women",
-            "team_2": "Chelsea",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Women's Super League 2025-26",
-            "match_name": "Leicester City Women Vs Chelsea | Women's Super League 2025-26 [BLOODY_SWEET]",
-            "match_id": 142173,
-            "startTime": "03 May 2026 07:00 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Getafe Cf Vs Rayo Vallecano",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131166_5427_GEF_RVL_FC-Web.png",
             "team_1": "Getafe CF",
@@ -606,21 +591,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Racing Club Vs Huesca",
-            "src": "https://images.fancode.com/aig/match/v1776595961744/142136_CASACARDS_APP.png",
-            "team_1": "Racing Club",
-            "team_2": "Huesca",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Racing Club Vs Huesca | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
-            "match_id": 142136,
-            "startTime": "03 May 2026 05:30 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Football",
             "title": "Barcelona Women Vs Bayern Munich Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-W-vs-Bayern-Munich-W_fc-web.jpg",
             "team_1": "Barcelona Women",
@@ -632,6 +602,21 @@
             "match_name": "Barcelona Women Vs Bayern Munich Women | UEFA Women's Champions League 2025-26 [BLOODY_SWEET]",
             "match_id": 141966,
             "startTime": "03 May 2026 08:00 PM",
+            "stream_url": ""
+        },
+        {
+            "event_category": "Football",
+            "title": "Racing Club Vs Huesca",
+            "src": "https://images.fancode.com/aig/match/v1776595961744/142136_CASACARDS_APP.png",
+            "team_1": "Racing Club",
+            "team_2": "Huesca",
+            "status": "NOT_STARTED",
+            "streaming_status": "NOT_STARTED",
+            "language": "BLOODY_SWEET",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Racing Club Vs Huesca | LALIGA Hypermotion 2025-26 [BLOODY_SWEET]",
+            "match_id": 142136,
+            "startTime": "03 May 2026 05:30 PM",
             "stream_url": ""
         },
         {
