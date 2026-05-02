@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:15:21 AM 02-05-2026",
+    "last update time": "11:30:25 AM 02-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,6 +33,36 @@
             "match_id": 142403,
             "startTime": "02 May 2026 10:00 AM",
             "stream_url": "https://fancode-bd-srhady.vercel.app/speen_ghar_region_vs_boost_region_142403_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "East Kanto Sunrisers Vs North Kanto Lions",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg",
+            "team_1": "East Kanto Sunrisers",
+            "team_2": "North Kanto Lions",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Japan Premier League T20 2026",
+            "match_name": "East Kanto Sunrisers Vs North Kanto Lions | Japan Premier League T20 2026 [ENGLISH]",
+            "match_id": 142393,
+            "startTime": "02 May 2026 11:00 AM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/east_kanto_sunrisers_vs_north_kanto_lions_142393_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Kanto Hurricanes Vs Kansai Chargers",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB_2.jpg",
+            "team_1": "West Kanto Hurricanes",
+            "team_2": "Kansai Chargers",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Japan Premier League T20 2026",
+            "match_name": "West Kanto Hurricanes Vs Kansai Chargers | Japan Premier League T20 2026 [ENGLISH]",
+            "match_id": 142392,
+            "startTime": "02 May 2026 11:00 AM",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/west_kanto_hurricanes_vs_kansai_chargers_142392_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -122,36 +152,6 @@
             "match_name": "Germany Vs Austria | Austria tour of Germany, 2026 [BLOODY_SWEET]",
             "match_id": 142344,
             "startTime": "02 May 2026 07:00 PM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "East Kanto Sunrisers Vs North Kanto Lions",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg",
-            "team_1": "East Kanto Sunrisers",
-            "team_2": "North Kanto Lions",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Japan Premier League T20 2026",
-            "match_name": "East Kanto Sunrisers Vs North Kanto Lions | Japan Premier League T20 2026 [BLOODY_SWEET]",
-            "match_id": 142393,
-            "startTime": "02 May 2026 11:00 AM",
-            "stream_url": ""
-        },
-        {
-            "event_category": "Cricket",
-            "title": "West Kanto Hurricanes Vs Kansai Chargers",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB_2.jpg",
-            "team_1": "West Kanto Hurricanes",
-            "team_2": "Kansai Chargers",
-            "status": "NOT_STARTED",
-            "streaming_status": "NOT_STARTED",
-            "language": "BLOODY_SWEET",
-            "event_name": "Japan Premier League T20 2026",
-            "match_name": "West Kanto Hurricanes Vs Kansai Chargers | Japan Premier League T20 2026 [BLOODY_SWEET]",
-            "match_id": 142392,
-            "startTime": "02 May 2026 11:00 AM",
             "stream_url": ""
         },
         {
