@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:45:18 AM 03-05-2026",
+    "last update time": "01:00:23 AM 03-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -71,6 +71,23 @@
             "is_drm": true,
             "clearkey": "61d99c5245814cfab8e200898bc0e165:f8fa6a15634662509cb54420c9d860e2",
             "stream_url": "https://bd-mc-flive.fancode.com/mumbai/131169_bengali_dash_57372_1drmta-di_h264/index.mpd"
+        },
+        {
+            "event_category": "Football",
+            "title": "Eibar Vs M\u00e1laga",
+            "src": "https://images.fancode.com/aig/match/v1776595898849/142135_CASACARDS_APP.png",
+            "team_1": "Eibar",
+            "team_2": "M\u00e1laga",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Eibar Vs M\u00e1laga | LALIGA Hypermotion 2025-26 [ENGLISH]",
+            "match_id": "142135",
+            "startTime": "03 May 2026 12:30 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/eibar_vs_m_laga_142135_english.m3u8"
         },
         {
             "event_category": "Golf",
