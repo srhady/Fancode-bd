@@ -1,16 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:19 PM 02-05-2026
+#last update time: 10:45:18 PM 02-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg" group-title="Cricket", Germany Vs Austria | Austria tour of Germany 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/germany_vs_austria_142344_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131168_5427_VAL_ATL_FC-Web.png" group-title="Football", Valencia Cf Vs Atletico De Madrid | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82bece419f2d4bf59e0af7f7e9e171f6:8bf1d4ae6efae809b0e564cd7da9a92b
-https://bd-mc-flive.fancode.com/mumbai/131168_english_dash_83680_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131162_5427_ALA_ATH_FC-Web.png" group-title="Football", Deportivo Alaves Vs Athletic Club | LALIGA 2025-26 (ENGLISH) [DRM]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
