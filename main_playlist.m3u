@@ -1,11 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:30:19 PM 02-05-2026
+#last update time: 03:45:18 PM 02-05-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg" group-title="Live Sports", Bangladesh Women Vs Sri Lanka Women | Sri Lanka Women's tour of Bangladesh 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/bangladesh_women_vs_sri_lanka_women_142077_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg" group-title="Live Sports", Sri Lanka Women Vs Bangladesh Women | Sri Lanka Women's tour of Bangladesh 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/sri_lanka_women_vs_bangladesh_women_142077_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg" group-title="Live Sports", Bangladesh Vs New Zealand | New Zealand tour of Bangladesh 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/bangladesh_vs_new_zealand_142071_english.m3u8
@@ -15,4 +15,7 @@ https://fancode-bd-srhady.vercel.app/germany_vs_austria_142343_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Live Sports", Mis E Ainak Region Vs Amo Region | Super Cola National T20 Cup 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/mis_e_ainak_region_vs_amo_region_142404_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139395_5802_MLV_SYD_FC-Web.jpg" group-title="Live Sports", Melbourne Victory Vs Sydney Fc | A League 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/melbourne_victory_vs_sydney_fc_142450_english.m3u8
 
