@@ -1,17 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:45:18 PM 02-05-2026
+#last update time: 01:00:21 PM 02-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Live Sports", Speen Ghar Region Vs Boost Region | Super Cola National T20 Cup 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/speen_ghar_region_vs_boost_region_142403_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg" group-title="Live Sports", East Kanto Sunrisers Vs North Kanto Lions | Japan Premier League T20 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/east_kanto_sunrisers_vs_north_kanto_lions_142393_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB_2.jpg" group-title="Live Sports", West Kanto Hurricanes Vs Kansai Chargers | Japan Premier League T20 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/west_kanto_hurricanes_vs_kansai_chargers_142392_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1777548687049/142449_CASACARDS_APP.png" group-title="Live Sports", Auckland Vs Melbourne City | A League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/auckland_vs_melbourne_city_142449_english.m3u8
