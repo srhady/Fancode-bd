@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:30:21 PM 02-05-2026
+#last update time: 05:45:17 PM 02-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg" group-title="Live Sports", Sri Lanka Women Vs Bangladesh Women | Sri Lanka Women's tour of Bangladesh 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/sri_lanka_women_vs_bangladesh_women_142077_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg" group-title="Live Sports", Bangladesh Vs New Zealand | New Zealand tour of Bangladesh 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/bangladesh_vs_new_zealand_142071_english.m3u8
@@ -36,4 +33,7 @@ https://fancode-bd-srhady.vercel.app/day_2_142286_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Live Sports", Main Feed   Day 3 | Cadillac Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/main_feed___day_3_142027_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old--(1).png" group-title="Live Sports", Men's Doubles Finals | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/men_s_doubles_finals_141873_english.m3u8
 
