@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:15:18 AM 03-05-2026",
+    "last update time": "12:30:18 AM 03-05-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Germany Vs Austria",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg",
-            "team_1": "Germany",
-            "team_2": "Austria",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Austria tour of Germany, 2026",
-            "match_name": "Germany Vs Austria | Austria tour of Germany, 2026 [ENGLISH]",
-            "match_id": "142344",
-            "startTime": "02 May 2026 07:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/germany_vs_austria_142344_english.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Deportivo Alaves Vs Athletic Club",
