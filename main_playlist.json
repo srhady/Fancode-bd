@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:15:19 PM 03-05-2026",
+    "last update time": "06:30:21 PM 03-05-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "United Arab Emirates Vs Oman",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg",
-            "team_1": "United Arab Emirates",
-            "team_2": "Oman",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC CWC League 2, Nepal 2026",
-            "match_name": "United Arab Emirates Vs Oman | ICC CWC League 2, Nepal 2026 [ENGLISH]",
-            "match_id": "141980",
-            "startTime": "03 May 2026 09:15 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/united_arab_emirates_vs_oman_141980_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Germany Vs Austria",
@@ -95,7 +78,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131164_5427_CEV_ELC_FC-Web.png",
             "team_1": "RC Celta",
             "team_2": "Elche CF",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "LALIGA 2025-26",
@@ -159,23 +142,6 @@
         },
         {
             "event_category": "Golf",
-            "title": "Day 3",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/MCB-Ladies-Classic_2026_Web_1080_x_810.jpg",
-            "team_1": "Day 3",
-            "team_2": "Constance Belle Mare Plage, Mauritius",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "MCB Ladies Classic 2026",
-            "match_name": "Day 3 | MCB Ladies Classic 2026 [ENGLISH]",
-            "match_id": "142287",
-            "startTime": "03 May 2026 02:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/day_3_142287_english.m3u8"
-        },
-        {
-            "event_category": "Golf",
             "title": "Main Feed   Day 4",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg",
             "team_1": "Main Feed - Day 4",
@@ -207,6 +173,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/featured_groups___day_4_142033_english.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Marquee Group   Day 4",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg",
+            "team_1": "Marquee Group - Day 4",
+            "team_2": "Trump National Doral (Blue Monster) - Miami, Flori",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Cadillac Championship 2026",
+            "match_name": "Marquee Group   Day 4 | Cadillac Championship 2026 [ENGLISH]",
+            "match_id": "142032",
+            "startTime": "03 May 2026 06:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/marquee_group___day_4_142032_english.m3u8"
         }
     ]
 }
