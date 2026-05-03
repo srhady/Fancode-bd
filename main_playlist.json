@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:45:21 AM 03-05-2026",
+    "last update time": "08:00:23 AM 03-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,6 +37,40 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/west_kanto_hurricanes_vs_east_kanto_sunrisers_142394_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Minerva Academy Fc Vs Sesa Football Academy",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777732374848.png",
+            "team_1": "Minerva Academy FC",
+            "team_2": "Sesa Football Academy",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "Minerva Academy Fc Vs Sesa Football Academy | Dream Sports Championship Football 2026 [ENGLISH]",
+            "match_id": "142331",
+            "startTime": "03 May 2026 07:30 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/minerva_academy_fc_vs_sesa_football_academy_142331_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Bengaluru Football Club Vs Jamshedpur Fc Junior",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777732374833.png",
+            "team_1": "Bengaluru Football Club",
+            "team_2": "Jamshedpur FC Junior",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "Bengaluru Football Club Vs Jamshedpur Fc Junior | Dream Sports Championship Football 2026 [ENGLISH]",
+            "match_id": "142332",
+            "startTime": "03 May 2026 07:30 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/bengaluru_football_club_vs_jamshedpur_fc_junior_142332_english.m3u8"
         }
     ]
 }
