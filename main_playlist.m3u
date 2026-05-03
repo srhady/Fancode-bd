@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:45:19 PM 03-05-2026
+#last update time: 07:00:25 PM 03-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg" group-title="Cricket", Germany Vs Austria | Austria tour of Germany 2026 (ENGLISH)
@@ -23,12 +23,6 @@ https://bd-mc-flive.fancode.com/mumbai/131164_english_dash_21398_1drmta-di_h264/
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776595961744/142136_CASACARDS_APP.png" group-title="Football", Racing Club Vs Huesca | LALIGA Hypermotion 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/racing_club_vs_huesca_142136_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777732374833.png" group-title="Football", East Bengal Fc Junior Vs Football 4 Change Academy | Dream Sports Championship Football 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/east_bengal_fc_junior_vs_football_4_change_academy_142333_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777732374848.png" group-title="Football", Sreenidi Deccan Fc Vs Sse Bfc Soccer School | Dream Sports Championship Football 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/sreenidi_deccan_fc_vs_sse_bfc_soccer_school_142334_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Golf", Main Feed   Day 4 | Cadillac Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/main_feed___day_4_142031_english.m3u8
