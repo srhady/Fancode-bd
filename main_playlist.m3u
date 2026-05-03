@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:45:18 PM 03-05-2026
+#last update time: 10:00:27 PM 03-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142173_5826_LEI-W_CHE_FC-Web.jpg" group-title="Football", Leicester City Women Vs Chelsea | Women's Super League 2025-26 (ENGLISH)
@@ -26,6 +26,9 @@ https://fancode-bd-srhady.vercel.app/marquee_group___day_4_142032_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Alexander-Zverev_FC-Web.png" group-title="Tennis", Finals: J. Sinner Vs A. Zverev | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/finals__j__sinner_vs_a__zverev_141875_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Golf", World Feed   Day 4 | Cadillac Championship 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/world_feed___day_4_142030_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Grand-Prix-2026-old-match-card.png" group-title="Formula 1", Race | F1 CRYPTO COM MIAMI GRAND PRIX 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/race_139441_english.m3u8
