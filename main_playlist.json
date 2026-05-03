@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:15:18 PM 03-05-2026",
+    "last update time": "04:30:29 PM 03-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -54,6 +54,40 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/speen_ghar_region_vs_band_e_amir_region_142406_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "East Bengal Fc Junior Vs Football 4 Change Academy",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777732374833.png",
+            "team_1": "East Bengal FC Junior",
+            "team_2": "Football 4 Change Academy",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "East Bengal Fc Junior Vs Football 4 Change Academy | Dream Sports Championship Football 2026 [ENGLISH]",
+            "match_id": "142333",
+            "startTime": "03 May 2026 04:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/east_bengal_fc_junior_vs_football_4_change_academy_142333_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sreenidi Deccan Fc Vs Sse Bfc Soccer School",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777732374848.png",
+            "team_1": "Sreenidi Deccan FC",
+            "team_2": "SSE BFC Soccer School",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "Sreenidi Deccan Fc Vs Sse Bfc Soccer School | Dream Sports Championship Football 2026 [ENGLISH]",
+            "match_id": "142334",
+            "startTime": "03 May 2026 04:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/sreenidi_deccan_fc_vs_sse_bfc_soccer_school_142334_english.m3u8"
         },
         {
             "event_category": "Golf",
