@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:30:24 PM 03-05-2026",
+    "last update time": "02:45:20 PM 03-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -39,38 +39,21 @@
             "stream_url": "https://fancode-bd-srhady.vercel.app/germany_vs_austria_142345_english.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "South Kanto Super Kings Vs West Kanto Hurricanes",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg",
-            "team_1": "South Kanto Super Kings",
-            "team_2": "West Kanto Hurricanes",
+            "event_category": "Golf",
+            "title": "Day 3",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/MCB-Ladies-Classic_2026_Web_1080_x_810.jpg",
+            "team_1": "Day 3",
+            "team_2": "Constance Belle Mare Plage, Mauritius",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
-            "event_name": "Japan Premier League T20 2026",
-            "match_name": "South Kanto Super Kings Vs West Kanto Hurricanes | Japan Premier League T20 2026 [ENGLISH]",
-            "match_id": "142397",
-            "startTime": "03 May 2026 10:30 AM",
+            "event_name": "MCB Ladies Classic 2026",
+            "match_name": "Day 3 | MCB Ladies Classic 2026 [ENGLISH]",
+            "match_id": "142287",
+            "startTime": "03 May 2026 02:30 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/south_kanto_super_kings_vs_west_kanto_hurricanes_142397_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Kansai Chargers Vs North Kanto Lions",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB_2.jpg",
-            "team_1": "Kansai Chargers",
-            "team_2": "North Kanto Lions",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Japan Premier League T20 2026",
-            "match_name": "Kansai Chargers Vs North Kanto Lions | Japan Premier League T20 2026 [ENGLISH]",
-            "match_id": "142396",
-            "startTime": "03 May 2026 10:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/kansai_chargers_vs_north_kanto_lions_142396_english.m3u8"
+            "stream_url": "https://fancode-bd-srhady.vercel.app/day_3_142287_english.m3u8"
         }
     ]
 }

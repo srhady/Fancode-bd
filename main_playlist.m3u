@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:24 PM 03-05-2026
+#last update time: 02:45:20 PM 03-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg" group-title="Cricket", United Arab Emirates Vs Oman | ICC CWC League 2 Nepal 2026 (ENGLISH)
@@ -10,9 +10,6 @@ https://fancode-bd-srhady.vercel.app/united_arab_emirates_vs_oman_141980_english
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg" group-title="Cricket", Germany Vs Austria | Austria tour of Germany 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/germany_vs_austria_142345_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg" group-title="Cricket", South Kanto Super Kings Vs West Kanto Hurricanes | Japan Premier League T20 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/south_kanto_super_kings_vs_west_kanto_hurricanes_142397_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB_2.jpg" group-title="Cricket", Kansai Chargers Vs North Kanto Lions | Japan Premier League T20 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/kansai_chargers_vs_north_kanto_lions_142396_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCB-Ladies-Classic_2026_Web_1080_x_810.jpg" group-title="Golf", Day 3 | MCB Ladies Classic 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/day_3_142287_english.m3u8
 
