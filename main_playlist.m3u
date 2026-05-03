@@ -1,16 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:15:18 PM 03-05-2026
+#last update time: 08:30:18 PM 03-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142172_5826_MCI-W_LIV-W_FC-Web.jpg" group-title="Football", Manchester City Women Vs Liverpool Women | Women's Super League 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/manchester_city_women_vs_liverpool_women_142172_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131164_5427_CEV_ELC_FC-Web.png" group-title="Football", Rc Celta Vs Elche Cf | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3296e7e56e8f4a579a2c436e369fc0d1:a95413a5a086aa9d31a8763a79cdc260
-https://bd-mc-flive.fancode.com/mumbai/131164_english_dash_21398_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142173_5826_LEI-W_CHE_FC-Web.jpg" group-title="Football", Leicester City Women Vs Chelsea | Women's Super League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/leicester_city_women_vs_chelsea_142173_english.m3u8
@@ -20,8 +12,8 @@ https://fancode-bd-srhady.vercel.app/leicester_city_women_vs_chelsea_142173_engl
 #KODIPROP:inputstream.adaptive.license_key=f8ec0e9cc7ac4dab8d34ab972aba87f1:97dc3228aee34be1e71570e670c90711
 https://bd-mc-flive.fancode.com/mumbai/131166_english_dash_2451_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776595961744/142136_CASACARDS_APP.png" group-title="Football", Racing Club Vs Huesca | LALIGA Hypermotion 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/racing_club_vs_huesca_142136_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Barcelona-W-vs-Bayern-Munich-W_fc-web.jpg" group-title="Football", Barcelona Women Vs Bayern Munich Women | UEFA Women's Champions League 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/barcelona_women_vs_bayern_munich_women_141966_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Golf", Main Feed   Day 4 | Cadillac Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/main_feed___day_4_142031_english.m3u8
