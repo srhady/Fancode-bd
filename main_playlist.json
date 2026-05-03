@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:30:25 PM 03-05-2026",
+    "last update time": "05:45:20 PM 03-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -91,6 +91,23 @@
         },
         {
             "event_category": "Football",
+            "title": "Rc Celta Vs Elche Cf",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131164_5427_CEV_ELC_FC-Web.png",
+            "team_1": "RC Celta",
+            "team_2": "Elche CF",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Rc Celta Vs Elche Cf | LALIGA 2025-26 [ENGLISH]",
+            "match_id": "131164",
+            "startTime": "03 May 2026 05:30 PM",
+            "is_drm": true,
+            "clearkey": "3296e7e56e8f4a579a2c436e369fc0d1:a95413a5a086aa9d31a8763a79cdc260",
+            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/131164_english_dash_21398_1drmta-di_h264/index.mpd"
+        },
+        {
+            "event_category": "Football",
             "title": "East Bengal Fc Junior Vs Football 4 Change Academy",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777732374833.png",
             "team_1": "East Bengal FC Junior",
@@ -156,6 +173,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/main_feed___day_4_142031_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Racing Club Vs Huesca",
+            "src": "https://images.fancode.com/aig/match/v1776595961744/142136_CASACARDS_APP.png",
+            "team_1": "Racing Club",
+            "team_2": "Huesca",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Racing Club Vs Huesca | LALIGA Hypermotion 2025-26 [ENGLISH]",
+            "match_id": "142136",
+            "startTime": "03 May 2026 05:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/racing_club_vs_huesca_142136_english.m3u8"
         }
     ]
 }
