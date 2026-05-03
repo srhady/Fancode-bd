@@ -2,24 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:30:24 AM 03-05-2026",
+    "last update time": "09:45:17 AM 03-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Kansai Chargers Vs South Kanto Super Kings",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg",
-            "team_1": "Kansai Chargers",
-            "team_2": "South Kanto Super Kings",
+            "title": "United Arab Emirates Vs Oman",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg",
+            "team_1": "United Arab Emirates",
+            "team_2": "Oman",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
-            "event_name": "Japan Premier League T20 2026",
-            "match_name": "Kansai Chargers Vs South Kanto Super Kings | Japan Premier League T20 2026 [ENGLISH]",
-            "match_id": "142395",
-            "startTime": "03 May 2026 06:30 AM",
+            "event_name": "ICC CWC League 2, Nepal 2026",
+            "match_name": "United Arab Emirates Vs Oman | ICC CWC League 2, Nepal 2026 [ENGLISH]",
+            "match_id": "141980",
+            "startTime": "03 May 2026 09:15 AM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/kansai_chargers_vs_south_kanto_super_kings_142395_english.m3u8"
+            "stream_url": "https://fancode-bd-srhady.vercel.app/united_arab_emirates_vs_oman_141980_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -40,23 +40,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Minerva Academy Fc Vs Sesa Football Academy",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777732374848.png",
-            "team_1": "Minerva Academy FC",
-            "team_2": "Sesa Football Academy",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "Minerva Academy Fc Vs Sesa Football Academy | Dream Sports Championship Football 2026 [ENGLISH]",
-            "match_id": "142331",
-            "startTime": "03 May 2026 07:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/minerva_academy_fc_vs_sesa_football_academy_142331_english.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Bengaluru Football Club Vs Jamshedpur Fc Junior",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777732374833.png",
             "team_1": "Bengaluru Football Club",
@@ -71,6 +54,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/bengaluru_football_club_vs_jamshedpur_fc_junior_142332_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Minerva Academy Fc Vs Sesa Football Academy",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777732374848.png",
+            "team_1": "Minerva Academy FC",
+            "team_2": "Sesa Football Academy",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "Minerva Academy Fc Vs Sesa Football Academy | Dream Sports Championship Football 2026 [ENGLISH]",
+            "match_id": "142331",
+            "startTime": "03 May 2026 07:30 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/minerva_academy_fc_vs_sesa_football_academy_142331_english.m3u8"
         }
     ]
 }
