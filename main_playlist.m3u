@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:45:20 AM 04-05-2026
+#last update time: 03:00:21 AM 04-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131165_5427_ESL_RM_FC-Web.png" group-title="Football", Rcd Espanyol Vs Real Madrid | LALIGA 2025-26 (ENGLISH) [DRM]
@@ -18,7 +18,4 @@ https://bd-mc-flive.fancode.com/mumbai/131165_hindi_dash_48433_1drmta-di_h264/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f99d9a6832664e30a993beb389e46bb5:9f2754ca5a21ec3f8418e0fc5f06a72c
 https://bd-mc-flive.fancode.com/mumbai/131165_bengali_dash_7236_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Golf", World Feed   Day 4 | Cadillac Championship 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/world_feed___day_4_142030_english.m3u8
 

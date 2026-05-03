@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:45:20 AM 04-05-2026",
+    "last update time": "03:00:21 AM 04-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -54,23 +54,6 @@
             "is_drm": true,
             "clearkey": "f99d9a6832664e30a993beb389e46bb5:9f2754ca5a21ec3f8418e0fc5f06a72c",
             "stream_url": "https://bd-mc-flive.fancode.com/mumbai/131165_bengali_dash_7236_1drmta-di_h264/index.mpd"
-        },
-        {
-            "event_category": "Golf",
-            "title": "World Feed   Day 4",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg",
-            "team_1": "World Feed - Day 4",
-            "team_2": "Trump National Doral (Blue Monster) - Miami, Flori",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Cadillac Championship 2026",
-            "match_name": "World Feed   Day 4 | Cadillac Championship 2026 [ENGLISH]",
-            "match_id": "142030",
-            "startTime": "03 May 2026 09:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/world_feed___day_4_142030_english.m3u8"
         }
     ]
 }
