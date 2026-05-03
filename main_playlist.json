@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:45:17 AM 04-05-2026",
+    "last update time": "02:00:24 AM 04-05-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Al Ahli Saudi Fc Vs Al Okhdood Club",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ahli-Saudi-FC-vs-Al-Okhdood-Club_fc-web.jpg",
-            "team_1": "Al-Ahli Saudi FC",
-            "team_2": "Al-Okhdood Club",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al Ahli Saudi Fc Vs Al Okhdood Club | Roshn Saudi League 2025-2026 [ENGLISH]",
-            "match_id": "142146",
-            "startTime": "03 May 2026 11:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/al_ahli_saudi_fc_vs_al_okhdood_club_142146_english.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Al Qadsiah Fc Vs Al Nassr Fc",
@@ -88,23 +71,6 @@
             "is_drm": true,
             "clearkey": "f99d9a6832664e30a993beb389e46bb5:9f2754ca5a21ec3f8418e0fc5f06a72c",
             "stream_url": "https://bd-mc-flive.fancode.com/mumbai/131165_bengali_dash_7236_1drmta-di_h264/index.mpd"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Marquee Group   Day 4",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg",
-            "team_1": "Marquee Group - Day 4",
-            "team_2": "Trump National Doral (Blue Monster) - Miami, Flori",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Cadillac Championship 2026",
-            "match_name": "Marquee Group   Day 4 | Cadillac Championship 2026 [ENGLISH]",
-            "match_id": "142032",
-            "startTime": "03 May 2026 06:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/marquee_group___day_4_142032_english.m3u8"
         },
         {
             "event_category": "Golf",
