@@ -2,42 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:15:17 PM 03-05-2026",
+    "last update time": "07:30:28 PM 03-05-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Germany Vs Austria",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg",
-            "team_1": "Germany",
-            "team_2": "Austria",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Austria tour of Germany, 2026",
-            "match_name": "Germany Vs Austria | Austria tour of Germany, 2026 [ENGLISH]",
-            "match_id": "142345",
-            "startTime": "03 May 2026 02:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/germany_vs_austria_142345_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Speen Ghar Region Vs Band E Amir Region",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
-            "team_1": "Speen Ghar Region",
-            "team_2": "Band-e-Amir Region",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Super Cola National T20 Cup, 2026",
-            "match_name": "Speen Ghar Region Vs Band E Amir Region | Super Cola National T20 Cup, 2026 [ENGLISH]",
-            "match_id": "142406",
-            "startTime": "03 May 2026 03:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/speen_ghar_region_vs_band_e_amir_region_142406_english.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Manchester City Women Vs Liverpool Women",
@@ -88,6 +54,23 @@
             "is_drm": true,
             "clearkey": "3296e7e56e8f4a579a2c436e369fc0d1:a95413a5a086aa9d31a8763a79cdc260",
             "stream_url": "https://bd-mc-flive.fancode.com/mumbai/131164_english_dash_21398_1drmta-di_h264/index.mpd"
+        },
+        {
+            "event_category": "Football",
+            "title": "Leicester City Women Vs Chelsea",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142173_5826_LEI-W_CHE_FC-Web.jpg",
+            "team_1": "Leicester City Women",
+            "team_2": "Chelsea",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Women's Super League 2025-26",
+            "match_name": "Leicester City Women Vs Chelsea | Women's Super League 2025-26 [ENGLISH]",
+            "match_id": "142173",
+            "startTime": "03 May 2026 07:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/leicester_city_women_vs_chelsea_142173_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -156,6 +139,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/marquee_group___day_4_142032_english.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Feature Race",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card.jpg",
+            "team_1": "Feature Race",
+            "team_2": "Miami International Autodrome",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "F2 MIAMI 2026",
+            "match_name": "Feature Race | F2 MIAMI 2026 [ENGLISH]",
+            "match_id": "142086",
+            "startTime": "03 May 2026 07:00 PM",
+            "is_drm": true,
+            "clearkey": "726c1d035e94461eb0ffbd5fa829827c:c5803a7574d835b5fe841e10217320e6",
+            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/142086_english_dash_11084_1drmta-di_h264/index.mpd"
         }
     ]
 }
