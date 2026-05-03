@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:15:23 PM 03-05-2026
+#last update time: 05:30:25 PM 03-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg" group-title="Cricket", United Arab Emirates Vs Oman | ICC CWC League 2 Nepal 2026 (ENGLISH)
@@ -12,6 +12,9 @@ https://fancode-bd-srhady.vercel.app/germany_vs_austria_142345_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Cricket", Speen Ghar Region Vs Band E Amir Region | Super Cola National T20 Cup 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/speen_ghar_region_vs_band_e_amir_region_142406_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142172_5826_MCI-W_LIV-W_FC-Web.jpg" group-title="Football", Manchester City Women Vs Liverpool Women | Women's Super League 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/manchester_city_women_vs_liverpool_women_142172_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142171_5826_TOT-W_LCL_FC-Web.jpg" group-title="Football", Tottenham Hotspur Women Vs London City Lionesses | Women's Super League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/tottenham_hotspur_women_vs_london_city_lionesses_142171_english.m3u8
@@ -25,6 +28,6 @@ https://fancode-bd-srhady.vercel.app/sreenidi_deccan_fc_vs_sse_bfc_soccer_school
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCB-Ladies-Classic_2026_Web_1080_x_810.jpg" group-title="Golf", Day 3 | MCB Ladies Classic 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_3_142287_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142172_5826_MCI-W_LIV-W_FC-Web.jpg" group-title="Football", Manchester City Women Vs Liverpool Women | Women's Super League 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/manchester_city_women_vs_liverpool_women_142172_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Golf", Main Feed   Day 4 | Cadillac Championship 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/main_feed___day_4_142031_english.m3u8
 
