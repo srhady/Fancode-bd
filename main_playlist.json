@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:45:22 PM 04-05-2026",
+    "last update time": "07:00:26 PM 04-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,40 +37,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/aston_villa_women_vs_west_ham_united_women_142175_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Classic Football Academy Vs Fc Madras",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777732374833.png",
-            "team_1": "Classic Football Academy",
-            "team_2": "FC Madras",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "Classic Football Academy Vs Fc Madras | Dream Sports Championship Football 2026 [ENGLISH]",
-            "match_id": "142349",
-            "startTime": "04 May 2026 04:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/classic_football_academy_vs_fc_madras_142349_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Alchemy International Fa Vs Mohun Bagan Super Giants",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777732374848.png",
-            "team_1": "Alchemy International FA",
-            "team_2": "Mohun Bagan Super Giants",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "Alchemy International Fa Vs Mohun Bagan Super Giants | Dream Sports Championship Football 2026 [ENGLISH]",
-            "match_id": "142348",
-            "startTime": "04 May 2026 04:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/alchemy_international_fa_vs_mohun_bagan_super_giants_142348_english.m3u8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:45:22 PM 04-05-2026
+#last update time: 07:00:26 PM 04-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Cricket", Band E Amir Region Vs Mis E Ainak Region | Super Cola National T20 Cup 2026 (ENGLISH)
@@ -9,10 +9,4 @@ https://fancode-bd-srhady.vercel.app/band_e_amir_region_vs_mis_e_ainak_region_14
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142175_5826_AST-W_WHU-W_FC-Web.jpg" group-title="Football", Aston Villa Women Vs West Ham United Women | Women's Super League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/aston_villa_women_vs_west_ham_united_women_142175_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777732374833.png" group-title="Football", Classic Football Academy Vs Fc Madras | Dream Sports Championship Football 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/classic_football_academy_vs_fc_madras_142349_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777732374848.png" group-title="Football", Alchemy International Fa Vs Mohun Bagan Super Giants | Dream Sports Championship Football 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/alchemy_international_fa_vs_mohun_bagan_super_giants_142348_english.m3u8
 
