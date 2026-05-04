@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:15:26 PM 04-05-2026
+#last update time: 08:30:23 PM 04-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142175_5826_AST-W_WHU-W_FC-Web.jpg" group-title="Football", Aston Villa Women Vs West Ham United Women | Women's Super League 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/aston_villa_women_vs_west_ham_united_women_142175_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140507_5956_ODS_BFC_FC-Web_1772474344903.jpg" group-title="Football", Odisha Fc Vs Bengaluru Fc | ISL 2025-26 (ENGLISH) [DRM]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
