@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:45:24 PM 04-05-2026",
+    "last update time": "02:00:24 PM 04-05-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Boost Region Vs Amo Region",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
-            "team_1": "Boost Region",
-            "team_2": "Amo Region",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Super Cola National T20 Cup, 2026",
-            "match_name": "Boost Region Vs Amo Region | Super Cola National T20 Cup, 2026 [ENGLISH]",
-            "match_id": "142407",
-            "startTime": "04 May 2026 10:00 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/boost_region_vs_amo_region_142407_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "East Kanto Sunrisers Vs Kansai Chargers",
@@ -37,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/east_kanto_sunrisers_vs_kansai_chargers_142391_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "North Kanto Lions Vs South Kanto Super Kings",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB_2.jpg",
-            "team_1": "North Kanto Lions",
-            "team_2": "South Kanto Super Kings",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Japan Premier League T20 2026",
-            "match_name": "North Kanto Lions Vs South Kanto Super Kings | Japan Premier League T20 2026 [ENGLISH]",
-            "match_id": "142390",
-            "startTime": "04 May 2026 10:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/north_kanto_lions_vs_south_kanto_super_kings_142390_english.m3u8"
         }
     ]
 }

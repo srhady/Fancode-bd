@@ -1,15 +1,9 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:45:24 PM 04-05-2026
+#last update time: 02:00:24 PM 04-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Cricket", Boost Region Vs Amo Region | Super Cola National T20 Cup 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/boost_region_vs_amo_region_142407_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg" group-title="Cricket", East Kanto Sunrisers Vs Kansai Chargers | Japan Premier League T20 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/east_kanto_sunrisers_vs_kansai_chargers_142391_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB_2.jpg" group-title="Cricket", North Kanto Lions Vs South Kanto Super Kings | Japan Premier League T20 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/north_kanto_lions_vs_south_kanto_super_kings_142390_english.m3u8
 
