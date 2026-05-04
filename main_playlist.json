@@ -2,24 +2,6 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:45:28 PM 04-05-2026",
-    "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "East Kanto Sunrisers Vs Kansai Chargers",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg",
-            "team_1": "East Kanto Sunrisers",
-            "team_2": "Kansai Chargers",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Japan Premier League T20 2026",
-            "match_name": "East Kanto Sunrisers Vs Kansai Chargers | Japan Premier League T20 2026 [ENGLISH]",
-            "match_id": "142391",
-            "startTime": "04 May 2026 10:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/east_kanto_sunrisers_vs_kansai_chargers_142391_english.m3u8"
-        }
-    ]
+    "last update time": "03:00:33 PM 04-05-2026",
+    "matches": []
 }
