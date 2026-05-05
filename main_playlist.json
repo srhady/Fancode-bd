@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:30:31 PM 05-05-2026",
+    "last update time": "10:45:25 PM 05-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -20,6 +20,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/japan_vs_qatar_142540_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Indonesia Vs China Pr",
+            "src": "https://images.fancode.com/aig/match/v1777996806124/142541_CASACARDS_APP.png",
+            "team_1": "Indonesia",
+            "team_2": "China PR",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
+            "match_name": "Indonesia Vs China Pr | AFC U17 Asian Cup Saudi Arabia 2026 [ENGLISH]",
+            "match_id": "142541",
+            "startTime": "05 May 2026 10:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/indonesia_vs_china_pr_142541_english.m3u8"
         }
     ]
 }
