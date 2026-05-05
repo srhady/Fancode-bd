@@ -2,6 +2,41 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:30:22 AM 05-05-2026",
-    "matches": []
+    "last update time": "06:45:18 AM 05-05-2026",
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "North Kanto Lions Vs West Kanto Hurricanes",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg",
+            "team_1": "North Kanto Lions",
+            "team_2": "West Kanto Hurricanes",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Japan Premier League T20 2026",
+            "match_name": "North Kanto Lions Vs West Kanto Hurricanes | Japan Premier League T20 2026 [ENGLISH]",
+            "match_id": "142401",
+            "startTime": "05 May 2026 06:30 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/north_kanto_lions_vs_west_kanto_hurricanes_142401_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "South Kanto Super Kings Vs East Kanto Sunrisers",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB_2.jpg",
+            "team_1": "South Kanto Super Kings",
+            "team_2": "East Kanto Sunrisers",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Japan Premier League T20 2026",
+            "match_name": "South Kanto Super Kings Vs East Kanto Sunrisers | Japan Premier League T20 2026 [ENGLISH]",
+            "match_id": "142400",
+            "startTime": "05 May 2026 06:30 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/south_kanto_super_kings_vs_east_kanto_sunrisers_142400_english.m3u8"
+        }
+    ]
 }
