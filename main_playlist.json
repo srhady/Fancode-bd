@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:15:32 PM 05-05-2026",
+    "last update time": "02:30:23 PM 05-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/nepal_vs_oman_141981_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Band E Amir Region Vs Amo Region",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
-            "team_1": "Band-e-Amir Region",
-            "team_2": "Amo Region",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Super Cola National T20 Cup, 2026",
-            "match_name": "Band E Amir Region Vs Amo Region | Super Cola National T20 Cup, 2026 [ENGLISH]",
-            "match_id": "142409",
-            "startTime": "05 May 2026 10:00 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/band_e_amir_region_vs_amo_region_142409_english.m3u8"
         }
     ]
 }
