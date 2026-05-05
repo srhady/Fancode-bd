@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:30:20 AM 05-05-2026",
+    "last update time": "07:45:19 AM 05-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,6 +37,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/south_kanto_super_kings_vs_east_kanto_sunrisers_142400_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sesa Football Academy Vs East Bengal Fc Junior",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
+            "team_1": "Sesa Football Academy",
+            "team_2": "East Bengal FC Junior",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "Sesa Football Academy Vs East Bengal Fc Junior | Dream Sports Championship Football 2026 [ENGLISH]",
+            "match_id": "142350",
+            "startTime": "05 May 2026 07:30 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/sesa_football_academy_vs_east_bengal_fc_junior_142350_english.m3u8"
         }
     ]
 }
