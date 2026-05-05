@@ -2,15 +2,15 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:45:25 PM 05-05-2026",
+    "last update time": "11:00:29 PM 05-05-2026",
     "matches": [
         {
             "event_category": "Football",
             "title": "Japan Vs Qatar",
-            "src": "https://images.fancode.com/aig/match/v1777996806126/142540_CASACARDS_APP.png",
+            "src": "https://images.fancode.com/aig/match/v1777999652487/142540_CASACARDS_APP.png",
             "team_1": "Japan",
             "team_2": "Qatar",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
@@ -27,7 +27,7 @@
             "src": "https://images.fancode.com/aig/match/v1777996806124/142541_CASACARDS_APP.png",
             "team_1": "Indonesia",
             "team_2": "China PR",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
@@ -37,6 +37,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/indonesia_vs_china_pr_142541_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Saudi Arabia Vs Myanmar",
+            "src": "https://images.fancode.com/aig/match/v1777999652490/142538_CASACARDS_APP.png",
+            "team_1": "Saudi Arabia",
+            "team_2": "Myanmar",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
+            "match_name": "Saudi Arabia Vs Myanmar | AFC U17 Asian Cup Saudi Arabia 2026 [ENGLISH]",
+            "match_id": "142538",
+            "startTime": "05 May 2026 10:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/saudi_arabia_vs_myanmar_142538_english.m3u8"
         }
     ]
 }
