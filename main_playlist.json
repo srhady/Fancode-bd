@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:45:19 PM 05-05-2026",
+    "last update time": "07:00:30 PM 05-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,40 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/speen_ghar_region_vs_mis_e_ainak_region_142410_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sse Bfc Soccer School Vs Bengaluru Football Club",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
-            "team_1": "SSE BFC Soccer School",
-            "team_2": "Bengaluru Football Club",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "Sse Bfc Soccer School Vs Bengaluru Football Club | Dream Sports Championship Football 2026 [ENGLISH]",
-            "match_id": "142354",
-            "startTime": "05 May 2026 04:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/sse_bfc_soccer_school_vs_bengaluru_football_club_142354_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Football 4 Change Academy Vs Minerva Academy Fc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
-            "team_1": "Football 4 Change Academy",
-            "team_2": "Minerva Academy FC",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "Football 4 Change Academy Vs Minerva Academy Fc | Dream Sports Championship Football 2026 [ENGLISH]",
-            "match_id": "142353",
-            "startTime": "05 May 2026 04:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/football_4_change_academy_vs_minerva_academy_fc_142353_english.m3u8"
         }
     ]
 }
