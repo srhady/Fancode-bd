@@ -1,14 +1,20 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:45:19 AM 05-05-2026
+#last update time: 08:00:27 AM 05-05-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(18).png" group-title="Cricket", Malaysia Vs Indonesia | Indonesia tour of Malaysia 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/malaysia_vs_indonesia_142340_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg" group-title="Cricket", North Kanto Lions Vs West Kanto Hurricanes | Japan Premier League T20 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/north_kanto_lions_vs_west_kanto_hurricanes_142401_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB_2.jpg" group-title="Cricket", South Kanto Super Kings Vs East Kanto Sunrisers | Japan Premier League T20 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/south_kanto_super_kings_vs_east_kanto_sunrisers_142400_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777732374833.png" group-title="Football", Jamshedpur Fc Junior Vs Sreenidi Deccan Fc | Dream Sports Championship Football 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/jamshedpur_fc_junior_vs_sreenidi_deccan_fc_142352_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png" group-title="Football", Sesa Football Academy Vs East Bengal Fc Junior | Dream Sports Championship Football 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/sesa_football_academy_vs_east_bengal_fc_junior_142350_english.m3u8
