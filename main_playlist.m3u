@@ -1,9 +1,26 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:30:28 PM 05-05-2026
+#last update time: 07:45:22 PM 05-05-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Cricket", Speen Ghar Region Vs Mis E Ainak Region | Super Cola National T20 Cup 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/speen_ghar_region_vs_mis_e_ainak_region_142410_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140509_5956_MCFC_EBFC_FC-Web_1772474862467.jpg" group-title="Football", Mumbai City Fc Vs East Bengal Fc | ISL 2025-26 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0888882a83c44a493982d085ef1a32e:da7aceb220e37c0e0b2448a5559b3c0b
+https://bd-mc-flive.fancode.com/mumbai/140509_english_dash_4402_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140509_5956_MCFC_EBFC_FC-Web_1772474862467.jpg" group-title="Football", Mumbai City Fc Vs East Bengal Fc | ISL 2025-26 (HINDI) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9975159465704121bb8c25b651a48630:dd21d051b66da5e4dca7ec267f1c1ae0
+https://bd-mc-flive.fancode.com/mumbai/140509_hindi_dash_22890_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140509_5956_MCFC_EBFC_FC-Web_1772474862467.jpg" group-title="Football", Mumbai City Fc Vs East Bengal Fc | ISL 2025-26 (MALAYALAM) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a7a93a7a30e436aad728940700b5596:cc3dfb93901bf30fc818e0372a4084ff
+https://bd-mc-flive.fancode.com/mumbai/140509_malayalam_dash_57770_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140509_5956_MCFC_EBFC_FC-Web_1772474862467.jpg" group-title="Football", Mumbai City Fc Vs East Bengal Fc | ISL 2025-26 (BENGALI) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb298ff7ebe545bb98f40049d079d845:651e24c3e6b20130a552e93ea39d5f1d
+https://bd-mc-flive.fancode.com/mumbai/140509_bengali_dash_4691_1drmta-di_h264/index.mpd
 
