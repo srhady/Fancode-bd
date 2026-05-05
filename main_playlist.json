@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:15:26 PM 05-05-2026",
+    "last update time": "11:30:25 PM 05-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -54,6 +54,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/saudi_arabia_vs_myanmar_142538_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Tajikistan Vs Thailand",
+            "src": "https://images.fancode.com/aig/match/v1777999652490/142539_CASACARDS_APP.png",
+            "team_1": "Tajikistan",
+            "team_2": "Thailand",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
+            "match_name": "Tajikistan Vs Thailand | AFC U17 Asian Cup Saudi Arabia 2026 [ENGLISH]",
+            "match_id": "142539",
+            "startTime": "05 May 2026 11:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/tajikistan_vs_thailand_142539_english.m3u8"
         }
     ]
 }
