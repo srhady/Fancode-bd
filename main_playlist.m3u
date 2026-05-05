@@ -1,17 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:15:21 AM 06-05-2026
+#last update time: 12:30:33 AM 06-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Khaleej-FC-vs-Al-Hilal-SFC_FC-web.jpg" group-title="Football", Al Khaleej Fc Vs Al Hilal Sfc | Roshn Saudi League 2025-2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/al_khaleej_fc_vs_al_hilal_sfc_142147_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1777999652487/142540_CASACARDS_APP.png" group-title="Football", Japan Vs Qatar | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/japan_vs_qatar_142540_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1777996806124/142541_CASACARDS_APP.png" group-title="Football", Indonesia Vs China Pr | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/indonesia_vs_china_pr_142541_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1777999652490/142538_CASACARDS_APP.png" group-title="Football", Saudi Arabia Vs Myanmar | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/saudi_arabia_vs_myanmar_142538_english.m3u8
