@@ -1,11 +1,14 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:30:22 AM 05-05-2026
+#last update time: 09:45:21 AM 05-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(18).png" group-title="Cricket", Malaysia Vs Indonesia | Indonesia tour of Malaysia 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/malaysia_vs_indonesia_142340_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg" group-title="Cricket", Nepal Vs Oman | ICC CWC League 2 Nepal 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/nepal_vs_oman_141981_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg" group-title="Cricket", North Kanto Lions Vs West Kanto Hurricanes | Japan Premier League T20 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/north_kanto_lions_vs_west_kanto_hurricanes_142401_english.m3u8
