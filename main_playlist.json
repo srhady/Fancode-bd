@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:00:24 PM 05-05-2026",
+    "last update time": "05:15:26 PM 05-05-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Nepal Vs Oman",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg",
-            "team_1": "Nepal",
-            "team_2": "Oman",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC CWC League 2, Nepal 2026",
-            "match_name": "Nepal Vs Oman | ICC CWC League 2, Nepal 2026 [ENGLISH]",
-            "match_id": "141981",
-            "startTime": "05 May 2026 09:15 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/nepal_vs_oman_141981_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Speen Ghar Region Vs Mis E Ainak Region",
