@@ -2,24 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:15:24 AM 06-05-2026",
+    "last update time": "10:30:19 AM 06-05-2026",
     "matches": [
         {
-            "event_category": "Football",
-            "title": "Corbett Fc Vs Classic Football Academy",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
-            "team_1": "Corbett FC",
-            "team_2": "Classic Football Academy",
+            "event_category": "Cricket",
+            "title": "Amo Region Vs Speen Ghar Region",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
+            "team_1": "Amo Region",
+            "team_2": "Speen Ghar Region",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "Corbett Fc Vs Classic Football Academy | Dream Sports Championship Football 2026 [ENGLISH]",
-            "match_id": "142356",
-            "startTime": "06 May 2026 07:30 AM",
+            "event_name": "Super Cola National T20 Cup, 2026",
+            "match_name": "Amo Region Vs Speen Ghar Region | Super Cola National T20 Cup, 2026 [ENGLISH]",
+            "match_id": "142411",
+            "startTime": "06 May 2026 10:00 AM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/corbett_fc_vs_classic_football_academy_142356_english.m3u8"
+            "stream_url": "https://fancode-bd-srhady.vercel.app/amo_region_vs_speen_ghar_region_142411_english.m3u8"
         }
     ]
 }
