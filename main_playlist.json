@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:00:25 AM 07-05-2026",
+    "last update time": "01:15:28 AM 07-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -20,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/brighton_and_hove_albion_women_vs_arsenal_women_142176_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Yemen Vs Vietnam",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142542_6062_YMN_VIE_FC-WEB.jpg",
-            "team_1": "Yemen",
-            "team_2": "Vietnam",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
-            "match_name": "Yemen Vs Vietnam | AFC U17 Asian Cup Saudi Arabia 2026 [ENGLISH]",
-            "match_id": "142542",
-            "startTime": "06 May 2026 10:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/yemen_vs_vietnam_142542_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -88,23 +71,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/day_1___campo_centrale_142218_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 1   Bnp Paribas Arena",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "Day 1 - BNP Paribas Arena",
-            "team_2": "Rome, Italy",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "Day 1   Bnp Paribas Arena | ATP Masters Internazionali BNL d'Italia 2026 [ENGLISH]",
-            "match_id": "142555",
-            "startTime": "06 May 2026 06:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/day_1___bnp_paribas_arena_142555_english.m3u8"
         }
     ]
 }
