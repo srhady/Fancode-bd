@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:00:35 AM 07-05-2026",
+    "last update time": "12:15:28 AM 07-05-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Australia Vs India",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142544_6062_AUS_IND_FC-WEB.jpg",
-            "team_1": "Australia",
-            "team_2": "India",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
-            "match_name": "Australia Vs India | AFC U17 Asian Cup Saudi Arabia 2026 [ENGLISH]",
-            "match_id": "142544",
-            "startTime": "06 May 2026 09:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/australia_vs_india_142544_english.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Yemen Vs Vietnam",
