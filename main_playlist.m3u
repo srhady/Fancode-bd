@@ -1,11 +1,17 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:15:19 PM 06-05-2026
+#last update time: 04:30:26 PM 06-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Cricket", Boost Region Vs Band E Amir Region | Super Cola National T20 Cup 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/boost_region_vs_band_e_amir_region_142412_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png" group-title="Football", Fc Madras Vs Fc Goa Junior | Dream Sports Championship Football 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/fc_madras_vs_fc_goa_junior_142358_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png" group-title="Football", Mohun Bagan Super Giants Vs Reliance Foundation Young Champs | Dream Sports Championship Football 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/mohun_bagan_super_giants_vs_reliance_foundation_young_champs_142357_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 1   Main Feed | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_1___main_feed_142219_english.m3u8

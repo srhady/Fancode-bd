@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:15:19 PM 06-05-2026",
+    "last update time": "04:30:26 PM 06-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -10,7 +10,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
             "team_1": "Boost Region",
             "team_2": "Band-e-Amir Region",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Super Cola National T20 Cup, 2026",
@@ -20,6 +20,40 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/boost_region_vs_band_e_amir_region_142412_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Fc Madras Vs Fc Goa Junior",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
+            "team_1": "FC Madras",
+            "team_2": "FC Goa Junior",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "Fc Madras Vs Fc Goa Junior | Dream Sports Championship Football 2026 [ENGLISH]",
+            "match_id": "142358",
+            "startTime": "06 May 2026 04:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/fc_madras_vs_fc_goa_junior_142358_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Mohun Bagan Super Giants Vs Reliance Foundation Young Champs",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
+            "team_1": "Mohun Bagan Super Giants",
+            "team_2": "Reliance Foundation Young Champs",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "Mohun Bagan Super Giants Vs Reliance Foundation Young Champs | Dream Sports Championship Football 2026 [ENGLISH]",
+            "match_id": "142357",
+            "startTime": "06 May 2026 04:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/mohun_bagan_super_giants_vs_reliance_foundation_young_champs_142357_english.m3u8"
         },
         {
             "event_category": "Tennis",
