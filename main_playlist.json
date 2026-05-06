@@ -2,8 +2,25 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:45:29 AM 07-05-2026",
+    "last update time": "01:00:25 AM 07-05-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Brighton And Hove Albion Women Vs Arsenal Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142176_5826_BHA-W_ARS-W_FC-Web.jpg",
+            "team_1": "Brighton and Hove Albion Women",
+            "team_2": "Arsenal Women",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Women's Super League 2025-26",
+            "match_name": "Brighton And Hove Albion Women Vs Arsenal Women | Women's Super League 2025-26 [ENGLISH]",
+            "match_id": "142176",
+            "startTime": "07 May 2026 12:15 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/brighton_and_hove_albion_women_vs_arsenal_women_142176_english.m3u8"
+        },
         {
             "event_category": "Football",
             "title": "Yemen Vs Vietnam",
@@ -88,23 +105,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/day_1___bnp_paribas_arena_142555_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Brighton And Hove Albion Women Vs Arsenal Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142176_5826_BHA-W_ARS-W_FC-Web.jpg",
-            "team_1": "Brighton and Hove Albion Women",
-            "team_2": "Arsenal Women",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Women's Super League 2025-26",
-            "match_name": "Brighton And Hove Albion Women Vs Arsenal Women | Women's Super League 2025-26 [ENGLISH]",
-            "match_id": "142176",
-            "startTime": "07 May 2026 12:15 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/brighton_and_hove_albion_women_vs_arsenal_women_142176_english.m3u8"
         }
     ]
 }
