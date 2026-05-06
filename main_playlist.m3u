@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:33 PM 06-05-2026
+#last update time: 10:45:27 PM 06-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142544_6062_AUS_IND_FC-WEB.jpg" group-title="Football", Australia Vs India | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
@@ -15,4 +15,7 @@ https://fancode-bd-srhady.vercel.app/day_1___campo_centrale_142218_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 1   Bnp Paribas Arena | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_1___bnp_paribas_arena_142555_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142542_6062_YMN_VIE_FC-WEB.jpg" group-title="Football", Yemen Vs Vietnam | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/yemen_vs_vietnam_142542_english.m3u8
 
