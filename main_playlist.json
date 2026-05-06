@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:15:26 PM 06-05-2026",
+    "last update time": "11:30:38 PM 06-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -37,6 +37,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/yemen_vs_vietnam_142542_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Korea Republic Vs United Arab Emirates",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142543_6062_KOR_UAE_FC-WEB.jpg",
+            "team_1": "Korea Republic",
+            "team_2": "United Arab Emirates",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
+            "match_name": "Korea Republic Vs United Arab Emirates | AFC U17 Asian Cup Saudi Arabia 2026 [ENGLISH]",
+            "match_id": "142543",
+            "startTime": "06 May 2026 11:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/korea_republic_vs_united_arab_emirates_142543_english.m3u8"
         },
         {
             "event_category": "Tennis",
