@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:45:30 PM 06-05-2026
+#last update time: 10:00:33 PM 06-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140508_5956_PFC_CFC_FC-Web_1772474674105.jpg" group-title="Football", Punjab Fc Vs Chennaiyin Fc | ISL 2025-26 (ENGLISH) [DRM]
@@ -28,6 +28,9 @@ https://bd-mc-flive.fancode.com/mumbai/140508_malayalam_dash_2673_1drmta-di_h264
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c9c078fbcbdb4afba4d7b07e5dc4b499:19c282eb38c8dff1d14a94fa8648571e
 https://bd-mc-flive.fancode.com/mumbai/140508_bengali_dash_56186_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142544_6062_AUS_IND_FC-WEB.jpg" group-title="Football", Australia Vs India | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/australia_vs_india_142544_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 1   Main Feed | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_1___main_feed_142219_english.m3u8
