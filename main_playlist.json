@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:15:29 PM 07-05-2026",
+    "last update time": "09:30:27 PM 07-05-2026",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "title": "Day 2   Court 13",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "Day 2 - Court 13",
-            "team_2": "Rome",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "Day 2   Court 13 | ATP Masters Internazionali BNL d'Italia 2026 [ENGLISH]",
-            "match_id": "142221",
-            "startTime": "07 May 2026 02:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/day_2___court_13_142221_english.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Day 2   Main Feed",
@@ -122,6 +105,40 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/main_feed___day_1_142092_english.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Groups   Day 1",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg",
+            "team_1": "Featured Groups - Day 1",
+            "team_2": "Quail Hollow Club - Charlotte, North Carolina",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Truist Championship 2026",
+            "match_name": "Featured Groups   Day 1 | Truist Championship 2026 [ENGLISH]",
+            "match_id": "142094",
+            "startTime": "07 May 2026 09:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/featured_groups___day_1_142094_english.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Marquee Group   Day 1",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg",
+            "team_1": "Marquee Group - Day 1",
+            "team_2": "Quail Hollow Club - Charlotte, North Carolina",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Truist Championship 2026",
+            "match_name": "Marquee Group   Day 1 | Truist Championship 2026 [ENGLISH]",
+            "match_id": "142093",
+            "startTime": "07 May 2026 09:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/marquee_group___day_1_142093_english.m3u8"
         }
     ]
 }
