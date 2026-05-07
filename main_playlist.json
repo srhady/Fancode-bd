@@ -2,41 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:00:23 AM 07-05-2026",
+    "last update time": "10:15:17 AM 07-05-2026",
     "matches": [
         {
-            "event_category": "Cricket",
-            "title": "Malaysia Women Vs China Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CHK-Womens-T20_fc-web.jpg",
-            "team_1": "Malaysia Women",
-            "team_2": "China Women",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "CHK Women's T20I Series 2026",
-            "match_name": "Malaysia Women Vs China Women | CHK Women's T20I Series 2026 [ENGLISH]",
-            "match_id": "142295",
-            "startTime": "07 May 2026 06:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/malaysia_women_vs_china_women_142295_english.m3u8"
-        },
-        {
             "event_category": "Football",
-            "title": "Toluca Vs Los Angeles Fc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142157_5954_TOL_LAF_FC-Web.png",
-            "team_1": "Toluca",
-            "team_2": "Los Angeles FC",
+            "title": "Bengaluru Football Club Vs Sreenidi Deccan Fc",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
+            "team_1": "Bengaluru Football Club",
+            "team_2": "Sreenidi Deccan FC",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Toluca Vs Los Angeles Fc | CONCACAF Champions Cup 2026 [ENGLISH]",
-            "match_id": "142159",
-            "startTime": "07 May 2026 07:00 AM",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "Bengaluru Football Club Vs Sreenidi Deccan Fc | Dream Sports Championship Football 2026 [ENGLISH]",
+            "match_id": "142360",
+            "startTime": "07 May 2026 07:30 AM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/toluca_vs_los_angeles_fc_142159_english.m3u8"
+            "stream_url": "https://fancode-bd-srhady.vercel.app/bengaluru_football_club_vs_sreenidi_deccan_fc_142360_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -54,23 +37,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/minerva_academy_fc_vs_east_bengal_fc_junior_142359_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Bengaluru Football Club Vs Sreenidi Deccan Fc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
-            "team_1": "Bengaluru Football Club",
-            "team_2": "Sreenidi Deccan FC",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "Bengaluru Football Club Vs Sreenidi Deccan Fc | Dream Sports Championship Football 2026 [ENGLISH]",
-            "match_id": "142360",
-            "startTime": "07 May 2026 07:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/bengaluru_football_club_vs_sreenidi_deccan_fc_142360_english.m3u8"
         }
     ]
 }
