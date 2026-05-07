@@ -1,17 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:15:25 AM 08-05-2026
+#last update time: 02:30:23 AM 08-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Shabab-FC-vs-Al-Nassr-FC_FC-web.jpg" group-title="Football", Al Shabab Fc Vs Al Nassr Fc | Roshn Saudi League 2025-2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/al_shabab_fc_vs_al_nassr_fc_142148_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 2   Main Feed | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_2___main_feed_142220_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 2   Supertennis Arena | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/day_2___supertennis_arena_142588_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 2   Bnp Paribas Arena | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_2___bnp_paribas_arena_142589_english.m3u8
@@ -24,9 +18,6 @@ https://fancode-bd-srhady.vercel.app/featured_groups___day_1_142094_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf", Marquee Group   Day 1 | Truist Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/marquee_group___day_1_142093_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 2   Campo Centrale | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/day_2___campo_centrale_142590_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf", World Feed   Day 1 | Truist Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/world_feed___day_1_142091_english.m3u8
