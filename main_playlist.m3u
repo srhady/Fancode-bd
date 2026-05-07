@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:45:29 PM 07-05-2026
+#last update time: 08:00:37 PM 07-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 2   Court 13 | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
@@ -18,4 +18,7 @@ https://fancode-bd-srhady.vercel.app/day_2___supertennis_arena_142588_english.m3
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 2   Bnp Paribas Arena | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_2___bnp_paribas_arena_142589_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ONEflight-Myrtle-Beach-Classic-2026-old.png" group-title="Golf", World Feed   Day 1 | ONEflight Myrtle Beach Classic 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/world_feed___day_1_142110_english.m3u8
 
