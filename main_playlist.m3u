@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:30:28 AM 07-05-2026
+#last update time: 07:45:26 AM 07-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CHK-Womens-T20_fc-web.jpg" group-title="Cricket", Malaysia Women Vs China Women | CHK Women's T20I Series 2026 (ENGLISH)
@@ -9,4 +9,10 @@ https://fancode-bd-srhady.vercel.app/malaysia_women_vs_china_women_142295_englis
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142157_5954_TOL_LAF_FC-Web.png" group-title="Football", Toluca Vs Los Angeles Fc | CONCACAF Champions Cup 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/toluca_vs_los_angeles_fc_142159_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png" group-title="Football", Minerva Academy Fc Vs East Bengal Fc Junior | Dream Sports Championship Football 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/minerva_academy_fc_vs_east_bengal_fc_junior_142359_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png" group-title="Football", Bengaluru Football Club Vs Sreenidi Deccan Fc | Dream Sports Championship Football 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/bengaluru_football_club_vs_sreenidi_deccan_fc_142360_english.m3u8
 
