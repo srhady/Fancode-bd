@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:00:34 PM 08-05-2026",
+    "last update time": "09:15:19 PM 08-05-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -173,6 +173,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/world_feed___day_2_142095_english.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Groups   Day 2",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg",
+            "team_1": "Featured Groups - Day 2",
+            "team_2": "Quail Hollow Club - Charlotte, North Carolina",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Truist Championship 2026",
+            "match_name": "Featured Groups   Day 2 | Truist Championship 2026 [ENGLISH]",
+            "match_id": "142098",
+            "startTime": "08 May 2026 08:45 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/featured_groups___day_2_142098_english.m3u8"
         }
     ]
 }
