@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:15:21 AM 08-05-2026",
+    "last update time": "10:30:28 AM 08-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,6 +23,23 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Mis E Ainak Region Vs Amo Region",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
+            "team_1": "Mis-e-Ainak Region",
+            "team_2": "Amo Region",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Super Cola National T20 Cup, 2026",
+            "match_name": "Mis E Ainak Region Vs Amo Region | Super Cola National T20 Cup, 2026 [ENGLISH]",
+            "match_id": "142413",
+            "startTime": "08 May 2026 10:00 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/mis_e_ainak_region_vs_amo_region_142413_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "China Women Vs Malaysia Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CHK-Womens-T20_fc-web.jpg",
             "team_1": "China Women",
@@ -37,23 +54,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/china_women_vs_malaysia_women_142297_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Fc Goa Junior Vs Classic Football Academy",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
-            "team_1": "FC Goa Junior",
-            "team_2": "Classic Football Academy",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "Fc Goa Junior Vs Classic Football Academy | Dream Sports Championship Football 2026 [ENGLISH]",
-            "match_id": "142364",
-            "startTime": "08 May 2026 07:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/fc_goa_junior_vs_classic_football_academy_142364_english.m3u8"
         }
     ]
 }
