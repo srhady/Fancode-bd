@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:30:25 PM 08-05-2026",
+    "last update time": "07:45:29 PM 08-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,74 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/speen_ghar_region_vs_boost_region_142414_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sporting Club Delhi Vs Odisha Fc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140460_5956_SCD_ODS_FC-Web_1772964305730.jpg",
-            "team_1": "Sporting Club Delhi",
-            "team_2": "Odisha FC",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ISL 2025-26",
-            "match_name": "Sporting Club Delhi Vs Odisha Fc | ISL 2025-26 [ENGLISH]",
-            "match_id": "140460",
-            "startTime": "08 May 2026 05:00 PM",
-            "is_drm": true,
-            "clearkey": "aca5fee52b22406184203baa10c9f87c:03b23516524c72338c8aa7b3b8507d7d",
-            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/140460_english_dash_93767_1drmta-di_h264/index.mpd"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sporting Club Delhi Vs Odisha Fc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140460_5956_SCD_ODS_FC-Web_1772964305730.jpg",
-            "team_1": "Sporting Club Delhi",
-            "team_2": "Odisha FC",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "HINDI",
-            "event_name": "ISL 2025-26",
-            "match_name": "Sporting Club Delhi Vs Odisha Fc | ISL 2025-26 [HINDI]",
-            "match_id": "140460",
-            "startTime": "08 May 2026 05:00 PM",
-            "is_drm": true,
-            "clearkey": "e4764d4c64eb45b099bd3638536cecce:ea41fb24b32fcdf528918032e80767f2",
-            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/140460_hindi_dash_90177_1drmta-di_h264/index.mpd"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sporting Club Delhi Vs Odisha Fc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140460_5956_SCD_ODS_FC-Web_1772964305730.jpg",
-            "team_1": "Sporting Club Delhi",
-            "team_2": "Odisha FC",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "MALAYALAM",
-            "event_name": "ISL 2025-26",
-            "match_name": "Sporting Club Delhi Vs Odisha Fc | ISL 2025-26 [MALAYALAM]",
-            "match_id": "140460",
-            "startTime": "08 May 2026 05:00 PM",
-            "is_drm": true,
-            "clearkey": "ab2e56fb0d4e40c9b50b184cb26624a0:fef74de6824ff7f0efb34486f8ab2a72",
-            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/140460_malayalam_dash_1581_1drmta-di_h264/index.mpd"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sporting Club Delhi Vs Odisha Fc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140460_5956_SCD_ODS_FC-Web_1772964305730.jpg",
-            "team_1": "Sporting Club Delhi",
-            "team_2": "Odisha FC",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "BENGALI",
-            "event_name": "ISL 2025-26",
-            "match_name": "Sporting Club Delhi Vs Odisha Fc | ISL 2025-26 [BENGALI]",
-            "match_id": "140460",
-            "startTime": "08 May 2026 05:00 PM",
-            "is_drm": true,
-            "clearkey": "74ca90947a8244e7928a9da0d6517722:5827a3bd1de5f59d085dcb5b480ea148",
-            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/140460_bengali_dash_14330_1drmta-di_h264/index.mpd"
         },
         {
             "event_category": "MotoGP",
@@ -241,6 +173,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/y__hanfmann_vs_l__darderi__142615_english.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "World Feed   Day 2",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ONEflight-Myrtle-Beach-Classic-2026-old.png",
+            "team_1": "World Feed - Day 2",
+            "team_2": "Dunes Golf and Beach Club - Myrtle Beach, South Ca",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ONEflight Myrtle Beach Classic 2026",
+            "match_name": "World Feed   Day 2 | ONEflight Myrtle Beach Classic 2026 [ENGLISH]",
+            "match_id": "142111",
+            "startTime": "08 May 2026 07:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/world_feed___day_2_142111_english.m3u8"
         }
     ]
 }
