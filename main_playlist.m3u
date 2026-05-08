@@ -1,15 +1,21 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:45:26 AM 08-05-2026
+#last update time: 08:00:30 AM 08-05-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="Cricket", Fiji Vs Vanuatu | ICC Men's T20 WC EAP Sub-regional Qualifier A + B  (ENGLISH)
-https://fancode-bd-srhady.vercel.app/fiji_vs_vanuatu_142304_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="Cricket", Vanuatu Vs Fiji | ICC Men's T20 WC EAP Sub-regional Qualifier A + B  (ENGLISH)
+https://fancode-bd-srhady.vercel.app/vanuatu_vs_fiji_142304_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="Cricket", Indonesia Vs Philippines | ICC Men's T20 WC EAP Sub-regional Qualifier A + B  (ENGLISH)
 https://fancode-bd-srhady.vercel.app/indonesia_vs_philippines_142303_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CHK-Womens-T20_fc-web.jpg" group-title="Cricket", China Women Vs Malaysia Women | CHK Women's T20I Series 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/china_women_vs_malaysia_women_142297_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png" group-title="Football", Fc Goa Junior Vs Classic Football Academy | Dream Sports Championship Football 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/fc_goa_junior_vs_classic_football_academy_142364_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png" group-title="Football", Reliance Foundation Young Champs Vs Alchemy International Fa | Dream Sports Championship Football 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/reliance_foundation_young_champs_vs_alchemy_international_fa_142363_english.m3u8
 
