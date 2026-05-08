@@ -2,6 +2,41 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:15:28 AM 08-05-2026",
-    "matches": []
+    "last update time": "06:30:27 AM 08-05-2026",
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Fiji Vs Vanuatu",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Fiji",
+            "team_2": "Vanuatu",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
+            "match_name": "Fiji Vs Vanuatu | ICC Men's T20 WC EAP Sub-regional Qualifier A + B  [ENGLISH]",
+            "match_id": "142304",
+            "startTime": "08 May 2026 06:00 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/fiji_vs_vanuatu_142304_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Indonesia Vs Philippines",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Indonesia",
+            "team_2": "Philippines",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
+            "match_name": "Indonesia Vs Philippines | ICC Men's T20 WC EAP Sub-regional Qualifier A + B  [ENGLISH]",
+            "match_id": "142303",
+            "startTime": "08 May 2026 06:00 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/indonesia_vs_philippines_142303_english.m3u8"
+        }
+    ]
 }
