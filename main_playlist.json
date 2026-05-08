@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:00:25 AM 08-05-2026",
+    "last update time": "10:15:21 AM 08-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,40 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/bangladesh_vs_pakistan_142160_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Vanuatu Vs Fiji",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Vanuatu",
-            "team_2": "Fiji",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
-            "match_name": "Vanuatu Vs Fiji | ICC Men's T20 WC EAP Sub-regional Qualifier A + B  [ENGLISH]",
-            "match_id": "142304",
-            "startTime": "08 May 2026 06:00 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/vanuatu_vs_fiji_142304_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Indonesia Vs Philippines",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Indonesia",
-            "team_2": "Philippines",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
-            "match_name": "Indonesia Vs Philippines | ICC Men's T20 WC EAP Sub-regional Qualifier A + B  [ENGLISH]",
-            "match_id": "142303",
-            "startTime": "08 May 2026 06:00 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/indonesia_vs_philippines_142303_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -88,23 +54,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/fc_goa_junior_vs_classic_football_academy_142364_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Reliance Foundation Young Champs Vs Alchemy International Fa",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
-            "team_1": "Reliance Foundation Young Champs",
-            "team_2": "Alchemy International FA",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "Reliance Foundation Young Champs Vs Alchemy International Fa | Dream Sports Championship Football 2026 [ENGLISH]",
-            "match_id": "142363",
-            "startTime": "08 May 2026 07:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/reliance_foundation_young_champs_vs_alchemy_international_fa_142363_english.m3u8"
         }
     ]
 }
