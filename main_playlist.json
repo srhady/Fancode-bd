@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:00:31 PM 08-05-2026",
+    "last update time": "10:15:28 PM 08-05-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -122,23 +122,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/y__hanfmann_vs_l__darderi__142615_english.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "World Feed   Day 2",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ONEflight-Myrtle-Beach-Classic-2026-old.png",
-            "team_1": "World Feed - Day 2",
-            "team_2": "Dunes Golf and Beach Club - Myrtle Beach, South Ca",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ONEflight Myrtle Beach Classic 2026",
-            "match_name": "World Feed   Day 2 | ONEflight Myrtle Beach Classic 2026 [ENGLISH]",
-            "match_id": "142111",
-            "startTime": "08 May 2026 07:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/world_feed___day_2_142111_english.m3u8"
         },
         {
             "event_category": "Golf",
