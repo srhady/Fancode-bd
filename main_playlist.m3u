@@ -1,19 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:00:31 AM 09-05-2026
+#last update time: 03:15:28 AM 09-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131174_5427_LE_OSN_FC-Web.png" group-title="Football", Levante Vs Ca Osasuna | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=97e5727ca30e432a91951e2be6621244:d866b3dd4225c140c8b2c26f752c2a41
-https://bd-mc-flive.fancode.com/mumbai/131174_english_dash_387_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hull-City-vs-Millwall_fc-web.jpg" group-title="Football", Hull City Vs Millwall F.c. | EFL Championship 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/hull_city_vs_millwall_f_c__142497_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778266475991/142376_CASACARDS_APP.png" group-title="Football", Cádiz Vs Deportivo La Coruna | LALIGA Hypermotion 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/c_diz_vs_deportivo_la_coruna_142376_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 3   Main Feed | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_3___main_feed_142223_english.m3u8
