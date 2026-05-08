@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:30:29 AM 09-05-2026",
+    "last update time": "12:45:28 AM 09-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -20,6 +20,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/al_kholood_club_vs_al_hilal_sfc_142162_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Levante Vs Ca Osasuna",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131174_5427_LE_OSN_FC-Web.png",
+            "team_1": "Levante",
+            "team_2": "CA Osasuna",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Levante Vs Ca Osasuna | LALIGA 2025-26 [ENGLISH]",
+            "match_id": "131174",
+            "startTime": "09 May 2026 12:30 AM",
+            "is_drm": true,
+            "clearkey": "97e5727ca30e432a91951e2be6621244:d866b3dd4225c140c8b2c26f752c2a41",
+            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/131174_english_dash_387_1drmta-di_h264/index.mpd"
         },
         {
             "event_category": "Football",
