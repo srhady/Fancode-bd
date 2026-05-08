@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:15:20 PM 08-05-2026
+#last update time: 05:30:27 PM 08-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket", Bangladesh Vs Pakistan | Pakistan tour of Bangladesh 2026 (ENGLISH)
@@ -9,6 +9,26 @@ https://fancode-bd-srhady.vercel.app/bangladesh_vs_pakistan_142160_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Cricket", Speen Ghar Region Vs Boost Region | Super Cola National T20 Cup 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/speen_ghar_region_vs_boost_region_142414_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140460_5956_SCD_ODS_FC-Web_1772964305730.jpg" group-title="Football", Sporting Club Delhi Vs Odisha Fc | ISL 2025-26 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aca5fee52b22406184203baa10c9f87c:03b23516524c72338c8aa7b3b8507d7d
+https://bd-mc-flive.fancode.com/mumbai/140460_english_dash_93767_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140460_5956_SCD_ODS_FC-Web_1772964305730.jpg" group-title="Football", Sporting Club Delhi Vs Odisha Fc | ISL 2025-26 (HINDI) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4764d4c64eb45b099bd3638536cecce:ea41fb24b32fcdf528918032e80767f2
+https://bd-mc-flive.fancode.com/mumbai/140460_hindi_dash_90177_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140460_5956_SCD_ODS_FC-Web_1772964305730.jpg" group-title="Football", Sporting Club Delhi Vs Odisha Fc | ISL 2025-26 (MALAYALAM) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab2e56fb0d4e40c9b50b184cb26624a0:fef74de6824ff7f0efb34486f8ab2a72
+https://bd-mc-flive.fancode.com/mumbai/140460_malayalam_dash_1581_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140460_5956_SCD_ODS_FC-Web_1772964305730.jpg" group-title="Football", Sporting Club Delhi Vs Odisha Fc | ISL 2025-26 (BENGALI) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74ca90947a8244e7928a9da0d6517722:5827a3bd1de5f59d085dcb5b480ea148
+https://bd-mc-flive.fancode.com/mumbai/140460_bengali_dash_14330_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png" group-title="Football", Fc Madras Vs Corbett Fc | Dream Sports Championship Football 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/fc_madras_vs_corbett_fc_142367_english.m3u8
@@ -37,23 +57,6 @@ https://fancode-bd-srhady.vercel.app/day_3___court_13_142613_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", D. Altmaier Vs A. Zverev | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/d__altmaier_vs_a__zverev_142614_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140460_5956_SCD_ODS_FC-Web_1772964305730.jpg" group-title="Football", Sporting Club Delhi Vs Odisha Fc | ISL 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aca5fee52b22406184203baa10c9f87c:03b23516524c72338c8aa7b3b8507d7d
-https://bd-mc-flive.fancode.com/mumbai/140460_english_dash_93767_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140460_5956_SCD_ODS_FC-Web_1772964305730.jpg" group-title="Football", Sporting Club Delhi Vs Odisha Fc | ISL 2025-26 (HINDI) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e4764d4c64eb45b099bd3638536cecce:ea41fb24b32fcdf528918032e80767f2
-https://bd-mc-flive.fancode.com/mumbai/140460_hindi_dash_90177_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140460_5956_SCD_ODS_FC-Web_1772964305730.jpg" group-title="Football", Sporting Club Delhi Vs Odisha Fc | ISL 2025-26 (MALAYALAM) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab2e56fb0d4e40c9b50b184cb26624a0:fef74de6824ff7f0efb34486f8ab2a72
-https://bd-mc-flive.fancode.com/mumbai/140460_malayalam_dash_1581_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140460_5956_SCD_ODS_FC-Web_1772964305730.jpg" group-title="Football", Sporting Club Delhi Vs Odisha Fc | ISL 2025-26 (BENGALI) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=74ca90947a8244e7928a9da0d6517722:5827a3bd1de5f59d085dcb5b480ea148
-https://bd-mc-flive.fancode.com/mumbai/140460_bengali_dash_14330_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf", Main Feed   Day 2 | Truist Championship 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/main_feed___day_2_142096_english.m3u8
 
