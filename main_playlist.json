@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:00:32 PM 08-05-2026",
+    "last update time": "11:15:22 PM 08-05-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -37,23 +37,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/day_3___supertennis_arena_142222_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 3   Court 1",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "Day 3 - Court 1",
-            "team_2": "Rome, Italy",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "Day 3   Court 1 | ATP Masters Internazionali BNL d'Italia 2026 [ENGLISH]",
-            "match_id": "142611",
-            "startTime": "08 May 2026 02:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/day_3___court_1_142611_english.m3u8"
         },
         {
             "event_category": "Tennis",
