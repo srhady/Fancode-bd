@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:30:26 PM 09-05-2026",
+    "last update time": "01:45:24 PM 09-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -71,23 +71,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/auckland_vs_adelaide_united_142504_english.m3u8"
-        },
-        {
-            "event_category": "Kabaddi",
-            "title": "Goat Warriors Vs Roaring Rhinos",
-            "src": "https://images.fancode.com/aig/match/v1778306880632/142456_CASACARDS_APP.png",
-            "team_1": "Goat Warriors",
-            "team_2": "Roaring Rhinos",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Young Star Kabaddi League 2026",
-            "match_name": "Goat Warriors Vs Roaring Rhinos | Young Star Kabaddi League 2026 [ENGLISH]",
-            "match_id": "142456",
-            "startTime": "09 May 2026 12:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/goat_warriors_vs_roaring_rhinos_142456_english.m3u8"
         },
         {
             "event_category": "MotoGP",
