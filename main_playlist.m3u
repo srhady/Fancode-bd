@@ -1,31 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:30:20 PM 09-05-2026
+#last update time: 07:45:23 PM 09-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140510_5956_FCG_MBSG_FC-Web_1772475227847.jpg" group-title="Football", Fc Goa Vs Mohun Bagan Super Giant | ISL 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a665401532a45ceb1f7f47c75fe7513:9b42759919b99a488b99e146c435ab63
-https://bd-mc-flive.fancode.com/mumbai/140510_english_dash_14697_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140510_5956_FCG_MBSG_FC-Web_1772475227847.jpg" group-title="Football", Fc Goa Vs Mohun Bagan Super Giant | ISL 2025-26 (HINDI) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=abd03bda2e924003b3ec67a1fd65122e:2880f82e52a928b453e5d76c30fedded
-https://bd-mc-flive.fancode.com/mumbai/140510_hindi_dash_66127_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140510_5956_FCG_MBSG_FC-Web_1772475227847.jpg" group-title="Football", Fc Goa Vs Mohun Bagan Super Giant | ISL 2025-26 (MALAYALAM) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=20a6f08dafb94e3cb902a6a16f59a6d4:1ac57e59b482bda689bfcf7bc5162219
-https://bd-mc-flive.fancode.com/mumbai/140510_malayalam_dash_23715_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140510_5956_FCG_MBSG_FC-Web_1772475227847.jpg" group-title="Football", Fc Goa Vs Mohun Bagan Super Giant | ISL 2025-26 (BENGALI) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8d46c9fa51b74bbb93f2f24049c2fae8:9ccf28480d58d1eee40b8c632d407d40
-https://bd-mc-flive.fancode.com/mumbai/140510_bengali_dash_73845_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Middlesbrough-vs-Southampton-F.C._fc-web.jpg" group-title="Football", Middlesbrough F.c. Vs Southampton F.c. | EFL Championship 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/middlesbrough_f_c__vs_southampton_f_c__142498_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131176_5427_ELC_ALA_FC-Web.png" group-title="Football", Elche Cf Vs Deportivo Alaves | LALIGA 2025-26 (ENGLISH) [DRM]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
