@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:30:22 AM 09-05-2026",
+    "last update time": "10:45:20 AM 09-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,6 +37,40 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/speen_ghar_region_vs_amo_region_142415_english.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Australia   Day 1",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
+            "team_1": "Australia - Day 1",
+            "team_2": "Australia",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Ferrari Challenge Series 2026",
+            "match_name": "Australia   Day 1 | Ferrari Challenge Series 2026 [ENGLISH]",
+            "match_id": "142523",
+            "startTime": "09 May 2026 10:18 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/australia___day_1_142523_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Papua New Guinea Vs South Korea",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Papua New Guinea",
+            "team_2": "South Korea",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
+            "match_name": "Papua New Guinea Vs South Korea | ICC Men's T20 WC EAP Sub-regional Qualifier A + B  [ENGLISH]",
+            "match_id": "142308",
+            "startTime": "09 May 2026 10:30 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/papua_new_guinea_vs_south_korea_142308_english.m3u8"
         }
     ]
 }
