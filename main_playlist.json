@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:30:23 PM 09-05-2026",
+    "last update time": "04:45:19 PM 09-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -71,6 +71,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/sydney_fc_vs_newcastle_jets_142505_english.m3u8"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Lightning Lions Vs Jungle Panthers",
+            "src": "https://images.fancode.com/aig/match/v1778306880647/142459_CASACARDS_APP.png",
+            "team_1": "Lightning Lions",
+            "team_2": "Jungle Panthers",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Young Star Kabaddi League 2026",
+            "match_name": "Lightning Lions Vs Jungle Panthers | Young Star Kabaddi League 2026 [ENGLISH]",
+            "match_id": "142459",
+            "startTime": "09 May 2026 04:20 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/lightning_lions_vs_jungle_panthers_142459_english.m3u8"
         },
         {
             "event_category": "MotoGP",
