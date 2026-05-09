@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:30:21 PM 09-05-2026
+#last update time: 03:45:19 PM 09-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket", Bangladesh Vs Pakistan | Pakistan tour of Bangladesh 2026 (ENGLISH)
@@ -27,4 +27,7 @@ https://fancode-bd-srhady.vercel.app/day_4___supertennis_arena_142620_english.m3
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 4   Pietrangeli | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_4___pietrangeli_142619_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 4   Bnp Paribas | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/day_4___bnp_paribas_142225_english.m3u8
 
