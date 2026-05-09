@@ -1,11 +1,20 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:15:19 PM 09-05-2026
+#last update time: 03:30:21 PM 09-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket", Bangladesh Vs Pakistan | Pakistan tour of Bangladesh 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/bangladesh_vs_pakistan_142160_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Cricket", Mis E Ainak Region Vs Band E Amir Region | Super Cola National T20 Cup 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/mis_e_ainak_region_vs_band_e_amir_region_142416_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778306880658/142458_CASACARDS_APP.png" group-title="Kabaddi", Raging Bulls Vs Roaring Rhinos | Young Star Kabaddi League 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/raging_bulls_vs_roaring_rhinos_142458_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sydney-FC-vs-Newcastle-Jets_fc-web.jpg" group-title="Football", Sydney Fc Vs Newcastle Jets | A League 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/sydney_fc_vs_newcastle_jets_142505_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778057955673.png" group-title="MotoGP", France Gp | MICHELIN® GRAND PRIX OF FRANCE 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/france_gp_139940_english.m3u8
