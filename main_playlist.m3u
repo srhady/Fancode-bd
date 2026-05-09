@@ -1,36 +1,21 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:15:19 PM 09-05-2026
+#last update time: 10:30:24 PM 09-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140511_5956_JFC_BFC_FC-Web_1772475343660.jpg" group-title="Football", Jamshedpur Fc Vs Bengaluru Fc | ISL 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=55a51a5fc2404bffb876770c8c2a71f2:66b87bf04e1c91ca788fca1f0752245f
-https://bd-mc-flive.fancode.com/mumbai/140511_english_dash_30148_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140511_5956_JFC_BFC_FC-Web_1772475343660.jpg" group-title="Football", Jamshedpur Fc Vs Bengaluru Fc | ISL 2025-26 (HINDI) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d137db3bdffa40a2a30404e6fd072bce:f72da010d8aff5dc971e9000228472a8
-https://bd-mc-flive.fancode.com/mumbai/140511_hindi_dash_26844_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140511_5956_JFC_BFC_FC-Web_1772475343660.jpg" group-title="Football", Jamshedpur Fc Vs Bengaluru Fc | ISL 2025-26 (MALAYALAM) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3524c92805e5416b8e7b13ac952ef1ab:37b258df9a1568acf94d367d645604f6
-https://bd-mc-flive.fancode.com/mumbai/140511_malayalam_dash_27536_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140511_5956_JFC_BFC_FC-Web_1772475343660.jpg" group-title="Football", Jamshedpur Fc Vs Bengaluru Fc | ISL 2025-26 (BENGALI) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b128355711a9449db1598bcd9c2b14db:2c29a2a60291f4d046eb66a17aa70b2e
-https://bd-mc-flive.fancode.com/mumbai/140511_bengali_dash_1744_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131178_5427_SEV_ESL_FC-Web.png" group-title="Football", Sevilla Fc Vs Rcd Espanyol | LALIGA 2025-26 (ENGLISH) [DRM]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c380758f660d4655bbc5406987a5fe86:b814fa56488b92aa4b45f500b99693b2
 https://bd-mc-flive.fancode.com/mumbai/131178_english_dash_8823_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778295458186/142489_CASACARDS_APP.png" group-title="Football", Stevenage Vs Stockport County | League One 2025-26 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/stevenage_vs_stockport_county_142489_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131172_5427_ATL_CEV_FC-Web.png" group-title="Football", Atletico De Madrid Vs Rc Celta | LALIGA 2025-26 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db6bc0f9e90349ceaf45b545433154b9:6c359973c1094428f32c5ec27b2215b5
+https://bd-mc-flive.fancode.com/mumbai/131172_english_dash_64092_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778266487066/142377_CASACARDS_APP.png" group-title="Football", Real Valladolid Vs Real Zaragoza | LALIGA Hypermotion 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/real_valladolid_vs_real_zaragoza_142377_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 4   Main Feed | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_4___main_feed_142224_english.m3u8
@@ -52,9 +37,4 @@ https://fancode-bd-srhady.vercel.app/featured_groups___day_3_142102_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf", Marquee Group   Day 3 | Truist Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/marquee_group___day_3_142101_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131172_5427_ATL_CEV_FC-Web.png" group-title="Football", Atletico De Madrid Vs Rc Celta | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=db6bc0f9e90349ceaf45b545433154b9:6c359973c1094428f32c5ec27b2215b5
-https://bd-mc-flive.fancode.com/mumbai/131172_english_dash_64092_1drmta-di_h264/index.mpd
 
