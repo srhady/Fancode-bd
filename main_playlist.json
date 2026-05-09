@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:15:16 PM 09-05-2026",
+    "last update time": "05:30:19 PM 09-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -105,6 +105,23 @@
             "is_drm": true,
             "clearkey": "8d46c9fa51b74bbb93f2f24049c2fae8:9ccf28480d58d1eee40b8c632d407d40",
             "stream_url": "https://bd-mc-flive.fancode.com/mumbai/140510_bengali_dash_73845_1drmta-di_h264/index.mpd"
+        },
+        {
+            "event_category": "Football",
+            "title": "Middlesbrough F.c. Vs Southampton F.c.",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Middlesbrough-vs-Southampton-F.C._fc-web.jpg",
+            "team_1": "Middlesbrough F.C.",
+            "team_2": "Southampton F.C.",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Middlesbrough F.c. Vs Southampton F.c. | EFL Championship 2025-26 [ENGLISH]",
+            "match_id": "142498",
+            "startTime": "09 May 2026 05:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/middlesbrough_f_c__vs_southampton_f_c__142498_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -258,6 +275,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/day_4___court_1_142621_english.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Main Feed   Day 3",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg",
+            "team_1": "Main Feed - Day 3",
+            "team_2": "Quail Hollow Club - Charlotte, North Carolina",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Truist Championship 2026",
+            "match_name": "Main Feed   Day 3 | Truist Championship 2026 [ENGLISH]",
+            "match_id": "142100",
+            "startTime": "09 May 2026 05:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/main_feed___day_3_142100_english.m3u8"
         }
     ]
 }
