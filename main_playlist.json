@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:15:21 PM 09-05-2026",
+    "last update time": "06:30:23 PM 09-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,40 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/mis_e_ainak_region_vs_band_e_amir_region_142416_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh Vs Pakistan",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png",
-            "team_1": "Bangladesh",
-            "team_2": "Pakistan",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Pakistan tour of Bangladesh, 2026",
-            "match_name": "Bangladesh Vs Pakistan | Pakistan tour of Bangladesh, 2026 [ENGLISH]",
-            "match_id": "142160",
-            "startTime": "08 May 2026 09:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/bangladesh_vs_pakistan_142160_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Middlesbrough F.c. Vs Southampton F.c.",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Middlesbrough-vs-Southampton-F.C._fc-web.jpg",
-            "team_1": "Middlesbrough F.C.",
-            "team_2": "Southampton F.C.",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Middlesbrough F.c. Vs Southampton F.c. | EFL Championship 2025-26 [ENGLISH]",
-            "match_id": "142498",
-            "startTime": "09 May 2026 05:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/middlesbrough_f_c__vs_southampton_f_c__142498_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -125,11 +91,28 @@
         },
         {
             "event_category": "Football",
+            "title": "Middlesbrough F.c. Vs Southampton F.c.",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Middlesbrough-vs-Southampton-F.C._fc-web.jpg",
+            "team_1": "Middlesbrough F.C.",
+            "team_2": "Southampton F.C.",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Middlesbrough F.c. Vs Southampton F.c. | EFL Championship 2025-26 [ENGLISH]",
+            "match_id": "142498",
+            "startTime": "09 May 2026 05:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/middlesbrough_f_c__vs_southampton_f_c__142498_english.m3u8"
+        },
+        {
+            "event_category": "Football",
             "title": "Elche Cf Vs Deportivo Alaves",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131176_5427_ELC_ALA_FC-Web.png",
             "team_1": "Elche CF",
             "team_2": "Deportivo Alaves",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "LALIGA 2025-26",
@@ -139,23 +122,6 @@
             "is_drm": true,
             "clearkey": "b99620c6e38348e6bd4db6aa50beba61:0e54459e6098211904fc55fe423df0a3",
             "stream_url": "https://bd-mc-flive.fancode.com/mumbai/131176_english_dash_18928_1drmta-di_h264/index.mpd"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sydney Fc Vs Newcastle Jets",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sydney-FC-vs-Newcastle-Jets_fc-web.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Newcastle Jets",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney Fc Vs Newcastle Jets | A League 2025-26 [ENGLISH]",
-            "match_id": "142505",
-            "startTime": "09 May 2026 03:15 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/sydney_fc_vs_newcastle_jets_142505_english.m3u8"
         },
         {
             "event_category": "MotoGP",
@@ -309,6 +275,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/featured_groups___day_3_142102_english.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Marquee Group   Day 3",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg",
+            "team_1": "Marquee Group - Day 3",
+            "team_2": "Quail Hollow Club - Charlotte, North Carolina",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Truist Championship 2026",
+            "match_name": "Marquee Group   Day 3 | Truist Championship 2026 [ENGLISH]",
+            "match_id": "142101",
+            "startTime": "09 May 2026 06:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/marquee_group___day_3_142101_english.m3u8"
         }
     ]
 }
