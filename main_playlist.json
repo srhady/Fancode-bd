@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:45:18 AM 09-05-2026",
+    "last update time": "12:00:23 PM 09-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -56,21 +56,21 @@
             "stream_url": "https://fancode-bd-srhady.vercel.app/papua_new_guinea_vs_south_korea_142308_english.m3u8"
         },
         {
-            "event_category": "Kabaddi",
-            "title": "Raging Bulls Vs Lightning Lions",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-copy.jpg",
-            "team_1": "Raging Bulls",
-            "team_2": "Lightning Lions",
+            "event_category": "Football",
+            "title": "Auckland Vs Adelaide United",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Auckland-vs-Adelaide-United_fc-web.jpg",
+            "team_1": "Auckland",
+            "team_2": "Adelaide United",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
-            "event_name": "Young Star Kabaddi League 2026",
-            "match_name": "Raging Bulls Vs Lightning Lions | Young Star Kabaddi League 2026 [ENGLISH]",
-            "match_id": "142455",
-            "startTime": "09 May 2026 10:30 AM",
+            "event_name": "A League 2025-26",
+            "match_name": "Auckland Vs Adelaide United | A League 2025-26 [ENGLISH]",
+            "match_id": "142504",
+            "startTime": "09 May 2026 11:30 AM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/raging_bulls_vs_lightning_lions_142455_english.m3u8"
+            "stream_url": "https://fancode-bd-srhady.vercel.app/auckland_vs_adelaide_united_142504_english.m3u8"
         },
         {
             "event_category": "Motorsports",

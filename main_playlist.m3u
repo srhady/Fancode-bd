@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:45:18 AM 09-05-2026
+#last update time: 12:00:23 PM 09-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket", Bangladesh Vs Pakistan | Pakistan tour of Bangladesh 2026 (ENGLISH)
@@ -13,8 +13,8 @@ https://fancode-bd-srhady.vercel.app/speen_ghar_region_vs_amo_region_142415_engl
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="Cricket", Papua New Guinea Vs South Korea | ICC Men's T20 WC EAP Sub-regional Qualifier A + B  (ENGLISH)
 https://fancode-bd-srhady.vercel.app/papua_new_guinea_vs_south_korea_142308_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-copy.jpg" group-title="Kabaddi", Raging Bulls Vs Lightning Lions | Young Star Kabaddi League 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/raging_bulls_vs_lightning_lions_142455_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Auckland-vs-Adelaide-United_fc-web.jpg" group-title="Football", Auckland Vs Adelaide United | A League 2025-26 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/auckland_vs_adelaide_united_142504_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg" group-title="Motorsports", Australia   Day 1 | Ferrari Challenge Series 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/australia___day_1_142523_english.m3u8
