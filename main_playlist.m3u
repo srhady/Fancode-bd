@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:45:24 PM 09-05-2026
+#last update time: 02:00:24 PM 09-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket", Bangladesh Vs Pakistan | Pakistan tour of Bangladesh 2026 (ENGLISH)
@@ -15,6 +15,9 @@ https://fancode-bd-srhady.vercel.app/papua_new_guinea_vs_south_korea_142308_engl
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Auckland-vs-Adelaide-United_fc-web.jpg" group-title="Football", Auckland Vs Adelaide United | A League 2025-26 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/auckland_vs_adelaide_united_142504_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778306880655/142457_CASACARDS_APP.png" group-title="Kabaddi", River Ranger Vs Jungle Panthers | Young Star Kabaddi League 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/river_ranger_vs_jungle_panthers_142457_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778057955673.png" group-title="MotoGP", France Gp | MICHELIN® GRAND PRIX OF FRANCE 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/france_gp_139940_english.m3u8
