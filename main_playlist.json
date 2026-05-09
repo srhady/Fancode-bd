@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:15:24 AM 09-05-2026",
+    "last update time": "10:30:22 AM 09-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -22,21 +22,21 @@
             "stream_url": "https://fancode-bd-srhady.vercel.app/bangladesh_vs_pakistan_142160_english.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Minerva Academy Fc Vs Sreenidi Deccan Fc",
-            "src": " https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
-            "team_1": "Minerva Academy FC",
-            "team_2": "Sreenidi Deccan FC",
+            "event_category": "Cricket",
+            "title": "Speen Ghar Region Vs Amo Region",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
+            "team_1": "Speen Ghar Region",
+            "team_2": "Amo Region",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "Minerva Academy Fc Vs Sreenidi Deccan Fc | Dream Sports Championship Football 2026 [ENGLISH]",
-            "match_id": "142368",
-            "startTime": "09 May 2026 07:30 AM",
+            "event_name": "Super Cola National T20 Cup, 2026",
+            "match_name": "Speen Ghar Region Vs Amo Region | Super Cola National T20 Cup, 2026 [ENGLISH]",
+            "match_id": "142415",
+            "startTime": "09 May 2026 10:00 AM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/minerva_academy_fc_vs_sreenidi_deccan_fc_142368_english.m3u8"
+            "stream_url": "https://fancode-bd-srhady.vercel.app/speen_ghar_region_vs_amo_region_142415_english.m3u8"
         }
     ]
 }
