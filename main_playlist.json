@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:45:20 AM 09-05-2026",
+    "last update time": "11:00:29 AM 09-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -39,23 +39,6 @@
             "stream_url": "https://fancode-bd-srhady.vercel.app/speen_ghar_region_vs_amo_region_142415_english.m3u8"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Australia   Day 1",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
-            "team_1": "Australia - Day 1",
-            "team_2": "Australia",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Ferrari Challenge Series 2026",
-            "match_name": "Australia   Day 1 | Ferrari Challenge Series 2026 [ENGLISH]",
-            "match_id": "142523",
-            "startTime": "09 May 2026 10:18 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/australia___day_1_142523_english.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Papua New Guinea Vs South Korea",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
@@ -71,6 +54,40 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/papua_new_guinea_vs_south_korea_142308_english.m3u8"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Raging Bulls Vs Lightning Lions",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-copy.jpg",
+            "team_1": "Raging Bulls",
+            "team_2": "Lightning Lions",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Young Star Kabaddi League 2026",
+            "match_name": "Raging Bulls Vs Lightning Lions | Young Star Kabaddi League 2026 [ENGLISH]",
+            "match_id": "142455",
+            "startTime": "09 May 2026 10:30 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/raging_bulls_vs_lightning_lions_142455_english.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Australia   Day 1",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
+            "team_1": "Australia - Day 1",
+            "team_2": "Australia",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Ferrari Challenge Series 2026",
+            "match_name": "Australia   Day 1 | Ferrari Challenge Series 2026 [ENGLISH]",
+            "match_id": "142523",
+            "startTime": "09 May 2026 10:18 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/australia___day_1_142523_english.m3u8"
         }
     ]
 }
