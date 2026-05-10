@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:45:18 PM 10-05-2026",
+    "last update time": "12:00:22 AM 11-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -54,6 +54,23 @@
             "is_drm": true,
             "clearkey": "9f4b9db5df914d1e9af86b8c244a6b19:c095a7646ccb0843f9a34f9eaa8406a9",
             "stream_url": "https://bd-mc-flive.fancode.com/mumbai/131179_english_dash_19026_1drmta-di_h264/index.mpd"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al Ittihad Vs Damac Fc",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ittihad-vs-Damac-FC_FC-web.jpg",
+            "team_1": "Al-Ittihad",
+            "team_2": "Damac FC",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al Ittihad Vs Damac Fc | Roshn Saudi League 2025-2026 [ENGLISH]",
+            "match_id": "142149",
+            "startTime": "10 May 2026 11:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/al_ittihad_vs_damac_fc_142149_english.m3u8"
         },
         {
             "event_category": "Football",
@@ -112,7 +129,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142547_6062_IND_UZB_FC-WEB.jpg",
             "team_1": "India",
             "team_2": "Uzbekistan",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
@@ -122,6 +139,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/india_vs_uzbekistan_142547_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Chesterfield Vs Notts County",
+            "src": "https://images.fancode.com/aig/match/v1778387127055/142494_CASACARDS_APP.png",
+            "team_1": "Chesterfield",
+            "team_2": "Notts County",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "League Two 2025-26",
+            "match_name": "Chesterfield Vs Notts County | League Two 2025-26 [ENGLISH]",
+            "match_id": "142494",
+            "startTime": "10 May 2026 10:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chesterfield_vs_notts_county_142494_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -258,23 +292,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/world_feed___day_4_142103_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Chesterfield Vs Notts County",
-            "src": "https://images.fancode.com/aig/match/v1778387127055/142494_CASACARDS_APP.png",
-            "team_1": "Chesterfield",
-            "team_2": "Notts County",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "League Two 2025-26",
-            "match_name": "Chesterfield Vs Notts County | League Two 2025-26 [ENGLISH]",
-            "match_id": "142494",
-            "startTime": "10 May 2026 10:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chesterfield_vs_notts_county_142494_english.m3u8"
         }
     ]
 }

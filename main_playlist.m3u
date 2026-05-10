@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:45:18 PM 10-05-2026
+#last update time: 12:00:22 AM 11-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket", Guyana Harpy Eagles Vs West Indies Academy | West Indies Championship 2026 (ENGLISH)
@@ -15,6 +15,9 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/trinidad___tob
 #KODIPROP:inputstream.adaptive.license_key=9f4b9db5df914d1e9af86b8c244a6b19:c095a7646ccb0843f9a34f9eaa8406a9
 https://bd-mc-flive.fancode.com/mumbai/131179_english_dash_19026_1drmta-di_h264/index.mpd
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Ittihad-vs-Damac-FC_FC-web.jpg" group-title="Football", Al Ittihad Vs Damac Fc | Roshn Saudi League 2025-2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/al_ittihad_vs_damac_fc_142149_english.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142545_6062_VIE_KOR_FC-WEB.jpg" group-title="Football", Vietnam Vs Korea Republic | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/vietnam_vs_korea_republic_142545_english.m3u8
 
@@ -26,6 +29,9 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/united_arab_em
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142547_6062_IND_UZB_FC-WEB.jpg" group-title="Football", India Vs Uzbekistan | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/india_vs_uzbekistan_142547_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778387127055/142494_CASACARDS_APP.png" group-title="Football", Chesterfield Vs Notts County | League Two 2025-26 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chesterfield_vs_notts_county_142494_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 5   Main Feed | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5___main_feed_142226_english.m3u8
@@ -50,7 +56,4 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/t__paul_vs_l__
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf", World Feed   Day 4 | Truist Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/world_feed___day_4_142103_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778387127055/142494_CASACARDS_APP.png" group-title="Football", Chesterfield Vs Notts County | League Two 2025-26 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chesterfield_vs_notts_county_142494_english.m3u8
 
