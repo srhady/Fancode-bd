@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:45:16 AM 10-05-2026",
+    "last update time": "12:00:24 PM 10-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -71,23 +71,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hong_kong__china_women_vs_china_women_142300_english.m3u8"
-        },
-        {
-            "event_category": "Kabaddi",
-            "title": "Goat Warriors Vs River Ranger",
-            "src": "https://images.fancode.com/aig/match/v1778306880651/142460_CASACARDS_APP.png",
-            "team_1": "Goat Warriors",
-            "team_2": "River Ranger",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Young Star Kabaddi League 2026",
-            "match_name": "Goat Warriors Vs River Ranger | Young Star Kabaddi League 2026 [ENGLISH]",
-            "match_id": "142460",
-            "startTime": "10 May 2026 10:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/goat_warriors_vs_river_ranger_142460_english.m3u8"
         },
         {
             "event_category": "Motorsports",
