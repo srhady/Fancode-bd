@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:15:17 PM 10-05-2026",
+    "last update time": "01:30:30 PM 10-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -71,23 +71,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hong_kong__china_women_vs_china_women_142300_english.m3u8"
-        },
-        {
-            "event_category": "Kabaddi",
-            "title": "Raging Bulls Vs Jungle Panthers",
-            "src": "https://images.fancode.com/aig/match/v1778306880662/142461_CASACARDS_APP.png",
-            "team_1": "Raging Bulls",
-            "team_2": "Jungle Panthers",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Young Star Kabaddi League 2026",
-            "match_name": "Raging Bulls Vs Jungle Panthers | Young Star Kabaddi League 2026 [ENGLISH]",
-            "match_id": "142461",
-            "startTime": "10 May 2026 12:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/raging_bulls_vs_jungle_panthers_142461_english.m3u8"
         },
         {
             "event_category": "MotoGP",
