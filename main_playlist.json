@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:15:19 AM 11-05-2026",
+    "last update time": "02:30:24 AM 11-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,23 +37,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/trinidad___tobago_red_force_vs_barbados_pride_141956_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al Ittihad Vs Damac Fc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ittihad-vs-Damac-FC_FC-web.jpg",
-            "team_1": "Al-Ittihad",
-            "team_2": "Damac FC",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al Ittihad Vs Damac Fc | Roshn Saudi League 2025-2026 [ENGLISH]",
-            "match_id": "142149",
-            "startTime": "10 May 2026 11:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/al_ittihad_vs_damac_fc_142149_english.m3u8"
         },
         {
             "event_category": "Football",
