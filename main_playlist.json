@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:45:18 AM 10-05-2026",
+    "last update time": "08:00:23 AM 10-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -54,6 +54,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://fancode-bd-srhady.vercel.app/malaysia_women_vs_hong_kong__china_women_142299_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Alchemy International Fa Vs Classic Football Academy",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
+            "team_1": "Alchemy International FA",
+            "team_2": "Classic Football Academy",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "Alchemy International Fa Vs Classic Football Academy | Dream Sports Championship Football 2026 [ENGLISH]",
+            "match_id": "142370",
+            "startTime": "10 May 2026 07:30 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/alchemy_international_fa_vs_classic_football_academy_142370_english.m3u8"
         }
     ]
 }
