@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:00:30 PM 10-05-2026
+#last update time: 05:15:16 PM 10-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket", Bangladesh Vs Pakistan | Pakistan tour of Bangladesh 2026 (ENGLISH)
@@ -9,6 +9,26 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Cricket", Band E Amir Region Vs Speen Ghar Region | Super Cola National T20 Cup 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/band_e_amir_region_vs_speen_ghar_region_142418_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140512_5956_KBFC_MSC_FC-Web_1772475450502.jpg" group-title="Football", Kerala Blasters Fc Vs Mohammedan Sc | ISL 2025-26 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b596caeb817422aa98b4fb1ba03a4db:884b24c85105eb39d7c27a30a2df8174
+https://bd-mc-flive.fancode.com/mumbai/140512_english_dash_84558_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140512_5956_KBFC_MSC_FC-Web_1772475450502.jpg" group-title="Football", Kerala Blasters Fc Vs Mohammedan Sc | ISL 2025-26 (HINDI) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b47f03bcf5ab4d87855401da0b51608b:f8a2bba05c523ee3e2c9bc68161febf9
+https://bd-mc-flive.fancode.com/mumbai/140512_hindi_dash_16808_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140512_5956_KBFC_MSC_FC-Web_1772475450502.jpg" group-title="Football", Kerala Blasters Fc Vs Mohammedan Sc | ISL 2025-26 (MALAYALAM) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d7bacee1fc84981b1855aa65f6075a4:9a4b6bb618dfaeebb0e9653cb457ae14
+https://bd-mc-flive.fancode.com/mumbai/140512_malayalam_dash_51418_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140512_5956_KBFC_MSC_FC-Web_1772475450502.jpg" group-title="Football", Kerala Blasters Fc Vs Mohammedan Sc | ISL 2025-26 (BENGALI) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa6d49d2cd9e47278522ab13adf9806f:fa0f33f16e32ac01d7c826c3e179cbaf
+https://bd-mc-flive.fancode.com/mumbai/140512_bengali_dash_42018_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778306880663/142464_CASACARDS_APP.png" group-title="Kabaddi", Roaring Rhinos Vs Lightning Lions | Young Star Kabaddi League 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/roaring_rhinos_vs_lightning_lions_142464_english.m3u8
@@ -27,4 +47,7 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5___pietra
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 5   Supertennis Arena | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5___supertennis_arena_142227_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf", Main Feed   Day 4 | Truist Championship 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/main_feed___day_4_142104_english.m3u8
 
