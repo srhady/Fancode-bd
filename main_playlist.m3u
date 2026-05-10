@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:20 AM 11-05-2026
+#last update time: 12:45:19 AM 11-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket", Guyana Harpy Eagles Vs West Indies Academy | West Indies Championship 2026 (ENGLISH)
@@ -10,19 +10,28 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guyana_harpy_e
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket", Trinidad & Tobago Red Force Vs Barbados Pride | West Indies Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/trinidad___tobago_red_force_vs_barbados_pride_141956_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131179_5427_RO_GEF_FC-Web.png" group-title="Football", Real Oviedo Vs Getafe Cf | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f4b9db5df914d1e9af86b8c244a6b19:c095a7646ccb0843f9a34f9eaa8406a9
-https://bd-mc-flive.fancode.com/mumbai/131179_english_dash_19026_1drmta-di_h264/index.mpd
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Ittihad-vs-Damac-FC_FC-web.jpg" group-title="Football", Al Ittihad Vs Damac Fc | Roshn Saudi League 2025-2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/al_ittihad_vs_damac_fc_142149_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778266487038/142378_CASACARDS_APP.png" group-title="Football", Córdoba Vs Granada | LALIGA Hypermotion 2025-26 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/c_rdoba_vs_granada_142378_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131173_5427_BAR_RM_FC-Web.png" group-title="Football", Fc Barcelona Vs Real Madrid | LALIGA 2025-26 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe41df7af7e341d0b70f36d656b2735b:10b740a1fc88d6d2fc3df90ef2fb7b5a
+https://bd-mc-flive.fancode.com/mumbai/131173_english_dash_64087_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142546_6062_UAE_YMN_FC-WEB.jpg" group-title="Football", United Arab Emirates Vs Yemen | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/united_arab_emirates_vs_yemen_142546_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131173_5427_BAR_RM_FC-Web.png" group-title="Football", Fc Barcelona Vs Real Madrid | LALIGA 2025-26 (HINDI) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7892a0a537d341fbb46d6540177145aa:5a583e917e482d1f15b67dd48c5d2a11
+https://bd-mc-flive.fancode.com/mumbai/131173_hindi_dash_75596_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131173_5427_BAR_RM_FC-Web.png" group-title="Football", Fc Barcelona Vs Real Madrid | LALIGA 2025-26 (MALAYALAM) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84f7caec253840169e6d75f27801f13d:df511db43b244b4797901a20ad46ce56
+https://bd-mc-flive.fancode.com/mumbai/131173_malayalam_dash_62303_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131173_5427_BAR_RM_FC-Web.png" group-title="Football", Fc Barcelona Vs Real Madrid | LALIGA 2025-26 (BENGALI) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9153aa0d2ea4417bb5fb13f65cd11d2f:6385a78375f2009476f6161f8d2394e6
+https://bd-mc-flive.fancode.com/mumbai/131173_bengali_dash_27747_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142547_6062_IND_UZB_FC-WEB.jpg" group-title="Football", India Vs Uzbekistan | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/india_vs_uzbekistan_142547_english.m3u8
@@ -41,9 +50,6 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/featured_group
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf", Marquee Group   Day 4 | Truist Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/marquee_group___day_4_142105_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", T. Paul Vs L. Darderi | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/t__paul_vs_l__darderi_142623_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf", World Feed   Day 4 | Truist Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/world_feed___day_4_142103_english.m3u8
