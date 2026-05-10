@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:15:18 PM 10-05-2026",
+    "last update time": "04:30:26 PM 10-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -56,6 +56,23 @@
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/lightning_lions_vs_goat_warriors_142463_english.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Fc Madras Vs Punjab Fc Junior",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
+            "team_1": "FC Madras",
+            "team_2": "Punjab FC Junior",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "Fc Madras Vs Punjab Fc Junior | Dream Sports Championship Football 2026 [ENGLISH]",
+            "match_id": "142371",
+            "startTime": "10 May 2026 04:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/fc_madras_vs_punjab_fc_junior_142371_english.m3u8"
+        },
+        {
             "event_category": "MotoGP",
             "title": "France Gp",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778057955673.png",
@@ -105,23 +122,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5___pietrangeli_142622_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Fc Madras Vs Punjab Fc Junior",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
-            "team_1": "FC Madras",
-            "team_2": "Punjab FC Junior",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "Fc Madras Vs Punjab Fc Junior | Dream Sports Championship Football 2026 [ENGLISH]",
-            "match_id": "142371",
-            "startTime": "10 May 2026 04:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/fc_madras_vs_punjab_fc_junior_142371_english.m3u8"
         }
     ]
 }
