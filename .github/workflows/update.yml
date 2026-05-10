@@ -1,7 +1,6 @@
 name: Auto Update Playlist (Unlimited & Secure)
 
 on:
-  
   workflow_dispatch: 
 
 permissions:
@@ -24,7 +23,6 @@ jobs:
       - name: Install Dependencies
         run: pip install requests pytz
         
-      
       - name: Checkout Private Repo (Sports)
         uses: actions/checkout@v3
         with:
@@ -32,15 +30,19 @@ jobs:
           token: ${{ secrets.PAT_TOKEN }}
           path: private_repo
           
-      
       - name: Run Python Script & Copy Outputs
         run: |
           cd private_repo
           python bot.py
+          
           mv main_playlist.m3u ../
           mv main_playlist.json ../
           
-      
+          rm -rf ../raw_link
+          if [ -d "raw_link" ]; then
+            mv raw_link ../
+          fi
+          
       - name: Push Master Playlists to Private Repo
         run: |
           cd private_repo
@@ -50,15 +52,14 @@ jobs:
           git commit -m "Auto update: Master files & cleanup" || echo "No changes to commit"
           git push
           
-      
       - name: Clean up Private Files
         run: rm -rf private_repo
         
-      
       - name: Commit and Push Main Playlists to Public Repo
         run: |
           git config user.name "GitHub Action Bot"
           git config user.email "action@github.com"
-          git add main_playlist.m3u main_playlist.json
-          git commit -m "Auto update: Main Playlists" || echo "No changes to commit"
+          
+          git add main_playlist.m3u main_playlist.json raw_link/
+          git commit -m "Auto update: Main Playlists and Raw Links" || echo "No changes to commit"
           git push
