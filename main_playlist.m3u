@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:30:21 PM 10-05-2026
+#last update time: 05:45:16 PM 10-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket", Bangladesh Vs Pakistan | Pakistan tour of Bangladesh 2026 (ENGLISH)
@@ -29,6 +29,11 @@ https://bd-mc-flive.fancode.com/mumbai/140512_malayalam_dash_51418_1drmta-di_h26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa6d49d2cd9e47278522ab13adf9806f:fa0f33f16e32ac01d7c826c3e179cbaf
 https://bd-mc-flive.fancode.com/mumbai/140512_bengali_dash_42018_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131175_5427_MRC_VIL_FC-Web.png" group-title="Football", Rcd Mallorca Vs Villarreal Cf | LALIGA 2025-26 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f253d2db5ed4416a8a7f03f7c0c09142:1034853bf6d000cf65e862e56b7c5165
+https://bd-mc-flive.fancode.com/mumbai/131175_english_dash_99182_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778306880663/142464_CASACARDS_APP.png" group-title="Kabaddi", Roaring Rhinos Vs Lightning Lions | Young Star Kabaddi League 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/roaring_rhinos_vs_lightning_lions_142464_english.m3u8
