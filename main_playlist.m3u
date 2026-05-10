@@ -1,11 +1,14 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:15:16 AM 10-05-2026
+#last update time: 10:30:18 AM 10-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket", Bangladesh Vs Pakistan | Pakistan tour of Bangladesh 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/bangladesh_vs_pakistan_142160_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Cricket", Amo Region Vs Boost Region | Super Cola National T20 Cup 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/amo_region_vs_boost_region_142417_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CHK-Womens-T20_fc-web.jpg" group-title="Cricket", Malaysia Women Vs Hong Kong China Women | CHK Women's T20I Series 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/malaysia_women_vs_hong_kong__china_women_142299_english.m3u8
