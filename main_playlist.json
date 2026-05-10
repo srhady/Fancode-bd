@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:15:20 AM 10-05-2026",
+    "last update time": "11:30:20 AM 10-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,7 +19,7 @@
             "startTime": "08 May 2026 09:30 AM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/bangladesh_vs_pakistan_142160_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_pakistan_142160_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -36,7 +36,7 @@
             "startTime": "10 May 2026 10:00 AM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/amo_region_vs_boost_region_142417_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/amo_region_vs_boost_region_142417_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -53,7 +53,24 @@
             "startTime": "10 May 2026 10:30 AM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/papua_new_guinea_vs_cook_islands_142311_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/papua_new_guinea_vs_cook_islands_142311_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Hong Kong, China Women Vs China Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CHK-Womens-T20_fc-web.jpg",
+            "team_1": "Hong Kong, China Women",
+            "team_2": "China Women",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "CHK Women's T20I Series 2026",
+            "match_name": "Hong Kong, China Women Vs China Women | CHK Women's T20I Series 2026 [ENGLISH]",
+            "match_id": "142300",
+            "startTime": "10 May 2026 11:00 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hong_kong__china_women_vs_china_women_142300_english.m3u8"
         },
         {
             "event_category": "Kabaddi",
@@ -70,7 +87,7 @@
             "startTime": "10 May 2026 10:30 AM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://fancode-bd-srhady.vercel.app/goat_warriors_vs_river_ranger_142460_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/goat_warriors_vs_river_ranger_142460_english.m3u8"
         }
     ]
 }
