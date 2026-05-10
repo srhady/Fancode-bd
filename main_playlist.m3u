@@ -1,13 +1,52 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:45:18 PM 10-05-2026
+#last update time: 08:00:23 PM 10-05-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket", Guyana Harpy Eagles Vs West Indies Academy | West Indies Championship 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guyana_harpy_eagles_vs_west_indies_academy_141957_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket", Trinidad & Tobago Red Force Vs Barbados Pride | West Indies Championship 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/trinidad___tobago_red_force_vs_barbados_pride_141956_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131175_5427_MRC_VIL_FC-Web.png" group-title="Football", Rcd Mallorca Vs Villarreal Cf | LALIGA 2025-26 (ENGLISH) [DRM]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f253d2db5ed4416a8a7f03f7c0c09142:1034853bf6d000cf65e862e56b7c5165
 https://bd-mc-flive.fancode.com/mumbai/131175_english_dash_99182_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140513_5956_NEUFC_CFC_FC-Web_1772475527378.jpg" group-title="Football", Northeast United Fc Vs Chennaiyin Fc | ISL 2025-26 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c58b5cb49e264acaa550f8f074b74ea1:9737f0063039576d128abb5fd7f8aaba
+https://bd-mc-flive.fancode.com/mumbai/140513_english_dash_42596_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140513_5956_NEUFC_CFC_FC-Web_1772475527378.jpg" group-title="Football", Northeast United Fc Vs Chennaiyin Fc | ISL 2025-26 (HINDI) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92308b97e7744c0a90607ab9c3c11818:4945f6211575f2fb43459b84f641ce7f
+https://bd-mc-flive.fancode.com/mumbai/140513_hindi_dash_51061_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140513_5956_NEUFC_CFC_FC-Web_1772475527378.jpg" group-title="Football", Northeast United Fc Vs Chennaiyin Fc | ISL 2025-26 (TAMIL) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc7c278adbe349909e423243265bc189:b8da61a83d977380c5d0177f0c37a395
+https://bd-mc-flive.fancode.com/mumbai/140513_tamil_dash_11206_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140513_5956_NEUFC_CFC_FC-Web_1772475527378.jpg" group-title="Football", Northeast United Fc Vs Chennaiyin Fc | ISL 2025-26 (MALAYALAM) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72f03a0815ce437bbb38d11e264e4786:5243654dd8d9fd5080e5bbac63789aa3
+https://bd-mc-flive.fancode.com/mumbai/140513_malayalam_dash_27114_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140513_5956_NEUFC_CFC_FC-Web_1772475527378.jpg" group-title="Football", Northeast United Fc Vs Chennaiyin Fc | ISL 2025-26 (BENGALI) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8769da1d6ea847c8aa0ab3685c7e0f91:474832fb64e640bf22557f1863c99f4b
+https://bd-mc-flive.fancode.com/mumbai/140513_bengali_dash_31715_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131171_5427_ATH_VAL_FC-Web.png" group-title="Football", Athletic Club Vs Valencia Cf | LALIGA 2025-26 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0603a64b4b3a4fd6a31ac57680bde9ae:c26a4bd4ef3dbfb962e10ae806a395f4
+https://bd-mc-flive.fancode.com/mumbai/131171_english_dash_76238_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778387127054/142493_CASACARDS_APP.png" group-title="Football", Grimsby Town Vs Salford City | League Two 2025-26 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/grimsby_town_vs_salford_city_142493_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 5   Main Feed | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5___main_feed_142226_english.m3u8
@@ -23,9 +62,6 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/main_feed___da
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf", Featured Groups   Day 4 | Truist Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/featured_groups___day_4_142106_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket", Trinidad & Tobago Red Force Vs Barbados Pride | West Indies Championship 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/trinidad___tobago_red_force_vs_barbados_pride_141956_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf", Marquee Group   Day 4 | Truist Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/marquee_group___day_4_142105_english.m3u8
