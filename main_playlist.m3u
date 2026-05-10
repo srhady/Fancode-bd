@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:30:26 PM 10-05-2026
+#last update time: 04:45:18 PM 10-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket", Bangladesh Vs Pakistan | Pakistan tour of Bangladesh 2026 (ENGLISH)
@@ -9,9 +9,6 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Cricket", Band E Amir Region Vs Speen Ghar Region | Super Cola National T20 Cup 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/band_e_amir_region_vs_speen_ghar_region_142418_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778306880669/142463_CASACARDS_APP.png" group-title="Kabaddi", Lightning Lions Vs Goat Warriors | Young Star Kabaddi League 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/lightning_lions_vs_goat_warriors_142463_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png" group-title="Football", Fc Madras Vs Punjab Fc Junior | Dream Sports Championship Football 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/fc_madras_vs_punjab_fc_junior_142371_english.m3u8
@@ -24,4 +21,7 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5___main_f
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 5   Pietrangeli | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5___pietrangeli_142622_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778306880663/142464_CASACARDS_APP.png" group-title="Kabaddi", Roaring Rhinos Vs Lightning Lions | Young Star Kabaddi League 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/roaring_rhinos_vs_lightning_lions_142464_english.m3u8
 
