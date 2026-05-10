@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:45:17 PM 10-05-2026
+#last update time: 11:00:29 PM 10-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket", Guyana Harpy Eagles Vs West Indies Academy | West Indies Championship 2026 (ENGLISH)
@@ -24,6 +24,9 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/c_rdoba_vs_gra
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142546_6062_UAE_YMN_FC-WEB.jpg" group-title="Football", United Arab Emirates Vs Yemen | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/united_arab_emirates_vs_yemen_142546_english.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142547_6062_IND_UZB_FC-WEB.jpg" group-title="Football", India Vs Uzbekistan | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/india_vs_uzbekistan_142547_english.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 5   Main Feed | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5___main_feed_142226_english.m3u8
 
@@ -44,4 +47,10 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/marquee_group_
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", T. Paul Vs L. Darderi | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/t__paul_vs_l__darderi_142623_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf", World Feed   Day 4 | Truist Championship 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/world_feed___day_4_142103_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778387127055/142494_CASACARDS_APP.png" group-title="Football", Chesterfield Vs Notts County | League Two 2025-26 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chesterfield_vs_notts_county_142494_english.m3u8
 

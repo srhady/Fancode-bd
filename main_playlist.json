@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:45:17 PM 10-05-2026",
+    "last update time": "11:00:29 PM 10-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,7 +44,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131179_5427_RO_GEF_FC-Web.png",
             "team_1": "Real Oviedo",
             "team_2": "Getafe CF",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "LALIGA 2025-26",
@@ -105,6 +105,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/united_arab_emirates_vs_yemen_142546_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "India Vs Uzbekistan",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142547_6062_IND_UZB_FC-WEB.jpg",
+            "team_1": "India",
+            "team_2": "Uzbekistan",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
+            "match_name": "India Vs Uzbekistan | AFC U17 Asian Cup Saudi Arabia 2026 [ENGLISH]",
+            "match_id": "142547",
+            "startTime": "10 May 2026 10:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/india_vs_uzbekistan_142547_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -224,6 +241,40 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/t__paul_vs_l__darderi_142623_english.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "World Feed   Day 4",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg",
+            "team_1": "World Feed - Day 4",
+            "team_2": "Quail Hollow Club - Charlotte, North Carolina",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Truist Championship 2026",
+            "match_name": "World Feed   Day 4 | Truist Championship 2026 [ENGLISH]",
+            "match_id": "142103",
+            "startTime": "10 May 2026 10:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/world_feed___day_4_142103_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Chesterfield Vs Notts County",
+            "src": "https://images.fancode.com/aig/match/v1778387127055/142494_CASACARDS_APP.png",
+            "team_1": "Chesterfield",
+            "team_2": "Notts County",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "League Two 2025-26",
+            "match_name": "Chesterfield Vs Notts County | League Two 2025-26 [ENGLISH]",
+            "match_id": "142494",
+            "startTime": "10 May 2026 10:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chesterfield_vs_notts_county_142494_english.m3u8"
         }
     ]
 }
