@@ -2,6 +2,41 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:15:18 AM 10-05-2026",
-    "matches": []
+    "last update time": "06:30:18 AM 10-05-2026",
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Fiji Vs Japan",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Fiji",
+            "team_2": "Japan",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
+            "match_name": "Fiji Vs Japan | ICC Men's T20 WC EAP Sub-regional Qualifier A + B  [ENGLISH]",
+            "match_id": "142310",
+            "startTime": "10 May 2026 06:00 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/fiji_vs_japan_142310_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Samoa Vs Philippines",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Samoa",
+            "team_2": "Philippines",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
+            "match_name": "Samoa Vs Philippines | ICC Men's T20 WC EAP Sub-regional Qualifier A + B  [ENGLISH]",
+            "match_id": "142309",
+            "startTime": "10 May 2026 06:00 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://fancode-bd-srhady.vercel.app/samoa_vs_philippines_142309_english.m3u8"
+        }
+    ]
 }
