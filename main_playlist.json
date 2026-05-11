@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:30:21 PM 11-05-2026",
+    "last update time": "04:45:20 PM 11-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -39,6 +39,23 @@
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/speen_ghar_region_vs_mis_e_ainak_region_142420_english.m3u8"
         },
         {
+            "event_category": "Kabaddi",
+            "title": "Raging Bulls Vs Goat Warriors",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
+            "team_1": "Raging Bulls",
+            "team_2": "Goat Warriors",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Young Star Kabaddi League 2026",
+            "match_name": "Raging Bulls Vs Goat Warriors | Young Star Kabaddi League 2026 [ENGLISH]",
+            "match_id": "142469",
+            "startTime": "11 May 2026 04:20 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/raging_bulls_vs_goat_warriors_142469_english.m3u8"
+        },
+        {
             "event_category": "Tennis",
             "title": "Day 6   Main Feed",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
@@ -71,6 +88,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_6___pietrangeli_142624_english.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 6: Supertennis Arena",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
+            "team_1": "Day 6: Supertennis Arena",
+            "team_2": "Rome",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
+            "match_name": "Day 6: Supertennis Arena | ATP Masters Internazionali BNL d'Italia 2026 [ENGLISH]",
+            "match_id": "142229",
+            "startTime": "11 May 2026 03:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_6__supertennis_arena_142229_english.m3u8"
         }
     ]
 }
