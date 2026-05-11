@@ -2,41 +2,6 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:00:24 AM 12-05-2026",
-    "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Guyana Harpy Eagles Vs West Indies Academy",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-            "team_1": "Guyana Harpy Eagles",
-            "team_2": "West Indies Academy",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "West Indies Championship 2026",
-            "match_name": "Guyana Harpy Eagles Vs West Indies Academy | West Indies Championship 2026 [ENGLISH]",
-            "match_id": "141957",
-            "startTime": "10 May 2026 07:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guyana_harpy_eagles_vs_west_indies_academy_141957_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Trinidad & Tobago Red Force Vs Barbados Pride",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-            "team_1": "Trinidad & Tobago Red Force",
-            "team_2": "Barbados Pride",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "West Indies Championship 2026",
-            "match_name": "Trinidad & Tobago Red Force Vs Barbados Pride | West Indies Championship 2026 [ENGLISH]",
-            "match_id": "141956",
-            "startTime": "10 May 2026 07:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/trinidad___tobago_red_force_vs_barbados_pride_141956_english.m3u8"
-        }
-    ]
+    "last update time": "04:15:25 AM 12-05-2026",
+    "matches": []
 }
