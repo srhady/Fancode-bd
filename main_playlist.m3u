@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:22 PM 12-05-2026
+#last update time: 02:45:25 PM 12-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket", Bangladesh Vs Pakistan | Pakistan tour of Bangladesh 2026 (ENGLISH)
@@ -15,4 +15,13 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_wome
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg" group-title="Kabaddi", Jungle Panthers Vs River Ranger | Young Star Kabaddi League 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jungle_panthers_vs_river_ranger_142472_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 7   Bnp Paribas Arena | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___bnp_paribas_arena_142231_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 7   Main Feed | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___main_feed_142232_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 7   Supertennis Arena | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___supertennis_arena_142639_english.m3u8
 
