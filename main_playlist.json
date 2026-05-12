@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:45:26 AM 13-05-2026",
+    "last update time": "01:00:24 AM 13-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -88,6 +88,40 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/al_nassr_fc_vs_al_hilal_sfc_142151_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Southampton F.c. Vs Middlesbrough F.c.",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Southampton-vs-Middlesbrough-fc-web.jpg",
+            "team_1": "Southampton F.C.",
+            "team_2": "Middlesbrough F.C.",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Southampton F.c. Vs Middlesbrough F.c. | EFL Championship 2025-26 [ENGLISH]",
+            "match_id": "142500",
+            "startTime": "13 May 2026 12:30 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/southampton_f_c__vs_middlesbrough_f_c__142500_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Ca Osasuna Vs Atletico De Madrid",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131186_5427_OSN_ATL_FC-Web.png",
+            "team_1": "CA Osasuna",
+            "team_2": "Atletico de Madrid",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Ca Osasuna Vs Atletico De Madrid | LALIGA 2025-26 [ENGLISH]",
+            "match_id": "131186",
+            "startTime": "13 May 2026 01:00 AM",
+            "is_drm": true,
+            "clearkey": "0c44b975030742b48a13bcdf43395a22:9f8ee8cbd43d971aa6c5a9ccf6b54374",
+            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/131186_english_dash_51821_1drmta-di_h264/index.mpd"
         },
         {
             "event_category": "Tennis",
