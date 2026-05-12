@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:30:23 PM 12-05-2026
+#last update time: 11:45:34 PM 12-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket", Guyana Harpy Eagles Vs West Indies Academy | West Indies Championship 2026 (ENGLISH)
@@ -14,6 +14,11 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/trinidad___tob
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf1c9fc4e10d47588831b8048cb3685c:523ac35007acb6ef3045978ec574565f
 https://bd-mc-flive.fancode.com/mumbai/131182_english_dash_70501_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131181_5427_RB_ELC_FC-Web.png" group-title="Football", Real Betis Vs Elche Cf | LALIGA 2025-26 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45b0052635cc48c581870846f39bef22:124228f0f3bda931857f1d8fc04b4dc6
+https://bd-mc-flive.fancode.com/mumbai/131181_english_dash_42463_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 7   Bnp Paribas Arena | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___bnp_paribas_arena_142231_english.m3u8
