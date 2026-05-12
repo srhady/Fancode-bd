@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:45:29 PM 12-05-2026",
+    "last update time": "07:00:35 PM 12-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,40 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/amo_region_vs_band_e_amir_region_142422_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Scotland Vs Nepal",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png",
-            "team_1": "Scotland",
-            "team_2": "Nepal",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC CWC League 2 Nepal, 2026",
-            "match_name": "Scotland Vs Nepal | ICC CWC League 2 Nepal, 2026 [ENGLISH]",
-            "match_id": "142289",
-            "startTime": "12 May 2026 09:15 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/scotland_vs_nepal_142289_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Bengaluru Football Club Vs Punjab Fc Junior",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
-            "team_1": "Bengaluru Football Club",
-            "team_2": "Punjab FC Junior",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "Bengaluru Football Club Vs Punjab Fc Junior | Dream Sports Championship Football 2026 [ENGLISH]",
-            "match_id": "142373",
-            "startTime": "12 May 2026 04:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bengaluru_football_club_vs_punjab_fc_junior_142373_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -105,6 +71,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___supertennis_arena_142639_english.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 7   Pietrangeli",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
+            "team_1": "Day 7 - Pietrangeli",
+            "team_2": "Rome",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
+            "match_name": "Day 7   Pietrangeli | ATP Masters Internazionali BNL d'Italia 2026 [ENGLISH]",
+            "match_id": "142641",
+            "startTime": "12 May 2026 06:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___pietrangeli_142641_english.m3u8"
         }
     ]
 }
