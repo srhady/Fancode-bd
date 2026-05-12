@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:00:24 AM 13-05-2026
+#last update time: 01:15:22 AM 13-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket", Guyana Harpy Eagles Vs West Indies Academy | West Indies Championship 2026 (ENGLISH)
@@ -9,11 +9,6 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guyana_harpy_e
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket", Trinidad & Tobago Red Force Vs Barbados Pride | West Indies Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/trinidad___tobago_red_force_vs_barbados_pride_141956_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131182_5427_CEV_LE_FC-Web.png" group-title="Football", Rc Celta Vs Levante | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf1c9fc4e10d47588831b8048cb3685c:523ac35007acb6ef3045978ec574565f
-https://bd-mc-flive.fancode.com/mumbai/131182_english_dash_70501_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131181_5427_RB_ELC_FC-Web.png" group-title="Football", Real Betis Vs Elche Cf | LALIGA 2025-26 (ENGLISH) [DRM]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -36,9 +31,6 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___main_f
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 7   Supertennis Arena | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___supertennis_arena_142639_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 7   Pietrangeli | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___pietrangeli_142641_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 7   T A Tirante Vs D Medvedev | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___t_a_tirante_vs_d_medvedev_142640_english.m3u8

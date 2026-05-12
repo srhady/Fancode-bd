@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:00:24 AM 13-05-2026",
+    "last update time": "01:15:22 AM 13-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,23 +37,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/trinidad___tobago_red_force_vs_barbados_pride_141956_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Rc Celta Vs Levante",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131182_5427_CEV_LE_FC-Web.png",
-            "team_1": "RC Celta",
-            "team_2": "Levante",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Rc Celta Vs Levante | LALIGA 2025-26 [ENGLISH]",
-            "match_id": "131182",
-            "startTime": "12 May 2026 10:30 PM",
-            "is_drm": true,
-            "clearkey": "bf1c9fc4e10d47588831b8048cb3685c:523ac35007acb6ef3045978ec574565f",
-            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/131182_english_dash_70501_1drmta-di_h264/index.mpd"
         },
         {
             "event_category": "Football",
@@ -156,23 +139,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___supertennis_arena_142639_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 7   Pietrangeli",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "Day 7 - Pietrangeli",
-            "team_2": "Rome",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "Day 7   Pietrangeli | ATP Masters Internazionali BNL d'Italia 2026 [ENGLISH]",
-            "match_id": "142641",
-            "startTime": "12 May 2026 06:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___pietrangeli_142641_english.m3u8"
         },
         {
             "event_category": "Tennis",
