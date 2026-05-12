@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:30:23 PM 12-05-2026",
+    "last update time": "04:45:28 PM 12-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -57,20 +57,20 @@
         },
         {
             "event_category": "Kabaddi",
-            "title": "Roaring Rhinos Vs Raging Bulls",
+            "title": "Jungle Panthers Vs Lightning Lions",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-            "team_1": "Roaring Rhinos",
-            "team_2": "Raging Bulls",
+            "team_1": "Jungle Panthers",
+            "team_2": "Lightning Lions",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Young Star Kabaddi League 2026",
-            "match_name": "Roaring Rhinos Vs Raging Bulls | Young Star Kabaddi League 2026 [ENGLISH]",
-            "match_id": "142473",
-            "startTime": "12 May 2026 03:00 PM",
+            "match_name": "Jungle Panthers Vs Lightning Lions | Young Star Kabaddi League 2026 [ENGLISH]",
+            "match_id": "142474",
+            "startTime": "12 May 2026 04:20 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/roaring_rhinos_vs_raging_bulls_142473_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jungle_panthers_vs_lightning_lions_142474_english.m3u8"
         },
         {
             "event_category": "Football",
