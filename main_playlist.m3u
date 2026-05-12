@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:45:25 PM 12-05-2026
+#last update time: 02:00:30 PM 12-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket", Bangladesh Vs Pakistan | Pakistan tour of Bangladesh 2026 (ENGLISH)
@@ -18,4 +18,7 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_wome
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="Cricket", Japan Vs Indonesia | ICC Men's T20 WC EAP Sub-regional Qualifier A + B (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/japan_vs_indonesia_142313_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg" group-title="Kabaddi", Jungle Panthers Vs River Ranger | Young Star Kabaddi League 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jungle_panthers_vs_river_ranger_142472_english.m3u8
 
