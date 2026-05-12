@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:45:21 PM 12-05-2026",
+    "last update time": "04:00:31 PM 12-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -54,23 +54,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/scotland_vs_nepal_142289_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sri Lanka Women Vs New Zealand A Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1778255679175.png",
-            "team_1": "Sri Lanka Women",
-            "team_2": "New Zealand A Women",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "New Zealand Women\u2019s A tour of Sri Lanka, 2026",
-            "match_name": "Sri Lanka Women Vs New Zealand A Women | New Zealand Women\u2019s A tour of Sri Lanka, 2026 [ENGLISH]",
-            "match_id": "142509",
-            "startTime": "12 May 2026 10:00 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_women_vs_new_zealand_a_women_142509_english.m3u8"
         },
         {
             "event_category": "Kabaddi",
