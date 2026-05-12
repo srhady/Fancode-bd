@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:00:30 PM 12-05-2026",
+    "last update time": "02:15:23 PM 12-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_pakistan_142160_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Boost Region Vs Mis E Ainak Region",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
-            "team_1": "Boost Region",
-            "team_2": "Mis-e-Ainak Region",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Super Cola National T20 Cup, 2026",
-            "match_name": "Boost Region Vs Mis E Ainak Region | Super Cola National T20 Cup, 2026 [ENGLISH]",
-            "match_id": "142421",
-            "startTime": "12 May 2026 10:00 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/boost_region_vs_mis_e_ainak_region_142421_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -71,23 +54,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_women_vs_new_zealand_a_women_142509_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Japan Vs Indonesia",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Japan",
-            "team_2": "Indonesia",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
-            "match_name": "Japan Vs Indonesia | ICC Men's T20 WC EAP Sub-regional Qualifier A + B [ENGLISH]",
-            "match_id": "142313",
-            "startTime": "12 May 2026 10:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/japan_vs_indonesia_142313_english.m3u8"
         },
         {
             "event_category": "Kabaddi",
