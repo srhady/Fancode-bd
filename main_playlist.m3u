@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:15:20 PM 12-05-2026
+#last update time: 10:30:25 PM 12-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket", Guyana Harpy Eagles Vs West Indies Academy | West Indies Championship 2026 (ENGLISH)
@@ -10,25 +10,10 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guyana_harpy_e
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket", Trinidad & Tobago Red Force Vs Barbados Pride | West Indies Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/trinidad___tobago_red_force_vs_barbados_pride_141956_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140500_5956_MBSG_KSHI_FC-Web_1772467249125.jpg" group-title="Football", Mohun Bagan Super Giant Vs Inter Kashi | ISL 2025-26 (ENGLISH) [DRM]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131182_5427_CEV_LE_FC-Web.png" group-title="Football", Rc Celta Vs Levante | LALIGA 2025-26 (ENGLISH) [DRM]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2680ae0155a14feeaf4b71a9feae8753:497fe5f946eaef0814d9e81e2f6052f4
-https://bd-mc-flive.fancode.com/mumbai/140500_english_dash_49599_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140500_5956_MBSG_KSHI_FC-Web_1772467249125.jpg" group-title="Football", Mohun Bagan Super Giant Vs Inter Kashi | ISL 2025-26 (HINDI) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=778a8ae6a15e4397883d58712905477a:7cfe8b2bea8a302e26055c8ef2db0504
-https://bd-mc-flive.fancode.com/mumbai/140500_hindi_dash_84103_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140500_5956_MBSG_KSHI_FC-Web_1772467249125.jpg" group-title="Football", Mohun Bagan Super Giant Vs Inter Kashi | ISL 2025-26 (MALAYALAM) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5f25c8c97aa54dad80525d4b55b67f17:fe005682aee7d0e17bed3c66ad64997d
-https://bd-mc-flive.fancode.com/mumbai/140500_malayalam_dash_95567_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140500_5956_MBSG_KSHI_FC-Web_1772467249125.jpg" group-title="Football", Mohun Bagan Super Giant Vs Inter Kashi | ISL 2025-26 (BENGALI) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9afa949b4f1f464b91b623db76cfcde9:9ab5271a736075b8ed08793cb507716d
-https://bd-mc-flive.fancode.com/mumbai/140500_bengali_dash_12646_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=bf1c9fc4e10d47588831b8048cb3685c:523ac35007acb6ef3045978ec574565f
+https://bd-mc-flive.fancode.com/mumbai/131182_english_dash_70501_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 7   Bnp Paribas Arena | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___bnp_paribas_arena_142231_english.m3u8
