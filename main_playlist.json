@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:45:25 AM 13-05-2026",
+    "last update time": "04:00:21 AM 13-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,40 +37,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/southampton_f_c__vs_middlesbrough_f_c__142500_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 7   Main Feed",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "Day 7 - Main Feed",
-            "team_2": "Rome",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "Day 7   Main Feed | ATP Masters Internazionali BNL d'Italia 2026 [ENGLISH]",
-            "match_id": "142232",
-            "startTime": "12 May 2026 02:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___main_feed_142232_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 7   T A Tirante Vs D Medvedev",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "Day 7 - T A Tirante vs D Medvedev",
-            "team_2": "Rome",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "Day 7   T A Tirante Vs D Medvedev | ATP Masters Internazionali BNL d'Italia 2026 [ENGLISH]",
-            "match_id": "142640",
-            "startTime": "12 May 2026 11:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___t_a_tirante_vs_d_medvedev_142640_english.m3u8"
         }
     ]
 }
