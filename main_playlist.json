@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:00:31 PM 13-05-2026",
+    "last update time": "12:15:18 PM 13-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -40,20 +40,20 @@
         },
         {
             "event_category": "Kabaddi",
-            "title": "River Ranger Vs Goat Warriors",
+            "title": "Jungle Panthers Vs Raging Bulls",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-            "team_1": "River Ranger",
-            "team_2": "Goat Warriors",
+            "team_1": "Jungle Panthers",
+            "team_2": "Raging Bulls",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Young Star Kabaddi League 2026",
-            "match_name": "River Ranger Vs Goat Warriors | Young Star Kabaddi League 2026 [ENGLISH]",
-            "match_id": "142475",
-            "startTime": "13 May 2026 10:30 AM",
+            "match_name": "Jungle Panthers Vs Raging Bulls | Young Star Kabaddi League 2026 [ENGLISH]",
+            "match_id": "142476",
+            "startTime": "13 May 2026 12:00 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/river_ranger_vs_goat_warriors_142475_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jungle_panthers_vs_raging_bulls_142476_english.m3u8"
         }
     ]
 }
