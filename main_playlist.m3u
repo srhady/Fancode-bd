@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:00:36 AM 14-05-2026
+#last update time: 12:15:30 AM 14-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket", Guyana Harpy Eagles Vs West Indies Academy | West Indies Championship 2026 (ENGLISH)
@@ -19,9 +19,6 @@ https://bd-mc-flive.fancode.com/mumbai/131188_english_dash_76561_1drmta-di_h264/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7529d24a36a40119071481957e6003b:e3a9ef99efb3034ad471b61cacba0f8a
 https://bd-mc-flive.fancode.com/mumbai/131185_english_dash_5689_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142259_6062_UZB_AUS_FC-WEB.jpg" group-title="Football", Uzbekistan Vs Australia | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/uzbekistan_vs_australia_142259_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142258_6062_VIE_UAE_FC-WEB.jpg" group-title="Football", Vietnam Vs United Arab Emirates | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/vietnam_vs_united_arab_emirates_142258_english.m3u8
