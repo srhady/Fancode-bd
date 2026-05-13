@@ -2,6 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:15:23 PM 13-05-2026",
-    "matches": []
+    "last update time": "03:30:20 PM 13-05-2026",
+    "matches": [
+        {
+            "event_category": "Kabaddi",
+            "title": "Goat Warriors Vs Lightning Lions",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
+            "team_1": "Goat Warriors",
+            "team_2": "Lightning Lions",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Young Star Kabaddi League 2026",
+            "match_name": "Goat Warriors Vs Lightning Lions | Young Star Kabaddi League 2026 [ENGLISH]",
+            "match_id": "142478",
+            "startTime": "13 May 2026 03:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/goat_warriors_vs_lightning_lions_142478_english.m3u8"
+        }
+    ]
 }

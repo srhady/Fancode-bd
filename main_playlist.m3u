@@ -1,6 +1,9 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:15:23 PM 13-05-2026
+#last update time: 03:30:20 PM 13-05-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg" group-title="Kabaddi", Goat Warriors Vs Lightning Lions | Young Star Kabaddi League 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/goat_warriors_vs_lightning_lions_142478_english.m3u8
 
