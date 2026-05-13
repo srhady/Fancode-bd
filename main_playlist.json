@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:45:25 PM 13-05-2026",
+    "last update time": "10:00:41 PM 13-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,6 +37,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/trinidad___tobago_red_force_vs_barbados_pride_141956_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Uzbekistan Vs Australia",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142259_6062_UZB_AUS_FC-WEB.jpg",
+            "team_1": "Uzbekistan",
+            "team_2": "Australia",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
+            "match_name": "Uzbekistan Vs Australia | AFC U17 Asian Cup Saudi Arabia 2026 [ENGLISH]",
+            "match_id": "142259",
+            "startTime": "13 May 2026 09:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/uzbekistan_vs_australia_142259_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -88,23 +105,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_8___goransson_king_vs_bolelli_vavassori_142643_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Uzbekistan Vs Australia",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142259_6062_UZB_AUS_FC-WEB.jpg",
-            "team_1": "Uzbekistan",
-            "team_2": "Australia",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
-            "match_name": "Uzbekistan Vs Australia | AFC U17 Asian Cup Saudi Arabia 2026 [ENGLISH]",
-            "match_id": "142259",
-            "startTime": "13 May 2026 09:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/uzbekistan_vs_australia_142259_english.m3u8"
         }
     ]
 }
