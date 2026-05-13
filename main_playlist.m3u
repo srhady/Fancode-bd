@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:15:30 AM 14-05-2026
+#last update time: 12:30:21 AM 14-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket", Guyana Harpy Eagles Vs West Indies Academy | West Indies Championship 2026 (ENGLISH)
@@ -31,4 +31,7 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_8___main_f
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 8   Goransson/king Vs Bolelli/vavassori | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_8___goransson_king_vs_bolelli_vavassori_142643_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rafael-Jodar-vs-Luciano-Darderi_fc_web.jpg" group-title="Tennis", Qf: R. Jodar Vs L. Darderi | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/qf__r__jodar_vs_l__darderi_142674_english.m3u8
 
