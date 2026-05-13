@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:45:25 PM 13-05-2026
+#last update time: 12:00:36 AM 14-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket", Guyana Harpy Eagles Vs West Indies Academy | West Indies Championship 2026 (ENGLISH)
@@ -28,9 +28,6 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/vietnam_vs_uni
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142257_6062_KOR_YMN_FC-WEB.jpg" group-title="Football", Korea Republic Vs Yemen | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/korea_republic_vs_yemen_142257_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 8   Supertennis Arena | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_8___supertennis_arena_142233_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 8   Main Feed | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_8___main_feed_142234_english.m3u8
