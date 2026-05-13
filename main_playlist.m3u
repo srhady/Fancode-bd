@@ -1,28 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:45:21 AM 14-05-2026
+#last update time: 05:00:30 AM 14-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131183_5427_GEF_MRC_FC-Web.png" group-title="Football", Getafe Cf Vs Rcd Mallorca | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae9a29e23f541d7b6d70037ca40cede:e923e9bb8b10dcbe197e3742d2aa39d1
-https://bd-mc-flive.fancode.com/mumbai/131183_english_dash_71754_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131180_5427_ALA_BAR_FC-Web.png" group-title="Football", Deportivo Alaves Vs Fc Barcelona | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d65776afaff41199eee12e79f5eeab6:90a714da5c7ce2d3a07a23a1a926bfc7
-https://bd-mc-flive.fancode.com/mumbai/131180_english_dash_49916_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131180_5427_ALA_BAR_FC-Web.png" group-title="Football", Deportivo Alaves Vs Fc Barcelona | LALIGA 2025-26 (HINDI) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b236b79d1e01434f9b8a452c0616b234:8db715faf6c7298794c9ea2dbcb80433
-https://bd-mc-flive.fancode.com/mumbai/131180_hindi_dash_78232_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131180_5427_ALA_BAR_FC-Web.png" group-title="Football", Deportivo Alaves Vs Fc Barcelona | LALIGA 2025-26 (BENGALI) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b3c6f777c68a41eeac217baea617a302:95f019084427fb8532164eea16e32ee6
-https://bd-mc-flive.fancode.com/mumbai/131180_bengali_dash_63853_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 8   Main Feed | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_8___main_feed_142234_english.m3u8
