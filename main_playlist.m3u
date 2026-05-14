@@ -1,12 +1,18 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:30:28 PM 14-05-2026
+#last update time: 04:45:25 PM 14-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png" group-title="Cricket", Scotland Vs Usa | ICC CWC League 2 Nepal 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/scotland_vs_usa_142290_english.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg" group-title="Kabaddi", Goat Warriors Vs Raging Bulls | Young Star Kabaddi League 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/goat_warriors_vs_raging_bulls_142484_english.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png" group-title="Football", Minerva Academy Fc Vs Punjab Fc Junior | Dream Sports Championship Football 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/minerva_academy_fc_vs_punjab_fc_junior_142374_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Andrey-Rublev_fc_web.jpg" group-title="Tennis", Qf: J. Sinner Vs A. Rublev | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/qf__j__sinner_vs_a__rublev_142236_english.m3u8
 

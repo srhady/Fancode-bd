@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:30:28 PM 14-05-2026",
+    "last update time": "04:45:25 PM 14-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -22,6 +22,23 @@
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/scotland_vs_usa_142290_english.m3u8"
         },
         {
+            "event_category": "Kabaddi",
+            "title": "Goat Warriors Vs Raging Bulls",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
+            "team_1": "Goat Warriors",
+            "team_2": "Raging Bulls",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Young Star Kabaddi League 2026",
+            "match_name": "Goat Warriors Vs Raging Bulls | Young Star Kabaddi League 2026 [ENGLISH]",
+            "match_id": "142484",
+            "startTime": "14 May 2026 04:20 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/goat_warriors_vs_raging_bulls_142484_english.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Minerva Academy Fc Vs Punjab Fc Junior",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
@@ -37,6 +54,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/minerva_academy_fc_vs_punjab_fc_junior_142374_english.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Qf: J. Sinner Vs A. Rublev",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Andrey-Rublev_fc_web.jpg",
+            "team_1": "QF: J. Sinner vs A. Rublev",
+            "team_2": "Rome",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
+            "match_name": "Qf: J. Sinner Vs A. Rublev | ATP Masters Internazionali BNL d'Italia 2026 [ENGLISH]",
+            "match_id": "142236",
+            "startTime": "14 May 2026 04:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/qf__j__sinner_vs_a__rublev_142236_english.m3u8"
         }
     ]
 }
