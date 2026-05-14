@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:15:16 AM 15-05-2026",
+    "last update time": "03:30:24 AM 15-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -54,23 +54,6 @@
             "is_drm": true,
             "clearkey": "61b75c45ae934bb2bc573b999d9171c7:efe99e6eafc7a19560e72d40cab1d058",
             "stream_url": "https://bd-mc-flive.fancode.com/mumbai/131189_bengali_dash_9141_1drmta-di_h264/index.mpd"
-        },
-        {
-            "event_category": "Football",
-            "title": "Bradford City Vs Bolton Wanderers",
-            "src": "https://images.fancode.com/aig/match/v1778743493092/142492_CASACARDS_APP.png",
-            "team_1": "Bradford City",
-            "team_2": "Bolton Wanderers",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "League One 2025-26",
-            "match_name": "Bradford City Vs Bolton Wanderers | League One 2025-26 [ENGLISH]",
-            "match_id": "142492",
-            "startTime": "15 May 2026 12:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bradford_city_vs_bolton_wanderers_142492_english.m3u8"
         },
         {
             "event_category": "Golf",
