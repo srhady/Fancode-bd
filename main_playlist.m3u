@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:45:16 PM 14-05-2026
+#last update time: 06:00:28 PM 14-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png" group-title="Cricket", Scotland Vs Usa | ICC CWC League 2 Nepal 2026 (ENGLISH)
@@ -18,4 +18,7 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/minerva_academ
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Andrey-Rublev_fc_web.jpg" group-title="Tennis", Qf: J. Sinner Vs A. Rublev | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/qf__j__sinner_vs_a__rublev_142236_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Amundi-German-Masters_fc-web.jpg" group-title="Golf", Day 1 | Amundi German Masters 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1_142325_english.m3u8
 
