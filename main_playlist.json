@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:45:16 PM 14-05-2026",
+    "last update time": "02:00:28 PM 14-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -54,6 +54,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/japan_women_vs_australia_women_142254_english.m3u8"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Roaring Rhinos Vs Jungle Panthers",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
+            "team_1": "Roaring Rhinos",
+            "team_2": "Jungle Panthers",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Young Star Kabaddi League 2026",
+            "match_name": "Roaring Rhinos Vs Jungle Panthers | Young Star Kabaddi League 2026 [ENGLISH]",
+            "match_id": "142482",
+            "startTime": "14 May 2026 01:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/roaring_rhinos_vs_jungle_panthers_142482_english.m3u8"
         }
     ]
 }
