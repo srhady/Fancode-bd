@@ -1,14 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:15:22 PM 14-05-2026
+#last update time: 07:30:24 PM 14-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778730864495/142255_CASACARDS_APP.png" group-title="Football", China Pr Women Vs Dpr Korea Women | AFC U17 Women's Asian Cup China 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/china_pr_women_vs_dpr_korea_women_142255_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png" group-title="Football", Minerva Academy Fc Vs Punjab Fc Junior | Dream Sports Championship Football 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/minerva_academy_fc_vs_punjab_fc_junior_142374_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Amundi-German-Masters_fc-web.jpg" group-title="Golf", Day 1 | Amundi German Masters 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1_142325_english.m3u8
