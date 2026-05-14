@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:45:27 PM 14-05-2026",
+    "last update time": "12:00:25 AM 15-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -27,7 +27,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131184_5427_GIR_RS_FC-Web.png",
             "team_1": "Girona FC",
             "team_2": "Real Sociedad",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "LALIGA 2025-26",
@@ -37,23 +37,6 @@
             "is_drm": true,
             "clearkey": "a84bd889a02f4c629c0e2eb5b3f0173d:e88f6b2062fb4916b45daefd29311103",
             "stream_url": "https://bd-mc-flive.fancode.com/mumbai/131184_english_dash_92440_1drmta-di_h264/index.mpd"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Men's Doubles Qf's",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "Men's Doubles QF's",
-            "team_2": "Rome, Italy",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "Men's Doubles Qf's | ATP Masters Internazionali BNL d'Italia 2026 [ENGLISH]",
-            "match_id": "142676",
-            "startTime": "14 May 2026 06:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_doubles_qf_s_142676_english.m3u8"
         },
         {
             "event_category": "Tennis",

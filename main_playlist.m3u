@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:45:27 PM 14-05-2026
+#last update time: 12:00:25 AM 15-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131187_5427_VAL_RVL_FC-Web.png" group-title="Football", Valencia Cf Vs Rayo Vallecano | LALIGA 2025-26 (ENGLISH) [DRM]
@@ -13,9 +13,6 @@ https://bd-mc-flive.fancode.com/mumbai/131187_english_dash_94144_1drmta-di_h264/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a84bd889a02f4c629c0e2eb5b3f0173d:e88f6b2062fb4916b45daefd29311103
 https://bd-mc-flive.fancode.com/mumbai/131184_english_dash_92440_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Men's Doubles Qf's | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_doubles_qf_s_142676_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Martin-Landaluce-vs-Daniil-Medvedev_fc-web.jpg" group-title="Tennis", Qf: M. Landaluce Vs D. Medvedev | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/qf__m__landaluce_vs_d__medvedev_142235_english.m3u8
