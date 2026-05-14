@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:30:27 PM 14-05-2026",
+    "last update time": "12:45:21 PM 14-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -54,6 +54,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/river_ranger_vs_raging_bulls_142481_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Japan Women Vs Australia Women",
+            "src": "https://images.fancode.com/aig/match/v1778730864517/142254_CASACARDS_APP.png",
+            "team_1": "Japan Women",
+            "team_2": "Australia Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "AFC U17 Women's Asian Cup China 2026",
+            "match_name": "Japan Women Vs Australia Women | AFC U17 Women's Asian Cup China 2026 [ENGLISH]",
+            "match_id": "142254",
+            "startTime": "14 May 2026 12:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/japan_women_vs_australia_women_142254_english.m3u8"
         }
     ]
 }
