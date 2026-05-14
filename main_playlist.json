@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:30:27 PM 14-05-2026",
+    "last update time": "02:45:22 PM 14-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/scotland_vs_usa_142290_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Japan Vs Cook Islands",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Japan",
-            "team_2": "Cook Islands",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
-            "match_name": "Japan Vs Cook Islands | ICC Men's T20 WC EAP Sub-regional Qualifier A + B [ENGLISH]",
-            "match_id": "142317",
-            "startTime": "14 May 2026 10:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/japan_vs_cook_islands_142317_english.m3u8"
         },
         {
             "event_category": "Football",

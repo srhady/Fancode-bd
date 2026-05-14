@@ -1,14 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:27 PM 14-05-2026
+#last update time: 02:45:22 PM 14-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png" group-title="Cricket", Scotland Vs Usa | ICC CWC League 2 Nepal 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/scotland_vs_usa_142290_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="Cricket", Japan Vs Cook Islands | ICC Men's T20 WC EAP Sub-regional Qualifier A + B (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/japan_vs_cook_islands_142317_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778730864517/142254_CASACARDS_APP.png" group-title="Football", Japan Women Vs Australia Women | AFC U17 Women's Asian Cup China 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/japan_women_vs_australia_women_142254_english.m3u8
