@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:45:17 AM 16-05-2026
+#last update time: 03:00:22 AM 16-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778871628499/142631_CASACARDS_APP.png" group-title="Football", Castellón Vs Cádiz | LALIGA Hypermotion 2025-26 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/castell_n_vs_c_diz_142631_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778387127028/142495_CASACARDS_APP.png" group-title="Football", Salford City Vs Grimsby Town | League Two 2025-26 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/salford_city_vs_grimsby_town_142495_english.m3u8

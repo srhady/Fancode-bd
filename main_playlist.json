@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:45:17 AM 16-05-2026",
+    "last update time": "03:00:22 AM 16-05-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Castell\u00f3n Vs C\u00e1diz",
-            "src": "https://images.fancode.com/aig/match/v1778871628499/142631_CASACARDS_APP.png",
-            "team_1": "Castell\u00f3n",
-            "team_2": "C\u00e1diz",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Castell\u00f3n Vs C\u00e1diz | LALIGA Hypermotion 2025-26 [ENGLISH]",
-            "match_id": "142631",
-            "startTime": "16 May 2026 12:00 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/castell_n_vs_c_diz_142631_english.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Salford City Vs Grimsby Town",
