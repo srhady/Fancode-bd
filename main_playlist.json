@@ -2,29 +2,12 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:00:25 AM 16-05-2026",
+    "last update time": "01:15:17 AM 16-05-2026",
     "matches": [
         {
             "event_category": "Football",
-            "title": "Saudi Arabia Vs China Pr",
-            "src": "https://images.fancode.com/aig/match/v1778853074112/142548_CASACARDS_APP.png",
-            "team_1": "Saudi Arabia",
-            "team_2": "China PR",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
-            "match_name": "Saudi Arabia Vs China Pr | AFC U17 Asian Cup Saudi Arabia 2026 [ENGLISH]",
-            "match_id": "142548",
-            "startTime": "15 May 2026 10:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/saudi_arabia_vs_china_pr_142548_english.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Castell\u00f3n Vs C\u00e1diz",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://images.fancode.com/aig/match/v1778871628499/142631_CASACARDS_APP.png",
             "team_1": "Castell\u00f3n",
             "team_2": "C\u00e1diz",
             "status": "LIVE",
@@ -54,6 +37,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/salford_city_vs_grimsby_town_142495_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Notts County Vs Chesterfield",
+            "src": "https://images.fancode.com/aig/match/v1778387127055/142496_CASACARDS_APP.png",
+            "team_1": "Notts County",
+            "team_2": "Chesterfield",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "League Two 2025-26",
+            "match_name": "Notts County Vs Chesterfield | League Two 2025-26 [ENGLISH]",
+            "match_id": "142496",
+            "startTime": "16 May 2026 12:30 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/notts_county_vs_chesterfield_142496_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -88,23 +88,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_142628_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Notts County Vs Chesterfield",
-            "src": "https://images.fancode.com/aig/match/v1778387127055/142496_CASACARDS_APP.png",
-            "team_1": "Notts County",
-            "team_2": "Chesterfield",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "League Two 2025-26",
-            "match_name": "Notts County Vs Chesterfield | League Two 2025-26 [ENGLISH]",
-            "match_id": "142496",
-            "startTime": "16 May 2026 12:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/notts_county_vs_chesterfield_142496_english.m3u8"
         }
     ]
 }
