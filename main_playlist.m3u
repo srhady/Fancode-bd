@@ -1,8 +1,26 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:45:18 PM 15-05-2026
+#last update time: 11:00:27 PM 15-05-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778855488829/142549_CASACARDS_APP.png" group-title="Football", Japan Vs Tajikistan | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/japan_vs_tajikistan_142549_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778853074112/142548_CASACARDS_APP.png" group-title="Football", Saudi Arabia Vs China Pr | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/saudi_arabia_vs_china_pr_142548_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Men's Doubles Qf | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_doubles_qf_142707_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Casper-Ruud-vs-Luciano-Darderi_fc-web.jpg" group-title="Tennis", Sf: C. Ruud Vs L. Darderi | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sf__c__ruud_vs_l__darderi_142237_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Daniil-Medvedev_fc-web.jpg" group-title="Tennis", Sf: J. Sinner Vs D. Medvedev | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sf__j__sinner_vs_d__medvedev_142238_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PGA-Championship-old-.jpg" group-title="Golf", Day 2 | PGA Championship 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_142628_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140505_5956_MSC_MCFC_FC-Web_1772473605941.jpg" group-title="Football", Mohammedan Sc Vs Mumbai City Fc | ISL 2025-26 (ENGLISH) [DRM]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -23,13 +41,4 @@ https://bd-mc-flive.fancode.com/mumbai/140505_malayalam_dash_90612_1drmta-di_h26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1337006ea3324f93bf39b5e6e9e57f07:02a2864c082cb23cdd6b2e8e6bfdc9dc
 https://bd-mc-flive.fancode.com/mumbai/140505_bengali_dash_43879_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778855488829/142549_CASACARDS_APP.png" group-title="Football", Japan Vs Tajikistan | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/japan_vs_tajikistan_142549_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Men's Doubles Qf | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_doubles_qf_142707_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Casper-Ruud-vs-Luciano-Darderi_fc-web.jpg" group-title="Tennis", Sf: C. Ruud Vs L. Darderi | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sf__c__ruud_vs_l__darderi_142237_english.m3u8
 
