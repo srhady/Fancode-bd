@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:30:21 PM 15-05-2026",
+    "last update time": "11:45:22 PM 15-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -37,23 +37,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/saudi_arabia_vs_china_pr_142548_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Men's Doubles Qf",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "Men's Doubles QF",
-            "team_2": "Rome, Italy",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "Men's Doubles Qf | ATP Masters Internazionali BNL d'Italia 2026 [ENGLISH]",
-            "match_id": "142707",
-            "startTime": "15 May 2026 05:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_doubles_qf_142707_english.m3u8"
         },
         {
             "event_category": "Tennis",
