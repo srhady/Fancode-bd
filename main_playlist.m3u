@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:15:18 PM 15-05-2026
+#last update time: 07:30:23 PM 15-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MONSTER_CATALUNYA_fc-web.jpg" group-title="MotoGP", Catalonia Gp | MONSTER ENERGY GRAND PRIX OF CATALUNYA 2026 (ENGLISH)
@@ -12,4 +12,7 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_doubles_
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Amundi-German-Masters_fc-web.jpg" group-title="Golf", Day 2 | Amundi German Masters 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_142326_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Casper-Ruud-vs-Luciano-Darderi_fc-web.jpg" group-title="Tennis", Sf: C. Ruud Vs L. Darderi | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sf__c__ruud_vs_l__darderi_142237_english.m3u8
 
