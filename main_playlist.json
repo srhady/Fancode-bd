@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:45:19 PM 15-05-2026",
+    "last update time": "10:00:27 PM 15-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -71,6 +71,23 @@
             "is_drm": true,
             "clearkey": "1337006ea3324f93bf39b5e6e9e57f07:02a2864c082cb23cdd6b2e8e6bfdc9dc",
             "stream_url": "https://bd-mc-flive.fancode.com/mumbai/140505_bengali_dash_43879_1drmta-di_h264/index.mpd"
+        },
+        {
+            "event_category": "Football",
+            "title": "Japan Vs Tajikistan",
+            "src": "https://images.fancode.com/aig/match/v1778855488829/142549_CASACARDS_APP.png",
+            "team_1": "Japan",
+            "team_2": "Tajikistan",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
+            "match_name": "Japan Vs Tajikistan | AFC U17 Asian Cup Saudi Arabia 2026 [ENGLISH]",
+            "match_id": "142549",
+            "startTime": "15 May 2026 09:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/japan_vs_tajikistan_142549_english.m3u8"
         },
         {
             "event_category": "Tennis",
