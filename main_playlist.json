@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:15:20 PM 15-05-2026",
+    "last update time": "11:30:21 PM 15-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -54,23 +54,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_doubles_qf_142707_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Sf: C. Ruud Vs L. Darderi",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Casper-Ruud-vs-Luciano-Darderi_fc-web.jpg",
-            "team_1": "SF: C. Ruud vs L. Darderi",
-            "team_2": "Rome",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "Sf: C. Ruud Vs L. Darderi | ATP Masters Internazionali BNL d'Italia 2026 [ENGLISH]",
-            "match_id": "142237",
-            "startTime": "15 May 2026 07:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sf__c__ruud_vs_l__darderi_142237_english.m3u8"
         },
         {
             "event_category": "Tennis",

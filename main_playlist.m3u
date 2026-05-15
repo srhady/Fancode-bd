@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:15:20 PM 15-05-2026
+#last update time: 11:30:21 PM 15-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778855488829/142549_CASACARDS_APP.png" group-title="Football", Japan Vs Tajikistan | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
@@ -12,9 +12,6 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/saudi_arabia_v
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Men's Doubles Qf | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_doubles_qf_142707_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Casper-Ruud-vs-Luciano-Darderi_fc-web.jpg" group-title="Tennis", Sf: C. Ruud Vs L. Darderi | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sf__c__ruud_vs_l__darderi_142237_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Daniil-Medvedev_fc-web.jpg" group-title="Tennis", Sf: J. Sinner Vs D. Medvedev | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sf__j__sinner_vs_d__medvedev_142238_english.m3u8
