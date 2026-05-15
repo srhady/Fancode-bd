@@ -2,42 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:45:20 PM 15-05-2026",
+    "last update time": "06:00:27 PM 15-05-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Sri Lanka A Women Vs New Zealand A Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1778255679175.png",
-            "team_1": "Sri Lanka A Women",
-            "team_2": "New Zealand A Women",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "New Zealand Women\u2019s A tour of Sri Lanka, 2026",
-            "match_name": "Sri Lanka A Women Vs New Zealand A Women | New Zealand Women\u2019s A tour of Sri Lanka, 2026 [ENGLISH]",
-            "match_id": "142510",
-            "startTime": "15 May 2026 10:00 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_a_women_vs_new_zealand_a_women_142510_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Adelaide United Vs Auckland",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Adelaide-United-vs-Auckland_fc-web.jpg",
-            "team_1": "Adelaide United",
-            "team_2": "Auckland",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "A League 2025-26",
-            "match_name": "Adelaide United Vs Auckland | A League 2025-26 [ENGLISH]",
-            "match_id": "142506",
-            "startTime": "15 May 2026 03:05 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/adelaide_united_vs_auckland_142506_english.m3u8"
-        },
         {
             "event_category": "Kabaddi",
             "title": "Raging Bulls Vs Lightning Lions",
@@ -88,6 +54,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_doubles_qf_142707_english.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Amundi-German-Masters_fc-web.jpg",
+            "team_1": "Day 2",
+            "team_2": "Green Eagle Golf Course, Germany",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Amundi German Masters 2026",
+            "match_name": "Day 2 | Amundi German Masters 2026 [ENGLISH]",
+            "match_id": "142326",
+            "startTime": "15 May 2026 05:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_142326_english.m3u8"
         }
     ]
 }
