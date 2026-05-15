@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:15:21 AM 16-05-2026",
+    "last update time": "12:30:23 AM 16-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -20,6 +20,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/saudi_arabia_vs_china_pr_142548_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Castell\u00f3n Vs C\u00e1diz",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Castell\u00f3n",
+            "team_2": "C\u00e1diz",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Castell\u00f3n Vs C\u00e1diz | LALIGA Hypermotion 2025-26 [ENGLISH]",
+            "match_id": "142631",
+            "startTime": "16 May 2026 12:00 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/castell_n_vs_c_diz_142631_english.m3u8"
         },
         {
             "event_category": "Football",
