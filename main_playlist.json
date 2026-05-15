@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:00:25 PM 15-05-2026",
+    "last update time": "02:15:22 PM 15-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_a_women_vs_new_zealand_a_women_142510_english.m3u8"
-        },
-        {
-            "event_category": "Kabaddi",
-            "title": "Lightning Lions Vs Roaring Rhinos",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-            "team_1": "Lightning Lions",
-            "team_2": "Roaring Rhinos",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Young Star Kabaddi League 2026",
-            "match_name": "Lightning Lions Vs Roaring Rhinos | Young Star Kabaddi League 2026 [ENGLISH]",
-            "match_id": "142486",
-            "startTime": "15 May 2026 12:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/lightning_lions_vs_roaring_rhinos_142486_english.m3u8"
         },
         {
             "event_category": "MotoGP",
