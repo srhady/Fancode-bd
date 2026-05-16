@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:30:26 PM 16-05-2026
+#last update time: 05:45:19 PM 16-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket", Bangladesh Vs Pakistan | Pakistan tour of Bangladesh 2026 (ENGLISH)
@@ -32,6 +32,24 @@ https://bd-mc-flive.fancode.com/mumbai/140521_malayalam_dash_88668_1drmta-di_h26
 #KODIPROP:inputstream.adaptive.license_key=b1552b8fc1994834a1126f76b4d49cbf:793157ab99a1fc9dff331783892a68a3
 https://bd-mc-flive.fancode.com/mumbai/140521_bengali_dash_90452_1drmta-di_h264/index.mpd
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142177_5826_WHU-W_MCI-W_FC-Web.jpg" group-title="Football", West Ham United Women Vs Manchester City Women | Women's Super League 2025-26 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_ham_united_women_vs_manchester_city_women_142177_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142182_5826_BHA-W_TOT-W_FC-Web.jpg" group-title="Football", Brighton And Hove Albion Women Vs Tottenham Hotspur Women | Women's Super League 2025-26 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/brighton_and_hove_albion_women_vs_tottenham_hotspur_women_142182_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142181_5826_CHE-W_MUN-W_FC-Web.jpg" group-title="Football", Chelsea F.c. Women Vs Manchester United Women | Women's Super League 2025-26 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chelsea_f_c__women_vs_manchester_united_women_142181_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142180_5826_EVE-W_LEI-W_FC-Web.jpg" group-title="Football", Everton Women Vs Leicester City Women | Women's Super League 2025-26 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/everton_women_vs_leicester_city_women_142180_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142179_5826_LIV-W_ARS-W_FC-Web.jpg" group-title="Football", Liverpool Women Vs Arsenal Women | Women's Super League 2025-26 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/liverpool_women_vs_arsenal_women_142179_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142178_5826_LCL_AST-W_FC-Web.jpg" group-title="Football", London City Lionesses Vs Aston Villa Women | Women's Super League 2025-26 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/london_city_lionesses_vs_aston_villa_women_142178_english.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Newcastle-Jets-vs-Sydney-FC_fc-web.jpg" group-title="Football", Newcastle Jets Vs Sydney Fc | A League 2025-26 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/newcastle_jets_vs_sydney_fc_142507_english.m3u8
 
@@ -46,4 +64,7 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sf__bolelli_va
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg" group-title="Motorsports", Spielberg   Day 1 | Ferrari Challenge Series 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/spielberg___day_1_142635_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Amundi-German-Masters_fc-web.jpg" group-title="Golf", Day 3 | Amundi German Masters 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_142327_english.m3u8
 
