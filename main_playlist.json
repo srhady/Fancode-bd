@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:30:18 AM 17-05-2026",
+    "last update time": "12:45:17 AM 17-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -37,23 +37,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/racing_club_vs_real_valladolid_142633_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Almer\u00eda Vs Las Palmas",
-            "src": "https://images.fancode.com/aig/match/v1778920653029/142632_CASACARDS_APP.png",
-            "team_1": "Almer\u00eda",
-            "team_2": "Las Palmas",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Almer\u00eda Vs Las Palmas | LALIGA Hypermotion 2025-26 [ENGLISH]",
-            "match_id": "142632",
-            "startTime": "16 May 2026 10:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/almer_a_vs_las_palmas_142632_english.m3u8"
         },
         {
             "event_category": "Football",

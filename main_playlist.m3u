@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:18 AM 17-05-2026
+#last update time: 12:45:17 AM 17-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142153_5655_AAS_ALK_fc-web.jpg" group-title="Football", Al Ahli Saudi Fc Vs Al Kholood Club | Roshn Saudi League 2025-2026 (ENGLISH)
@@ -9,9 +9,6 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/al_ahli_saudi_
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778920548856/142633_CASACARDS_APP.png" group-title="Football", Racing Club Vs Real Valladolid | LALIGA Hypermotion 2025-26 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/racing_club_vs_real_valladolid_142633_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778920653029/142632_CASACARDS_APP.png" group-title="Football", Almería Vs Las Palmas | LALIGA Hypermotion 2025-26 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/almer_a_vs_las_palmas_142632_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778953303781/142551_CASACARDS_APP.png" group-title="Football", Vietnam Vs Australia | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/vietnam_vs_australia_142551_english.m3u8
