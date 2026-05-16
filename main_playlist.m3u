@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:30:21 PM 16-05-2026
+#last update time: 08:45:18 PM 16-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142428_6076_AUT_MAL_fc-web.jpg" group-title="Cricket", Malta Vs Austria | ICC Men's T20 WC Europe Sub Regional Qualifier A (ENGLISH)
@@ -10,23 +10,11 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/malta_vs_austr
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142427_6076_JER_SUI_fc-web.jpg" group-title="Cricket", Switzerland Vs Jersey | ICC Men's T20 WC Europe Sub Regional Qualifier A (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/switzerland_vs_jersey_142427_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142177_5826_WHU-W_MCI-W_FC-Web.jpg" group-title="Football", West Ham United Women Vs Manchester City Women | Women's Super League 2025-26 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_ham_united_women_vs_manchester_city_women_142177_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142182_5826_BHA-W_TOT-W_FC-Web.jpg" group-title="Football", Brighton And Hove Albion Women Vs Tottenham Hotspur Women | Women's Super League 2025-26 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/brighton_and_hove_albion_women_vs_tottenham_hotspur_women_142182_english.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142181_5826_CHE-W_MUN-W_FC-Web.jpg" group-title="Football", Chelsea F.c. Women Vs Manchester United Women | Women's Super League 2025-26 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chelsea_f_c__women_vs_manchester_united_women_142181_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142180_5826_EVE-W_LEI-W_FC-Web.jpg" group-title="Football", Everton Women Vs Leicester City Women | Women's Super League 2025-26 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/everton_women_vs_leicester_city_women_142180_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142179_5826_LIV-W_ARS-W_FC-Web.jpg" group-title="Football", Liverpool Women Vs Arsenal Women | Women's Super League 2025-26 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/liverpool_women_vs_arsenal_women_142179_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142178_5826_LCL_AST-W_FC-Web.jpg" group-title="Football", London City Lionesses Vs Aston Villa Women | Women's Super League 2025-26 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/london_city_lionesses_vs_aston_villa_women_142178_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140435_5956_ODS_PFC_fc-web_1771412946377.jpg" group-title="Football", Odisha Fc Vs Punjab Fc | ISL 2025-26 (ENGLISH) [DRM]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -50,7 +38,4 @@ https://bd-mc-flive.fancode.com/mumbai/140435_bengali_dash_23751_1drmta-di_h264/
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Amundi-German-Masters_fc-web.jpg" group-title="Golf", Day 3 | Amundi German Masters 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_142327_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Daniil-Medvedev_fc-web_1778907587882.jpg" group-title="Tennis", Sf: J. Sinner Vs D. Medvedev | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sf__j__sinner_vs_d__medvedev_142239_english.m3u8
 
