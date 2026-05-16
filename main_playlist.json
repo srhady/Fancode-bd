@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:30:20 AM 16-05-2026",
+    "last update time": "10:45:22 AM 16-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -10,7 +10,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png",
             "team_1": "Bangladesh",
             "team_2": "Pakistan",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Pakistan tour of Bangladesh, 2026",
@@ -37,6 +37,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/usa_vs_nepal_142291_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Samoa Vs Japan",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Samoa",
+            "team_2": "Japan",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
+            "match_name": "Samoa Vs Japan | ICC Men's T20 WC EAP Sub-regional Qualifier A + B [ENGLISH]",
+            "match_id": "142319",
+            "startTime": "16 May 2026 10:30 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/samoa_vs_japan_142319_english.m3u8"
         }
     ]
 }
