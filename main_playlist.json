@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:30:19 PM 16-05-2026",
+    "last update time": "04:45:21 PM 16-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,23 +37,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guernsey_vs_sweden_142426_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Cyprus Vs France Cricket",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142425_6076_CYP_FRA_fc-web.jpg",
-            "team_1": "Cyprus",
-            "team_2": "France Cricket",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier A",
-            "match_name": "Cyprus Vs France Cricket | ICC Men's T20 WC Europe Sub Regional Qualifier A [ENGLISH]",
-            "match_id": "142425",
-            "startTime": "16 May 2026 01:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/cyprus_vs_france_cricket_142425_english.m3u8"
         },
         {
             "event_category": "Football",
