@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:30:18 PM 16-05-2026",
+    "last update time": "11:45:17 PM 16-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -88,6 +88,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/vietnam_vs_australia_142551_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al Nassr Fc Vs Gamba Osaka",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/EFL-Championship_Al_Nasar_vs_Gamba_Oska_FC-WEB.jpg",
+            "team_1": "Al-Nassr FC",
+            "team_2": "Gamba Osaka",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Al Nassr Fc Vs Gamba Osaka | AFC Champions League Two 2025-26 [ENGLISH]",
+            "match_id": "140874",
+            "startTime": "16 May 2026 11:15 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/al_nassr_fc_vs_gamba_osaka_140874_english.m3u8"
         },
         {
             "event_category": "Golf",
