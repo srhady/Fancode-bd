@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:00:20 AM 17-05-2026",
+    "last update time": "01:15:19 AM 17-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -37,23 +37,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/racing_club_vs_real_valladolid_142633_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Vietnam Vs Australia",
-            "src": "https://images.fancode.com/aig/match/v1778953303781/142551_CASACARDS_APP.png",
-            "team_1": "Vietnam",
-            "team_2": "Australia",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
-            "match_name": "Vietnam Vs Australia | AFC U17 Asian Cup Saudi Arabia 2026 [ENGLISH]",
-            "match_id": "142551",
-            "startTime": "16 May 2026 10:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/vietnam_vs_australia_142551_english.m3u8"
         },
         {
             "event_category": "Football",
