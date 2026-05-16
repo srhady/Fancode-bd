@@ -1,14 +1,36 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:00:20 PM 16-05-2026
+#last update time: 05:15:16 PM 16-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket", Bangladesh Vs Pakistan | Pakistan tour of Bangladesh 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_pakistan_142161_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142426_6076_GSY_SWE_fc-web.jpg" group-title="Cricket", Guernsey Vs Sweden | ICC Men's T20 WC Europe Sub Regional Qualifier A (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guernsey_vs_sweden_142426_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140521_5956_CFC_BFC_FC-Web_1772478790911.jpg" group-title="Football", Chennaiyin Fc Vs Bengaluru Fc | ISL 2025-26 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=518ff823b49a43e99e30807f74019c3c:9ff05c7136ae7bdba942bc4766322053
+https://bd-mc-flive.fancode.com/mumbai/140521_english_dash_66605_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140521_5956_CFC_BFC_FC-Web_1772478790911.jpg" group-title="Football", Chennaiyin Fc Vs Bengaluru Fc | ISL 2025-26 (HINDI) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=773b816eb37d49b9b4feb30901862c29:f3f3b07df2a19ae1b9847693b844291e
+https://bd-mc-flive.fancode.com/mumbai/140521_hindi_dash_76170_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140521_5956_CFC_BFC_FC-Web_1772478790911.jpg" group-title="Football", Chennaiyin Fc Vs Bengaluru Fc | ISL 2025-26 (TAMIL) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4fc65893e0e94ae99a571da7a6755316:e279d94dc522a2809f3cb6c1f204231b
+https://bd-mc-flive.fancode.com/mumbai/140521_tamil_dash_16846_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140521_5956_CFC_BFC_FC-Web_1772478790911.jpg" group-title="Football", Chennaiyin Fc Vs Bengaluru Fc | ISL 2025-26 (MALAYALAM) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70985dcbb71d492c9e56a5708a1c3d6d:51a196084d9ee35662e06588baff6a70
+https://bd-mc-flive.fancode.com/mumbai/140521_malayalam_dash_88668_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140521_5956_CFC_BFC_FC-Web_1772478790911.jpg" group-title="Football", Chennaiyin Fc Vs Bengaluru Fc | ISL 2025-26 (BENGALI) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1552b8fc1994834a1126f76b4d49cbf:793157ab99a1fc9dff331783892a68a3
+https://bd-mc-flive.fancode.com/mumbai/140521_bengali_dash_90452_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Newcastle-Jets-vs-Sydney-FC_fc-web.jpg" group-title="Football", Newcastle Jets Vs Sydney Fc | A League 2025-26 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/newcastle_jets_vs_sydney_fc_142507_english.m3u8
