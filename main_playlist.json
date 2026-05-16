@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:45:18 PM 16-05-2026",
+    "last update time": "11:00:25 PM 16-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -73,21 +73,38 @@
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/almer_a_vs_las_palmas_142632_english.m3u8"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 3",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Amundi-German-Masters_fc-web.jpg",
-            "team_1": "Day 3",
-            "team_2": "Green Eagle Golf Course, Germany",
+            "event_category": "Football",
+            "title": "Vietnam Vs Australia",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Vietnam",
+            "team_2": "Australia",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
-            "event_name": "Amundi German Masters 2026",
-            "match_name": "Day 3 | Amundi German Masters 2026 [ENGLISH]",
-            "match_id": "142327",
-            "startTime": "16 May 2026 05:30 PM",
+            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
+            "match_name": "Vietnam Vs Australia | AFC U17 Asian Cup Saudi Arabia 2026 [ENGLISH]",
+            "match_id": "142551",
+            "startTime": "16 May 2026 10:30 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_142327_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/vietnam_vs_australia_142551_english.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/PGA-Championship-old-.jpg",
+            "team_1": "Day 3",
+            "team_2": "Aronimink",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "PGA Championship 2026",
+            "match_name": "Day 3 | PGA Championship 2026 [ENGLISH]",
+            "match_id": "142629",
+            "startTime": "16 May 2026 10:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_142629_english.m3u8"
         }
     ]
 }
