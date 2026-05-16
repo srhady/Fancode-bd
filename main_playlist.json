@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:15:16 PM 16-05-2026",
+    "last update time": "05:30:26 PM 16-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -173,6 +173,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sf__bolelli_vavassori_vs_harrison_skupski_142738_english.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Spielberg   Day 1",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
+            "team_1": "Spielberg - Day 1",
+            "team_2": "Spielberg, Austria",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Ferrari Challenge Series 2026",
+            "match_name": "Spielberg   Day 1 | Ferrari Challenge Series 2026 [ENGLISH]",
+            "match_id": "142635",
+            "startTime": "16 May 2026 05:05 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/spielberg___day_1_142635_english.m3u8"
         }
     ]
 }
