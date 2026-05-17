@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:00:25 PM 17-05-2026
+#last update time: 05:15:15 PM 17-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket", Bangladesh Vs Pakistan | Pakistan tour of Bangladesh 2026 (ENGLISH)
@@ -10,9 +10,35 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Cricket", Band E Amir Region Vs Mis E Ainak Region | Supercola Regional List A Tournament 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/band_e_amir_region_vs_mis_e_ainak_region_142739_english.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140514_5956_SCD_KSHI_FC-Web_1772964305717.jpg" group-title="Football", Sporting Club Delhi Vs Inter Kashi | ISL 2025-26 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5370d66d9a342d5a9ae884cee45f9ab:7e3e03d80858ab73e937cb731dbe8a34
+https://bd-mc-flive.fancode.com/mumbai/140514_english_dash_67335_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140514_5956_SCD_KSHI_FC-Web_1772964305717.jpg" group-title="Football", Sporting Club Delhi Vs Inter Kashi | ISL 2025-26 (HINDI) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0117d2ade2dd471a801bcb7d0c9591fa:b5dc044b18e727ca4a290cca92c6f58e
+https://bd-mc-flive.fancode.com/mumbai/140514_hindi_dash_41230_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140514_5956_SCD_KSHI_FC-Web_1772964305717.jpg" group-title="Football", Sporting Club Delhi Vs Inter Kashi | ISL 2025-26 (MALAYALAM) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17102d1010ad422d8e0dcdeab82e0fe1:245c9dd8b88717fce6fb50c5a938c0ef
+https://bd-mc-flive.fancode.com/mumbai/140514_malayalam_dash_30666_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140514_5956_SCD_KSHI_FC-Web_1772964305717.jpg" group-title="Football", Sporting Club Delhi Vs Inter Kashi | ISL 2025-26 (BENGALI) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a60ec93c48e04ca796576438a57f511f:e60f3e501440854554e92a2b606291d7
+https://bd-mc-flive.fancode.com/mumbai/140514_bengali_dash_70393_1drmta-di_h264/index.mpd
+
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MONSTER_CATALUNYA_fc-web.jpg" group-title="MotoGP", Catalonia Gp | MONSTER ENERGY GRAND PRIX OF CATALUNYA 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/catalonia_gp_139944_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Amundi-German-Masters_fc-web.jpg" group-title="Golf", Day 4 | Amundi German Masters 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4_142328_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778774608920/142256_CASACARDS_APP.png" group-title="Football", Dpr Korea Women Vs Japan Women | AFC U17 Women's Asian Cup China 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/dpr_korea_women_vs_japan_women_142256_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Tennis", Day 1   Main Feed | ATP 500 - Bitpanda Hamburg Open 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___main_feed_142261_english.m3u8
 
