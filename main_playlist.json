@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:30:23 PM 17-05-2026",
+    "last update time": "04:45:23 PM 17-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -39,23 +39,6 @@
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/band_e_amir_region_vs_mis_e_ainak_region_142739_english.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "France Cricket Vs Croatia",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142430_6076_CRO_FRA_fc-web.jpg",
-            "team_1": "France Cricket",
-            "team_2": "Croatia",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier A",
-            "match_name": "France Cricket Vs Croatia | ICC Men's T20 WC Europe Sub Regional Qualifier A [ENGLISH]",
-            "match_id": "142430",
-            "startTime": "17 May 2026 01:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/france_cricket_vs_croatia_142430_english.m3u8"
-        },
-        {
             "event_category": "MotoGP",
             "title": "Catalonia Gp",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/MONSTER_CATALUNYA_fc-web.jpg",
@@ -71,6 +54,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/catalonia_gp_139944_english.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Amundi-German-Masters_fc-web.jpg",
+            "team_1": "Day 4",
+            "team_2": "Green Eagle Golf Course, Germany",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Amundi German Masters 2026",
+            "match_name": "Day 4 | Amundi German Masters 2026 [ENGLISH]",
+            "match_id": "142328",
+            "startTime": "17 May 2026 04:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4_142328_english.m3u8"
         }
     ]
 }
