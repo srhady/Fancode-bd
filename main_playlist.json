@@ -2,24 +2,6 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:15:17 AM 18-05-2026",
-    "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Day 4",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/PGA-Championship-old-.jpg",
-            "team_1": "Day 4",
-            "team_2": "Aronimink",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "PGA Championship 2026",
-            "match_name": "Day 4 | PGA Championship 2026 [ENGLISH]",
-            "match_id": "142630",
-            "startTime": "17 May 2026 10:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4_142630_english.m3u8"
-        }
-    ]
+    "last update time": "05:30:30 AM 18-05-2026",
+    "matches": []
 }
