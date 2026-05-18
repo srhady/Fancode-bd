@@ -1,23 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:15:23 PM 18-05-2026
+#last update time: 10:30:32 PM 18-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket", Guyana Harpy Eagles Vs Trinidad & Tobago Red Force | West Indies Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guyana_harpy_eagles_vs_trinidad___tobago_red_force_141958_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140516_5956_KBFC_FCG_FC-Web_1772478295068.jpg" group-title="Football", Kerala Blasters Fc Vs Fc Goa | ISL 2025-26 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kerala_blasters_fc_vs_fc_goa_140516_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140516_5956_KBFC_FCG_FC-Web_1772478295068.jpg" group-title="Football", Kerala Blasters Fc Vs Fc Goa | ISL 2025-26 (HINDI)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kerala_blasters_fc_vs_fc_goa_140516_hindi.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140516_5956_KBFC_FCG_FC-Web_1772478295068.jpg" group-title="Football", Kerala Blasters Fc Vs Fc Goa | ISL 2025-26 (MALAYALAM)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kerala_blasters_fc_vs_fc_goa_140516_malayalam.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140516_5956_KBFC_FCG_FC-Web_1772478295068.jpg" group-title="Football", Kerala Blasters Fc Vs Fc Goa | ISL 2025-26 (BENGALI)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kerala_blasters_fc_vs_fc_goa_140516_bengali.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Gonet-Geneva-Open,-ATP-250-old-.jpg" group-title="Tennis", Day 2   Main Feed | ATP 250 - Gonet Geneva Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___main_feed_142269_english.m3u8
