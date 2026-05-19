@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:45:19 PM 19-05-2026",
+    "last update time": "07:00:27 PM 19-05-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Speen Ghar Region Vs Band E Amir Region",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
-            "team_1": "Speen Ghar Region",
-            "team_2": "Band-e-Amir Region",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Supercola Regional List A Tournament, 2026",
-            "match_name": "Speen Ghar Region Vs Band E Amir Region | Supercola Regional List A Tournament, 2026 [ENGLISH]",
-            "match_id": "142741",
-            "startTime": "19 May 2026 10:00 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/speen_ghar_region_vs_band_e_amir_region_142741_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Guernsey Vs Austria",
@@ -54,23 +37,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/croatia_vs_switzerland_142435_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh Vs Pakistan",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png",
-            "team_1": "Bangladesh",
-            "team_2": "Pakistan",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Pakistan tour of Bangladesh, 2026",
-            "match_name": "Bangladesh Vs Pakistan | Pakistan tour of Bangladesh, 2026 [ENGLISH]",
-            "match_id": "142161",
-            "startTime": "16 May 2026 09:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_pakistan_142161_english.m3u8"
         },
         {
             "event_category": "Football",
