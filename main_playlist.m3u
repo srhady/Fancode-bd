@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:00:26 PM 19-05-2026
+#last update time: 05:15:22 PM 19-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket", Bangladesh Vs Pakistan | Pakistan tour of Bangladesh 2026 (ENGLISH)
@@ -10,11 +10,25 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Cricket", Speen Ghar Region Vs Band E Amir Region | Supercola Regional List A Tournament 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/speen_ghar_region_vs_band_e_amir_region_142741_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142434_6076_SWE_SLO_fc-web.jpg" group-title="Cricket", Slovenia Vs Sweden | ICC Men's T20 WC Europe Sub Regional Qualifier A (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/slovenia_vs_sweden_142434_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140520_5956_NEUFC_MSC_FC-Web_1772478646401.jpg" group-title="Football", Northeast United Fc Vs Mohammedan Sc | ISL 2025-26 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5dc7efcaab3b4769a8c45cb955957d08:8ddee48121e572b3e110000b1197af6b
+https://bd-mc-flive.fancode.com/mumbai/140520_english_dash_71949_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142433_6076_JER_FRA_fc-web.jpg" group-title="Cricket", France Cricket Vs Jersey | ICC Men's T20 WC Europe Sub Regional Qualifier A (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/france_cricket_vs_jersey_142433_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140520_5956_NEUFC_MSC_FC-Web_1772478646401.jpg" group-title="Football", Northeast United Fc Vs Mohammedan Sc | ISL 2025-26 (HINDI) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9af70147b3ac4e8d99b086287d843a4e:81455cafff18ffd0b0e60b5a57aba6b1
+https://bd-mc-flive.fancode.com/mumbai/140520_hindi_dash_48932_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140520_5956_NEUFC_MSC_FC-Web_1772478646401.jpg" group-title="Football", Northeast United Fc Vs Mohammedan Sc | ISL 2025-26 (MALAYALAM) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f7853629f59249f78cdc8124beaa43c9:cecdea73e1bfc85de2a5e7a5c042823d
+https://bd-mc-flive.fancode.com/mumbai/140520_malayalam_dash_57747_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140520_5956_NEUFC_MSC_FC-Web_1772478646401.jpg" group-title="Football", Northeast United Fc Vs Mohammedan Sc | ISL 2025-26 (BENGALI) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e5e9a1954b2446cb1789ebd84b4c006:da896ef95d48e24dd241df94dd7ed735
+https://bd-mc-flive.fancode.com/mumbai/140520_bengali_dash_34746_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Gonet-Geneva-Open,-ATP-250-old-.jpg" group-title="Tennis", Day 3   Main Feed | ATP 250 - Gonet Geneva Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___main_feed_142270_english.m3u8
