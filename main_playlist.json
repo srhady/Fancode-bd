@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:30:25 PM 19-05-2026",
+    "last update time": "06:45:19 PM 19-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,6 +23,23 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Guernsey Vs Austria",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142436_6076_GSY_AUT_fc-web.jpg",
+            "team_1": "Guernsey",
+            "team_2": "Austria",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier A",
+            "match_name": "Guernsey Vs Austria | ICC Men's T20 WC Europe Sub Regional Qualifier A [ENGLISH]",
+            "match_id": "142436",
+            "startTime": "19 May 2026 06:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guernsey_vs_austria_142436_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Croatia Vs Switzerland",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142435_6076_SUI_CRO_fc-web.jpg",
             "team_1": "Croatia",
@@ -37,23 +54,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/croatia_vs_switzerland_142435_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Guernsey Vs Austria",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142436_6076_GSY_AUT_fc-web.jpg",
-            "team_1": "Guernsey",
-            "team_2": "Austria",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier A",
-            "match_name": "Guernsey Vs Austria | ICC Men's T20 WC Europe Sub Regional Qualifier A [ENGLISH]",
-            "match_id": "142436",
-            "startTime": "19 May 2026 06:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guernsey_vs_austria_142436_english.m3u8"
         },
         {
             "event_category": "Cricket",
