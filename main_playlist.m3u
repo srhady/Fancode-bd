@@ -1,17 +1,17 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:45:22 PM 19-05-2026
+#last update time: 10:00:27 PM 19-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142436_6076_GSY_AUT_fc-web.jpg" group-title="Cricket", Guernsey Vs Austria | ICC Men's T20 WC Europe Sub Regional Qualifier A (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guernsey_vs_austria_142436_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142435_6076_SUI_CRO_fc-web.jpg" group-title="Cricket", Croatia Vs Switzerland | ICC Men's T20 WC Europe Sub Regional Qualifier A (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/croatia_vs_switzerland_142435_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket", Guyana Harpy Eagles Vs Trinidad & Tobago Red Force | West Indies Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guyana_harpy_eagles_vs_trinidad___tobago_red_force_141958_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1779176257512/142552_CASACARDS_APP.png" group-title="Football", Japan Vs Uzbekistan | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/japan_vs_uzbekistan_142552_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Gonet-Geneva-Open,-ATP-250-old-.jpg" group-title="Tennis", Day 3   Main Feed | ATP 250 - Gonet Geneva Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___main_feed_142270_english.m3u8
@@ -21,7 +21,4 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___m1_142
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Tennis", Day 3   Main Feed | ATP 500 - Bitpanda Hamburg Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___main_feed_142883_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1779176257512/142552_CASACARDS_APP.png" group-title="Football", Japan Vs Uzbekistan | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/japan_vs_uzbekistan_142552_english.m3u8
 
