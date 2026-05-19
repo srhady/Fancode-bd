@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:15:18 AM 19-05-2026",
+    "last update time": "10:30:22 AM 19-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,6 +20,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_pakistan_142161_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Speen Ghar Region Vs Band E Amir Region",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
+            "team_1": "Speen Ghar Region",
+            "team_2": "Band-e-Amir Region",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Supercola Regional List A Tournament, 2026",
+            "match_name": "Speen Ghar Region Vs Band E Amir Region | Supercola Regional List A Tournament, 2026 [ENGLISH]",
+            "match_id": "142741",
+            "startTime": "19 May 2026 10:00 AM",
+            "is_drm": true,
+            "clearkey": "020c8893946b436288da804889721b04:3472ec1404d77c6fa42e5007fc3b18b3",
+            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/142741_english_dash_12695_1drmta-di_h264/index.mpd"
         }
     ]
 }
