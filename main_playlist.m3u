@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:15:20 AM 20-05-2026
+#last update time: 02:30:23 AM 20-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket", Guyana Harpy Eagles Vs Trinidad & Tobago Red Force | West Indies Championship 2026 (ENGLISH)
@@ -9,7 +9,4 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guyana_harpy_e
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1779176330345/142553_CASACARDS_APP.png" group-title="Football", China Pr Vs Australia | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/china_pr_vs_australia_142553_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Gonet-Geneva-Open,-ATP-250-old-.jpg" group-title="Tennis", Day 3   Main Feed | ATP 250 - Gonet Geneva Open 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___main_feed_142270_english.m3u8
 
