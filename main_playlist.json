@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:45:20 PM 19-05-2026",
+    "last update time": "02:00:23 PM 19-05-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh Vs Pakistan",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png",
-            "team_1": "Bangladesh",
-            "team_2": "Pakistan",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Pakistan tour of Bangladesh, 2026",
-            "match_name": "Bangladesh Vs Pakistan | Pakistan tour of Bangladesh, 2026 [ENGLISH]",
-            "match_id": "142161",
-            "startTime": "16 May 2026 09:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_pakistan_142161_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Speen Ghar Region Vs Band E Amir Region",
@@ -40,20 +23,20 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Sweden Vs Slovenia",
+            "title": "Slovenia Vs Sweden",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142434_6076_SWE_SLO_fc-web.jpg",
-            "team_1": "Sweden",
-            "team_2": "Slovenia",
+            "team_1": "Slovenia",
+            "team_2": "Sweden",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier A",
-            "match_name": "Sweden Vs Slovenia | ICC Men's T20 WC Europe Sub Regional Qualifier A [ENGLISH]",
+            "match_name": "Slovenia Vs Sweden | ICC Men's T20 WC Europe Sub Regional Qualifier A [ENGLISH]",
             "match_id": "142434",
             "startTime": "19 May 2026 01:00 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sweden_vs_slovenia_142434_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/slovenia_vs_sweden_142434_english.m3u8"
         },
         {
             "event_category": "Cricket",
