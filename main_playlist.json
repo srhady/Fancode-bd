@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:15:23 PM 19-05-2026",
+    "last update time": "01:30:31 PM 19-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,6 +37,40 @@
             "is_drm": true,
             "clearkey": "020c8893946b436288da804889721b04:3472ec1404d77c6fa42e5007fc3b18b3",
             "stream_url": "https://bd-mc-flive.fancode.com/mumbai/142741_english_dash_12695_1drmta-di_h264/index.mpd"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sweden Vs Slovenia",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142434_6076_SWE_SLO_fc-web.jpg",
+            "team_1": "Sweden",
+            "team_2": "Slovenia",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier A",
+            "match_name": "Sweden Vs Slovenia | ICC Men's T20 WC Europe Sub Regional Qualifier A [ENGLISH]",
+            "match_id": "142434",
+            "startTime": "19 May 2026 01:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sweden_vs_slovenia_142434_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "France Cricket Vs Jersey",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142433_6076_JER_FRA_fc-web.jpg",
+            "team_1": "France Cricket",
+            "team_2": "Jersey",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier A",
+            "match_name": "France Cricket Vs Jersey | ICC Men's T20 WC Europe Sub Regional Qualifier A [ENGLISH]",
+            "match_id": "142433",
+            "startTime": "19 May 2026 01:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/france_cricket_vs_jersey_142433_english.m3u8"
         }
     ]
 }
