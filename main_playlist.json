@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:15:20 PM 20-05-2026",
+    "last update time": "01:30:23 PM 20-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,6 +23,40 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Switzerland Vs Cyprus",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142438_6076_CYP_SUI_fc-web.jpg",
+            "team_1": "Switzerland",
+            "team_2": "Cyprus",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier A",
+            "match_name": "Switzerland Vs Cyprus | ICC Men's T20 WC Europe Sub Regional Qualifier A [ENGLISH]",
+            "match_id": "142438",
+            "startTime": "20 May 2026 01:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/switzerland_vs_cyprus_142438_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Slovenia Vs Guernsey",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142437_6076_SLO_GSY_fc-web.jpg",
+            "team_1": "Slovenia",
+            "team_2": "Guernsey",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier A",
+            "match_name": "Slovenia Vs Guernsey | ICC Men's T20 WC Europe Sub Regional Qualifier A [ENGLISH]",
+            "match_id": "142437",
+            "startTime": "20 May 2026 01:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/slovenia_vs_guernsey_142437_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Scotland Vs Usa",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png",
             "team_1": "Scotland",
@@ -37,23 +71,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/scotland_vs_usa_142293_english.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Melbourne City Women Vs Tokyo Verdy Beleza",
-            "src": "https://images.fancode.com/aig/match/v1778470834439/141768_CASACARDS_APP.png",
-            "team_1": "Melbourne City Women",
-            "team_2": "Tokyo Verdy Beleza",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "AFC Women's Champions League 2025-26",
-            "match_name": "Melbourne City Women Vs Tokyo Verdy Beleza | AFC Women's Champions League 2025-26 [ENGLISH]",
-            "match_id": "141768",
-            "startTime": "20 May 2026 10:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/melbourne_city_women_vs_tokyo_verdy_beleza_141768_english.m3u8"
         }
     ]
 }
