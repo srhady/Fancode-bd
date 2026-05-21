@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:45:21 PM 21-05-2026
+#last update time: 07:00:30 PM 21-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Cricket", Amo Region Vs Speen Ghar Region | Supercola Regional List A Tournament 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/amo_region_vs_speen_ghar_region_142743_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Tennis", Day 5   Main Feed | ATP 500 - Bitpanda Hamburg Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5___main_feed_142265_english.m3u8
