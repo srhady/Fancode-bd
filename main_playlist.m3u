@@ -1,63 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:15:25 PM 21-05-2026
+#last update time: 10:30:33 PM 21-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MBSG_SCD_FC-web.jpg" group-title="Football", Mohun Bagan Super Giant Vs Sporting Club Delhi | ISL 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51a2423449794033a304932894508707:145cebf48ec323ef10aed6d93bbb696e
-https://bd-mc-flive.fancode.com/mumbai/140519_english_dash_66803_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MBSG_SCD_FC-web.jpg" group-title="Football", Mohun Bagan Super Giant Vs Sporting Club Delhi | ISL 2025-26 (HINDI) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=58fc1f021cb54c2690938fc603974543:dd03ccc29cf24b8470e50624c0ce8251
-https://bd-mc-flive.fancode.com/mumbai/140519_hindi_dash_53732_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MBSG_SCD_FC-web.jpg" group-title="Football", Mohun Bagan Super Giant Vs Sporting Club Delhi | ISL 2025-26 (BENGALI) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d6bd104d91a14b60986546d3b9b07274:4d0f30f6fc5ecd5b261430a0c6be3ff3
-https://bd-mc-flive.fancode.com/mumbai/140519_bengali_dash_91793_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PFC_MCFC_FC-web.jpg" group-title="Football", Punjab Fc Vs Mumbai City Fc | ISL 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d3c2119d3c146b7b43eab28e443eecf:b3f249dc5eaae68b6f21d1bc654c6ceb
-https://bd-mc-flive.fancode.com/mumbai/140518_english_dash_23004_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PFC_MCFC_FC-web.jpg" group-title="Football", Punjab Fc Vs Mumbai City Fc | ISL 2025-26 (BENGALI) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8fe65e785e3e46da9eb4bd4748200e04:c51c1fe01c8b6e57feb46918d7a009d0
-https://bd-mc-flive.fancode.com/mumbai/140518_bengali_dash_44476_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/JFC_ODS_FC-web.jpg" group-title="Football", Jamshedpur Fc Vs Odisha Fc | ISL 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9da61ab4536d4ce2b2498a1b7212bb30:cae9e683ef6118e7b2299b77343cb15c
-https://bd-mc-flive.fancode.com/mumbai/140517_english_dash_59479_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/JFC_ODS_FC-web.jpg" group-title="Football", Jamshedpur Fc Vs Odisha Fc | ISL 2025-26 (BENGALI) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=689a72b9d6d440ca9cac35ebaadac9f0:31c3278668609e99b15eacea928811b5
-https://bd-mc-flive.fancode.com/mumbai/140517_bengali_dash_69843_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KSHI_EBFC_FC-web.jpg" group-title="Football", Inter Kashi Vs East Bengal Fc | ISL 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0cf0fa39bfc47249cc33e9cbb0bd500:619723ce32d45a5557eb75883f59b8f2
-https://bd-mc-flive.fancode.com/mumbai/140515_english_dash_42225_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KSHI_EBFC_FC-web.jpg" group-title="Football", Inter Kashi Vs East Bengal Fc | ISL 2025-26 (HINDI) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ddbe0c84f47471a9854af8ca7b4183d:bd60d41eb94ad2eb682af6ec8acfb957
-https://bd-mc-flive.fancode.com/mumbai/140515_hindi_dash_39025_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KSHI_EBFC_FC-web.jpg" group-title="Football", Inter Kashi Vs East Bengal Fc | ISL 2025-26 (MALAYALAM) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bca1fdde2c9845f89771dcc65404528d:4fb391d27d31a6e529f6ecc76ae0981e
-https://bd-mc-flive.fancode.com/mumbai/140515_malayalam_dash_12800_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KSHI_EBFC_FC-web.jpg" group-title="Football", Inter Kashi Vs East Bengal Fc | ISL 2025-26 (BENGALI) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=429224bc7d7c455d985d004907a07e14:9bfbd05b859968a0ca93e9f609042a10
-https://bd-mc-flive.fancode.com/mumbai/140515_bengali_dash_46391_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Tennis", Day 5   Main Feed | ATP 500 - Bitpanda Hamburg Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5___main_feed_142265_english.m3u8
