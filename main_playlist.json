@@ -2,6 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:45:16 AM 21-05-2026",
-    "matches": []
+    "last update time": "07:00:22 AM 21-05-2026",
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Hong Kong Islanders Vs Kowloon Lions",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Skywarriors_web.png",
+            "team_1": "Hong Kong Islanders",
+            "team_2": "Kowloon Lions",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Skywarriors All Stars Plus Men\u2019s T20 Series 2026",
+            "match_name": "Hong Kong Islanders Vs Kowloon Lions | Skywarriors All Stars Plus Men\u2019s T20 Series 2026 [ENGLISH]",
+            "match_id": "142762",
+            "startTime": "21 May 2026 06:30 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hong_kong_islanders_vs_kowloon_lions_142762_english.m3u8"
+        }
+    ]
 }
