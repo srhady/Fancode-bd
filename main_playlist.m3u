@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:45:44 PM 22-05-2026
+#last update time: 12:00:25 AM 23-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1779244278108/142554_CASACARDS_APP.png" group-title="Football", China Pr Vs Japan | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
@@ -26,4 +26,9 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_6___men_s_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7438b09c4cd349848c573ff47a74990e:71ce118d256ea77f77ee74f09d276a5f
 https://bd-mc-flive.fancode.com/mumbai/139442_english_dash_32380_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web.jpg" group-title="Motorsports", Qualifying Session | F2 MONTREAL 2026 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b472e1d0ca5f4ea9bdcbf40ada8fdc87:274bbcf7340559eb6c8d1a6604d55b35
+https://bd-mc-flive.fancode.com/mumbai/142088_english_dash_27851_1drmta-di_h264/index.mpd
 
