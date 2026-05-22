@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:15:17 AM 23-05-2026
+#last update time: 12:30:21 AM 23-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1779244278108/142554_CASACARDS_APP.png" group-title="Football", China Pr Vs Japan | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
@@ -18,9 +18,6 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___marque
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 2   Featured Holes | The CJ Cup Byron Nelson 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___featured_holes_142122_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Tennis", Day 6   Men's Sf's | ATP 500 - Bitpanda Hamburg Open 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_6___men_s_sf_s_142949_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web.jpg" group-title="Motorsports", Qualifying Session | F2 MONTREAL 2026 (ENGLISH) [DRM]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
