@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:45:19 PM 22-05-2026",
+    "last update time": "07:00:32 PM 22-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -139,6 +139,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___featured_holes_142122_english.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Practice Session",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1779115174828.jpg",
+            "team_1": "Practice Session",
+            "team_2": "Montreal",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "F1 ACADEMY CANADA 2026",
+            "match_name": "Practice Session | F1 ACADEMY CANADA 2026 [ENGLISH]",
+            "match_id": "139685",
+            "startTime": "22 May 2026 06:30 PM",
+            "is_drm": true,
+            "clearkey": "5c8b926cea1443cfbd50cd4b673b0899:db92b30f519e4742406b6364bf3ad10f",
+            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/139685_english_dash_2527_1drmta-di_h264/index.mpd"
         }
     ]
 }
