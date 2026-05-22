@@ -1,8 +1,14 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:15:29 PM 22-05-2026
+#last update time: 06:30:28 PM 22-05-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142444_6076_MAL_SLO_fc-web.jpg" group-title="Cricket", Slovenia Vs Malta | ICC Men's T20 WC Europe Sub Regional Qualifier A (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/slovenia_vs_malta_142444_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142443_6076_CYP_CRO_fc-web.jpg" group-title="Cricket", Croatia Vs Cyprus | ICC Men's T20 WC Europe Sub Regional Qualifier A (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/croatia_vs_cyprus_142443_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Tennis", Day 6   Men's Doubles Sf's | ATP 500 - Bitpanda Hamburg Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_6___men_s_doubles_sf_s_142266_english.m3u8
@@ -15,4 +21,10 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_6___men_s_
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 2   Featured Groups | The CJ Cup Byron Nelson 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___featured_groups_142123_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 2   Marquee Group | The CJ Cup Byron Nelson 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___marquee_group_142121_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 2   Featured Holes | The CJ Cup Byron Nelson 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___featured_holes_142122_english.m3u8
 
