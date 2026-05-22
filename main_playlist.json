@@ -2,24 +2,6 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:00:24 AM 22-05-2026",
-    "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Day 1   World Feed",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
-            "team_1": "Day 1 - World Feed",
-            "team_2": "TPC Craig Ranch - McKinney, Texas",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "The CJ Cup Byron Nelson 2026",
-            "match_name": "Day 1   World Feed | The CJ Cup Byron Nelson 2026 [ENGLISH]",
-            "match_id": "142114",
-            "startTime": "22 May 2026 01:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___world_feed_142114_english.m3u8"
-        }
-    ]
+    "last update time": "06:15:19 AM 22-05-2026",
+    "matches": []
 }
