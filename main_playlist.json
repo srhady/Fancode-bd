@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:00:25 AM 23-05-2026",
+    "last update time": "04:15:17 AM 23-05-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -88,6 +88,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___world_feed_142119_english.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Day 1   Qualifying",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1779115174828.jpg",
+            "team_1": "Day 1 - Qualifying",
+            "team_2": "Montreal",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "F1 ACADEMY CANADA 2026",
+            "match_name": "Day 1   Qualifying | F1 ACADEMY CANADA 2026 [ENGLISH]",
+            "match_id": "142675",
+            "startTime": "23 May 2026 03:30 AM",
+            "is_drm": true,
+            "clearkey": "bd26799c095c47b1be2d6f452737a2f4:05dc546ac4aba39b76a19948aef88f36",
+            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/142675_english_dash_47711_1drmta-di_h264/index.mpd"
         }
     ]
 }
