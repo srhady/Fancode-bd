@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:30:22 PM 22-05-2026",
+    "last update time": "01:45:19 PM 22-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -27,7 +27,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142442_6076_AUT_SWE_fc-web.jpg",
             "team_1": "Austria",
             "team_2": "Sweden",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier A",
@@ -44,7 +44,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142441_6076_FRA_SUI_fc-web.jpg",
             "team_1": "France Cricket",
             "team_2": "Switzerland",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier A",
