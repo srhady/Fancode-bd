@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:30:23 AM 22-05-2026",
+    "last update time": "09:45:18 AM 22-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,6 +20,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kowloon_lions_vs_hong_kong_islanders_142764_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Nepal Vs Usa",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png",
+            "team_1": "Nepal",
+            "team_2": "USA",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ICC CWC League 2 Nepal, 2026",
+            "match_name": "Nepal Vs Usa | ICC CWC League 2 Nepal, 2026 [ENGLISH]",
+            "match_id": "142294",
+            "startTime": "22 May 2026 09:15 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/nepal_vs_usa_142294_english.m3u8"
         }
     ]
 }
