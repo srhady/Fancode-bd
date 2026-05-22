@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:00:26 PM 22-05-2026",
+    "last update time": "05:15:18 PM 22-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,40 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/band_e_amir_region_vs_boost_region_142744_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Austria Vs Sweden",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142442_6076_AUT_SWE_fc-web.jpg",
-            "team_1": "Austria",
-            "team_2": "Sweden",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier A",
-            "match_name": "Austria Vs Sweden | ICC Men's T20 WC Europe Sub Regional Qualifier A [ENGLISH]",
-            "match_id": "142442",
-            "startTime": "22 May 2026 01:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/austria_vs_sweden_142442_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "France Cricket Vs Switzerland",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142441_6076_FRA_SUI_fc-web.jpg",
-            "team_1": "France Cricket",
-            "team_2": "Switzerland",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier A",
-            "match_name": "France Cricket Vs Switzerland | ICC Men's T20 WC Europe Sub Regional Qualifier A [ENGLISH]",
-            "match_id": "142441",
-            "startTime": "22 May 2026 01:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/france_cricket_vs_switzerland_142441_english.m3u8"
         },
         {
             "event_category": "Cricket",

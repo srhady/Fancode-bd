@@ -1,17 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:00:26 PM 22-05-2026
+#last update time: 05:15:18 PM 22-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Cricket", Band E Amir Region Vs Boost Region | Supercola Regional List A Tournament 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/band_e_amir_region_vs_boost_region_142744_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142442_6076_AUT_SWE_fc-web.jpg" group-title="Cricket", Austria Vs Sweden | ICC Men's T20 WC Europe Sub Regional Qualifier A (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/austria_vs_sweden_142442_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142441_6076_FRA_SUI_fc-web.jpg" group-title="Cricket", France Cricket Vs Switzerland | ICC Men's T20 WC Europe Sub Regional Qualifier A (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/france_cricket_vs_switzerland_142441_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png" group-title="Cricket", Nepal Vs Usa | ICC CWC League 2 Nepal 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/nepal_vs_usa_142294_english.m3u8
