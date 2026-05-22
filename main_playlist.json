@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:00:28 PM 22-05-2026",
+    "last update time": "10:15:23 PM 22-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,23 +37,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___main_feed_142120_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 6   Men's Sf's",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Gonet-Geneva-Open,-ATP-250-old-.jpg",
-            "team_1": "Day 6 - Men's SF's",
-            "team_2": "Geneva",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 250 - Gonet Geneva Open 2026",
-            "match_name": "Day 6   Men's Sf's | ATP 250 - Gonet Geneva Open 2026 [ENGLISH]",
-            "match_id": "142273",
-            "startTime": "22 May 2026 05:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_6___men_s_sf_s_142273_english.m3u8"
         },
         {
             "event_category": "Golf",
