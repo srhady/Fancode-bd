@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:00:23 PM 23-05-2026",
+    "last update time": "06:15:26 PM 23-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,28 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Kenya Vs Mali",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
+            "team_1": "Kenya",
+            "team_2": "Mali",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier",
+            "match_name": "Kenya Vs Mali | ICC Men's T20 WC Africa Sub Regional Qualifier [ENGLISH]",
+            "match_id": "142909",
+            "startTime": "23 May 2026 05:20 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kenya_vs_mali_142909_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Botswana Vs Sierra Leone",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
             "team_1": "Botswana",
             "team_2": "Sierra Leone",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier",
@@ -56,23 +73,6 @@
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/charlton_athletic_f_c_vs_leicester_city_women_142948_english.m3u8"
         },
         {
-            "event_category": "Tennis",
-            "title": "Doubles Finals",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png",
-            "team_1": "Doubles Finals",
-            "team_2": "Hamburg",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 500 - Bitpanda Hamburg Open 2026",
-            "match_name": "Doubles Finals | ATP 500 - Bitpanda Hamburg Open 2026 [ENGLISH]",
-            "match_id": "142267",
-            "startTime": "23 May 2026 03:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/doubles_finals_142267_english.m3u8"
-        },
-        {
             "event_category": "Motorsports",
             "title": "Day 2 Race 1   Zandvoort",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1779171712400.png",
@@ -88,23 +88,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_race_1___zandvoort_142531_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Kenya Vs Mali",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
-            "team_1": "Kenya",
-            "team_2": "Mali",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier",
-            "match_name": "Kenya Vs Mali | ICC Men's T20 WC Africa Sub Regional Qualifier [ENGLISH]",
-            "match_id": "142909",
-            "startTime": "23 May 2026 05:20 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kenya_vs_mali_142909_english.m3u8"
         }
     ]
 }
