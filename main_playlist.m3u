@@ -1,27 +1,12 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:15:18 AM 24-05-2026
+#last update time: 03:30:21 AM 24-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131201_5427_RB_LE_FC-Web.png" group-title="Football", Real Betis Vs Levante | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b56cbb58069347d79bb858e32954ba67:529a4f71bfe0fc5fc405cefacf43eaf2
-https://bd-mc-flive.fancode.com/mumbai/131201_english_dash_28372_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131200_5427_ALA_RVL_FC-Web.png" group-title="Football", Deportivo Alaves Vs Rayo Vallecano | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=89914be43bd6443f856a9923fc57796c:d0a1b22270703a3c90c413eb702a7371
-https://bd-mc-flive.fancode.com/mumbai/131200_english_dash_91481_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 3   Featured Groups | The CJ Cup Byron Nelson 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142127_english_hls_5c893790f422990_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 3   World Feed | The CJ Cup Byron Nelson 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142124_english_hls_71772cc91170050_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Canada_web_1779185934255.jpg" group-title="Formula 1", Qualifying | F1 LENOVO GRAND PRIX DU CANADA 2026 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5f604a1095c04c03a8b8bd74e700e24c:3f51d9eac47fec41dea2b38932277dd7
-https://bd-mc-flive.fancode.com/mumbai/139445_english_dash_90667_1drmta-di_h264/index.mpd
 
