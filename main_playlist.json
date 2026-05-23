@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:00:22 PM 23-05-2026",
+    "last update time": "09:30:23 PM 23-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -40,23 +40,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Kenya Vs Mali",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
-            "team_1": "Kenya",
-            "team_2": "Mali",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier",
-            "match_name": "Kenya Vs Mali | ICC Men's T20 WC Africa Sub Regional Qualifier [ENGLISH]",
-            "match_id": "142909",
-            "startTime": "23 May 2026 05:20 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142909_english_hls_62f22403b154702_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Botswana Vs Sierra Leone",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
             "team_1": "Botswana",
@@ -88,23 +71,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142703_english_hls_80e9a34c7878779_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Charlton Athletic F.c Vs Leicester City Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WSL_Web.jpg",
-            "team_1": "Charlton Athletic F.C",
-            "team_2": "Leicester City Women",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "WSL Promotion Play-off 2026",
-            "match_name": "Charlton Athletic F.c Vs Leicester City Women | WSL Promotion Play-off 2026 [ENGLISH]",
-            "match_id": "142948",
-            "startTime": "23 May 2026 05:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142948_english_hls_ada864472f64452_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -190,6 +156,57 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3   Featured Holes",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
+            "team_1": "Day 3 - Featured Holes",
+            "team_2": "TPC Craig Ranch - McKinney, Texas",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "The CJ Cup Byron Nelson 2026",
+            "match_name": "Day 3   Featured Holes | The CJ Cup Byron Nelson 2026 [ENGLISH]",
+            "match_id": "142128",
+            "startTime": "23 May 2026 08:45 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142128_english_hls_eb08929a9e8055_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3   Featured Groups",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
+            "team_1": "Day 3 - Featured Groups",
+            "team_2": "TPC Craig Ranch - McKinney, Texas",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "The CJ Cup Byron Nelson 2026",
+            "match_name": "Day 3   Featured Groups | The CJ Cup Byron Nelson 2026 [ENGLISH]",
+            "match_id": "142127",
+            "startTime": "23 May 2026 08:45 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142127_english_hls_5c893790f422990_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3   Marquee Group",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
+            "team_1": "Day 3 - Marquee Group",
+            "team_2": "TPC Craig Ranch - McKinney, Texas",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "The CJ Cup Byron Nelson 2026",
+            "match_name": "Day 3   Marquee Group | The CJ Cup Byron Nelson 2026 [ENGLISH]",
+            "match_id": "142126",
+            "startTime": "23 May 2026 09:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142126_english_hls_1e8622009643810_1ta-di_h264/index.m3u8"
         }
     ]
 }
