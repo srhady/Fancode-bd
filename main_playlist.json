@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:45:15 AM 24-05-2026",
+    "last update time": "03:00:23 AM 24-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -54,40 +54,6 @@
             "is_drm": true,
             "clearkey": "c131ae1498a64774b6e95487722c7132:9a17350805a2750c6695fd75410c8b63",
             "stream_url": "https://bd-mc-flive.fancode.com/mumbai/131208_english_dash_20562_1drmta-di_h264/index.mpd"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Madrid Vs Athletic Club",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131206_5427_RM_ATH_FC-Web.png",
-            "team_1": "Real Madrid",
-            "team_2": "Athletic Club",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Madrid Vs Athletic Club | LALIGA 2025-26 [ENGLISH]",
-            "match_id": "131206",
-            "startTime": "24 May 2026 12:30 AM",
-            "is_drm": true,
-            "clearkey": "de6666a7ef1545deb55ff0fe12689dc5:ef3ff332bf817281daf1e0edbcdf39e7",
-            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/131206_english_dash_71906_1drmta-di_h264/index.mpd"
-        },
-        {
-            "event_category": "Football",
-            "title": "Rcd Mallorca Vs Real Oviedo",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131205_5427_MRC_RO_FC-Web.png",
-            "team_1": "RCD Mallorca",
-            "team_2": "Real Oviedo",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Rcd Mallorca Vs Real Oviedo | LALIGA 2025-26 [ENGLISH]",
-            "match_id": "131205",
-            "startTime": "24 May 2026 12:30 AM",
-            "is_drm": true,
-            "clearkey": "ba4e5484900541fb86d54ba487aed209:eacf3e5443d9c8bf98d61d9308ea3740",
-            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/131205_english_dash_88367_1drmta-di_h264/index.mpd"
         },
         {
             "event_category": "Football",
@@ -258,6 +224,23 @@
             "is_drm": true,
             "clearkey": "5f604a1095c04c03a8b8bd74e700e24c:3f51d9eac47fec41dea2b38932277dd7",
             "stream_url": "https://bd-mc-flive.fancode.com/mumbai/139445_english_dash_90667_1drmta-di_h264/index.mpd"
+        },
+        {
+            "event_category": "Football",
+            "title": "Rcd Mallorca Vs Real Oviedo",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131205_5427_MRC_RO_FC-Web.png",
+            "team_1": "RCD Mallorca",
+            "team_2": "Real Oviedo",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Rcd Mallorca Vs Real Oviedo | LALIGA 2025-26 [ENGLISH]",
+            "match_id": "131205",
+            "startTime": "24 May 2026 12:30 AM",
+            "is_drm": true,
+            "clearkey": "ba4e5484900541fb86d54ba487aed209:eacf3e5443d9c8bf98d61d9308ea3740",
+            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/131205_english_dash_88367_1drmta-di_h264/index.mpd"
         }
     ]
 }
