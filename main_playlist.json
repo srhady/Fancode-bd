@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:45:17 PM 23-05-2026",
+    "last update time": "11:00:24 PM 23-05-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Hull City Vs Middlesbrough F.c.",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/HUL_SOU_fc-web.jpg",
-            "team_1": "Hull City",
-            "team_2": "Middlesbrough F.C.",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Hull City Vs Middlesbrough F.c. | EFL Championship 2025-26 [ENGLISH]",
-            "match_id": "142703",
-            "startTime": "23 May 2026 08:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142703_english_hls_80e9a34c7878779_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Barcelona Women Vs Lyon Women",
@@ -156,6 +139,23 @@
             "is_drm": true,
             "clearkey": "ec91e4bb37014867b451844745648df3:5bb7f76d6ee5f500bee059e38c7742d9",
             "stream_url": "https://bd-mc-flive.fancode.com/mumbai/139444_english_dash_75751_1drmta-di_h264/index.mpd"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3   World Feed",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
+            "team_1": "Day 3 - World Feed",
+            "team_2": "TPC Craig Ranch - McKinney, Texas",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "The CJ Cup Byron Nelson 2026",
+            "match_name": "Day 3   World Feed | The CJ Cup Byron Nelson 2026 [ENGLISH]",
+            "match_id": "142124",
+            "startTime": "23 May 2026 10:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142124_english_hls_71772cc91170050_1ta-di_h264/index.m3u8"
         }
     ]
 }
