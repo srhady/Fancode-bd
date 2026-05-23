@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:00:25 PM 23-05-2026
+#last update time: 03:15:36 PM 23-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Cricket", Mis E Ainak Region Vs Amo Region | Supercola Regional List A Tournament 2026 (ENGLISH)
@@ -15,7 +15,4 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/france_cricket
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Cricket", Cameroon Vs Rwanda | ICC Men's T20 WC Africa Sub Regional Qualifier (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/cameroon_vs_rwanda_142907_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1779171712400.png" group-title="Motorsports", Day 2 Qualifying 1   Zandvoort | DTM 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_qualifying_1___zandvoort_142530_english.m3u8
 

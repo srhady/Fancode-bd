@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:00:25 PM 23-05-2026",
+    "last update time": "03:15:36 PM 23-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -71,23 +71,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/cameroon_vs_rwanda_142907_english.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Day 2 Qualifying 1   Zandvoort",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1779171712400.png",
-            "team_1": "Day 2 Qualifying 1 - Zandvoort",
-            "team_2": "Netherlands",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "DTM 2026",
-            "match_name": "Day 2 Qualifying 1   Zandvoort | DTM 2026 [ENGLISH]",
-            "match_id": "142530",
-            "startTime": "23 May 2026 01:10 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_qualifying_1___zandvoort_142530_english.m3u8"
         }
     ]
 }
