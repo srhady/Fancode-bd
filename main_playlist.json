@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:15:19 PM 23-05-2026",
+    "last update time": "05:30:21 PM 23-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,6 +20,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mis_e_ainak_region_vs_amo_region_142745_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Charlton Athletic F.c Vs Leicester City Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WSL_Web.jpg",
+            "team_1": "Charlton Athletic F.C",
+            "team_2": "Leicester City Women",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "WSL Promotion Play-off 2026",
+            "match_name": "Charlton Athletic F.c Vs Leicester City Women | WSL Promotion Play-off 2026 [ENGLISH]",
+            "match_id": "142948",
+            "startTime": "23 May 2026 05:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/charlton_athletic_f_c_vs_leicester_city_women_142948_english.m3u8"
         },
         {
             "event_category": "Tennis",
