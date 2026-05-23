@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:30:21 AM 24-05-2026",
+    "last update time": "12:45:18 AM 24-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -91,6 +91,23 @@
         },
         {
             "event_category": "Football",
+            "title": "Rc Celta Vs Sevilla Fc",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131202_5427_CEV_SEV_FC-Web.png",
+            "team_1": "RC Celta",
+            "team_2": "Sevilla FC",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Rc Celta Vs Sevilla Fc | LALIGA 2025-26 [ENGLISH]",
+            "match_id": "131202",
+            "startTime": "24 May 2026 12:30 AM",
+            "is_drm": true,
+            "clearkey": "9f96dcd232844ebead1d5df2d9fe2bd0:40cfc1a0a345dd4a2616ca9aad0e7557",
+            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/131202_english_dash_74684_1drmta-di_h264/index.mpd"
+        },
+        {
+            "event_category": "Football",
             "title": "Real Betis Vs Levante",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131201_5427_RB_LE_FC-Web.png",
             "team_1": "Real Betis",
@@ -156,23 +173,6 @@
             "is_drm": true,
             "clearkey": "76b7bd5496fb4daa83c78fe8814adb95:a38656055dc5da772b938ba7850f5a79",
             "stream_url": "https://bd-mc-flive.fancode.com/mumbai/131203_english_dash_48846_1drmta-di_h264/index.mpd"
-        },
-        {
-            "event_category": "Football",
-            "title": "Rc Celta Vs Sevilla Fc",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131202_5427_CEV_SEV_FC-Web.png",
-            "team_1": "RC Celta",
-            "team_2": "Sevilla FC",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Rc Celta Vs Sevilla Fc | LALIGA 2025-26 [ENGLISH]",
-            "match_id": "131202",
-            "startTime": "24 May 2026 12:30 AM",
-            "is_drm": true,
-            "clearkey": "9f96dcd232844ebead1d5df2d9fe2bd0:40cfc1a0a345dd4a2616ca9aad0e7557",
-            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/131202_english_dash_74684_1drmta-di_h264/index.mpd"
         },
         {
             "event_category": "Golf",

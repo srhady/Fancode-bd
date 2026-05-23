@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:21 AM 24-05-2026
+#last update time: 12:45:18 AM 24-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1778484660700.png" group-title="Football", Fc Bayern München Vs Vfb Stuttgart | DFB Pokal 2025-26 (ENGLISH)
@@ -27,6 +27,11 @@ https://bd-mc-flive.fancode.com/mumbai/131205_english_dash_88367_1drmta-di_h264/
 #KODIPROP:inputstream.adaptive.license_key=1696e156ea8b47d291aeb8e371a90be3:32470beb6ab876fc827b18f9a89343bd
 https://bd-mc-flive.fancode.com/mumbai/131204_english_dash_10838_1drmta-di_h264/index.mpd
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131202_5427_CEV_SEV_FC-Web.png" group-title="Football", Rc Celta Vs Sevilla Fc | LALIGA 2025-26 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f96dcd232844ebead1d5df2d9fe2bd0:40cfc1a0a345dd4a2616ca9aad0e7557
+https://bd-mc-flive.fancode.com/mumbai/131202_english_dash_74684_1drmta-di_h264/index.mpd
+
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131201_5427_RB_LE_FC-Web.png" group-title="Football", Real Betis Vs Levante | LALIGA 2025-26 (ENGLISH) [DRM]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b56cbb58069347d79bb858e32954ba67:529a4f71bfe0fc5fc405cefacf43eaf2
@@ -46,11 +51,6 @@ https://bd-mc-flive.fancode.com/mumbai/131209_english_dash_99313_1drmta-di_h264/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=76b7bd5496fb4daa83c78fe8814adb95:a38656055dc5da772b938ba7850f5a79
 https://bd-mc-flive.fancode.com/mumbai/131203_english_dash_48846_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131202_5427_CEV_SEV_FC-Web.png" group-title="Football", Rc Celta Vs Sevilla Fc | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f96dcd232844ebead1d5df2d9fe2bd0:40cfc1a0a345dd4a2616ca9aad0e7557
-https://bd-mc-flive.fancode.com/mumbai/131202_english_dash_74684_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 3   Main Feed | The CJ Cup Byron Nelson 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/index.m3u8
