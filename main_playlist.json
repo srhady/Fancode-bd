@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:45:16 PM 23-05-2026",
+    "last update time": "07:00:22 PM 23-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -27,7 +27,7 @@
             "src": "https://images.fancode.com/aig/match/v1779508475492/142448_CASACARDS_APP.png",
             "team_1": "Guernsey",
             "team_2": "Jersey",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier A",
@@ -44,7 +44,7 @@
             "src": "https://images.fancode.com/aig/match/v1779508475476/142447_CASACARDS_APP.png",
             "team_1": "Croatia",
             "team_2": "Austria",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier A",
@@ -107,23 +107,6 @@
             "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142948_english_hls_ada864472f64452_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Day 2 Race 1   Zandvoort",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1779171712400.png",
-            "team_1": "Day 2 Race 1 - Zandvoort",
-            "team_2": "Netherlands",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "DTM 2026",
-            "match_name": "Day 2 Race 1   Zandvoort | DTM 2026 [ENGLISH]",
-            "match_id": "142531",
-            "startTime": "23 May 2026 04:45 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142531_english_hls_59df4e130410529_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Tennis",
             "title": "Center Court",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Gonet-Geneva-Open,-ATP-250-old-.jpg",
@@ -156,6 +139,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142971_english_hls_10ec2fc99979369_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Adac Gt Race 1   Zandvoort",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1779171712400.png",
+            "team_1": "ADAC GT Race 1 - Zandvoort",
+            "team_2": "Netherlands",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "DTM 2026",
+            "match_name": "Adac Gt Race 1   Zandvoort | DTM 2026 [ENGLISH]",
+            "match_id": "142532",
+            "startTime": "23 May 2026 06:35 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142532_english_hls_0f2ce488bb16480_1ta-di_h264/index.m3u8"
         }
     ]
 }
