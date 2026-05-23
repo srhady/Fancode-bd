@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:45:19 AM 24-05-2026",
+    "last update time": "04:00:25 AM 24-05-2026",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Day 3   Featured Groups",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
-            "team_1": "Day 3 - Featured Groups",
-            "team_2": "TPC Craig Ranch - McKinney, Texas",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "The CJ Cup Byron Nelson 2026",
-            "match_name": "Day 3   Featured Groups | The CJ Cup Byron Nelson 2026 [ENGLISH]",
-            "match_id": "142127",
-            "startTime": "23 May 2026 08:45 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142127_english_hls_5c893790f422990_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Day 3   World Feed",
@@ -37,6 +20,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142124_english_hls_71772cc91170050_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Reverse Grid Race",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1779115174828.jpg",
+            "team_1": "Reverse Grid Race",
+            "team_2": "Montreal",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "F1 ACADEMY CANADA 2026",
+            "match_name": "Reverse Grid Race | F1 ACADEMY CANADA 2026 [ENGLISH]",
+            "match_id": "139687",
+            "startTime": "24 May 2026 03:35 AM",
+            "is_drm": true,
+            "clearkey": "b4125375c4514ceca4e03d1c420c8d6e:da4bdd3f0611ee29a5e43a7e00de5b1b",
+            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/139687_english_dash_90917_1drmta-di_h264/index.mpd"
         }
     ]
 }
