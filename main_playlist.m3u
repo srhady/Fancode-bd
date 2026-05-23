@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:15:15 PM 23-05-2026
+#last update time: 08:30:22 PM 23-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1779508475492/142448_CASACARDS_APP.png" group-title="Cricket", Guernsey Vs Jersey | ICC Men's T20 WC Europe Sub Regional Qualifier A (ENGLISH)
@@ -15,6 +15,9 @@ https://bd-mc-fblive.fancode.com/mumbai/142909_english_hls_62f22403b154702_1ta-d
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Cricket", Botswana Vs Sierra Leone | ICC Men's T20 WC Africa Sub Regional Qualifier (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142908_english_hls_f69d60096714840_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HUL_SOU_fc-web.jpg" group-title="Football", Hull City Vs Middlesbrough F.c. | EFL Championship 2025-26 (ENGLISH)
+https://bd-mc-fblive.fancode.com/mumbai/142703_english_hls_80e9a34c7878779_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WSL_Web.jpg" group-title="Football", Charlton Athletic F.c Vs Leicester City Women | WSL Promotion Play-off 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142948_english_hls_ada864472f64452_1ta-di_h264/index.m3u8
@@ -35,4 +38,7 @@ https://bd-mc-fblive.fancode.com/mumbai/142532_english_hls_0f2ce488bb16480_1ta-d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40585f4124d7446ea0bd52b467b7a699:665890cc8af3cac3492061152d1d6c7f
 https://bd-mc-flive.fancode.com/mumbai/139686_english_dash_59987_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 3   Main Feed | The CJ Cup Byron Nelson 2026 (ENGLISH)
+https://bd-mc-fblive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/index.m3u8
 

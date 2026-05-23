@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:15:15 PM 23-05-2026",
+    "last update time": "08:30:22 PM 23-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -71,6 +71,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142908_english_hls_f69d60096714840_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Hull City Vs Middlesbrough F.c.",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/HUL_SOU_fc-web.jpg",
+            "team_1": "Hull City",
+            "team_2": "Middlesbrough F.C.",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Hull City Vs Middlesbrough F.c. | EFL Championship 2025-26 [ENGLISH]",
+            "match_id": "142703",
+            "startTime": "23 May 2026 08:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142703_english_hls_80e9a34c7878779_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -173,6 +190,23 @@
             "is_drm": true,
             "clearkey": "40585f4124d7446ea0bd52b467b7a699:665890cc8af3cac3492061152d1d6c7f",
             "stream_url": "https://bd-mc-flive.fancode.com/mumbai/139686_english_dash_59987_1drmta-di_h264/index.mpd"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3   Main Feed",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
+            "team_1": "Day 3 - Main Feed",
+            "team_2": "TPC Craig Ranch - McKinney, Texas",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "The CJ Cup Byron Nelson 2026",
+            "match_name": "Day 3   Main Feed | The CJ Cup Byron Nelson 2026 [ENGLISH]",
+            "match_id": "142125",
+            "startTime": "23 May 2026 08:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/index.m3u8"
         }
     ]
 }
