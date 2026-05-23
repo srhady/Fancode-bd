@@ -2,8 +2,25 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:00:23 AM 23-05-2026",
+    "last update time": "10:15:19 AM 23-05-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Mis E Ainak Region Vs Amo Region",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
+            "team_1": "Mis-e-Ainak Region",
+            "team_2": "Amo Region",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Supercola Regional List A Tournament, 2026",
+            "match_name": "Mis E Ainak Region Vs Amo Region | Supercola Regional List A Tournament, 2026 [ENGLISH]",
+            "match_id": "142745",
+            "startTime": "23 May 2026 10:00 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mis_e_ainak_region_vs_amo_region_142745_english.m3u8"
+        },
         {
             "event_category": "Motorsports",
             "title": "Japan   Day 1",
