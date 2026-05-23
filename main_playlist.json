@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:30:20 PM 23-05-2026",
+    "last update time": "06:34:29 PM 23-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,7 +19,7 @@
             "startTime": "23 May 2026 10:00 AM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mis_e_ainak_region_vs_amo_region_142745_english.m3u8"
+            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142745_english_hls_9995a269b3658_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -36,7 +36,7 @@
             "startTime": "23 May 2026 06:00 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guernsey_vs_jersey_142448_english.m3u8"
+            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/142448_english_hls_c7e5f4c02076266_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -53,7 +53,7 @@
             "startTime": "23 May 2026 06:00 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/croatia_vs_austria_142447_english.m3u8"
+            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/142447_english_hls_781615b85212232_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -70,7 +70,7 @@
             "startTime": "23 May 2026 05:20 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kenya_vs_mali_142909_english.m3u8"
+            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142909_english_hls_62f22403b154702_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -87,7 +87,7 @@
             "startTime": "23 May 2026 05:20 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/botswana_vs_sierra_leone_142908_english.m3u8"
+            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142908_english_hls_f69d60096714840_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -104,7 +104,7 @@
             "startTime": "23 May 2026 05:00 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/charlton_athletic_f_c_vs_leicester_city_women_142948_english.m3u8"
+            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142948_english_hls_ada864472f64452_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Motorsports",
@@ -121,7 +121,7 @@
             "startTime": "23 May 2026 04:45 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_race_1___zandvoort_142531_english.m3u8"
+            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142531_english_hls_59df4e130410529_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -138,7 +138,7 @@
             "startTime": "23 May 2026 06:00 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/center_court_142274_english.m3u8"
+            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/142274_english_hls_d18e558faa42457_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -155,7 +155,7 @@
             "startTime": "23 May 2026 06:00 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/ignacio_buse_vs_tommy_paul_142971_english.m3u8"
+            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/142971_english_hls_10ec2fc99979369_1ta-di_h264/index.m3u8"
         }
     ]
 }
