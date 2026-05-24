@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:45:19 PM 24-05-2026
+#last update time: 08:00:26 PM 24-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Cricket", Sierra Leone Vs Cameroon | ICC Men's T20 WC Africa Sub Regional Qualifier (ENGLISH)
@@ -9,9 +9,6 @@ https://bd-mc-fblive.fancode.com/mumbai/142912_english_hls_ae8ea4872810741_1ta-d
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778919948675/142735_CASACARDS_APP.png" group-title="Football", Bolton Wanderers Vs Stockport County | League One 2025-26 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142735_english_hls_da947f6bbb65364_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Alexander-Zverev-vs-Benjamin-Bonzi_FC-WEB.jpg" group-title="Tennis", Court Philippe Chatrier | Roland Garros 2026 (ENGLISH)
-https://dai.google.com/linear/hls/event/alqtTrVWQeuxHd8fbw-Rmw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 4   Main Feed | The CJ Cup Byron Nelson 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142130_english_hls_d2299e4d7e646_1ta-di_h264/index.m3u8
