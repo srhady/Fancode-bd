@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:45:18 PM 24-05-2026",
+    "last update time": "11:00:21 PM 24-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -139,6 +139,23 @@
             "is_drm": true,
             "clearkey": "ec812c6aa88640fc8e3e1dfd884643ce:8b00767d6880561be78f1fdbfa4f53e5",
             "stream_url": "https://bd-mc-flive.fancode.com/mumbai/142090_english_dash_48626_1drmta-di_h264/index.mpd"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4   World Feed",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
+            "team_1": "Day 4 - World Feed",
+            "team_2": "TPC Craig Ranch - McKinney, Texas",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "The CJ Cup Byron Nelson 2026",
+            "match_name": "Day 4   World Feed | The CJ Cup Byron Nelson 2026 [ENGLISH]",
+            "match_id": "142129",
+            "startTime": "24 May 2026 10:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142129_english_hls_288d6edf7a20445_1ta-di_h264/index.m3u8"
         }
     ]
 }
