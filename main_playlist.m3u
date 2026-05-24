@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:45:16 PM 24-05-2026
+#last update time: 12:00:26 AM 25-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778777596615/142702_CASACARDS_APP.png" group-title="Football", Real Valladolid Vs Deportivo La Coruna | LALIGA Hypermotion 2025-26 (ENGLISH)
@@ -27,4 +27,19 @@ https://bd-mc-fblive.fancode.com/mumbai/142131_english_hls_eb214487a576805_1ta-d
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 4   World Feed | The CJ Cup Byron Nelson 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142129_english_hls_288d6edf7a20445_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Canada_web_1779186565976.jpg" group-title="Formula 1", Race | F1 LENOVO GRAND PRIX DU CANADA 2026 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=295cab9835354984823487bcc6da8928:075c61c7307ddbbf2577388a859d1d5a
+https://bd-mc-flive.fancode.com/mumbai/139446_english_dash_90959_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Canada_web_1779186565976.jpg" group-title="Formula 1", Race | F1 LENOVO GRAND PRIX DU CANADA 2026 (HINDI) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6698e7c0150d4088800f65942354b898:06920e47d93ce1b926c389057f7ae27f
+https://bd-mc-flive.fancode.com/mumbai/139446_hindi_dash_84736_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Canada_web_1779186565976.jpg" group-title="Formula 1", Race | F1 LENOVO GRAND PRIX DU CANADA 2026 (TAMIL) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0100c4d640b440cc8ee111b8e103d3b1:095cbe27f26cb03a514f5b049972f4b7
+https://bd-mc-flive.fancode.com/mumbai/139446_tamil_dash_84781_1drmta-di_h264/index.mpd
 
