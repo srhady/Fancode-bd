@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:45:18 AM 25-05-2026",
+    "last update time": "01:00:23 AM 25-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -54,23 +54,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142700_english_hls_f44fd5b5e796934_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Las Palmas Vs Real Zaragoza",
-            "src": "https://images.fancode.com/aig/match/v1778777894887/142699_CASACARDS_APP.png",
-            "team_1": "Las Palmas",
-            "team_2": "Real Zaragoza",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Las Palmas Vs Real Zaragoza | LALIGA Hypermotion 2025-26 [ENGLISH]",
-            "match_id": "142699",
-            "startTime": "24 May 2026 10:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142699_english_hls_9bde25b02c16881_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
