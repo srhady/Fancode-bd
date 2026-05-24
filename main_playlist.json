@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:30:23 AM 25-05-2026",
+    "last update time": "01:45:18 AM 25-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -20,23 +20,6 @@
             "is_drm": true,
             "clearkey": "485c6c69ceae494fbd6b01482b6fa39b:0489834481a6d0cdde3fbc7c5e9a239c",
             "stream_url": "https://bd-mc-flive.fancode.com/mumbai/131207_english_dash_14242_1drmta-di_h264/index.mpd"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Valladolid Vs Deportivo La Coruna",
-            "src": "https://images.fancode.com/aig/match/v1778777596615/142702_CASACARDS_APP.png",
-            "team_1": "Real Valladolid",
-            "team_2": "Deportivo La Coruna",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Real Valladolid Vs Deportivo La Coruna | LALIGA Hypermotion 2025-26 [ENGLISH]",
-            "match_id": "142702",
-            "startTime": "24 May 2026 10:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142702_english_hls_02388e4dcb94489_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
