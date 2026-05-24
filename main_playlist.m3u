@@ -1,14 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:15:15 PM 24-05-2026
+#last update time: 07:30:21 PM 24-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Cricket", Sierra Leone Vs Cameroon | ICC Men's T20 WC Africa Sub Regional Qualifier (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142912_english_hls_ae8ea4872810741_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Cricket", Mali Vs Botswana | ICC Men's T20 WC Africa Sub Regional Qualifier (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/142911_english_hls_9cabe811d380958_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778919948675/142735_CASACARDS_APP.png" group-title="Football", Bolton Wanderers Vs Stockport County | League One 2025-26 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142735_english_hls_da947f6bbb65364_1ta-di_h264/index.m3u8
@@ -27,4 +24,7 @@ https://bd-mc-fblive.fancode.com/mumbai/142133_english_hls_471b6b2a6324053_1ta-d
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1779171712400.png" group-title="Motorsports", Adac Gt Race 2   Zandvoort | DTM 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142535_english_hls_017965aaad2371_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 4   Marquee Group | The CJ Cup Byron Nelson 2026 (ENGLISH)
+https://bd-mc-fblive.fancode.com/mumbai/142131_english_hls_eb214487a576805_1ta-di_h264/index.m3u8
 
