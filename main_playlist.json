@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:30:21 PM 24-05-2026",
+    "last update time": "09:45:19 PM 24-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -88,23 +88,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142131_english_hls_eb214487a576805_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Feature Race",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1779115174828.jpg",
-            "team_1": "Feature Race",
-            "team_2": "Montreal",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "F1 ACADEMY CANADA 2026",
-            "match_name": "Feature Race | F1 ACADEMY CANADA 2026 [ENGLISH]",
-            "match_id": "139688",
-            "startTime": "24 May 2026 08:15 PM",
-            "is_drm": true,
-            "clearkey": "7df1b26b1c8c4ef083e578fbd7d8a123:c42bad2d7c4e7680abe78a903eff4403",
-            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/139688_english_dash_65444_1drmta-di_h264/index.mpd"
         }
     ]
 }
