@@ -2,6 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:00:24 PM 26-05-2026",
-    "matches": []
+    "last update time": "01:15:24 PM 26-05-2026",
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Mali Vs Rwanda",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
+            "team_1": "Mali",
+            "team_2": "Rwanda",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier",
+            "match_name": "Mali Vs Rwanda | ICC Men's T20 WC Africa Sub Regional Qualifier [ENGLISH]",
+            "match_id": "142916",
+            "startTime": "26 May 2026 01:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142916_english_hls_53f05877f592480_1ta-di_h264/index.m3u8"
+        }
+    ]
 }
