@@ -2,41 +2,6 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:15:24 PM 26-05-2026",
-    "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Kenya Vs Sierra Leone",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
-            "team_1": "Kenya",
-            "team_2": "Sierra Leone",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier",
-            "match_name": "Kenya Vs Sierra Leone | ICC Men's T20 WC Africa Sub Regional Qualifier [ENGLISH]",
-            "match_id": "142917",
-            "startTime": "26 May 2026 05:20 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142917_english_hls_995a95b66f82812_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Men's Doubles Ft. India",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/RG_Doubles_FC-WEB_1779806529339.jpg",
-            "team_1": "Men's Doubles ft. India",
-            "team_2": "Stade Roland Garros Paris, France",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Roland Garros 2026",
-            "match_name": "Men's Doubles Ft. India | Roland Garros 2026 [ENGLISH]",
-            "match_id": "143030",
-            "startTime": "26 May 2026 05:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143030_english_hls_c6b10cf32898412_1ta-di_h264/index.m3u8"
-        }
-    ]
+    "last update time": "09:30:27 PM 26-05-2026",
+    "matches": []
 }
