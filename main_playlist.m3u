@@ -1,8 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:15:22 AM 27-05-2026
+#last update time: 12:30:23 AM 27-05-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NIG-vs-ZIM_fc-web-(3).jpg" group-title="Football", Nigeria Vs Zimbabwe | Unity Cup 2026 (ENGLISH)
+https://bd-mc-fblive.fancode.com/mumbai/142666_english_hls_ab1b54a06f48070_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Tennis", Court Suzanne Lenglen | Roland Garros 2026 (ENGLISH)
 https://dai.google.com/linear/hls/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
