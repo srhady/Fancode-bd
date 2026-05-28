@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:15:22 PM 28-05-2026",
+    "last update time": "07:30:25 PM 28-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,23 +23,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Cameroon Vs Kenya",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
-            "team_1": "Cameroon",
-            "team_2": "Kenya",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier",
-            "match_name": "Cameroon Vs Kenya | ICC Men's T20 WC Africa Sub Regional Qualifier [ENGLISH]",
-            "match_id": "142921",
-            "startTime": "28 May 2026 05:20 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142921_english_hls_229c51be8e99861_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Netherlands Women Vs Scotland Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/SC-W_ND-W-old.jpg",
             "team_1": "Netherlands Women",
@@ -54,23 +37,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143002_english_hls_3d7e05001481223_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sri Lanka Women Vs Bhutan Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142937_6089_SLW_BTW_FC-Web_1779706388726.jpg",
-            "team_1": "Sri Lanka Women",
-            "team_2": "Bhutan Women",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "SAFF Women's Championship 2026",
-            "match_name": "Sri Lanka Women Vs Bhutan Women | SAFF Women's Championship 2026 [ENGLISH]",
-            "match_id": "142937",
-            "startTime": "28 May 2026 04:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142937_english_hls_9e4862d29411711_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -122,6 +88,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142887_english_hls_d085108c3766520_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1   Featured Holes",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
+            "team_1": "Day 1 - Featured Holes",
+            "team_2": "Colonial Country Club - Fort Worth, Texas",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Charles Schwab Challenge 2026",
+            "match_name": "Day 1   Featured Holes | Charles Schwab Challenge 2026 [ENGLISH]",
+            "match_id": "142890",
+            "startTime": "28 May 2026 07:15 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142890_english_hls_1f80f5ee1b28971_1ta-di_h264/index.m3u8"
         }
     ]
 }
