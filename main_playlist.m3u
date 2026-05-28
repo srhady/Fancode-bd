@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:45:22 PM 28-05-2026
+#last update time: 08:00:29 PM 28-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7)_1779966479189.png" group-title="Cricket", New Zealand Vs Ireland | New Zealand tour of Ireland 2026 (ENGLISH)
@@ -10,8 +10,8 @@ https://bd-mc-fblive.fancode.com/mumbai/142980_english_hls_ad2e92ad5f8657_1ta-di
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SC-W_ND-W-old.jpg" group-title="Cricket", Netherlands Women Vs Scotland Women | Scotland Women's T20I Tri-Series 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/143002_english_hls_3d7e05001481223_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_RG_Jannik-Sinner-vs-Cerundolo_FC-WEB.jpg" group-title="Tennis", J. Sinner Vs J. Cerundolo | Roland Garros 2026 (ENGLISH)
-https://dai.google.com/linear/hls/event/alqtTrVWQeuxHd8fbw-Rmw/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142938_6089_BDW_MDW_FC-Web_1779706389508.jpg" group-title="Football", Bangladesh Women Vs Maldives Women | SAFF Women's Championship 2026 (ENGLISH)
+https://bd-mc-fblive.fancode.com/mumbai/142938_english_hls_22877b817639891_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Golf", Day 1   Featured Groups | Charles Schwab Challenge 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142889_english_hls_5e9b07f78144078_1ta-di_h264/index.m3u8
@@ -21,9 +21,6 @@ https://bd-mc-fblive.fancode.com/mumbai/142887_english_hls_d085108c3766520_1ta-d
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Golf", Day 1   Featured Holes | Charles Schwab Challenge 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142890_english_hls_1f80f5ee1b28971_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142938_6089_BDW_MDW_FC-Web_1779706389508.jpg" group-title="Football", Bangladesh Women Vs Maldives Women | SAFF Women's Championship 2026 (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/142938_english_hls_22877b817639891_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Golf", Day 1   Marquee Group | Charles Schwab Challenge 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142888_english_hls_c4e58f044135247_1ta-di_h264/index.m3u8
