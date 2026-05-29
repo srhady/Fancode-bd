@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:45:25 PM 29-05-2026
+#last update time: 11:00:29 PM 29-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women's-T20I-Tri-Series_fc-web.jpg" group-title="Cricket", Pakistan Women Vs West Indies Women | Women's T20I Tri-Series in Ireland 2026 (ENGLISH)
@@ -45,7 +45,4 @@ https://bd-mc-fblive.fancode.com/mumbai/143193_english_hls_6caa9d7e0f17610_1ta-d
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Golf", Day 2   Featured Holes | Charles Schwab Challenge 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142895_english_hls_e81ca2f1df93911_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Doubles_FC-WEB-(1).jpg" group-title="Tennis", Men's Doubles Ft. India | Roland Garros 2026 (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/143194_english_hls_d7cee8c1d796863_1ta-di_h264/index.m3u8
 
