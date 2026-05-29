@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:45:19 PM 29-05-2026
+#last update time: 08:00:27 PM 29-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7)_1779966479189.png" group-title="Cricket", New Zealand Vs Ireland | New Zealand tour of Ireland 2026 (ENGLISH)
@@ -12,9 +12,6 @@ https://bd-mc-fblive.fancode.com/mumbai/142924_english_hls_8fd6ee489687281_1ta-d
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BREMBO-GRAND-PRIX-OF-ITALY-2026-old.png" group-title="MotoGP", Italy Gp | BREMBO GRAND PRIX OF ITALY 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/139945_english_hls_47f793d15f94969_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Tennis", Court Philippe Chatrier | Roland Garros 2026 (ENGLISH)
-https://dai.google.com/linear/hls/event/alqtTrVWQeuxHd8fbw-Rmw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Golf", Day 2   Featured Groups | Charles Schwab Challenge 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142894_english_hls_e9fa45f8ba46172_1ta-di_h264/index.m3u8
@@ -30,4 +27,7 @@ https://bd-mc-fblive.fancode.com/mumbai/143193_english_hls_6caa9d7e0f17610_1ta-d
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Golf", Day 2   Featured Holes | Charles Schwab Challenge 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142895_english_hls_e81ca2f1df93911_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Doubles_FC-WEB-(1).jpg" group-title="Tennis", Men's Doubles Ft. India | Roland Garros 2026 (ENGLISH)
+https://bd-mc-fblive.fancode.com/mumbai/143194_english_hls_d7cee8c1d796863_1ta-di_h264/index.m3u8
 
