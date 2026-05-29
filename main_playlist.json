@@ -2,41 +2,6 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:30:24 AM 29-05-2026",
-    "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Day 1   Main Feed",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
-            "team_1": "Day 1 - Main Feed",
-            "team_2": "Colonial Country Club - Fort Worth, Texas",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Charles Schwab Challenge 2026",
-            "match_name": "Day 1   Main Feed | Charles Schwab Challenge 2026 [ENGLISH]",
-            "match_id": "142887",
-            "startTime": "28 May 2026 06:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142887_english_hls_d085108c3766520_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 1   Marquee Group",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
-            "team_1": "Day 1 - Marquee Group",
-            "team_2": "Colonial Country Club - Fort Worth, Texas",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Charles Schwab Challenge 2026",
-            "match_name": "Day 1   Marquee Group | Charles Schwab Challenge 2026 [ENGLISH]",
-            "match_id": "142888",
-            "startTime": "28 May 2026 07:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142888_english_hls_c4e58f044135247_1ta-di_h264/index.m3u8"
-        }
-    ]
+    "last update time": "08:45:19 AM 29-05-2026",
+    "matches": []
 }
