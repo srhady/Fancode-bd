@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:45:22 AM 30-05-2026",
+    "last update time": "03:00:24 AM 30-05-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -71,6 +71,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142895_english_hls_e81ca2f1df93911_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2   World Feed",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
+            "team_1": "Day 2 - World Feed",
+            "team_2": "Colonial Country Club - Fort Worth, Texas",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Charles Schwab Challenge 2026",
+            "match_name": "Day 2   World Feed | Charles Schwab Challenge 2026 [ENGLISH]",
+            "match_id": "142891",
+            "startTime": "30 May 2026 02:30 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142891_english_hls_81361e9ec918166_1ta-di_h264/index.m3u8"
         }
     ]
 }
