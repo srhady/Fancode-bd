@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:15:22 AM 31-05-2026",
+    "last update time": "02:30:22 AM 31-05-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Nigeria Vs Jamaica",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/NIG-vs-JAM_FC-Web.jpg",
-            "team_1": "Nigeria",
-            "team_2": "Jamaica",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Unity Cup 2026",
-            "match_name": "Nigeria Vs Jamaica | Unity Cup 2026 [ENGLISH]",
-            "match_id": "142669",
-            "startTime": "31 May 2026 12:00 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142669_english_hls_e6cc5678a710522_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Court Suzanne Lenglen",
