@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:00:27 PM 30-05-2026",
+    "last update time": "03:15:20 PM 30-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142748_english_hls_7ae2504f0712693_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ivory Coast Vs Kenya",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
-            "team_1": "Ivory Coast",
-            "team_2": "Kenya",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier",
-            "match_name": "Ivory Coast Vs Kenya | ICC Men's T20 WC Africa Sub Regional Qualifier [ENGLISH]",
-            "match_id": "142926",
-            "startTime": "30 May 2026 01:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142926_english_hls_232c63997163627_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
