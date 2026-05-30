@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:45:16 PM 30-05-2026",
+    "last update time": "07:00:26 PM 30-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -39,6 +39,23 @@
             "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142927_english_hls_46d60607fc24413_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Bangladesh Women Vs Scotland Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/SC-W_BD-W.jpg",
+            "team_1": "Bangladesh Women",
+            "team_2": "Scotland Women",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Scotland Women's T20I Tri-Series 2026",
+            "match_name": "Bangladesh Women Vs Scotland Women | Scotland Women's T20I Tri-Series 2026 [ENGLISH]",
+            "match_id": "143003",
+            "startTime": "30 May 2026 06:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143003_english_hls_a43a14b18940033_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "MotoGP",
             "title": "Italy Gp",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BREMBO-GRAND-PRIX-OF-ITALY-2026-old.png",
@@ -54,57 +71,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/139946_english_hls_5797e10a2635939_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Sabalenka Vs Kasatkina",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/RG_Aryna-Sabalenka-vs-Daria-Kasatkina_FC-WEB.jpg",
-            "team_1": "Sabalenka vs Kasatkina",
-            "team_2": "Stade Roland Garros Paris, France",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Roland Garros 2026",
-            "match_name": "Sabalenka Vs Kasatkina | Roland Garros 2026 [ENGLISH]",
-            "match_id": "142683",
-            "startTime": "30 May 2026 02:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://dai.google.com/linear/hls/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court Simonne Mathieu",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-            "team_1": "Court Simonne-Mathieu",
-            "team_2": "Stade Roland Garros Paris, France",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Roland Garros 2026",
-            "match_name": "Court Simonne Mathieu | Roland Garros 2026 [ENGLISH]",
-            "match_id": "142682",
-            "startTime": "30 May 2026 02:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://dai.google.com/linear/hls/event/WXZSUDTrR_qEtB80K6n8fg/master.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court 14",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-            "team_1": "Court 14",
-            "team_2": "Stade Roland Garros Paris, France",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Roland Garros 2026",
-            "match_name": "Court 14 | Roland Garros 2026 [ENGLISH]",
-            "match_id": "142681",
-            "startTime": "30 May 2026 02:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://dai.google.com/linear/hls/event/rim5HfGeSVWCfnD_0YwbPA/master.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -139,6 +105,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142897_english_hls_cf3c7cefd948526_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3   Featured Holes",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
+            "team_1": "Day 3 - Featured Holes",
+            "team_2": "Colonial Country Club - Fort Worth, Texas",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Charles Schwab Challenge 2026",
+            "match_name": "Day 3   Featured Holes | Charles Schwab Challenge 2026 [ENGLISH]",
+            "match_id": "142900",
+            "startTime": "30 May 2026 06:45 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142900_english_hls_6f5ceeb0e098411_1ta-di_h264/index.m3u8"
         }
     ]
 }
