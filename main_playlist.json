@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:00:24 AM 31-05-2026",
+    "last update time": "03:15:29 AM 31-05-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -57,23 +57,6 @@
         },
         {
             "event_category": "Golf",
-            "title": "Day 3   Featured Holes",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
-            "team_1": "Day 3 - Featured Holes",
-            "team_2": "Colonial Country Club - Fort Worth, Texas",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Charles Schwab Challenge 2026",
-            "match_name": "Day 3   Featured Holes | Charles Schwab Challenge 2026 [ENGLISH]",
-            "match_id": "142900",
-            "startTime": "30 May 2026 06:45 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142900_english_hls_6f5ceeb0e098411_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
             "title": "Day 3   Featured Groups",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
             "team_1": "Day 3 - Featured Groups",
@@ -88,23 +71,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142899_english_hls_8fabe9b13036316_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 3   Marquee Group",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
-            "team_1": "Day 3 - Marquee Group",
-            "team_2": "Colonial Country Club - Fort Worth, Texas",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Charles Schwab Challenge 2026",
-            "match_name": "Day 3   Marquee Group | Charles Schwab Challenge 2026 [ENGLISH]",
-            "match_id": "142898",
-            "startTime": "30 May 2026 08:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142898_english_hls_8f06bd52b125270_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
