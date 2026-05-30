@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:15:19 PM 30-05-2026",
+    "last update time": "10:30:22 PM 30-05-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh Women Vs Scotland Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/SC-W_BD-W.jpg",
-            "team_1": "Bangladesh Women",
-            "team_2": "Scotland Women",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Scotland Women's T20I Tri-Series 2026",
-            "match_name": "Bangladesh Women Vs Scotland Women | Scotland Women's T20I Tri-Series 2026 [ENGLISH]",
-            "match_id": "143003",
-            "startTime": "30 May 2026 06:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143003_english_hls_a43a14b18940033_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Day 3   Main Feed",
