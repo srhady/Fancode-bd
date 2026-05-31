@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:15:18 PM 31-05-2026",
+    "last update time": "10:30:21 PM 31-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,6 +20,40 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143054_english_hls_f7e6fa20e576812_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Deportivo La Coruna Vs Las Palmas",
+            "src": "https://images.fancode.com/aig/match/v1779951738033/143171_CASACARDS_APP.png",
+            "team_1": "Deportivo La Coruna",
+            "team_2": "Las Palmas",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Deportivo La Coruna Vs Las Palmas | LALIGA Hypermotion 2025-26 [ENGLISH]",
+            "match_id": "143171",
+            "startTime": "31 May 2026 10:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143171_english_hls_1c4c4df3be36924_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Castell\u00f3n Vs Eibar",
+            "src": "https://images.fancode.com/aig/match/v1779951738055/143170_CASACARDS_APP.png",
+            "team_1": "Castell\u00f3n",
+            "team_2": "Eibar",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Castell\u00f3n Vs Eibar | LALIGA Hypermotion 2025-26 [ENGLISH]",
+            "match_id": "143170",
+            "startTime": "31 May 2026 10:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143170_english_hls_46045a71d173024_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
