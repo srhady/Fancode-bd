@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:45:20 PM 31-05-2026",
+    "last update time": "05:00:25 PM 31-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,6 +20,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142750_english_hls_4acbc9bcd087060_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Nepal Women Vs Sri Lanka Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142939_6089_NLW_SLW_FC-Web_1779706389448.jpg",
+            "team_1": "Nepal Women",
+            "team_2": "Sri Lanka Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "SAFF Women's Championship 2026",
+            "match_name": "Nepal Women Vs Sri Lanka Women | SAFF Women's Championship 2026 [ENGLISH]",
+            "match_id": "142939",
+            "startTime": "31 May 2026 04:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142939_english_hls_515086b19459441_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "MotoGP",
@@ -190,23 +207,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://dai.google.com/linear/hls/event/yGxR-xztTQi4dkEj1x5Qjw/master.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Nepal Women Vs Sri Lanka Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142939_6089_NLW_SLW_FC-Web_1779706389448.jpg",
-            "team_1": "Nepal Women",
-            "team_2": "Sri Lanka Women",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "SAFF Women's Championship 2026",
-            "match_name": "Nepal Women Vs Sri Lanka Women | SAFF Women's Championship 2026 [ENGLISH]",
-            "match_id": "142939",
-            "startTime": "31 May 2026 04:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142939_english_hls_515086b19459441_1ta-di_h264/index.m3u8"
         }
     ]
 }
