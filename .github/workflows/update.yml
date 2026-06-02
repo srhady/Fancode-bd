@@ -1,4 +1,4 @@
-name: Auto Update Playlist (Unlimited & Secure)
+ name: Auto Update Playlist (Unlimited & Secure)
 
 on:
   workflow_dispatch: 
@@ -38,6 +38,11 @@ jobs:
           mv main_playlist.m3u ../
           mv main_playlist.json ../
           
+          rm -rf ../raw_link
+          if [ -d "raw_link" ]; then
+            mv raw_link ../
+          fi
+          
       - name: Push Master Playlists to Private Repo
         run: |
           cd private_repo
@@ -55,6 +60,6 @@ jobs:
           git config user.name "GitHub Action Bot"
           git config user.email "action@github.com"
           
-          git add main_playlist.m3u main_playlist.json
-          git commit -m "Auto update: Main Playlists" || echo "No changes to commit"
+          git add main_playlist.m3u main_playlist.json raw_link/
+          git commit -m "Auto update: Main Playlists and Raw Links" || echo "No changes to commit"
           git push
