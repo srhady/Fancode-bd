@@ -1,4 +1,4 @@
- name: Auto Update Playlist (Unlimited & Secure)
+name: Auto Update Playlist (Unlimited & Secure)
 
 on:
   workflow_dispatch: 
