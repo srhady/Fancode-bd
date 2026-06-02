@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:15:34 PM 02-06-2026",
+    "last update time": "09:30:33 PM 02-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh Women Vs Scotland Women",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/SC-W_BD-W.jpg",
-            "team_1": "Bangladesh Women",
-            "team_2": "Scotland Women",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Scotland Women's T20I Tri-Series 2026",
-            "match_name": "Bangladesh Women Vs Scotland Women | Scotland Women's T20I Tri-Series 2026 [ENGLISH]",
-            "match_id": "143005",
-            "startTime": "02 June 2026 05:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_women_vs_scotland_women_143005_english.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Jodar Vs Zverev",
