@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:45:21 PM 02-06-2026",
+    "last update time": "06:48:10 PM 02-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,7 +19,7 @@
             "startTime": "02 June 2026 10:00 AM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143226_english_hls_8af903ee3417221_1ta-di_h264/index.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mis_e_ainak_region_vs_speen_ghar_region_143226_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -36,7 +36,7 @@
             "startTime": "02 June 2026 05:30 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143005_english_hls_28ecb58da174085_1ta-di_h264/index.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_women_vs_scotland_women_143005_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -53,7 +53,7 @@
             "startTime": "02 June 2026 02:30 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://dai.google.com/linear/hls/event/Y6jP_z0zQdaO-bhFCEf5EQ/master.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jodar_vs_zverev_142698_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -70,7 +70,7 @@
             "startTime": "02 June 2026 02:30 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://dai.google.com/linear/hls/event/fE5fgIpRRwiue-26GG4XmA/master.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jodar_vs_zverev_142698_hindi.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -87,7 +87,7 @@
             "startTime": "02 June 2026 02:30 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://dai.google.com/linear/hls/event/fl9QYciWQzGorh7RYdUx2Q/master.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jodar_vs_zverev_142698_tamil.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -104,7 +104,7 @@
             "startTime": "02 June 2026 02:30 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://dai.google.com/linear/hls/event/1I2inQFKTc6hWKkkGtjkog/master.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jodar_vs_zverev_142698_telugu.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -121,7 +121,7 @@
             "startTime": "02 June 2026 02:30 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://dai.google.com/linear/hls/event/yGxR-xztTQi4dkEj1x5Qjw/master.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jodar_vs_zverev_142698_kannada.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -138,7 +138,7 @@
             "startTime": "02 June 2026 02:30 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://dai.google.com/linear/hls/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/court_suzanne_lenglen_142697_english.m3u8"
         }
     ]
 }
