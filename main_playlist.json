@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:30:29 PM 02-06-2026",
+    "last update time": "05:45:21 PM 02-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -122,6 +122,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://dai.google.com/linear/hls/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Scotland Women Vs Bangladesh Women",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/SC-W_BD-W.jpg",
+            "team_1": "Scotland Women",
+            "team_2": "Bangladesh Women",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Scotland Women's T20I Tri-Series 2026",
+            "match_name": "Scotland Women Vs Bangladesh Women | Scotland Women's T20I Tri-Series 2026 [ENGLISH]",
+            "match_id": "143005",
+            "startTime": "02 June 2026 05:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143005_english_hls_28ecb58da174085_1ta-di_h264/index.m3u8"
         }
     ]
 }
