@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:00:31 PM 02-06-2026
+#last update time: 07:15:23 PM 02-06-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Cricket", Mis E Ainak Region Vs Speen Ghar Region | Supercola Regional List A Tournament 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mis_e_ainak_region_vs_speen_ghar_region_143226_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SC-W_BD-W.jpg" group-title="Cricket", Bangladesh Women Vs Scotland Women | Scotland Women's T20I Tri-Series 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_women_vs_scotland_women_143005_english.m3u8
@@ -24,4 +21,7 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jodar_vs_zvere
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Rafael-Jodar-vs-Alexander-Zverev_FC-WEB.jpg" group-title="Tennis", Jodar Vs Zverev | Roland Garros 2026 (KANNADA)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jodar_vs_zverev_142698_kannada.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Tennis", Court Suzanne Lenglen | Roland Garros 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/court_suzanne_lenglen_142697_english.m3u8
 
