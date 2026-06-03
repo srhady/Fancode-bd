@@ -2,8 +2,25 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:15:26 PM 03-06-2026",
+    "last update time": "07:30:30 PM 03-06-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Mumbai Marines Vs Up Brij Stars",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142984_6094_MM_UPBS_FC-WEB_1780318028412.jpg",
+            "team_1": "Mumbai Marines",
+            "team_2": "UP Brij Stars",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Big Cricket League Season 2",
+            "match_name": "Mumbai Marines Vs Up Brij Stars | Big Cricket League Season 2 [ENGLISH]",
+            "match_id": "142984",
+            "startTime": "03 June 2026 07:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mumbai_marines_vs_up_brij_stars_142984_english.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Scotland Women Vs Netherlands Women",
