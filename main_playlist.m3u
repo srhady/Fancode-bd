@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:33 PM 03-06-2026
+#last update time: 10:45:23 PM 03-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142984_6094_MM_UPBS_FC-WEB_1780318028412.jpg" group-title="Cricket", Mumbai Marines Vs Up Brij Stars | Big Cricket League Season 2 (ENGLISH)
@@ -15,9 +15,6 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/pakistan_women
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MPL_Gwalior-Cheetahs_vs_Ujjain-Falcons_Old_match-card_2025_FC-WEB_1780482986758.jpg" group-title="Cricket", Ujjain Falcons Vs Gwalior Cheetahs | Madhya Pradesh League T20 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/ujjain_falcons_vs_gwalior_cheetahs_143058_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SAFF_IndiavsBhutan_web.jpg" group-title="Football", India Women Vs Bhutan Women | SAFF Women's Championship 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/india_women_vs_bhutan_women_142942_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Felix-Auger-Aliassime-vs-Flavio-Cobolli_FC-WEB.jpg" group-title="Tennis", Auger Aliassime Vs Cobolli | Roland Garros 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/auger_aliassime_vs_cobolli_142717_english.m3u8
