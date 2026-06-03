@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:00:34 PM 03-06-2026",
+    "last update time": "08:15:28 PM 03-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,6 +20,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mumbai_marines_vs_up_brij_stars_142984_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies Vs Sri Lanka",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png",
+            "team_1": "West Indies",
+            "team_2": "Sri Lanka",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Sri Lanka tour of West Indies 2026",
+            "match_name": "West Indies Vs Sri Lanka | Sri Lanka tour of West Indies 2026 [ENGLISH]",
+            "match_id": "142972",
+            "startTime": "03 June 2026 08:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_sri_lanka_142972_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -57,20 +74,20 @@
         },
         {
             "event_category": "Tennis",
-            "title": "Sabalenka Vs Shnaider",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/RG_Aryna-Sabalenka-vs-Diana-Shnaider_FC-WEB.jpg",
-            "team_1": "Sabalenka vs Shnaider",
+            "title": "Auger Aliassime Vs Cobolli",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/RG_Felix-Auger-Aliassime-vs-Flavio-Cobolli_FC-WEB.jpg",
+            "team_1": "Auger-Aliassime vs Cobolli",
             "team_2": "Stade Roland Garros Paris, France",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Roland Garros 2026",
-            "match_name": "Sabalenka Vs Shnaider | Roland Garros 2026 [ENGLISH]",
+            "match_name": "Auger Aliassime Vs Cobolli | Roland Garros 2026 [ENGLISH]",
             "match_id": "142717",
             "startTime": "03 June 2026 02:30 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sabalenka_vs_shnaider_142717_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/auger_aliassime_vs_cobolli_142717_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -156,40 +173,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/top_seeds_in_action_142960_kannada.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court Suzanne Lenglen",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-            "team_1": "Court Suzanne-Lenglen",
-            "team_2": "Stade Roland Garros Paris, France",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Roland Garros 2026",
-            "match_name": "Court Suzanne Lenglen | Roland Garros 2026 [ENGLISH]",
-            "match_id": "142716",
-            "startTime": "03 June 2026 03:40 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/court_suzanne_lenglen_142716_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court Simonne Mathieu",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-            "team_1": "Court Simonne Mathieu",
-            "team_2": "Stade Roland Garros Paris, France",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Roland Garros 2026",
-            "match_name": "Court Simonne Mathieu | Roland Garros 2026 [ENGLISH]",
-            "match_id": "142715",
-            "startTime": "03 June 2026 03:40 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/court_simonne_mathieu_142715_english.m3u8"
         }
     ]
 }

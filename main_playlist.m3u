@@ -1,11 +1,14 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:00:34 PM 03-06-2026
+#last update time: 08:15:28 PM 03-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142984_6094_MM_UPBS_FC-WEB_1780318028412.jpg" group-title="Cricket", Mumbai Marines Vs Up Brij Stars | Big Cricket League Season 2 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mumbai_marines_vs_up_brij_stars_142984_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png" group-title="Cricket", West Indies Vs Sri Lanka | Sri Lanka tour of West Indies 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_sri_lanka_142972_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SC-W_ND-W-old.jpg" group-title="Cricket", Scotland Women Vs Netherlands Women | Scotland Women's T20I Tri-Series 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/scotland_women_vs_netherlands_women_143006_english.m3u8
@@ -13,8 +16,8 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/scotland_women
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MPL_Gwalior-Cheetahs_vs_Ujjain-Falcons_Old_match-card_2025_FC-WEB_1780482986758.jpg" group-title="Cricket", Gwalior Cheetahs Vs Ujjain Falcons | Madhya Pradesh League T20 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/gwalior_cheetahs_vs_ujjain_falcons_143058_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Aryna-Sabalenka-vs-Diana-Shnaider_FC-WEB.jpg" group-title="Tennis", Sabalenka Vs Shnaider | Roland Garros 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sabalenka_vs_shnaider_142717_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Felix-Auger-Aliassime-vs-Flavio-Cobolli_FC-WEB.jpg" group-title="Tennis", Auger Aliassime Vs Cobolli | Roland Garros 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/auger_aliassime_vs_cobolli_142717_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Tennis", Top Seeds In Action | Roland Garros 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/top_seeds_in_action_142960_english.m3u8
@@ -30,10 +33,4 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/top_seeds_in_a
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Tennis", Top Seeds In Action | Roland Garros 2026 (KANNADA)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/top_seeds_in_action_142960_kannada.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Tennis", Court Suzanne Lenglen | Roland Garros 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/court_suzanne_lenglen_142716_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Tennis", Court Simonne Mathieu | Roland Garros 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/court_simonne_mathieu_142715_english.m3u8
 
