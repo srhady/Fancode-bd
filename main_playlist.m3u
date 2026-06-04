@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:15:19 PM 04-06-2026
+#last update time: 05:30:26 PM 04-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Cricket", Amo Region Vs Speen Ghar Region | Supercola Regional List A Tournament 2026 (ENGLISH)
@@ -12,9 +12,6 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/malwa_stallion
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg" group-title="Cricket", Bhopal Wolves Women Vs Bundelkhand Bulls Women | Madhya Pradesh League T20 Women's 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bhopal_wolves_women_vs_bundelkhand_bulls_women_143019_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Tennis", Court Suzanne Lenglen | Roland Garros 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/court_suzanne_lenglen_142722_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Tennis", Court Philippe Chatrier | Roland Garros 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/court_philippe_chatrier_142723_english.m3u8
@@ -30,4 +27,10 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/court_philippe
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Tennis", Court Philippe Chatrier | Roland Garros 2026 (KANNADA)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/court_philippe_chatrier_142723_kannada.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg" group-title="Motorsports", Practice Session | F3 MONACO 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/practice_session_139712_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Golf", Main Feed   Day 1 | the Memorial Tournament presented by Workday 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/main_feed___day_1_143106_english.m3u8
 
