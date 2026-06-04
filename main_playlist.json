@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:15:23 PM 04-06-2026",
+    "last update time": "03:30:27 PM 04-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,6 +20,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/amo_region_vs_speen_ghar_region_142754_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Malwa Stallions Vs Chambal Ghariyals",
+            "src": "https://images.fancode.com/aig/match/v1780469022419/143059_CASACARDS_APP.png",
+            "team_1": "Malwa Stallions",
+            "team_2": "Chambal Ghariyals",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Malwa Stallions Vs Chambal Ghariyals | Madhya Pradesh League T20, 2026 [ENGLISH]",
+            "match_id": "143059",
+            "startTime": "04 June 2026 03:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/malwa_stallions_vs_chambal_ghariyals_143059_english.m3u8"
         },
         {
             "event_category": "Cricket",
