@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:24:13 AM 14-06-2026",
+    "last update time": "12:45:16 AM 14-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Chambal Ghariyals Women Vs Gwalior Shernis",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
-            "team_1": "Chambal Ghariyals Women",
-            "team_2": "Gwalior Shernis",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Madhya Pradesh League T20 Women's 2026",
-            "match_name": "Chambal Ghariyals Women Vs Gwalior Shernis | Madhya Pradesh League T20 Women's 2026 [ENGLISH]",
-            "match_id": "143029",
-            "startTime": "13 June 2026 07:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chambal_ghariyals_women_vs_gwalior_shernis_143029_english.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Day 3   Featured Groups",
