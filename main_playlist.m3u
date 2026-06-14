@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:45:22 PM 14-06-2026
+#last update time: 06:00:28 PM 14-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png" group-title="Cricket", Bangladesh Vs Australia | Australia tour of Bangladesh 2026 (ENGLISH)
@@ -12,6 +12,12 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/royal_nimar_ea
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143032_6095_PPA_BBU_fc-app.jpg" group-title="Cricket", Patiala Panthers Vs Bathinda Bulls | Punjab T10 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/patiala_panthers_vs_bathinda_bulls_143032_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png" group-title="Tennis", Final   Center Court | ATP 250 - BOSS OPEN 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/final___center_court_143124_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" group-title="Tennis", Final   Center Court | ATP 250 - Libema Open (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/final___center_court_143131_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Barcelona_GP_FC-web.jpg" group-title="Formula 1", Race | F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA  (ENGLISH) [DRM]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
