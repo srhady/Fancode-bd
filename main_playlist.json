@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:45:29 PM 14-06-2026",
+    "last update time": "11:00:30 PM 14-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -105,6 +105,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___marquee_group_143218_english.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4   World Feed",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+            "team_1": "Day 4 - World Feed",
+            "team_2": "TPC Toronto at Osprey Valley, Caledo,  Ontario",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "RBC Canadian Open 2026",
+            "match_name": "Day 4   World Feed | RBC Canadian Open 2026 [ENGLISH]",
+            "match_id": "143216",
+            "startTime": "14 June 2026 10:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___world_feed_143216_english.m3u8"
         }
     ]
 }
