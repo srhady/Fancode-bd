@@ -1,15 +1,9 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:45:20 PM 14-06-2026
+#last update time: 02:00:30 PM 14-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png" group-title="Cricket", Bangladesh Vs Australia | Australia tour of Bangladesh 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_australia_142967_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022421/143083_CASACARDS_SPORTY_APP.png" group-title="Cricket", Chambal Ghariyals Vs Indore Pink Panthers | Madhya Pradesh League T20 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chambal_ghariyals_vs_indore_pink_panthers_143083_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2_1781168885520.jpg" group-title="Motorsports", Race | F3 BARCELONA 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139720_english.m3u8
 
