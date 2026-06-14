@@ -2,24 +2,6 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:00:33 AM 14-06-2026",
-    "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Day 3   World Feed",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-            "team_1": "Day 3 - World Feed",
-            "team_2": "TPC Toronto at Osprey Valley, Caledo,  Ontario",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "RBC Canadian Open 2026",
-            "match_name": "Day 3   World Feed | RBC Canadian Open 2026 [ENGLISH]",
-            "match_id": "143211",
-            "startTime": "13 June 2026 10:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___world_feed_143211_english.m3u8"
-        }
-    ]
+    "last update time": "06:15:22 AM 14-06-2026",
+    "matches": []
 }
