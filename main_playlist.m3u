@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:00:31 PM 14-06-2026
+#last update time: 09:15:22 PM 14-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143154_6108_AA_GG_FC-Web.png" group-title="Cricket", Antwerp Anchors Vs Ghent Gladiators | EUT20 Belgium 2026 (ENGLISH)
@@ -12,21 +12,6 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/usa_vs_netherl
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" group-title="Tennis", Final   Center Court | ATP 250 - Libema Open (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/final___center_court_143131_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Barcelona_GP_FC-web.jpg" group-title="Formula 1", Race | F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA  (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3506555e8cd94450bb1dadf6dd19614b:1afffe9401229d41ab8e58c46a0837ce
-https://bd-mc-flive.fancode.com/mumbai/139456_english_dash_82436_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Barcelona_GP_FC-web.jpg" group-title="Formula 1", Race | F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA  (HINDI) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=36a181b20a884c4482d0c4bf146b9e79:449e94fdd2d85320902d763dd33aeab7
-https://bd-mc-flive.fancode.com/mumbai/139456_hindi_dash_76590_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Barcelona_GP_FC-web.jpg" group-title="Formula 1", Race | F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA  (TAMIL) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=574eed3b7a444b9894be7394371ef904:bedbdda130683cd9375278f2cc94135c
-https://bd-mc-flive.fancode.com/mumbai/139456_tamil_dash_78098_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Golf", Day 4   Featured Groups | RBC Canadian Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___featured_groups_143220_english.m3u8
