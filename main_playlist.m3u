@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:45:15 PM 14-06-2026
+#last update time: 05:00:23 PM 14-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png" group-title="Cricket", Bangladesh Vs Australia | Australia tour of Bangladesh 2026 (ENGLISH)
@@ -9,9 +9,6 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022377/143084_CASACARDS_SPORTY_APP.png" group-title="Cricket", Royal Nimar Eagles Vs Ujjain Falcons | Madhya Pradesh League T20 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/royal_nimar_eagles_vs_ujjain_falcons_143084_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143031_6095_AAL_LLI_fc-app.jpg" group-title="Cricket", Amritsar Alligators Vs Ludhiana Lions | Punjab T10 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/amritsar_alligators_vs_ludhiana_lions_143031_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143032_6095_PPA_BBU_fc-app.jpg" group-title="Cricket", Patiala Panthers Vs Bathinda Bulls | Punjab T10 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/patiala_panthers_vs_bathinda_bulls_143032_english.m3u8
