@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:30:30 PM 14-06-2026",
+    "last update time": "08:45:25 PM 14-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/antwerp_anchors_vs_ghent_gladiators_143166_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Final   Center Court",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png",
-            "team_1": "Final - Center Court",
-            "team_2": "Stuttgart, Germany",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 250 - BOSS OPEN 2026",
-            "match_name": "Final   Center Court | ATP 250 - BOSS OPEN 2026 [ENGLISH]",
-            "match_id": "143124",
-            "startTime": "14 June 2026 05:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/final___center_court_143124_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -139,6 +122,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___main_feed_143217_english.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4   Featured Holes",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+            "team_1": "Day 4 - Featured Holes",
+            "team_2": "TPC Toronto at Osprey Valley, Caledo,  Ontario",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "RBC Canadian Open 2026",
+            "match_name": "Day 4   Featured Holes | RBC Canadian Open 2026 [ENGLISH]",
+            "match_id": "143219",
+            "startTime": "14 June 2026 08:15 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___featured_holes_143219_english.m3u8"
         }
     ]
 }
