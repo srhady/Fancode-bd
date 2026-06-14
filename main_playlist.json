@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:15:28 PM 14-06-2026",
+    "last update time": "08:30:30 PM 14-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -105,6 +105,40 @@
             "is_drm": true,
             "clearkey": "574eed3b7a444b9894be7394371ef904:bedbdda130683cd9375278f2cc94135c",
             "stream_url": "https://bd-mc-flive.fancode.com/mumbai/139456_tamil_dash_78098_1drmta-di_h264/index.mpd"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4   Featured Groups",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+            "team_1": "Day 4 - Featured Groups",
+            "team_2": "TPC Toronto at Osprey Valley, Caledo, Ontario",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "RBC Canadian Open 2026",
+            "match_name": "Day 4   Featured Groups | RBC Canadian Open 2026 [ENGLISH]",
+            "match_id": "143220",
+            "startTime": "14 June 2026 08:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___featured_groups_143220_english.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4   Main Feed",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+            "team_1": "Day 4 - Main Feed",
+            "team_2": "TPC Toronto at Osprey Valley, Caledo,  Ontario",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "RBC Canadian Open 2026",
+            "match_name": "Day 4   Main Feed | RBC Canadian Open 2026 [ENGLISH]",
+            "match_id": "143217",
+            "startTime": "14 June 2026 08:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___main_feed_143217_english.m3u8"
         }
     ]
 }
