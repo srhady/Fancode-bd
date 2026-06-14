@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:15:26 PM 14-06-2026",
+    "last update time": "02:30:19 PM 14-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -22,23 +22,6 @@
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_australia_142967_english.m3u8"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Race",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Spain_barcelona_FC-WEB.jpg",
-            "team_1": "Race",
-            "team_2": "Circuit de Barcelona-Catalunya",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Porsche Mobil 1 Supercup 2026",
-            "match_name": "Race | Porsche Mobil 1 Supercup 2026 [ENGLISH]",
-            "match_id": "143390",
-            "startTime": "14 June 2026 01:40 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_143390_english.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Amritsar Alligators Vs Ludhiana Lions",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143031_6095_AAL_LLI_fc-app.jpg",
@@ -54,6 +37,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/amritsar_alligators_vs_ludhiana_lions_143031_english.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Race",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Spain_barcelona_FC-WEB.jpg",
+            "team_1": "Race",
+            "team_2": "Circuit de Barcelona-Catalunya",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Porsche Mobil 1 Supercup 2026",
+            "match_name": "Race | Porsche Mobil 1 Supercup 2026 [ENGLISH]",
+            "match_id": "143390",
+            "startTime": "14 June 2026 01:40 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_143390_english.m3u8"
         }
     ]
 }
