@@ -2,12 +2,12 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:15:22 PM 15-06-2026",
+    "last update time": "03:30:33 PM 15-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
             "title": "Malmo Mavericks Vs Stockholm City",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143175_6109_STY_MLM_FC-WEB.jpg",
             "team_1": "Malmo Mavericks",
             "team_2": "Stockholm City",
             "status": "LIVE",
@@ -20,6 +20,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/malmo_mavericks_vs_stockholm_city_143175_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Rewa Jaguars Vs Gwalior Cheetahs",
+            "src": "https://images.fancode.com/aig/match/v1780469022377/143085_CASACARDS_SPORTY_APP.png",
+            "team_1": "Rewa Jaguars",
+            "team_2": "Gwalior Cheetahs",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Rewa Jaguars Vs Gwalior Cheetahs | Madhya Pradesh League T20, 2026 [ENGLISH]",
+            "match_id": "143085",
+            "startTime": "15 June 2026 03:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/rewa_jaguars_vs_gwalior_cheetahs_143085_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -37,6 +54,40 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/patiala_panthers_vs_amritsar_alligators_143033_english.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 1   World Feed",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
+            "team_1": "Day 1 - World Feed",
+            "team_2": "Halle, Germany",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_name": "Day 1   World Feed | ATP 500 - Terra Wortmann Open 2026 [ENGLISH]",
+            "match_id": "143254",
+            "startTime": "15 June 2026 03:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___world_feed_143254_english.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 1   Schauinsland Reisen Court",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
+            "team_1": "Day 1 - Schauinsland Reisen Court",
+            "team_2": "Halle, Germany",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_name": "Day 1   Schauinsland Reisen Court | ATP 500 - Terra Wortmann Open 2026 [ENGLISH]",
+            "match_id": "143253",
+            "startTime": "15 June 2026 03:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___schauinsland_reisen_court_143253_english.m3u8"
         }
     ]
 }
