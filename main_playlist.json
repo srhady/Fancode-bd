@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:00:37 PM 15-06-2026",
+    "last update time": "11:15:28 PM 15-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bhopal_leopards_vs_jabalpur_royal_lions_143086_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Vasteras United Vs Gothenburg Phoenix",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143177_6109_VTU_GTP_FC-WEB.jpg",
-            "team_1": "Vasteras United",
-            "team_2": "Gothenburg Phoenix",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Nordic Smash T20 Cup, 2026",
-            "match_name": "Vasteras United Vs Gothenburg Phoenix | Nordic Smash T20 Cup, 2026 [ENGLISH]",
-            "match_id": "143177",
-            "startTime": "15 June 2026 07:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/vasteras_united_vs_gothenburg_phoenix_143177_english.m3u8"
         },
         {
             "event_category": "Tennis",
