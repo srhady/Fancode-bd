@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:30:22 PM 15-06-2026
+#last update time: 05:45:22 PM 15-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022377/143085_CASACARDS_SPORTY_APP.png" group-title="Cricket", Rewa Jaguars Vs Gwalior Cheetahs | Madhya Pradesh League T20 2026 (ENGLISH)
@@ -21,4 +21,7 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___schaui
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg" group-title="Tennis", Day 1   World Feed | ATP 500 - HSBC Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___world_feed_143132_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg" group-title="Tennis", Day 1   Court 1 | ATP 500 - HSBC Championship 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___court_1_143135_english.m3u8
 

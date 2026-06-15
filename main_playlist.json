@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:30:22 PM 15-06-2026",
+    "last update time": "05:45:22 PM 15-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -105,6 +105,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___world_feed_143132_english.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 1   Court 1",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg",
+            "team_1": "Day 1 - Court 1",
+            "team_2": "London, Great Britain",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ATP 500 - HSBC Championship 2026",
+            "match_name": "Day 1   Court 1 | ATP 500 - HSBC Championship 2026 [ENGLISH]",
+            "match_id": "143135",
+            "startTime": "15 June 2026 05:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___court_1_143135_english.m3u8"
         }
     ]
 }
