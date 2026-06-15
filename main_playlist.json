@@ -2,24 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:00:24 AM 15-06-2026",
+    "last update time": "10:15:23 AM 15-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "West Indies Vs Sri Lanka",
+            "title": "Sri Lanka Vs West Indies",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL-T20I-Series_fc-web.jpg",
-            "team_1": "West Indies",
-            "team_2": "Sri Lanka",
+            "team_1": "Sri Lanka",
+            "team_2": "West Indies",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Sri Lanka tour of West Indies 2026",
-            "match_name": "West Indies Vs Sri Lanka | Sri Lanka tour of West Indies 2026 [ENGLISH]",
+            "match_name": "Sri Lanka Vs West Indies | Sri Lanka tour of West Indies 2026 [ENGLISH]",
             "match_id": "142977",
             "startTime": "15 June 2026 06:00 AM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_sri_lanka_142977_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_vs_west_indies_142977_english.m3u8"
         }
     ]
 }
