@@ -2,6 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:30:20 PM 15-06-2026",
-    "matches": []
+    "last update time": "12:45:20 PM 15-06-2026",
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Stockholm City Vs Malmo Mavericks",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png",
+            "team_1": "Stockholm City",
+            "team_2": "Malmo Mavericks",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Nordic Smash T20 Cup, 2026",
+            "match_name": "Stockholm City Vs Malmo Mavericks | Nordic Smash T20 Cup, 2026 [ENGLISH]",
+            "match_id": "143175",
+            "startTime": "15 June 2026 12:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/stockholm_city_vs_malmo_mavericks_143175_english.m3u8"
+        }
+    ]
 }
