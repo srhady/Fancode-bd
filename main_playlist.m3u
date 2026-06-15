@@ -1,14 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:45:22 PM 15-06-2026
+#last update time: 07:00:38 PM 15-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022377/143085_CASACARDS_SPORTY_APP.png" group-title="Cricket", Rewa Jaguars Vs Gwalior Cheetahs | Madhya Pradesh League T20 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/rewa_jaguars_vs_gwalior_cheetahs_143085_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143034_6095_LLI_BBU_fc-app.jpg" group-title="Cricket", Ludhiana Lions Vs Bathinda Bulls | Punjab T10 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/ludhiana_lions_vs_bathinda_bulls_143034_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143176_6109_UPP_HMU_FC-WEB.jpg" group-title="Cricket", Uppsala Tigers Vs Stockholm United | Nordic Smash T20 Cup 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/uppsala_tigers_vs_stockholm_united_143176_english.m3u8
