@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:15:22 PM 15-06-2026",
+    "last update time": "04:30:27 PM 15-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -73,6 +73,23 @@
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/ludhiana_lions_vs_bathinda_bulls_143034_english.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Uppsala Tigers Vs Stockholm United",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143176_6109_UPP_HMU_FC-WEB.jpg",
+            "team_1": "Uppsala Tigers",
+            "team_2": "Stockholm United",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Nordic Smash T20 Cup, 2026",
+            "match_name": "Uppsala Tigers Vs Stockholm United | Nordic Smash T20 Cup, 2026 [ENGLISH]",
+            "match_id": "143176",
+            "startTime": "15 June 2026 04:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/uppsala_tigers_vs_stockholm_united_143176_english.m3u8"
+        },
+        {
             "event_category": "Tennis",
             "title": "Day 1   World Feed",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
@@ -105,6 +122,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___schauinsland_reisen_court_143253_english.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 1   World Feed",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg",
+            "team_1": "Day 1 - World Feed",
+            "team_2": "London, Great Britain",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ATP 500 - HSBC Championship 2026",
+            "match_name": "Day 1   World Feed | ATP 500 - HSBC Championship 2026 [ENGLISH]",
+            "match_id": "143132",
+            "startTime": "15 June 2026 04:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___world_feed_143132_english.m3u8"
         }
     ]
 }
