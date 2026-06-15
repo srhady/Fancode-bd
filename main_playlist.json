@@ -2,24 +2,41 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:45:19 PM 15-06-2026",
+    "last update time": "02:00:33 PM 15-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Stockholm City Vs Malmo Mavericks",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png",
-            "team_1": "Stockholm City",
-            "team_2": "Malmo Mavericks",
-            "status": "NOT_STARTED",
+            "title": "Malmo Mavericks Vs Stockholm City",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png",
+            "team_1": "Malmo Mavericks",
+            "team_2": "Stockholm City",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Nordic Smash T20 Cup, 2026",
-            "match_name": "Stockholm City Vs Malmo Mavericks | Nordic Smash T20 Cup, 2026 [ENGLISH]",
+            "match_name": "Malmo Mavericks Vs Stockholm City | Nordic Smash T20 Cup, 2026 [ENGLISH]",
             "match_id": "143175",
             "startTime": "15 June 2026 12:30 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/stockholm_city_vs_malmo_mavericks_143175_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/malmo_mavericks_vs_stockholm_city_143175_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Patiala Panthers Vs Amritsar Alligators",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143033_6095_PPA_AAL_fc-app.jpg",
+            "team_1": "Patiala Panthers",
+            "team_2": "Amritsar Alligators",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Punjab T10 2026",
+            "match_name": "Patiala Panthers Vs Amritsar Alligators | Punjab T10 2026 [ENGLISH]",
+            "match_id": "143033",
+            "startTime": "15 June 2026 01:50 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/patiala_panthers_vs_amritsar_alligators_143033_english.m3u8"
         }
     ]
 }
