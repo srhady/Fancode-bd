@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:00:36 PM 16-06-2026",
+    "last update time": "07:15:25 PM 16-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,37 +23,20 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Amritsar Alligators Vs Bathinda Bulls",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143036_6095_AAL_BBU_fc-app.jpg",
-            "team_1": "Amritsar Alligators",
-            "team_2": "Bathinda Bulls",
+            "title": "Malmo Mavericks Vs Uppsala Tigers",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143179_6109_UPP_MLM_FC-WEB.jpg",
+            "team_1": "Malmo Mavericks",
+            "team_2": "Uppsala Tigers",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
-            "event_name": "Punjab T10 2026",
-            "match_name": "Amritsar Alligators Vs Bathinda Bulls | Punjab T10 2026 [ENGLISH]",
-            "match_id": "143036",
-            "startTime": "16 June 2026 04:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/amritsar_alligators_vs_bathinda_bulls_143036_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Uppsala Tigers Vs Malmo Mavericks",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143179_6109_UPP_MLM_FC-WEB.jpg",
-            "team_1": "Uppsala Tigers",
-            "team_2": "Malmo Mavericks",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
             "event_name": "Nordic Smash T20 Cup, 2026",
-            "match_name": "Uppsala Tigers Vs Malmo Mavericks | Nordic Smash T20 Cup, 2026 [ENGLISH]",
+            "match_name": "Malmo Mavericks Vs Uppsala Tigers | Nordic Smash T20 Cup, 2026 [ENGLISH]",
             "match_id": "143179",
             "startTime": "16 June 2026 04:00 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/uppsala_tigers_vs_malmo_mavericks_143179_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/malmo_mavericks_vs_uppsala_tigers_143179_english.m3u8"
         },
         {
             "event_category": "Tennis",
