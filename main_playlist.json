@@ -2,24 +2,6 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:15:42 AM 17-06-2026",
-    "matches": [
-        {
-            "event_category": "Tennis",
-            "title": "Day 2   Court 1",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg",
-            "team_1": "Day 2 - Court 1",
-            "team_2": "London, Great Britain",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 500 - HSBC Championship 2026",
-            "match_name": "Day 2   Court 1 | ATP 500 - HSBC Championship 2026 [ENGLISH]",
-            "match_id": "143133",
-            "startTime": "16 June 2026 04:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___court_1_143133_english.m3u8"
-        }
-    ]
+    "last update time": "01:30:26 AM 17-06-2026",
+    "matches": []
 }
