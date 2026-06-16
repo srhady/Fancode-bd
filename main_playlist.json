@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:15:25 PM 16-06-2026",
+    "last update time": "07:30:37 PM 16-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Indore Pink Panthers Vs Royal Nimar Eagles",
-            "src": "https://images.fancode.com/aig/match/v1780469022416/143087_CASACARDS_SPORTY_APP.png",
-            "team_1": "Indore Pink Panthers",
-            "team_2": "Royal Nimar Eagles",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Indore Pink Panthers Vs Royal Nimar Eagles | Madhya Pradesh League T20, 2026 [ENGLISH]",
-            "match_id": "143087",
-            "startTime": "16 June 2026 03:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/indore_pink_panthers_vs_royal_nimar_eagles_143087_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Malmo Mavericks Vs Uppsala Tigers",
