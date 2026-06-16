@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:30:28 PM 16-06-2026
+#last update time: 11:45:28 PM 16-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022367/143088_CASACARDS_SPORTY_APP.png" group-title="Cricket", Rewa Jaguars Vs Jabalpur Royal Lions | Madhya Pradesh League T20 2026 (ENGLISH)
@@ -9,9 +9,6 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/rewa_jaguars_v
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143180_6109_VTU_STY_FC-WEB.jpg" group-title="Cricket", Vasteras United Vs Stockholm City | Nordic Smash T20 Cup 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/vasteras_united_vs_stockholm_city_143180_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Tennis", Day 2   World Feed | ATP 500 - Terra Wortmann Open 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___world_feed_143255_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg" group-title="Tennis", Day 2   Court 1 | ATP 500 - HSBC Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___court_1_143133_english.m3u8
