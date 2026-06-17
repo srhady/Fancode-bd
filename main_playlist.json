@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:30:25 PM 17-06-2026",
+    "last update time": "06:45:27 PM 17-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,23 +37,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/uppsala_tigers_vs_gothenburg_phoenix_143182_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Jalandhar Jaguars Vs Mohali Monsters",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143038_6095_JJ_MM_fc-app.jpg",
-            "team_1": "Jalandhar Jaguars",
-            "team_2": "Mohali Monsters",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Punjab T10 2026",
-            "match_name": "Jalandhar Jaguars Vs Mohali Monsters | Punjab T10 2026 [ENGLISH]",
-            "match_id": "143038",
-            "startTime": "17 June 2026 04:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jalandhar_jaguars_vs_mohali_monsters_143038_english.m3u8"
         },
         {
             "event_category": "Tennis",
