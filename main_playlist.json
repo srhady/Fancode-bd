@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:15:22 PM 17-06-2026",
+    "last update time": "03:30:25 PM 17-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,20 +23,20 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Malmo Mavericks Vs Vasteras United",
+            "title": "Vasteras United Vs Malmo Mavericks",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143181_6109_MLM_VTU_FC-WEB.jpg",
-            "team_1": "Malmo Mavericks",
-            "team_2": "Vasteras United",
+            "team_1": "Vasteras United",
+            "team_2": "Malmo Mavericks",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Nordic Smash T20 Cup, 2026",
-            "match_name": "Malmo Mavericks Vs Vasteras United | Nordic Smash T20 Cup, 2026 [ENGLISH]",
+            "match_name": "Vasteras United Vs Malmo Mavericks | Nordic Smash T20 Cup, 2026 [ENGLISH]",
             "match_id": "143181",
             "startTime": "17 June 2026 12:30 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/malmo_mavericks_vs_vasteras_united_143181_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/vasteras_united_vs_malmo_mavericks_143181_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -44,7 +44,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143037_6095_FFA_MMO_fc-app.jpg",
             "team_1": "Firozpur Falcons",
             "team_2": "Moga Mongoose",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Punjab T10 2026",
@@ -54,6 +54,57 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/firozpur_falcons_vs_moga_mongoose_143037_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bhopal Leopards Vs Malwa Stallions",
+            "src": "https://images.fancode.com/aig/match/v1780469022399/143089_CASACARDS_SPORTY_APP.png",
+            "team_1": "Bhopal Leopards",
+            "team_2": "Malwa Stallions",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Bhopal Leopards Vs Malwa Stallions | Madhya Pradesh League T20, 2026 [ENGLISH]",
+            "match_id": "143089",
+            "startTime": "17 June 2026 03:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bhopal_leopards_vs_malwa_stallions_143089_english.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 3   World Feed",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
+            "team_1": "Day 3 - World Feed",
+            "team_2": "Halle, Germany",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_name": "Day 3   World Feed | ATP 500 - Terra Wortmann Open 2026 [ENGLISH]",
+            "match_id": "143258",
+            "startTime": "17 June 2026 03:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___world_feed_143258_english.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 3   Schauinsland Reisen Court",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
+            "team_1": "Day 3 - Schauinsland Reisen Court",
+            "team_2": "Halle, Germany",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_name": "Day 3   Schauinsland Reisen Court | ATP 500 - Terra Wortmann Open 2026 [ENGLISH]",
+            "match_id": "143257",
+            "startTime": "17 June 2026 03:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___schauinsland_reisen_court_143257_english.m3u8"
         }
     ]
 }
