@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:15:21 PM 17-06-2026",
+    "last update time": "11:30:30 PM 17-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chambal_ghariyals_vs_bundelkhand_bulls_143090_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Stockholm United Vs Stockholm City",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143183_6109_HMU_STY_FC-WEB.jpg",
-            "team_1": "Stockholm United",
-            "team_2": "Stockholm City",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Nordic Smash T20 Cup, 2026",
-            "match_name": "Stockholm United Vs Stockholm City | Nordic Smash T20 Cup, 2026 [ENGLISH]",
-            "match_id": "143183",
-            "startTime": "17 June 2026 07:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/stockholm_united_vs_stockholm_city_143183_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -88,23 +71,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___world_feed_143134_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 3   Court 1",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg",
-            "team_1": "Day 3 - Court 1",
-            "team_2": "London, Great Britain",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 500 - HSBC Championship 2026",
-            "match_name": "Day 3   Court 1 | ATP 500 - HSBC Championship 2026 [ENGLISH]",
-            "match_id": "143140",
-            "startTime": "17 June 2026 04:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___court_1_143140_english.m3u8"
         }
     ]
 }
