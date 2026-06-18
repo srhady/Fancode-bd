@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:15:20 PM 18-06-2026",
+    "last update time": "07:30:31 PM 18-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/ujjain_falcons_vs_indore_pink_panthers_143091_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Uppsala Tigers Vs Vasteras United",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143185_6109_UPP_VTU_FC-WEB.jpg",
-            "team_1": "Uppsala Tigers",
-            "team_2": "Vasteras United",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Nordic Smash T20 Cup, 2026",
-            "match_name": "Uppsala Tigers Vs Vasteras United | Nordic Smash T20 Cup, 2026 [ENGLISH]",
-            "match_id": "143185",
-            "startTime": "18 June 2026 04:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/uppsala_tigers_vs_vasteras_united_143185_english.m3u8"
         },
         {
             "event_category": "Cricket",
