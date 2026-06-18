@@ -1,17 +1,20 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:45:21 PM 18-06-2026
+#last update time: 06:15:19 PM 18-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022395/143091_CASACARDS_SPORTY_APP.png" group-title="Cricket", Ujjain Falcons Vs Indore Pink Panthers | Madhya Pradesh League T20 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/ujjain_falcons_vs_indore_pink_panthers_143091_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143040_6095_JJ_MMO_fc-app.jpg" group-title="Cricket", Jalandhar Jaguars Vs Moga Mongoose | Punjab T10 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jalandhar_jaguars_vs_moga_mongoose_143040_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143040_6095_JJ_MMO_fc-app.jpg" group-title="Cricket", Moga Mongoose Vs Jalandhar Jaguars | Punjab T10 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/moga_mongoose_vs_jalandhar_jaguars_143040_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143185_6109_UPP_VTU_FC-WEB.jpg" group-title="Cricket", Uppsala Tigers Vs Vasteras United | Nordic Smash T20 Cup 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/uppsala_tigers_vs_vasteras_united_143185_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780575318029/143314_CASACARDS_SPORTY_APP.png" group-title="Cricket", Nigeria Vs Hong Kong China | Men's T20I Tri series in Namibia 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/nigeria_vs_hong_kong__china_143314_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Tennis", Day 4   World Feed | ATP 500 - Terra Wortmann Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___world_feed_143259_english.m3u8
@@ -19,9 +22,9 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___world_
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg" group-title="Tennis", Day.4   World Feed | ATP 500 - HSBC Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___world_feed_143141_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Tennis", Day 4   Schauinsland Reisen Court | ATP 500 - Terra Wortmann Open 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___schauinsland_reisen_court_143260_english.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg" group-title="Tennis", Day 4   Court 1 | ATP 500 - HSBC Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___court_1_143142_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Tennis", Day 4   Schauinsland Reisen Court | ATP 500 - Terra Wortmann Open 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___schauinsland_reisen_court_143260_english.m3u8
 

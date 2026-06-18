@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:45:21 PM 18-06-2026",
+    "last update time": "06:15:19 PM 18-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,20 +23,20 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Jalandhar Jaguars Vs Moga Mongoose",
+            "title": "Moga Mongoose Vs Jalandhar Jaguars",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143040_6095_JJ_MMO_fc-app.jpg",
-            "team_1": "Jalandhar Jaguars",
-            "team_2": "Moga Mongoose",
+            "team_1": "Moga Mongoose",
+            "team_2": "Jalandhar Jaguars",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Punjab T10 2026",
-            "match_name": "Jalandhar Jaguars Vs Moga Mongoose | Punjab T10 2026 [ENGLISH]",
+            "match_name": "Moga Mongoose Vs Jalandhar Jaguars | Punjab T10 2026 [ENGLISH]",
             "match_id": "143040",
             "startTime": "18 June 2026 04:00 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jalandhar_jaguars_vs_moga_mongoose_143040_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/moga_mongoose_vs_jalandhar_jaguars_143040_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -54,6 +54,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/uppsala_tigers_vs_vasteras_united_143185_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Nigeria Vs Hong Kong, China",
+            "src": "https://images.fancode.com/aig/match/v1780575318029/143314_CASACARDS_SPORTY_APP.png",
+            "team_1": "Nigeria",
+            "team_2": "Hong Kong, China",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Men's T20I Tri series in Namibia 2026",
+            "match_name": "Nigeria Vs Hong Kong, China | Men's T20I Tri series in Namibia 2026 [ENGLISH]",
+            "match_id": "143314",
+            "startTime": "18 June 2026 05:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/nigeria_vs_hong_kong__china_143314_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -91,23 +108,6 @@
         },
         {
             "event_category": "Tennis",
-            "title": "Day 4   Schauinsland Reisen Court",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
-            "team_1": "Day 4 - Schauinsland Reisen Court",
-            "team_2": "Halle, Germany",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 500 - Terra Wortmann Open 2026",
-            "match_name": "Day 4   Schauinsland Reisen Court | ATP 500 - Terra Wortmann Open 2026 [ENGLISH]",
-            "match_id": "143260",
-            "startTime": "18 June 2026 04:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___schauinsland_reisen_court_143260_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
             "title": "Day 4   Court 1",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg",
             "team_1": "Day 4 - Court 1",
@@ -122,6 +122,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___court_1_143142_english.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 4   Schauinsland Reisen Court",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
+            "team_1": "Day 4 - Schauinsland Reisen Court",
+            "team_2": "Halle, Germany",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_name": "Day 4   Schauinsland Reisen Court | ATP 500 - Terra Wortmann Open 2026 [ENGLISH]",
+            "match_id": "143260",
+            "startTime": "18 June 2026 04:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___schauinsland_reisen_court_143260_english.m3u8"
         }
     ]
 }
