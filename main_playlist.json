@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:45:31 PM 18-06-2026",
+    "last update time": "12:00:26 AM 19-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jabalpur_royal_lions_vs_royal_nimar_eagles_143092_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 4   World Feed",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
-            "team_1": "Day 4 - World Feed",
-            "team_2": "Halle, Germany",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 500 - Terra Wortmann Open 2026",
-            "match_name": "Day 4   World Feed | ATP 500 - Terra Wortmann Open 2026 [ENGLISH]",
-            "match_id": "143259",
-            "startTime": "18 June 2026 03:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___world_feed_143259_english.m3u8"
         },
         {
             "event_category": "Tennis",
