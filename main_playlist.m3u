@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:15:22 PM 18-06-2026
+#last update time: 03:30:30 PM 18-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143184_6109_GTP_STY_FC-WEB.jpg" group-title="Cricket", Stockholm City Vs Gothenburg Phoenix | Nordic Smash T20 Cup 2026 (ENGLISH)
@@ -9,4 +9,10 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/stockholm_city
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143039_6095_MM_FFA_fc-app.jpg" group-title="Cricket", Mohali Monsters Vs Firozpur Falcons | Punjab T10 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mohali_monsters_vs_firozpur_falcons_143039_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022395/143091_CASACARDS_SPORTY_APP.png" group-title="Cricket", Ujjain Falcons Vs Indore Pink Panthers | Madhya Pradesh League T20 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/ujjain_falcons_vs_indore_pink_panthers_143091_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Tennis", Day 4   World Feed | ATP 500 - Terra Wortmann Open 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___world_feed_143259_english.m3u8
 
