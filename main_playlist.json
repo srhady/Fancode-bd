@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:30:36 PM 18-06-2026",
+    "last update time": "09:45:25 PM 18-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -105,6 +105,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___schauinsland_reisen_court_143260_english.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143293_6121_PGA_LOC_FC-WEB.png",
+            "team_1": "Day 1",
+            "team_2": "Shinnecock Hills Golf Club, NY",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "US Open 2026",
+            "match_name": "Day 1 | US Open 2026 [ENGLISH]",
+            "match_id": "143293",
+            "startTime": "18 June 2026 09:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1_143293_english.m3u8"
         }
     ]
 }
