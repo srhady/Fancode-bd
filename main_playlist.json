@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:15:16 AM 19-06-2026",
+    "last update time": "12:30:27 AM 19-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Jabalpur Royal Lions Vs Royal Nimar Eagles",
-            "src": "https://images.fancode.com/aig/match/v1780469022386/143092_CASACARDS_SPORTY_APP.png",
-            "team_1": "Jabalpur Royal Lions",
-            "team_2": "Royal Nimar Eagles",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Jabalpur Royal Lions Vs Royal Nimar Eagles | Madhya Pradesh League T20, 2026 [ENGLISH]",
-            "match_id": "143092",
-            "startTime": "18 June 2026 07:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jabalpur_royal_lions_vs_royal_nimar_eagles_143092_english.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Day.4   World Feed",
