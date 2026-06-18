@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:15:19 PM 18-06-2026",
+    "last update time": "06:30:30 PM 18-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/ujjain_falcons_vs_indore_pink_panthers_143091_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Moga Mongoose Vs Jalandhar Jaguars",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143040_6095_JJ_MMO_fc-app.jpg",
-            "team_1": "Moga Mongoose",
-            "team_2": "Jalandhar Jaguars",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Punjab T10 2026",
-            "match_name": "Moga Mongoose Vs Jalandhar Jaguars | Punjab T10 2026 [ENGLISH]",
-            "match_id": "143040",
-            "startTime": "18 June 2026 04:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/moga_mongoose_vs_jalandhar_jaguars_143040_english.m3u8"
         },
         {
             "event_category": "Cricket",
