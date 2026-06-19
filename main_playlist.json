@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:30:34 PM 19-06-2026",
+    "last update time": "08:45:18 PM 19-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -56,23 +56,6 @@
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/goteborg_phoenix_vs_malmo_mavericks_143189_english.m3u8"
         },
         {
-            "event_category": "MotoGP",
-            "title": "Czechia Gp",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png",
-            "team_1": "Day 1",
-            "team_2": "Brno",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "GRAND PRIX OF CZECHIA 2026",
-            "match_name": "Czechia Gp | GRAND PRIX OF CZECHIA 2026 [ENGLISH]",
-            "match_id": "139951",
-            "startTime": "19 June 2026 12:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/czechia_gp_139951_english.m3u8"
-        },
-        {
             "event_category": "Tennis",
             "title": "Day 5   World Feed",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
@@ -105,23 +88,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5___world_feed_143247_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 5   Court 1",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg",
-            "team_1": "Day 5 - Court 1",
-            "team_2": "London, Great Britain",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 500 - HSBC Championship 2026",
-            "match_name": "Day 5   Court 1 | ATP 500 - HSBC Championship 2026 [ENGLISH]",
-            "match_id": "143248",
-            "startTime": "19 June 2026 05:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5___court_1_143248_english.m3u8"
         },
         {
             "event_category": "Tennis",
