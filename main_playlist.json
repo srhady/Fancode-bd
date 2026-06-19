@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:45:17 PM 19-06-2026",
+    "last update time": "12:00:26 AM 20-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/royal_nimar_eagles_vs_bundelkhand_bulls_143094_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Goteborg Phoenix Vs Malmo Mavericks",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143189_6109_GTP_MLM_FC-WEB.jpg",
-            "team_1": "Goteborg Phoenix",
-            "team_2": "Malmo Mavericks",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Nordic Smash T20 Cup, 2026",
-            "match_name": "Goteborg Phoenix Vs Malmo Mavericks | Nordic Smash T20 Cup, 2026 [ENGLISH]",
-            "match_id": "143189",
-            "startTime": "19 June 2026 07:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/goteborg_phoenix_vs_malmo_mavericks_143189_english.m3u8"
         },
         {
             "event_category": "Tennis",
