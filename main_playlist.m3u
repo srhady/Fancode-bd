@@ -1,14 +1,17 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:00:25 PM 19-06-2026
+#last update time: 02:15:20 PM 19-06-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web_1781555242134.jpg" group-title="Cricket", Bangladesh Vs Australia | Australia tour of Bangladesh 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_australia_142969_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web_1781555242134.jpg" group-title="Cricket", Australia Vs Bangladesh | Australia tour of Bangladesh 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/australia_vs_bangladesh_142969_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143187_6109_VTU_HMU_FC-WEB.jpg" group-title="Cricket", Stockholm United Vs Vasteras United | Nordic Smash T20 Cup 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/stockholm_united_vs_vasteras_united_143187_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143041_6095_JJ_FFA_fc-app.jpg" group-title="Cricket", Jalandhar Jaguars Vs Firozpur Falcons | Punjab T10 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jalandhar_jaguars_vs_firozpur_falcons_143041_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png" group-title="MotoGP", Czechia Gp | GRAND PRIX OF CZECHIA 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/czechia_gp_139951_english.m3u8

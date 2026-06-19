@@ -2,24 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:00:25 PM 19-06-2026",
+    "last update time": "02:15:20 PM 19-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Bangladesh Vs Australia",
+            "title": "Australia Vs Bangladesh",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web_1781555242134.jpg",
-            "team_1": "Bangladesh",
-            "team_2": "Australia",
-            "status": "NOT_STARTED",
+            "team_1": "Australia",
+            "team_2": "Bangladesh",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Australia tour of Bangladesh, 2026",
-            "match_name": "Bangladesh Vs Australia | Australia tour of Bangladesh, 2026 [ENGLISH]",
+            "match_name": "Australia Vs Bangladesh | Australia tour of Bangladesh, 2026 [ENGLISH]",
             "match_id": "142969",
             "startTime": "19 June 2026 01:30 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_australia_142969_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/australia_vs_bangladesh_142969_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -37,6 +37,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/stockholm_united_vs_vasteras_united_143187_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Jalandhar Jaguars Vs Firozpur Falcons",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143041_6095_JJ_FFA_fc-app.jpg",
+            "team_1": "Jalandhar Jaguars",
+            "team_2": "Firozpur Falcons",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Punjab T10 2026",
+            "match_name": "Jalandhar Jaguars Vs Firozpur Falcons | Punjab T10 2026 [ENGLISH]",
+            "match_id": "143041",
+            "startTime": "19 June 2026 01:45 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jalandhar_jaguars_vs_firozpur_falcons_143041_english.m3u8"
         },
         {
             "event_category": "MotoGP",
