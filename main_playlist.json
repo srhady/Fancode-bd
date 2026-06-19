@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:15:21 PM 19-06-2026",
+    "last update time": "05:30:21 PM 19-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -57,20 +57,20 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Uppsala Tigers Vs Stockholm City",
+            "title": "Stockholm City Vs Uppsala Tigers",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143188_6109_UPP_STY_FC-WEB.jpg",
-            "team_1": "Uppsala Tigers",
-            "team_2": "Stockholm City",
+            "team_1": "Stockholm City",
+            "team_2": "Uppsala Tigers",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Nordic Smash T20 Cup, 2026",
-            "match_name": "Uppsala Tigers Vs Stockholm City | Nordic Smash T20 Cup, 2026 [ENGLISH]",
+            "match_name": "Stockholm City Vs Uppsala Tigers | Nordic Smash T20 Cup, 2026 [ENGLISH]",
             "match_id": "143188",
             "startTime": "19 June 2026 04:00 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/uppsala_tigers_vs_stockholm_city_143188_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/stockholm_city_vs_uppsala_tigers_143188_english.m3u8"
         },
         {
             "event_category": "MotoGP",

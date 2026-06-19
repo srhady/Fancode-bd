@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:15:21 PM 19-06-2026
+#last update time: 05:30:21 PM 19-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web_1781555242134.jpg" group-title="Cricket", Australia Vs Bangladesh | Australia tour of Bangladesh 2026 (ENGLISH)
@@ -13,8 +13,8 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jabalpur_royal
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143042_6095_MM_MMO_fc-web.jpg" group-title="Cricket", Mohali Monsters Vs Moga Mongoose | Punjab T10 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mohali_monsters_vs_moga_mongoose_143042_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143188_6109_UPP_STY_FC-WEB.jpg" group-title="Cricket", Uppsala Tigers Vs Stockholm City | Nordic Smash T20 Cup 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/uppsala_tigers_vs_stockholm_city_143188_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143188_6109_UPP_STY_FC-WEB.jpg" group-title="Cricket", Stockholm City Vs Uppsala Tigers | Nordic Smash T20 Cup 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/stockholm_city_vs_uppsala_tigers_143188_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png" group-title="MotoGP", Czechia Gp | GRAND PRIX OF CZECHIA 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/czechia_gp_139951_english.m3u8
