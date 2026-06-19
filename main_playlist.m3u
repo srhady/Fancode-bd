@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:45:16 PM 19-06-2026
+#last update time: 10:00:26 PM 19-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022405/143094_CASACARDS_SPORTY_APP.png" group-title="Cricket", Royal Nimar Eagles Vs Bundelkhand Bulls | Madhya Pradesh League T20 2026 (ENGLISH)
@@ -18,4 +18,7 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5___world_
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Tennis", Day 5   Schauinsland Reisen Court | ATP 500 - Terra Wortmann Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5___schauinsland_reisen_court_143262_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143294_6121_PGA_LOC_FC-WEB.png" group-title="Golf", Day 2 | US Open 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_143294_english.m3u8
 
