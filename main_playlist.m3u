@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:45:21 PM 19-06-2026
+#last update time: 06:00:27 PM 19-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022397/143093_CASACARDS_SPORTY_APP.png" group-title="Cricket", Jabalpur Royal Lions Vs Chambal Ghariyals | Madhya Pradesh League T20 2026 (ENGLISH)
@@ -12,6 +12,9 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mohali_monster
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143188_6109_UPP_STY_FC-WEB.jpg" group-title="Cricket", Stockholm City Vs Uppsala Tigers | Nordic Smash T20 Cup 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/stockholm_city_vs_uppsala_tigers_143188_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780575318051/143315_CASACARDS_SPORTY_APP.png" group-title="Cricket", Namibia Vs Hong Kong China | Men's T20I Tri series in Namibia 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_hong_kong__china_143315_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png" group-title="MotoGP", Czechia Gp | GRAND PRIX OF CZECHIA 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/czechia_gp_139951_english.m3u8
