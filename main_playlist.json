@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:30:27 PM 19-06-2026",
+    "last update time": "06:45:19 PM 19-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jabalpur_royal_lions_vs_chambal_ghariyals_143093_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Mohali Monsters Vs Moga Mongoose",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143042_6095_MM_MMO_fc-web.jpg",
-            "team_1": "Mohali Monsters",
-            "team_2": "Moga Mongoose",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Punjab T10 2026",
-            "match_name": "Mohali Monsters Vs Moga Mongoose | Punjab T10 2026 [ENGLISH]",
-            "match_id": "143042",
-            "startTime": "19 June 2026 04:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mohali_monsters_vs_moga_mongoose_143042_english.m3u8"
         },
         {
             "event_category": "Cricket",
