@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:15:19 PM 19-06-2026",
+    "last update time": "04:30:24 PM 19-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -40,23 +40,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Jalandhar Jaguars Vs Firozpur Falcons",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143041_6095_JJ_FFA_fc-web.jpg",
-            "team_1": "Jalandhar Jaguars",
-            "team_2": "Firozpur Falcons",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Punjab T10 2026",
-            "match_name": "Jalandhar Jaguars Vs Firozpur Falcons | Punjab T10 2026 [ENGLISH]",
-            "match_id": "143041",
-            "startTime": "19 June 2026 01:45 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jalandhar_jaguars_vs_firozpur_falcons_143041_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Jabalpur Royal Lions Vs Chambal Ghariyals",
             "src": "https://images.fancode.com/aig/match/v1780469022397/143093_CASACARDS_SPORTY_APP.png",
             "team_1": "Jabalpur Royal Lions",
@@ -71,6 +54,40 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jabalpur_royal_lions_vs_chambal_ghariyals_143093_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mohali Monsters Vs Moga Mongoose",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143042_6095_MM_MMO_fc-web.jpg",
+            "team_1": "Mohali Monsters",
+            "team_2": "Moga Mongoose",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Punjab T10 2026",
+            "match_name": "Mohali Monsters Vs Moga Mongoose | Punjab T10 2026 [ENGLISH]",
+            "match_id": "143042",
+            "startTime": "19 June 2026 04:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mohali_monsters_vs_moga_mongoose_143042_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Uppsala Tigers Vs Stockholm City",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143188_6109_UPP_STY_FC-WEB.jpg",
+            "team_1": "Uppsala Tigers",
+            "team_2": "Stockholm City",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Nordic Smash T20 Cup, 2026",
+            "match_name": "Uppsala Tigers Vs Stockholm City | Nordic Smash T20 Cup, 2026 [ENGLISH]",
+            "match_id": "143188",
+            "startTime": "19 June 2026 04:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/uppsala_tigers_vs_stockholm_city_143188_english.m3u8"
         },
         {
             "event_category": "MotoGP",
@@ -122,6 +139,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1_free_practice_1___dekra_lausitzring_143301_english.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 5   World Feed",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg",
+            "team_1": "Day 5 - World Feed",
+            "team_2": "London, Great Britain",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ATP 500 - HSBC Championship 2026",
+            "match_name": "Day 5   World Feed | ATP 500 - HSBC Championship 2026 [ENGLISH]",
+            "match_id": "143247",
+            "startTime": "19 June 2026 04:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5___world_feed_143247_english.m3u8"
         }
     ]
 }
