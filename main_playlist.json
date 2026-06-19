@@ -2,6 +2,41 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:45:16 PM 19-06-2026",
-    "matches": []
+    "last update time": "01:00:30 PM 19-06-2026",
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Vasteras United Vs Stockholm United",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143187_6109_VTU_HMU_FC-WEB.jpg",
+            "team_1": "Vasteras United",
+            "team_2": "Stockholm United",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Nordic Smash T20 Cup, 2026",
+            "match_name": "Vasteras United Vs Stockholm United | Nordic Smash T20 Cup, 2026 [ENGLISH]",
+            "match_id": "143187",
+            "startTime": "19 June 2026 12:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/vasteras_united_vs_stockholm_united_143187_english.m3u8"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Czechia Gp",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png",
+            "team_1": "Day 1",
+            "team_2": "Brno",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "GRAND PRIX OF CZECHIA 2026",
+            "match_name": "Czechia Gp | GRAND PRIX OF CZECHIA 2026 [ENGLISH]",
+            "match_id": "139951",
+            "startTime": "19 June 2026 12:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/czechia_gp_139951_english.m3u8"
+        }
+    ]
 }
