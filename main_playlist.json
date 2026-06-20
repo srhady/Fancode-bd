@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:30:20 PM 20-06-2026",
+    "last update time": "01:45:20 PM 20-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,20 +23,20 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Stockholm City Vs Goteborg Phoenix",
+            "title": "Goteborg Phoenix Vs Stockholm City",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png",
-            "team_1": "Stockholm City",
-            "team_2": "Goteborg Phoenix",
+            "team_1": "Goteborg Phoenix",
+            "team_2": "Stockholm City",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Nordic Smash T20 Cup, 2026",
-            "match_name": "Stockholm City Vs Goteborg Phoenix | Nordic Smash T20 Cup, 2026 [ENGLISH]",
+            "match_name": "Goteborg Phoenix Vs Stockholm City | Nordic Smash T20 Cup, 2026 [ENGLISH]",
             "match_id": "143190",
             "startTime": "20 June 2026 12:30 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/stockholm_city_vs_goteborg_phoenix_143190_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/goteborg_phoenix_vs_stockholm_city_143190_english.m3u8"
         },
         {
             "event_category": "MotoGP",
@@ -54,23 +54,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/czechia_gp_139952_english.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Day 2 Qualifying 1   Dekra Lausitzring",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card.png",
-            "team_1": "Day 2 Qualifying 1 - Dekra Lausitzring",
-            "team_2": "Schipkau, Germany",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "DTM 2026",
-            "match_name": "Day 2 Qualifying 1   Dekra Lausitzring | DTM 2026 [ENGLISH]",
-            "match_id": "143303",
-            "startTime": "20 June 2026 12:25 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_qualifying_1___dekra_lausitzring_143303_english.m3u8"
         }
     ]
 }
