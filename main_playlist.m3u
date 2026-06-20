@@ -1,8 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:45:19 AM 21-06-2026
+#last update time: 01:00:28 AM 21-06-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781434867302/143392_CASACARDS_SPORTY_APP.png" group-title="Football", Almería Vs Málaga | LALIGA Hypermotion 2025-26 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/almer_a_vs_m_laga_143392_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143295_6121_PGA_LOC_FC-WEB.png" group-title="Golf", Day 3 | US Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_143295_english.m3u8
