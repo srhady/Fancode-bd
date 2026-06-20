@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:45:19 PM 20-06-2026",
+    "last update time": "05:00:25 PM 20-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Bathinda Bulls Vs Mohali Monsters",
-            "src": "https://images.fancode.com/aig/match/v1781931505553/143044_CASACARDS_SPORTY_APP.png",
-            "team_1": "Bathinda Bulls",
-            "team_2": "Mohali Monsters",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Punjab T10 2026",
-            "match_name": "Bathinda Bulls Vs Mohali Monsters | Punjab T10 2026 [ENGLISH]",
-            "match_id": "143044",
-            "startTime": "20 June 2026 01:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bathinda_bulls_vs_mohali_monsters_143044_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Gulbarga Mystics Vs Kalyani Bengaluru Blasters",
@@ -57,20 +40,20 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Stockholm United Vs Vasteras United",
+            "title": "Vasteras United Vs Stockholm United",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png",
-            "team_1": "Stockholm United",
-            "team_2": "Vasteras United",
+            "team_1": "Vasteras United",
+            "team_2": "Stockholm United",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Nordic Smash T20 Cup, 2026",
-            "match_name": "Stockholm United Vs Vasteras United | Nordic Smash T20 Cup, 2026 [ENGLISH]",
+            "match_name": "Vasteras United Vs Stockholm United | Nordic Smash T20 Cup, 2026 [ENGLISH]",
             "match_id": "143191",
             "startTime": "20 June 2026 04:00 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/stockholm_united_vs_vasteras_united_143191_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/vasteras_united_vs_stockholm_united_143191_english.m3u8"
         },
         {
             "event_category": "Cricket",
