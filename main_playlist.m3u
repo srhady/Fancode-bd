@@ -1,9 +1,12 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:30:22 AM 20-06-2026
+#last update time: 11:45:18 AM 20-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-2026-old.png" group-title="Motorsports", Australasia   Race 1 | Ferrari Challenge Series 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/australasia___race_1_143406_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781927698717/143043_CASACARDS_SPORTY_APP.png" group-title="Cricket", Ludhiana Lions Vs Jalandhar Jaguars | Punjab T10 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/ludhiana_lions_vs_jalandhar_jaguars_143043_english.m3u8
 
