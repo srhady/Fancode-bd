@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:45:16 PM 20-06-2026",
+    "last update time": "01:00:24 PM 20-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -22,21 +22,21 @@
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/ludhiana_lions_vs_jalandhar_jaguars_143043_english.m3u8"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Australasia   Race 1",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-2026-old.png",
-            "team_1": "Australasia - Race 1",
-            "team_2": "Queensland",
+            "event_category": "Cricket",
+            "title": "Stockholm City Vs Goteborg Phoenix",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png",
+            "team_1": "Stockholm City",
+            "team_2": "Goteborg Phoenix",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
-            "event_name": "Ferrari Challenge Series 2026",
-            "match_name": "Australasia   Race 1 | Ferrari Challenge Series 2026 [ENGLISH]",
-            "match_id": "143406",
-            "startTime": "20 June 2026 11:05 AM",
+            "event_name": "Nordic Smash T20 Cup, 2026",
+            "match_name": "Stockholm City Vs Goteborg Phoenix | Nordic Smash T20 Cup, 2026 [ENGLISH]",
+            "match_id": "143190",
+            "startTime": "20 June 2026 12:30 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/australasia___race_1_143406_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/stockholm_city_vs_goteborg_phoenix_143190_english.m3u8"
         },
         {
             "event_category": "MotoGP",
@@ -54,6 +54,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/czechia_gp_139952_english.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Day 2 Qualifying 1   Dekra Lausitzring",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card.png",
+            "team_1": "Day 2 Qualifying 1 - Dekra Lausitzring",
+            "team_2": "Schipkau, Germany",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "DTM 2026",
+            "match_name": "Day 2 Qualifying 1   Dekra Lausitzring | DTM 2026 [ENGLISH]",
+            "match_id": "143303",
+            "startTime": "20 June 2026 12:25 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_qualifying_1___dekra_lausitzring_143303_english.m3u8"
         }
     ]
 }
