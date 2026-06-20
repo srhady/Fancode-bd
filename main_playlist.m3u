@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:15:16 PM 20-06-2026
+#last update time: 05:30:21 PM 20-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143415_6134_KBB_GMY_FC-WEB.jpg" group-title="Cricket", Gulbarga Mystics Vs Kalyani Bengaluru Blasters | Maharaja T20 Trophy 2026 (ENGLISH)
@@ -13,14 +13,11 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/gulbarga_mysti
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png" group-title="Cricket", Vasteras United Vs Stockholm United | Nordic Smash T20 Cup 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/vasteras_united_vs_stockholm_united_143191_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg" group-title="Cricket", Tbc Vs Tbc | Punjab T10 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/tbc_vs_tbc_143045_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781954209234/143045_CASACARDS_SPORTY_APP.png" group-title="Cricket", Ludhiana Lions Vs Mohali Monsters | Punjab T10 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/ludhiana_lions_vs_mohali_monsters_143045_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png" group-title="MotoGP", Czechia Gp | GRAND PRIX OF CZECHIA 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/czechia_gp_139952_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Tennis", Day 4   Doubles Semi Final 1 | ATP 500 - Terra Wortmann Open 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___doubles_semi_final_1_143264_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg" group-title="Tennis", Day 4   Doubles Semifinal 1 | ATP 500 - HSBC Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___doubles_semifinal_1_143249_english.m3u8
