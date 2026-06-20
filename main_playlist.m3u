@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:00:24 PM 20-06-2026
+#last update time: 02:15:18 PM 20-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781927698717/143043_CASACARDS_SPORTY_APP.png" group-title="Cricket", Ludhiana Lions Vs Jalandhar Jaguars | Punjab T10 2026 (ENGLISH)
@@ -15,4 +15,10 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bathinda_bulls
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png" group-title="MotoGP", Czechia Gp | GRAND PRIX OF CZECHIA 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/czechia_gp_139952_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143415_6134_KBB_GMY_FC-WEB.jpg" group-title="Cricket", Kalyani Bengaluru Blasters Vs Gulbarga Mystics | Maharaja T20 Trophy 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kalyani_bengaluru_blasters_vs_gulbarga_mystics_143415_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143415_6134_KBB_GMY_FC-WEB.jpg" group-title="Cricket", Kalyani Bengaluru Blasters Vs Gulbarga Mystics | Maharaja T20 Trophy 2026 (KANNADA)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kalyani_bengaluru_blasters_vs_gulbarga_mystics_143415_kannada.m3u8
 
