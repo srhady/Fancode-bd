@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:15:18 PM 20-06-2026",
+    "last update time": "04:30:23 PM 20-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -56,6 +56,23 @@
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/gulbarga_mystics_vs_kalyani_bengaluru_blasters_143415_kannada.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Stockholm United Vs Vasteras United",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png",
+            "team_1": "Stockholm United",
+            "team_2": "Vasteras United",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Nordic Smash T20 Cup, 2026",
+            "match_name": "Stockholm United Vs Vasteras United | Nordic Smash T20 Cup, 2026 [ENGLISH]",
+            "match_id": "143191",
+            "startTime": "20 June 2026 04:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/stockholm_united_vs_vasteras_united_143191_english.m3u8"
+        },
+        {
             "event_category": "MotoGP",
             "title": "Czechia Gp",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png",
@@ -71,6 +88,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/czechia_gp_139952_english.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 4   Doubles Semi Final 1",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
+            "team_1": "Day 4 - Doubles Semi-final 1",
+            "team_2": "Halle, Germany",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_name": "Day 4   Doubles Semi Final 1 | ATP 500 - Terra Wortmann Open 2026 [ENGLISH]",
+            "match_id": "143264",
+            "startTime": "20 June 2026 02:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___doubles_semi_final_1_143264_english.m3u8"
         }
     ]
 }
