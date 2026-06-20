@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:00:25 AM 21-06-2026",
+    "last update time": "05:15:17 AM 21-06-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Almer\u00eda Vs M\u00e1laga",
-            "src": "https://images.fancode.com/aig/match/v1781434867302/143392_CASACARDS_SPORTY_APP.png",
-            "team_1": "Almer\u00eda",
-            "team_2": "M\u00e1laga",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Almer\u00eda Vs M\u00e1laga | LALIGA Hypermotion 2025-26 [ENGLISH]",
-            "match_id": "143392",
-            "startTime": "21 June 2026 12:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/almer_a_vs_m_laga_143392_english.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Day 3",
