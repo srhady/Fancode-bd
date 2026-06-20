@@ -2,8 +2,25 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:30:18 PM 20-06-2026",
+    "last update time": "12:45:16 PM 20-06-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Ludhiana Lions Vs Jalandhar Jaguars",
+            "src": "https://images.fancode.com/aig/match/v1781927698717/143043_CASACARDS_SPORTY_APP.png",
+            "team_1": "Ludhiana Lions",
+            "team_2": "Jalandhar Jaguars",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Punjab T10 2026",
+            "match_name": "Ludhiana Lions Vs Jalandhar Jaguars | Punjab T10 2026 [ENGLISH]",
+            "match_id": "143043",
+            "startTime": "20 June 2026 11:30 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/ludhiana_lions_vs_jalandhar_jaguars_143043_english.m3u8"
+        },
         {
             "event_category": "Motorsports",
             "title": "Australasia   Race 1",
@@ -22,21 +39,21 @@
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/australasia___race_1_143406_english.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Ludhiana Lions Vs Jalandhar Jaguars",
-            "src": "https://images.fancode.com/aig/match/v1781927698717/143043_CASACARDS_SPORTY_APP.png",
-            "team_1": "Ludhiana Lions",
-            "team_2": "Jalandhar Jaguars",
+            "event_category": "MotoGP",
+            "title": "Czechia Gp",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png",
+            "team_1": "Day 2",
+            "team_2": "BRNO",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
-            "event_name": "Punjab T10 2026",
-            "match_name": "Ludhiana Lions Vs Jalandhar Jaguars | Punjab T10 2026 [ENGLISH]",
-            "match_id": "143043",
-            "startTime": "20 June 2026 11:30 AM",
+            "event_name": "GRAND PRIX OF CZECHIA 2026",
+            "match_name": "Czechia Gp | GRAND PRIX OF CZECHIA 2026 [ENGLISH]",
+            "match_id": "139952",
+            "startTime": "20 June 2026 12:10 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/ludhiana_lions_vs_jalandhar_jaguars_143043_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/czechia_gp_139952_english.m3u8"
         }
     ]
 }
