@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:30:18 PM 21-06-2026",
+    "last update time": "10:45:16 PM 21-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -88,23 +88,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1_143270_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 7   Finals",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg",
-            "team_1": "Day 7 - Finals",
-            "team_2": "London, Great Britain",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 500 - HSBC Championship 2026",
-            "match_name": "Day 7   Finals | ATP 500 - HSBC Championship 2026 [ENGLISH]",
-            "match_id": "143251",
-            "startTime": "21 June 2026 06:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___finals_143251_english.m3u8"
         },
         {
             "event_category": "Tennis",
