@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:15:17 PM 21-06-2026",
+    "last update time": "07:30:18 PM 21-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,6 +23,40 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Kalyani Bengaluru Blasters Vs Shivamogga Yodhas",
+            "src": "https://images.fancode.com/aig/match/v1781841438713/143418_CASACARDS_SPORTY_APP.png",
+            "team_1": "Kalyani Bengaluru Blasters",
+            "team_2": "Shivamogga Yodhas",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Kalyani Bengaluru Blasters Vs Shivamogga Yodhas | Maharaja T20 Trophy, 2026 [ENGLISH]",
+            "match_id": "143418",
+            "startTime": "21 June 2026 07:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kalyani_bengaluru_blasters_vs_shivamogga_yodhas_143418_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kalyani Bengaluru Blasters Vs Shivamogga Yodhas",
+            "src": "https://images.fancode.com/aig/match/v1781841438713/143418_CASACARDS_SPORTY_APP.png",
+            "team_1": "Kalyani Bengaluru Blasters",
+            "team_2": "Shivamogga Yodhas",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "KANNADA",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Kalyani Bengaluru Blasters Vs Shivamogga Yodhas | Maharaja T20 Trophy, 2026 [KANNADA]",
+            "match_id": "143418",
+            "startTime": "21 June 2026 07:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kalyani_bengaluru_blasters_vs_shivamogga_yodhas_143418_kannada.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Nigeria Vs Hong Kong, China",
             "src": "https://images.fancode.com/aig/match/v1780575318052/143317_CASACARDS_SPORTY_APP.png",
             "team_1": "Nigeria",
@@ -39,21 +73,21 @@
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/nigeria_vs_hong_kong__china_143317_english.m3u8"
         },
         {
-            "event_category": "MotoGP",
-            "title": "Czechia Gp",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png",
-            "team_1": "Race Day",
-            "team_2": "BRNO",
-            "status": "LIVE",
+            "event_category": "Cricket",
+            "title": "Panama Vs Belize",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Panama",
+            "team_2": "Belize",
+            "status": "NOT_STARTED",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
-            "event_name": "GRAND PRIX OF CZECHIA 2026",
-            "match_name": "Czechia Gp | GRAND PRIX OF CZECHIA 2026 [ENGLISH]",
-            "match_id": "139953",
-            "startTime": "21 June 2026 02:30 PM",
+            "event_name": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
+            "match_name": "Panama Vs Belize | ICC Men's T20 WC Americas Sub-regional Qualifier A [ENGLISH]",
+            "match_id": "143283",
+            "startTime": "21 June 2026 07:00 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/czechia_gp_139953_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/panama_vs_belize_143283_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -122,6 +156,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/adac_gt_race_2___dekra_lausitzring_143308_english.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 7   Finals",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
+            "team_1": "Day 7 - Finals",
+            "team_2": "Halle, Germany",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_name": "Day 7   Finals | ATP 500 - Terra Wortmann Open 2026 [ENGLISH]",
+            "match_id": "143265",
+            "startTime": "21 June 2026 07:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___finals_143265_english.m3u8"
         }
     ]
 }
