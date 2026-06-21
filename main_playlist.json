@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:45:21 PM 21-06-2026",
+    "last update time": "03:00:27 PM 21-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -10,7 +10,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg",
             "team_1": "Bangladesh",
             "team_2": "Australia",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Australia tour of Bangladesh, 2026",
@@ -20,6 +20,40 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_australia_142970_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Coastal Kings Mangaluru Vs Hubli Tigers",
+            "src": "https://images.fancode.com/aig/match/v1781841438726/143417_CASACARDS_SPORTY_APP.png",
+            "team_1": "Coastal Kings Mangaluru",
+            "team_2": "Hubli Tigers",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Coastal Kings Mangaluru Vs Hubli Tigers | Maharaja T20 Trophy, 2026 [ENGLISH]",
+            "match_id": "143417",
+            "startTime": "21 June 2026 02:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/coastal_kings_mangaluru_vs_hubli_tigers_143417_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Coastal Kings Mangaluru Vs Hubli Tigers",
+            "src": "https://images.fancode.com/aig/match/v1781841438726/143417_CASACARDS_SPORTY_APP.png",
+            "team_1": "Coastal Kings Mangaluru",
+            "team_2": "Hubli Tigers",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "KANNADA",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Coastal Kings Mangaluru Vs Hubli Tigers | Maharaja T20 Trophy, 2026 [KANNADA]",
+            "match_id": "143417",
+            "startTime": "21 June 2026 02:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/coastal_kings_mangaluru_vs_hubli_tigers_143417_kannada.m3u8"
         },
         {
             "event_category": "MotoGP",
