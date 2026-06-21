@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:45:17 PM 21-06-2026",
+    "last update time": "06:00:26 PM 21-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,6 +20,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jabalpur_royal_lions_vs_gwalior_cheetahs_143095_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Nigeria Vs Hong Kong, China",
+            "src": "https://images.fancode.com/aig/match/v1780575318052/143317_CASACARDS_SPORTY_APP.png",
+            "team_1": "Nigeria",
+            "team_2": "Hong Kong, China",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Men's T20I Tri series in Namibia 2026",
+            "match_name": "Nigeria Vs Hong Kong, China | Men's T20I Tri series in Namibia 2026 [ENGLISH]",
+            "match_id": "143317",
+            "startTime": "21 June 2026 05:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/nigeria_vs_hong_kong__china_143317_english.m3u8"
         },
         {
             "event_category": "MotoGP",
