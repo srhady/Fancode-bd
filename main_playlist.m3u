@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:00:27 PM 21-06-2026
+#last update time: 05:15:16 PM 21-06-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg" group-title="Cricket", Bangladesh Vs Australia | Australia tour of Bangladesh 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_australia_142970_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438726/143417_CASACARDS_SPORTY_APP.png" group-title="Cricket", Hubli Tigers Vs Coastal Kings Mangaluru | Maharaja T20 Trophy 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hubli_tigers_vs_coastal_kings_mangaluru_143417_english.m3u8
@@ -24,4 +21,7 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1_143270_e
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Tennis", Day 7   Doubles Finals | ATP 500 - Terra Wortmann Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___doubles_finals_143266_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card.png" group-title="Motorsports", Day 3 Race 2   Dekra Lausitzring | DTM 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_race_2___dekra_lausitzring_143306_english.m3u8
 

@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:00:27 PM 21-06-2026",
+    "last update time": "05:15:16 PM 21-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh Vs Australia",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg",
-            "team_1": "Bangladesh",
-            "team_2": "Australia",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Australia tour of Bangladesh, 2026",
-            "match_name": "Bangladesh Vs Australia | Australia tour of Bangladesh, 2026 [ENGLISH]",
-            "match_id": "142970",
-            "startTime": "21 June 2026 01:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_australia_142970_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Hubli Tigers Vs Coastal Kings Mangaluru",
@@ -122,6 +105,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___doubles_finals_143266_english.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Day 3 Race 2   Dekra Lausitzring",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card.png",
+            "team_1": "Day 3 Race 2 - Dekra Lausitzring",
+            "team_2": "Schipkau, Germany",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "DTM 2026",
+            "match_name": "Day 3 Race 2   Dekra Lausitzring | DTM 2026 [ENGLISH]",
+            "match_id": "143306",
+            "startTime": "21 June 2026 04:45 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_race_2___dekra_lausitzring_143306_english.m3u8"
         }
     ]
 }
