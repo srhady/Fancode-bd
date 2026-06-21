@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:15:15 PM 21-06-2026
+#last update time: 08:30:20 PM 21-06-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022414/143095_CASACARDS_SPORTY_APP.png" group-title="Cricket", Gwalior Cheetahs Vs Jabalpur Royal Lions | Madhya Pradesh League T20 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/gwalior_cheetahs_vs_jabalpur_royal_lions_143095_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438713/143418_CASACARDS_SPORTY_APP.png" group-title="Cricket", Kalyani Bengaluru Blasters Vs Shivamogga Yodhas | Maharaja T20 Trophy 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kalyani_bengaluru_blasters_vs_shivamogga_yodhas_143418_english.m3u8
@@ -18,6 +15,9 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/nigeria_vs_hon
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1782048897446/143283_CASACARDS_SPORTY_APP.png" group-title="Cricket", Panama Vs Belize | ICC Men's T20 WC Americas Sub-regional Qualifier A (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/panama_vs_belize_143283_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022397/143096_CASACARDS_SPORTY_APP.png" group-title="Cricket", Bundelkhand Bulls Vs Ujjain Falcons | Madhya Pradesh League T20 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bundelkhand_bulls_vs_ujjain_falcons_143096_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png" group-title="Tennis", Day 1 | ATP 250 - Vanda Pharma Mallorca Championships 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1_143270_english.m3u8
