@@ -2,6 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:30:17 PM 21-06-2026",
-    "matches": []
+    "last update time": "12:45:16 PM 21-06-2026",
+    "matches": [
+        {
+            "event_category": "MotoGP",
+            "title": "Czechia Gp",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png",
+            "team_1": "Race Day",
+            "team_2": "BRNO",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "GRAND PRIX OF CZECHIA 2026",
+            "match_name": "Czechia Gp | GRAND PRIX OF CZECHIA 2026 [ENGLISH]",
+            "match_id": "139953",
+            "startTime": "21 June 2026 02:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/czechia_gp_139953_english.m3u8"
+        }
+    ]
 }
