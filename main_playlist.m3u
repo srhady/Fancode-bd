@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:00:24 AM 22-06-2026
+#last update time: 02:15:20 AM 22-06-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1782048897453/143284_CASACARDS_SPORTY_APP.png" group-title="Cricket", Bermuda Vs Bahamas | ICC Men's T20 WC Americas Sub-regional Qualifier A (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bermuda_vs_bahamas_143284_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143296_6121_PGA_LOC_FC-WEB.png" group-title="Golf", Day 4 | US Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4_143296_english.m3u8

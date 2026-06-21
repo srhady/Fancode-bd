@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:00:24 AM 22-06-2026",
+    "last update time": "02:15:20 AM 22-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Bermuda Vs Bahamas",
-            "src": "https://images.fancode.com/aig/match/v1782048897453/143284_CASACARDS_SPORTY_APP.png",
-            "team_1": "Bermuda",
-            "team_2": "Bahamas",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
-            "match_name": "Bermuda Vs Bahamas | ICC Men's T20 WC Americas Sub-regional Qualifier A [ENGLISH]",
-            "match_id": "143284",
-            "startTime": "21 June 2026 11:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bermuda_vs_bahamas_143284_english.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Day 4",
