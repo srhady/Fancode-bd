@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:00:25 PM 21-06-2026",
+    "last update time": "11:15:17 PM 21-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -54,23 +54,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bundelkhand_bulls_vs_ujjain_falcons_143096_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Panama Vs Belize",
-            "src": "https://images.fancode.com/aig/match/v1782048897446/143283_CASACARDS_SPORTY_APP.png",
-            "team_1": "Panama",
-            "team_2": "Belize",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
-            "match_name": "Panama Vs Belize | ICC Men's T20 WC Americas Sub-regional Qualifier A [ENGLISH]",
-            "match_id": "143283",
-            "startTime": "21 June 2026 07:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/panama_vs_belize_143283_english.m3u8"
         },
         {
             "event_category": "Tennis",
