@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:15:16 PM 21-06-2026
+#last update time: 06:30:21 PM 21-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022414/143095_CASACARDS_SPORTY_APP.png" group-title="Cricket", Jabalpur Royal Lions Vs Gwalior Cheetahs | Madhya Pradesh League T20 2026 (ENGLISH)
@@ -21,4 +21,7 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___double
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card.png" group-title="Motorsports", Day 3 Race 2   Dekra Lausitzring | DTM 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_race_2___dekra_lausitzring_143306_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg" group-title="Tennis", Day 7   Finals | ATP 500 - HSBC Championship 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___finals_143251_english.m3u8
 
