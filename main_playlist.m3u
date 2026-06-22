@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:30:27 PM 22-06-2026
+#last update time: 09:45:21 PM 22-06-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780575318052/143318_CASACARDS_SPORTY_APP.png" group-title="Cricket", Namibia Vs Hong Kong China | Men's T20I Tri series in Namibia 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_hong_kong__china_143318_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1782048897453/143285_CASACARDS_SPORTY_APP.png" group-title="Cricket", Bermuda Vs Belize | ICC Men's T20 WC Americas Sub-regional Qualifier A (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bermuda_vs_belize_143285_english.m3u8
