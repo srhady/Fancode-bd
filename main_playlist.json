@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:00:26 PM 22-06-2026",
+    "last update time": "11:15:23 PM 22-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Bermuda Vs Belize",
-            "src": "https://images.fancode.com/aig/match/v1782048897453/143285_CASACARDS_SPORTY_APP.png",
-            "team_1": "Bermuda",
-            "team_2": "Belize",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
-            "match_name": "Bermuda Vs Belize | ICC Men's T20 WC Americas Sub-regional Qualifier A [ENGLISH]",
-            "match_id": "143285",
-            "startTime": "22 June 2026 07:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bermuda_vs_belize_143285_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Gulbarga Mystics Vs Coastal Kings Mangaluru",
@@ -88,23 +71,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1_143277_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 2",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
-            "team_1": "Day 2",
-            "team_2": "Mallorca, Spain",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
-            "match_name": "Day 2 | ATP 250 - Vanda Pharma Mallorca Championships 2026 [ENGLISH]",
-            "match_id": "143271",
-            "startTime": "22 June 2026 04:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_143271_english.m3u8"
         }
     ]
 }
