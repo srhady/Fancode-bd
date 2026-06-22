@@ -2,24 +2,6 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:15:28 PM 22-06-2026",
-    "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Indonesia Vs Thailand",
-            "src": "https://images.fancode.com/aig/match/v1782018540429/143543_CASACARDS_SPORTY_APP.png",
-            "team_1": "Indonesia",
-            "team_2": "Thailand",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Asia Pacific Cricket Champions Trophy, 2026",
-            "match_name": "Indonesia Vs Thailand | Asia Pacific Cricket Champions Trophy, 2026 [ENGLISH]",
-            "match_id": "143543",
-            "startTime": "22 June 2026 11:00 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/indonesia_vs_thailand_143543_english.m3u8"
-        }
-    ]
+    "last update time": "02:30:20 PM 22-06-2026",
+    "matches": []
 }
