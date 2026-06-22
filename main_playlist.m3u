@@ -1,6 +1,9 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:15:23 AM 22-06-2026
+#last update time: 11:30:24 AM 22-06-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1782018540429/143543_CASACARDS_SPORTY_APP.png" group-title="Cricket", Indonesia Vs Thailand | Asia Pacific Cricket Champions Trophy 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/indonesia_vs_thailand_143543_english.m3u8
 
