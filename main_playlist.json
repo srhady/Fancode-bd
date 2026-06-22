@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:00:26 AM 23-06-2026",
+    "last update time": "12:15:23 AM 23-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Malwa Stallions Vs Rewa Jaguars",
-            "src": "https://images.fancode.com/aig/match/v1780469022404/143098_CASACARDS_SPORTY_APP.png",
-            "team_1": "Malwa Stallions",
-            "team_2": "Rewa Jaguars",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Malwa Stallions Vs Rewa Jaguars | Madhya Pradesh League T20, 2026 [ENGLISH]",
-            "match_id": "143098",
-            "startTime": "22 June 2026 07:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/malwa_stallions_vs_rewa_jaguars_143098_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Brazil Vs Panama",
