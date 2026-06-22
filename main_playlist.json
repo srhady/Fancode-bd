@@ -2,6 +2,41 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:45:24 PM 22-06-2026",
-    "matches": []
+    "last update time": "03:00:27 PM 22-06-2026",
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Mysore Warriors Vs Hubli Tigers",
+            "src": "https://images.fancode.com/aig/match/v1781841438709/143419_CASACARDS_SPORTY_APP.png",
+            "team_1": "Mysore Warriors",
+            "team_2": "Hubli Tigers",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Mysore Warriors Vs Hubli Tigers | Maharaja T20 Trophy, 2026 [ENGLISH]",
+            "match_id": "143419",
+            "startTime": "22 June 2026 02:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mysore_warriors_vs_hubli_tigers_143419_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mysore Warriors Vs Hubli Tigers",
+            "src": "https://images.fancode.com/aig/match/v1781841438709/143419_CASACARDS_SPORTY_APP.png",
+            "team_1": "Mysore Warriors",
+            "team_2": "Hubli Tigers",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "KANNADA",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Mysore Warriors Vs Hubli Tigers | Maharaja T20 Trophy, 2026 [KANNADA]",
+            "match_id": "143419",
+            "startTime": "22 June 2026 02:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mysore_warriors_vs_hubli_tigers_143419_kannada.m3u8"
+        }
+    ]
 }
