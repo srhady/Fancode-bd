@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:00:31 PM 23-06-2026",
+    "last update time": "07:15:23 PM 23-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -61,7 +61,7 @@
             "src": "https://images.fancode.com/aig/match/v1782018540405/143546_CASACARDS_SPORTY_APP.png",
             "team_1": "Thailand",
             "team_2": "Singapore",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Asia Pacific Cricket Champions Trophy, 2026",
@@ -71,6 +71,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/thailand_vs_singapore_143546_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Namibia Vs Nigeria",
+            "src": "https://images.fancode.com/aig/match/v1780575318051/143319_CASACARDS_SPORTY_APP.png",
+            "team_1": "Namibia",
+            "team_2": "Nigeria",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Men's T20I Tri series in Namibia 2026",
+            "match_name": "Namibia Vs Nigeria | Men's T20I Tri series in Namibia 2026 [ENGLISH]",
+            "match_id": "143319",
+            "startTime": "23 June 2026 05:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_nigeria_143319_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -105,23 +122,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_143272_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Namibia Vs Nigeria",
-            "src": "https://images.fancode.com/aig/match/v1780575318051/143319_CASACARDS_SPORTY_APP.png",
-            "team_1": "Namibia",
-            "team_2": "Nigeria",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Men's T20I Tri series in Namibia 2026",
-            "match_name": "Namibia Vs Nigeria | Men's T20I Tri series in Namibia 2026 [ENGLISH]",
-            "match_id": "143319",
-            "startTime": "23 June 2026 05:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_nigeria_143319_english.m3u8"
         }
     ]
 }
