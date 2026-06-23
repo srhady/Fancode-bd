@@ -2,42 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:45:17 PM 23-06-2026",
+    "last update time": "12:00:30 AM 24-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Mysore Warriors Vs Kalyani Bengaluru Blasters",
-            "src": "https://images.fancode.com/aig/match/v1781841438726/143422_CASACARDS_SPORTY_APP.png",
-            "team_1": "Mysore Warriors",
-            "team_2": "Kalyani Bengaluru Blasters",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "Mysore Warriors Vs Kalyani Bengaluru Blasters | Maharaja T20 Trophy, 2026 [ENGLISH]",
-            "match_id": "143422",
-            "startTime": "23 June 2026 07:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mysore_warriors_vs_kalyani_bengaluru_blasters_143422_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Mysore Warriors Vs Kalyani Bengaluru Blasters",
-            "src": "https://images.fancode.com/aig/match/v1781841438726/143422_CASACARDS_SPORTY_APP.png",
-            "team_1": "Mysore Warriors",
-            "team_2": "Kalyani Bengaluru Blasters",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "KANNADA",
-            "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "Mysore Warriors Vs Kalyani Bengaluru Blasters | Maharaja T20 Trophy, 2026 [KANNADA]",
-            "match_id": "143422",
-            "startTime": "23 June 2026 07:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mysore_warriors_vs_kalyani_bengaluru_blasters_143422_kannada.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Day 2",
@@ -54,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_143278_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 3",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
-            "team_1": "Day 3",
-            "team_2": "Mallorca, Spain",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
-            "match_name": "Day 3 | ATP 250 - Vanda Pharma Mallorca Championships 2026 [ENGLISH]",
-            "match_id": "143272",
-            "startTime": "23 June 2026 04:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_143272_english.m3u8"
         }
     ]
 }
