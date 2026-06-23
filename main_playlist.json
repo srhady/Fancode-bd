@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:45:20 PM 23-06-2026",
+    "last update time": "08:00:36 PM 23-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -61,7 +61,7 @@
             "src": "https://images.fancode.com/aig/match/v1781841438726/143422_CASACARDS_SPORTY_APP.png",
             "team_1": "Mysore Warriors",
             "team_2": "Kalyani Bengaluru Blasters",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Maharaja T20 Trophy, 2026",
@@ -78,7 +78,7 @@
             "src": "https://images.fancode.com/aig/match/v1781841438726/143422_CASACARDS_SPORTY_APP.png",
             "team_1": "Mysore Warriors",
             "team_2": "Kalyani Bengaluru Blasters",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "KANNADA",
             "event_name": "Maharaja T20 Trophy, 2026",
@@ -88,6 +88,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mysore_warriors_vs_kalyani_bengaluru_blasters_143422_kannada.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Chambal Ghariyals Vs Rewa Jaguars",
+            "src": "https://images.fancode.com/aig/match/v1780469022405/143100_CASACARDS_SPORTY_APP.png",
+            "team_1": "Chambal Ghariyals",
+            "team_2": "Rewa Jaguars",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Chambal Ghariyals Vs Rewa Jaguars | Madhya Pradesh League T20, 2026 [ENGLISH]",
+            "match_id": "143100",
+            "startTime": "23 June 2026 07:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chambal_ghariyals_vs_rewa_jaguars_143100_english.m3u8"
         },
         {
             "event_category": "Tennis",
