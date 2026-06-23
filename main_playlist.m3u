@@ -1,14 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:15:23 PM 23-06-2026
+#last update time: 07:30:26 PM 23-06-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438658/143421_CASACARDS_SPORTY_APP.png" group-title="Cricket", Gulbarga Mystics Vs Shivamogga Yodhas | Maharaja T20 Trophy 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/gulbarga_mystics_vs_shivamogga_yodhas_143421_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438658/143421_CASACARDS_SPORTY_APP.png" group-title="Cricket", Gulbarga Mystics Vs Shivamogga Yodhas | Maharaja T20 Trophy 2026 (KANNADA)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/gulbarga_mystics_vs_shivamogga_yodhas_143421_kannada.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022415/143099_CASACARDS_SPORTY_APP.png" group-title="Cricket", Indore Pink Panthers Vs Gwalior Cheetahs | Madhya Pradesh League T20 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/indore_pink_panthers_vs_gwalior_cheetahs_143099_english.m3u8
@@ -18,6 +12,12 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/thailand_vs_si
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780575318051/143319_CASACARDS_SPORTY_APP.png" group-title="Cricket", Namibia Vs Nigeria | Men's T20I Tri series in Namibia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_nigeria_143319_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438726/143422_CASACARDS_SPORTY_APP.png" group-title="Cricket", Mysore Warriors Vs Kalyani Bengaluru Blasters | Maharaja T20 Trophy 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mysore_warriors_vs_kalyani_bengaluru_blasters_143422_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438726/143422_CASACARDS_SPORTY_APP.png" group-title="Cricket", Mysore Warriors Vs Kalyani Bengaluru Blasters | Maharaja T20 Trophy 2026 (KANNADA)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mysore_warriors_vs_kalyani_bengaluru_blasters_143422_kannada.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg" group-title="Tennis", Day 2 | ATP 250 - Lexus Eastbourne Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_143278_english.m3u8
