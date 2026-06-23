@@ -2,24 +2,6 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:15:22 AM 24-06-2026",
-    "matches": [
-        {
-            "event_category": "Tennis",
-            "title": "Day 2",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
-            "team_1": "Day 2",
-            "team_2": "Eastbourne, Great Britain",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 250 - Lexus Eastbourne Open 2026",
-            "match_name": "Day 2 | ATP 250 - Lexus Eastbourne Open 2026 [ENGLISH]",
-            "match_id": "143278",
-            "startTime": "23 June 2026 03:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_143278_english.m3u8"
-        }
-    ]
+    "last update time": "01:30:29 AM 24-06-2026",
+    "matches": []
 }
