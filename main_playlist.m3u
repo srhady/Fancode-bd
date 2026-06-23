@@ -1,14 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:00:36 PM 23-06-2026
+#last update time: 08:15:21 PM 23-06-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022415/143099_CASACARDS_SPORTY_APP.png" group-title="Cricket", Indore Pink Panthers Vs Gwalior Cheetahs | Madhya Pradesh League T20 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/indore_pink_panthers_vs_gwalior_cheetahs_143099_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1782018540405/143546_CASACARDS_SPORTY_APP.png" group-title="Cricket", Thailand Vs Singapore | Asia Pacific Cricket Champions Trophy 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/thailand_vs_singapore_143546_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780575318051/143319_CASACARDS_SPORTY_APP.png" group-title="Cricket", Namibia Vs Nigeria | Men's T20I Tri series in Namibia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_nigeria_143319_english.m3u8
