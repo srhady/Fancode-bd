@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:15:18 PM 24-06-2026
+#last update time: 11:30:31 PM 24-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438701/143424_CASACARDS_SPORTY_APP.png" group-title="Cricket", Shivamogga Yodhas Vs Hubli Tigers | Maharaja T20 Trophy 2026 (ENGLISH)
@@ -10,12 +10,6 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/shivamogga_yod
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438701/143424_CASACARDS_SPORTY_APP.png" group-title="Cricket", Shivamogga Yodhas Vs Hubli Tigers | Maharaja T20 Trophy 2026 (KANNADA)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/shivamogga_yodhas_vs_hubli_tigers_143424_kannada.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg" group-title="Cricket", Flying Fire Delhi Chargers Vs Karim Capital Chargers | Future Star U-15 Championship 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/flying_fire_delhi_chargers_vs_karim_capital_chargers_143552_english.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg" group-title="Tennis", Day 3 | ATP 250 - Lexus Eastbourne Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_143279_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png" group-title="Tennis", Day 4 | ATP 250 - Vanda Pharma Mallorca Championships 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4_143273_english.m3u8
 
