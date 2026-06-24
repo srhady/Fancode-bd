@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:15:20 PM 24-06-2026
+#last update time: 03:30:21 PM 24-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438724/143423_CASACARDS_SPORTY_APP.png" group-title="Cricket", Kalyani Bengaluru Blasters Vs Coastal Kings Mangaluru | Maharaja T20 Trophy 2026 (ENGLISH)
@@ -9,4 +9,10 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kalyani_bengal
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438724/143423_CASACARDS_SPORTY_APP.png" group-title="Cricket", Kalyani Bengaluru Blasters Vs Coastal Kings Mangaluru | Maharaja T20 Trophy 2026 (KANNADA)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kalyani_bengaluru_blasters_vs_coastal_kings_mangaluru_143423_kannada.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022366/143101_CASACARDS_SPORTY_APP.png" group-title="Cricket", Jabalpur Royal Lions Vs Bundelkhand Bulls | Madhya Pradesh League T20 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jabalpur_royal_lions_vs_bundelkhand_bulls_143101_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg" group-title="Cricket", Bahadurgarh Royals Vs Aca Gurugram Vipers | Future Star U-15 Championship 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bahadurgarh_royals_vs_aca_gurugram_vipers_143551_english.m3u8
 
