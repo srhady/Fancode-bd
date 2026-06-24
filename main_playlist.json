@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:00:31 PM 24-06-2026",
+    "last update time": "06:15:17 PM 24-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,23 +37,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kalyani_bengaluru_blasters_vs_coastal_kings_mangaluru_143423_kannada.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Jabalpur Royal Lions Vs Bundelkhand Bulls",
-            "src": "https://images.fancode.com/aig/match/v1780469022366/143101_CASACARDS_SPORTY_APP.png",
-            "team_1": "Jabalpur Royal Lions",
-            "team_2": "Bundelkhand Bulls",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Jabalpur Royal Lions Vs Bundelkhand Bulls | Madhya Pradesh League T20, 2026 [ENGLISH]",
-            "match_id": "143101",
-            "startTime": "24 June 2026 03:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jabalpur_royal_lions_vs_bundelkhand_bulls_143101_english.m3u8"
         },
         {
             "event_category": "Cricket",
