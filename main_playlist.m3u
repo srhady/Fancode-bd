@@ -1,14 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:30:21 PM 24-06-2026
+#last update time: 07:45:16 PM 24-06-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143287_6120_PAN_BAH_fc-App_1782137828261.jpg" group-title="Cricket", Panama Vs Bahamas | ICC Men's T20 WC Americas Sub-regional Qualifier A (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/panama_vs_bahamas_143287_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg" group-title="Cricket", Bahadurgarh Royals Vs Aca Gurugram Vipers | Future Star U-15 Championship 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bahadurgarh_royals_vs_aca_gurugram_vipers_143551_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438701/143424_CASACARDS_SPORTY_APP.png" group-title="Cricket", Shivamogga Yodhas Vs Hubli Tigers | Maharaja T20 Trophy 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/shivamogga_yodhas_vs_hubli_tigers_143424_english.m3u8
@@ -16,9 +10,15 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/shivamogga_yod
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438701/143424_CASACARDS_SPORTY_APP.png" group-title="Cricket", Shivamogga Yodhas Vs Hubli Tigers | Maharaja T20 Trophy 2026 (KANNADA)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/shivamogga_yodhas_vs_hubli_tigers_143424_kannada.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143287_6120_PAN_BAH_fc-App_1782137828261.jpg" group-title="Cricket", Panama Vs Bahamas | ICC Men's T20 WC Americas Sub-regional Qualifier A (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/panama_vs_bahamas_143287_english.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg" group-title="Tennis", Day 3 | ATP 250 - Lexus Eastbourne Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_143279_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png" group-title="Tennis", Day 4 | ATP 250 - Vanda Pharma Mallorca Championships 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4_143273_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022415/143102_CASACARDS_SPORTY_APP.png" group-title="Cricket", Gwalior Cheetahs Vs Royal Nimar Eagles | Madhya Pradesh League T20 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/gwalior_cheetahs_vs_royal_nimar_eagles_143102_english.m3u8
 
