@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:00:43 AM 26-06-2026",
+    "last update time": "12:15:17 AM 26-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,6 +20,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_vs_west_indies_142978_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Chambal Ghariyals Vs Jabalpur Royal Lions",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143093_6102_JRL_CGS_FC-WEB.jpg",
+            "team_1": "Chambal Ghariyals",
+            "team_2": "Jabalpur Royal Lions",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Chambal Ghariyals Vs Jabalpur Royal Lions | Madhya Pradesh League T20, 2026 [ENGLISH]",
+            "match_id": "143104",
+            "startTime": "25 June 2026 07:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chambal_ghariyals_vs_jabalpur_royal_lions_143104_english.m3u8"
         },
         {
             "event_category": "Cricket",
