@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:45:21 PM 25-06-2026
+#last update time: 09:00:37 PM 25-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Cricket", Sri Lanka Vs West Indies | Sri Lanka tour of West Indies 2026 (ENGLISH)
@@ -21,9 +21,6 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chambal_ghariy
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg" group-title="Cricket", Ddh Meerut Spartans Vs Ka Noida Blaze | Future Star U-15 Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/ddh_meerut_spartans_vs_ka_noida_blaze_143554_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png" group-title="Cricket", Namibia Vs Nigeria | Nigeria tour of Namibia 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_nigeria_143320_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png" group-title="Tennis", Day 5 | ATP 250 - Vanda Pharma Mallorca Championships 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5_143274_english.m3u8
