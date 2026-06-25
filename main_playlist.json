@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:45:18 PM 25-06-2026",
+    "last update time": "10:00:28 PM 25-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_vs_west_indies_142978_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bermuda Vs Panama",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143289_6120_BER_PAN_fc-App_1782137828192.jpg",
-            "team_1": "Bermuda",
-            "team_2": "Panama",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
-            "match_name": "Bermuda Vs Panama | ICC Men's T20 WC Americas Sub-regional Qualifier A [ENGLISH]",
-            "match_id": "143289",
-            "startTime": "25 June 2026 07:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bermuda_vs_panama_143289_english.m3u8"
         },
         {
             "event_category": "Cricket",

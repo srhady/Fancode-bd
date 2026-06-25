@@ -1,14 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:45:18 PM 25-06-2026
+#last update time: 10:00:28 PM 25-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Cricket", Sri Lanka Vs West Indies | Sri Lanka tour of West Indies 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_vs_west_indies_142978_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143289_6120_BER_PAN_fc-App_1782137828192.jpg" group-title="Cricket", Bermuda Vs Panama | ICC Men's T20 WC Americas Sub-regional Qualifier A (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bermuda_vs_panama_143289_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438705/143426_CASACARDS_SPORTY_APP.png" group-title="Cricket", Hubli Tigers Vs Gulbarga Mystics | Maharaja T20 Trophy 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hubli_tigers_vs_gulbarga_mystics_143426_english.m3u8
