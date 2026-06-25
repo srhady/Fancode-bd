@@ -1,11 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:45:19 PM 25-06-2026
+#last update time: 08:00:28 PM 25-06-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Cricket", West Indies Vs Sri Lanka | Sri Lanka tour of West Indies 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_sri_lanka_142978_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Cricket", Sri Lanka Vs West Indies | Sri Lanka tour of West Indies 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_vs_west_indies_142978_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1782018540421/143548_CASACARDS_SPORTY_APP.png" group-title="Cricket", Singapore Vs Indonesia | Asia Pacific Cricket Champions Trophy 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/singapore_vs_indonesia_143548_english.m3u8
@@ -18,6 +18,12 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hubli_tigers_v
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438705/143426_CASACARDS_SPORTY_APP.png" group-title="Cricket", Hubli Tigers Vs Gulbarga Mystics | Maharaja T20 Trophy 2026 (KANNADA)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hubli_tigers_vs_gulbarga_mystics_143426_kannada.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143093_6102_JRL_CGS_FC-WEB.jpg" group-title="Cricket", Chambal Ghariyals Vs Jabalpur Royal Lions | Madhya Pradesh League T20 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chambal_ghariyals_vs_jabalpur_royal_lions_143104_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg" group-title="Cricket", Ddh Meerut Spartans Vs Ka Noida Blaze | Future Star U-15 Championship 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/ddh_meerut_spartans_vs_ka_noida_blaze_143554_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png" group-title="Cricket", Namibia Vs Nigeria | Nigeria tour of Namibia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_nigeria_143320_english.m3u8
