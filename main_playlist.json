@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:15:19 PM 25-06-2026",
+    "last update time": "11:30:26 PM 25-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,40 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_vs_west_indies_142978_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Hubli Tigers Vs Gulbarga Mystics",
-            "src": "https://images.fancode.com/aig/match/v1781841438705/143426_CASACARDS_SPORTY_APP.png",
-            "team_1": "Hubli Tigers",
-            "team_2": "Gulbarga Mystics",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "Hubli Tigers Vs Gulbarga Mystics | Maharaja T20 Trophy, 2026 [ENGLISH]",
-            "match_id": "143426",
-            "startTime": "25 June 2026 07:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hubli_tigers_vs_gulbarga_mystics_143426_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Hubli Tigers Vs Gulbarga Mystics",
-            "src": "https://images.fancode.com/aig/match/v1781841438705/143426_CASACARDS_SPORTY_APP.png",
-            "team_1": "Hubli Tigers",
-            "team_2": "Gulbarga Mystics",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "KANNADA",
-            "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "Hubli Tigers Vs Gulbarga Mystics | Maharaja T20 Trophy, 2026 [KANNADA]",
-            "match_id": "143426",
-            "startTime": "25 June 2026 07:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hubli_tigers_vs_gulbarga_mystics_143426_kannada.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -88,23 +54,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/ddh_meerut_spartans_vs_ka_noida_blaze_143554_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 5",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
-            "team_1": "Day 5",
-            "team_2": "Mallorca, Spain",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
-            "match_name": "Day 5 | ATP 250 - Vanda Pharma Mallorca Championships 2026 [ENGLISH]",
-            "match_id": "143274",
-            "startTime": "25 June 2026 02:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5_143274_english.m3u8"
         },
         {
             "event_category": "Golf",
