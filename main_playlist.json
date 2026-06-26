@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:15:14 PM 26-06-2026",
+    "last update time": "10:30:19 PM 26-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,20 +23,20 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Royal Nimar Eagles Vs Chambal Ghariyals",
+            "title": "Chambal Ghariyals Vs Royal Nimar Eagles",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143066_6102_RNG_CGS_FC-WEB_1780916230127.jpg",
-            "team_1": "Royal Nimar Eagles",
-            "team_2": "Chambal Ghariyals",
+            "team_1": "Chambal Ghariyals",
+            "team_2": "Royal Nimar Eagles",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Royal Nimar Eagles Vs Chambal Ghariyals | Madhya Pradesh League T20, 2026 [ENGLISH]",
+            "match_name": "Chambal Ghariyals Vs Royal Nimar Eagles | Madhya Pradesh League T20, 2026 [ENGLISH]",
             "match_id": "143105",
             "startTime": "26 June 2026 07:30 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/royal_nimar_eagles_vs_chambal_ghariyals_143105_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chambal_ghariyals_vs_royal_nimar_eagles_143105_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -107,21 +107,21 @@
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_semi_final_143281_english.m3u8"
         },
         {
-            "event_category": "Formula 1",
-            "title": "Practice 2",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Austria_web.jpg",
-            "team_1": "Practice 2",
-            "team_2": "Austria",
+            "event_category": "Motorsports",
+            "title": "Practice Session",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg",
+            "team_1": "Practice Session",
+            "team_2": "Red Bull Ring",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
-            "event_name": "F1 LENOVO AUSTRIAN GRAND PRIX 2026",
-            "match_name": "Practice 2 | F1 LENOVO AUSTRIAN GRAND PRIX 2026 [ENGLISH]",
-            "match_id": "139458",
-            "startTime": "26 June 2026 08:30 PM",
-            "is_drm": true,
-            "clearkey": "9eb34a2a93544b248415fae9fc8f3405:708f3bd51ce43d588b002de454449df7",
-            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/139458_english_dash_24561_1drmta-di_h264/index.mpd"
+            "event_name": "Porsche Mobil 1 Supercup 2026",
+            "match_name": "Practice Session | Porsche Mobil 1 Supercup 2026 [ENGLISH]",
+            "match_id": "143571",
+            "startTime": "26 June 2026 10:05 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/practice_session_143571_english.m3u8"
         }
     ]
 }
