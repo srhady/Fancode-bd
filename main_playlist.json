@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:15:19 PM 26-06-2026",
+    "last update time": "07:30:22 PM 26-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Flying Fire Delhi Chargers Vs Sonipat Kings",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-            "team_1": "Flying Fire Delhi Chargers",
-            "team_2": "Sonipat Kings",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Future Star U-15 Championship 2026",
-            "match_name": "Flying Fire Delhi Chargers Vs Sonipat Kings | Future Star U-15 Championship 2026 [ENGLISH]",
-            "match_id": "143555",
-            "startTime": "26 June 2026 03:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/flying_fire_delhi_chargers_vs_sonipat_kings_143555_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Singapore Vs Thailand",
@@ -105,6 +88,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_semi_final_143275_english.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Men's Semi Final",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
+            "team_1": "Men's Semi-Final",
+            "team_2": "Eastbourne, Great Britain",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ATP 250 - Lexus Eastbourne Open 2026",
+            "match_name": "Men's Semi Final | ATP 250 - Lexus Eastbourne Open 2026 [ENGLISH]",
+            "match_id": "143281",
+            "startTime": "26 June 2026 07:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_semi_final_143281_english.m3u8"
         }
     ]
 }

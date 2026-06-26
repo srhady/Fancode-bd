@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:15:19 PM 26-06-2026
+#last update time: 07:30:22 PM 26-06-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg" group-title="Cricket", Flying Fire Delhi Chargers Vs Sonipat Kings | Future Star U-15 Championship 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/flying_fire_delhi_chargers_vs_sonipat_kings_143555_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143546_6143_TL_SIN_FC-Web.png" group-title="Cricket", Singapore Vs Thailand | Asia Pacific Cricket Champions Trophy 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/singapore_vs_thailand_143550_english.m3u8
@@ -21,4 +18,7 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/qualifying_ses
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png" group-title="Tennis", Men's Semi Final | ATP 250 - Vanda Pharma Mallorca Championships 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_semi_final_143275_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg" group-title="Tennis", Men's Semi Final | ATP 250 - Lexus Eastbourne Open 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_semi_final_143281_english.m3u8
 
