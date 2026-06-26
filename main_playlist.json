@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:45:17 PM 26-06-2026",
+    "last update time": "08:00:29 PM 26-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,6 +20,40 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_vs_west_indies_142978_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Royal Nimar Eagles Vs Chambal Ghariyals",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143066_6102_RNG_CGS_FC-WEB_1780916230127.jpg",
+            "team_1": "Royal Nimar Eagles",
+            "team_2": "Chambal Ghariyals",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Royal Nimar Eagles Vs Chambal Ghariyals | Madhya Pradesh League T20, 2026 [ENGLISH]",
+            "match_id": "143105",
+            "startTime": "26 June 2026 07:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/royal_nimar_eagles_vs_chambal_ghariyals_143105_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Aca Gurugram Vipers Vs Ka Noida Blaze",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
+            "team_1": "ACA Gurugram Vipers",
+            "team_2": "KA Noida Blaze",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Future Star U-15 Championship 2026",
+            "match_name": "Aca Gurugram Vipers Vs Ka Noida Blaze | Future Star U-15 Championship 2026 [ENGLISH]",
+            "match_id": "143556",
+            "startTime": "26 June 2026 07:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/aca_gurugram_vipers_vs_ka_noida_blaze_143556_english.m3u8"
         },
         {
             "event_category": "MotoGP",
@@ -105,6 +139,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_semi_final_143281_english.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Qualifying Session",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Austria_Old_match-card.jpg",
+            "team_1": "Qualifying Session",
+            "team_2": "Austria",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "F2 AUSTRIA 2026",
+            "match_name": "Qualifying Session | F2 AUSTRIA 2026 [ENGLISH]",
+            "match_id": "139631",
+            "startTime": "26 June 2026 07:25 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/qualifying_session_139631_english.m3u8"
         }
     ]
 }
