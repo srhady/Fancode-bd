@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:30:23 PM 26-06-2026
+#last update time: 06:45:18 PM 26-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg" group-title="Cricket", Flying Fire Delhi Chargers Vs Sonipat Kings | Future Star U-15 Championship 2026 (ENGLISH)
@@ -16,11 +16,9 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/rml_sports_vs_
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tissot-Grand-Prix-of-the-Netherlands-old-match-card.png" group-title="MotoGP", Day 1 | GRAND PRIX OF NETHERLANDS 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1_139954_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Austria_web.jpg" group-title="Formula 1", Practice 1 | F1 LENOVO AUSTRIAN GRAND PRIX 2026 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c809a4eb0e6540b0b8ca3fd4bfb75e71:1de4cc9670561a8baed12e8c2d10f542
-https://bd-mc-flive.fancode.com/mumbai/139457_english_dash_58693_1drmta-di_h264/index.mpd
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png" group-title="Golf", Main Feed   Day 2 | Travelers Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/main_feed___day_2_143575_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png" group-title="Tennis", Men's Semi Final | ATP 250 - Vanda Pharma Mallorca Championships 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_semi_final_143275_english.m3u8
 
