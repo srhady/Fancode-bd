@@ -2,6 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:15:16 AM 26-06-2026",
-    "matches": []
+    "last update time": "11:30:18 AM 26-06-2026",
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Indonesia Vs Uzbekistan",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143545_6143_UZB_INA_FC-Web.png",
+            "team_1": "Indonesia",
+            "team_2": "Uzbekistan",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Asia Pacific Cricket Champions Trophy, 2026",
+            "match_name": "Indonesia Vs Uzbekistan | Asia Pacific Cricket Champions Trophy, 2026 [ENGLISH]",
+            "match_id": "143549",
+            "startTime": "26 June 2026 11:00 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/indonesia_vs_uzbekistan_143549_english.m3u8"
+        }
+    ]
 }
