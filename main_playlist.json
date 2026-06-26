@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:30:22 PM 26-06-2026",
+    "last update time": "11:45:18 PM 26-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,23 +37,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chambal_ghariyals_vs_royal_nimar_eagles_143105_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Aca Gurugram Vipers Vs Ka Noida Blaze",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-            "team_1": "ACA Gurugram Vipers",
-            "team_2": "KA Noida Blaze",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Future Star U-15 Championship 2026",
-            "match_name": "Aca Gurugram Vipers Vs Ka Noida Blaze | Future Star U-15 Championship 2026 [ENGLISH]",
-            "match_id": "143556",
-            "startTime": "26 June 2026 07:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/aca_gurugram_vipers_vs_ka_noida_blaze_143556_english.m3u8"
         },
         {
             "event_category": "Golf",
@@ -105,23 +88,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_semi_final_143281_english.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Practice Session",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg",
-            "team_1": "Practice Session",
-            "team_2": "Red Bull Ring",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Porsche Mobil 1 Supercup 2026",
-            "match_name": "Practice Session | Porsche Mobil 1 Supercup 2026 [ENGLISH]",
-            "match_id": "143571",
-            "startTime": "26 June 2026 10:05 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/practice_session_143571_english.m3u8"
         }
     ]
 }
