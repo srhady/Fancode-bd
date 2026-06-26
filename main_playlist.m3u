@@ -1,6 +1,9 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:00:26 AM 26-06-2026
+#last update time: 09:15:16 AM 26-06-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781869172003/143522_CASACARDS_SPORTY_APP.png" group-title="Cricket", Rml Sports Vs Kcc | KPL Indo Nepal T20 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/rml_sports_vs_kcc_143522_english.m3u8
 
