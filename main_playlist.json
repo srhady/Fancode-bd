@@ -2,24 +2,6 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:30:24 AM 26-06-2026",
-    "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Rml Sports Vs Kcc",
-            "src": "https://images.fancode.com/aig/match/v1781869172003/143522_CASACARDS_SPORTY_APP.png",
-            "team_1": "RML Sports",
-            "team_2": "KCC",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "KPL Indo Nepal T20 2026",
-            "match_name": "Rml Sports Vs Kcc | KPL Indo Nepal T20 2026 [ENGLISH]",
-            "match_id": "143522",
-            "startTime": "26 June 2026 08:45 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/rml_sports_vs_kcc_143522_english.m3u8"
-        }
-    ]
+    "last update time": "09:45:22 AM 26-06-2026",
+    "matches": []
 }
