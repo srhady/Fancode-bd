@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:45:18 PM 26-06-2026",
+    "last update time": "12:00:28 AM 27-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -54,40 +54,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/main_feed___day_2_143575_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Men's Semi Final",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
-            "team_1": "Men's Semi-Final",
-            "team_2": "Mallorca, Spain",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
-            "match_name": "Men's Semi Final | ATP 250 - Vanda Pharma Mallorca Championships 2026 [ENGLISH]",
-            "match_id": "143275",
-            "startTime": "26 June 2026 06:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_semi_final_143275_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Men's Semi Final",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
-            "team_1": "Men's Semi-Final",
-            "team_2": "Eastbourne, Great Britain",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 250 - Lexus Eastbourne Open 2026",
-            "match_name": "Men's Semi Final | ATP 250 - Lexus Eastbourne Open 2026 [ENGLISH]",
-            "match_id": "143281",
-            "startTime": "26 June 2026 07:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_semi_final_143281_english.m3u8"
         }
     ]
 }
