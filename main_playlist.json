@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:45:17 PM 26-06-2026",
+    "last update time": "01:00:25 PM 26-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -10,7 +10,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143545_6143_UZB_INA_FC-Web.png",
             "team_1": "Indonesia",
             "team_2": "Uzbekistan",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Asia Pacific Cricket Champions Trophy, 2026",
@@ -20,6 +20,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/indonesia_vs_uzbekistan_143549_english.m3u8"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Day 1",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tissot-Grand-Prix-of-the-Netherlands-old-match-card.png",
+            "team_1": "Day 1",
+            "team_2": "ASSEN",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "GRAND PRIX OF NETHERLANDS 2026",
+            "match_name": "Day 1 | GRAND PRIX OF NETHERLANDS 2026 [ENGLISH]",
+            "match_id": "139954",
+            "startTime": "26 June 2026 12:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1_139954_english.m3u8"
         }
     ]
 }
