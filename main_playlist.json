@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:15:35 PM 27-06-2026",
+    "last update time": "03:30:17 PM 27-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -71,6 +71,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/shivamogga_yodhas_vs_kalyani_bengaluru_blasters_143427_kannada.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Karim Capital Chargers Vs Jayqo Panthers Faridabad",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
+            "team_1": "Karim Capital Chargers",
+            "team_2": "Jayqo Panthers Faridabad",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Future Star U-15 Championship 2026",
+            "match_name": "Karim Capital Chargers Vs Jayqo Panthers Faridabad | Future Star U-15 Championship 2026 [ENGLISH]",
+            "match_id": "143557",
+            "startTime": "27 June 2026 03:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/karim_capital_chargers_vs_jayqo_panthers_faridabad_143557_english.m3u8"
         },
         {
             "event_category": "MotoGP",
