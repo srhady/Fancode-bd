@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:00:26 PM 27-06-2026",
+    "last update time": "05:15:19 PM 27-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Itahari Super Kings Vs Rml Sports",
-            "src": "https://images.fancode.com/aig/match/v1781869172008/143524_CASACARDS_SPORTY_APP.png",
-            "team_1": "Itahari Super Kings",
-            "team_2": "RML Sports",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "KPL Indo Nepal T20 2026",
-            "match_name": "Itahari Super Kings Vs Rml Sports | KPL Indo Nepal T20 2026 [ENGLISH]",
-            "match_id": "143524",
-            "startTime": "27 June 2026 12:45 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/itahari_super_kings_vs_rml_sports_143524_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Namibia Vs Nigeria",
