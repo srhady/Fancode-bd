@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:00:28 PM 27-06-2026
+#last update time: 03:15:35 PM 27-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781869172008/143524_CASACARDS_SPORTY_APP.png" group-title="Cricket", Itahari Super Kings Vs Rml Sports | KPL Indo Nepal T20 2026 (ENGLISH)
@@ -18,4 +18,7 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/shivamogga_yod
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tissot-Grand-Prix-of-the-Netherlands-old-match-card.png" group-title="MotoGP", Netherlands Gp | GRAND PRIX OF NETHERLANDS 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/netherlands_gp_139955_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg" group-title="Motorsports", Qualifying Session | Porsche Mobil 1 Supercup 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/qualifying_session_143572_english.m3u8
 
