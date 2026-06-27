@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:15:16 PM 27-06-2026",
+    "last update time": "06:30:19 PM 27-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -88,6 +88,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/netherlands_gp_139955_english.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Sprint Race",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Austria_Old_match-card.jpg",
+            "team_1": "Sprint Race",
+            "team_2": "Austria",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "F2 AUSTRIA 2026",
+            "match_name": "Sprint Race | F2 AUSTRIA 2026 [ENGLISH]",
+            "match_id": "139632",
+            "startTime": "27 June 2026 05:45 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sprint_race_139632_english.m3u8"
         }
     ]
 }
