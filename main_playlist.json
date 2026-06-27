@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:15:15 PM 27-06-2026",
+    "last update time": "01:30:19 PM 27-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,6 +37,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/itahari_super_kings_vs_rml_sports_143524_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Namibia Vs Nigeria",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png",
+            "team_1": "Namibia",
+            "team_2": "Nigeria",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Nigeria tour of Namibia 2026",
+            "match_name": "Namibia Vs Nigeria | Nigeria tour of Namibia 2026 [ENGLISH]",
+            "match_id": "143321",
+            "startTime": "27 June 2026 01:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_nigeria_143321_english.m3u8"
         },
         {
             "event_category": "Motorsports",
