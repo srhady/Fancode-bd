@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:00:23 PM 27-06-2026",
+    "last update time": "04:15:19 PM 27-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -105,23 +105,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/netherlands_gp_139955_english.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Qualifying Session",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg",
-            "team_1": "Qualifying Session",
-            "team_2": "Red Bull Ring",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Porsche Mobil 1 Supercup 2026",
-            "match_name": "Qualifying Session | Porsche Mobil 1 Supercup 2026 [ENGLISH]",
-            "match_id": "143572",
-            "startTime": "27 June 2026 02:50 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/qualifying_session_143572_english.m3u8"
         }
     ]
 }
