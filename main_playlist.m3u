@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:45:17 PM 27-06-2026
+#last update time: 09:00:24 PM 27-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Cricket", Sri Lanka Vs West Indies | Sri Lanka tour of West Indies 2026 (ENGLISH)
@@ -10,14 +10,14 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_vs_w
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png" group-title="Cricket", Namibia Vs Nigeria | Nigeria tour of Namibia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_nigeria_143321_english.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143291_6120_BAH_BIZ_fc-App_1782198649880.jpg" group-title="Cricket", Bahamas Vs Belize | ICC Men's T20 WC Americas Sub-regional Qualifier A (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bahamas_vs_belize_143291_english.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143428_6134_MW_GMY_FC-WEB_1782272593056.jpg" group-title="Cricket", Mysore Warriors Vs Gulbarga Mystics | Maharaja T20 Trophy 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mysore_warriors_vs_gulbarga_mystics_143428_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143428_6134_MW_GMY_FC-WEB_1782272593056.jpg" group-title="Cricket", Mysore Warriors Vs Gulbarga Mystics | Maharaja T20 Trophy 2026 (KANNADA)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mysore_warriors_vs_gulbarga_mystics_143428_kannada.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143291_6120_BAH_BIZ_fc-App_1782198649880.jpg" group-title="Cricket", Bahamas Vs Belize | ICC Men's T20 WC Americas Sub-regional Qualifier A (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bahamas_vs_belize_143291_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg" group-title="Cricket", Bahadurgarh Royals Vs Ddh Meerut Spartans | Future Star U-15 Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bahadurgarh_royals_vs_ddh_meerut_spartans_143558_english.m3u8

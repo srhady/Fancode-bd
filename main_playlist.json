@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:45:17 PM 27-06-2026",
+    "last update time": "09:00:24 PM 27-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -40,6 +40,23 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Bahamas Vs Belize",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143291_6120_BAH_BIZ_fc-App_1782198649880.jpg",
+            "team_1": "Bahamas",
+            "team_2": "Belize",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
+            "match_name": "Bahamas Vs Belize | ICC Men's T20 WC Americas Sub-regional Qualifier A [ENGLISH]",
+            "match_id": "143291",
+            "startTime": "27 June 2026 07:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bahamas_vs_belize_143291_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Mysore Warriors Vs Gulbarga Mystics",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143428_6134_MW_GMY_FC-WEB_1782272593056.jpg",
             "team_1": "Mysore Warriors",
@@ -71,23 +88,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mysore_warriors_vs_gulbarga_mystics_143428_kannada.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bahamas Vs Belize",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143291_6120_BAH_BIZ_fc-App_1782198649880.jpg",
-            "team_1": "Bahamas",
-            "team_2": "Belize",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
-            "match_name": "Bahamas Vs Belize | ICC Men's T20 WC Americas Sub-regional Qualifier A [ENGLISH]",
-            "match_id": "143291",
-            "startTime": "27 June 2026 07:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bahamas_vs_belize_143291_english.m3u8"
         },
         {
             "event_category": "Cricket",
