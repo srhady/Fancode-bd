@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:30:22 PM 27-06-2026",
+    "last update time": "12:45:16 PM 27-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,20 +23,37 @@
         },
         {
             "event_category": "Motorsports",
-            "title": "Day 1   Japan",
+            "title": "Day 1   Fuji",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
-            "team_1": "Day 1 - Japan",
+            "team_1": "Day 1 - Fuji",
             "team_2": "Japan",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Ferrari Challenge Series 2026",
-            "match_name": "Day 1   Japan | Ferrari Challenge Series 2026 [ENGLISH]",
+            "match_name": "Day 1   Fuji | Ferrari Challenge Series 2026 [ENGLISH]",
             "match_id": "143638",
             "startTime": "27 June 2026 09:55 AM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___japan_143638_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___fuji_143638_english.m3u8"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Netherlands Gp",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tissot-Grand-Prix-of-the-Netherlands-old-match-card.png",
+            "team_1": "Day 2",
+            "team_2": "ASSEN",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "GRAND PRIX OF NETHERLANDS 2026",
+            "match_name": "Netherlands Gp | GRAND PRIX OF NETHERLANDS 2026 [ENGLISH]",
+            "match_id": "139955",
+            "startTime": "27 June 2026 12:10 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/netherlands_gp_139955_english.m3u8"
         }
     ]
 }
