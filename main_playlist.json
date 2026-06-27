@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:30:20 PM 27-06-2026",
+    "last update time": "11:45:16 PM 27-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -54,23 +54,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mysore_warriors_vs_gulbarga_mystics_143428_kannada.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bahadurgarh Royals Vs Ddh Meerut Spartans",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-            "team_1": "Bahadurgarh Royals",
-            "team_2": "DDH Meerut Spartans",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Future Star U-15 Championship 2026",
-            "match_name": "Bahadurgarh Royals Vs Ddh Meerut Spartans | Future Star U-15 Championship 2026 [ENGLISH]",
-            "match_id": "143558",
-            "startTime": "27 June 2026 07:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bahadurgarh_royals_vs_ddh_meerut_spartans_143558_english.m3u8"
         },
         {
             "event_category": "Golf",
