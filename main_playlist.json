@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:30:23 AM 28-06-2026",
+    "last update time": "03:45:16 AM 28-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_vs_west_indies_142978_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bermuda Vs Brazil",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143292_6120_BER_BRA_fc-App_1782198649239.jpg",
-            "team_1": "Bermuda",
-            "team_2": "Brazil",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
-            "match_name": "Bermuda Vs Brazil | ICC Men's T20 WC Americas Sub-regional Qualifier A [ENGLISH]",
-            "match_id": "143292",
-            "startTime": "27 June 2026 11:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bermuda_vs_brazil_143292_english.m3u8"
         },
         {
             "event_category": "Golf",
