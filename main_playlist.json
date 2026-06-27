@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:30:22 PM 27-06-2026",
+    "last update time": "02:45:17 PM 27-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,6 +37,40 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_nigeria_143321_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Shivamogga Yodhas Vs Kalyani Bengaluru Blasters",
+            "src": "https://images.fancode.com/aig/match/v1781841438710/143427_CASACARDS_SPORTY_APP.png",
+            "team_1": "Shivamogga Yodhas",
+            "team_2": "Kalyani Bengaluru Blasters",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Shivamogga Yodhas Vs Kalyani Bengaluru Blasters | Maharaja T20 Trophy, 2026 [ENGLISH]",
+            "match_id": "143427",
+            "startTime": "27 June 2026 02:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/shivamogga_yodhas_vs_kalyani_bengaluru_blasters_143427_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Shivamogga Yodhas Vs Kalyani Bengaluru Blasters",
+            "src": "https://images.fancode.com/aig/match/v1781841438710/143427_CASACARDS_SPORTY_APP.png",
+            "team_1": "Shivamogga Yodhas",
+            "team_2": "Kalyani Bengaluru Blasters",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "KANNADA",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Shivamogga Yodhas Vs Kalyani Bengaluru Blasters | Maharaja T20 Trophy, 2026 [KANNADA]",
+            "match_id": "143427",
+            "startTime": "27 June 2026 02:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/shivamogga_yodhas_vs_kalyani_bengaluru_blasters_143427_kannada.m3u8"
         },
         {
             "event_category": "MotoGP",
