@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:30:20 PM 27-06-2026",
+    "last update time": "09:45:16 PM 27-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_vs_west_indies_142978_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Namibia Vs Nigeria",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png",
-            "team_1": "Namibia",
-            "team_2": "Nigeria",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Nigeria tour of Namibia 2026",
-            "match_name": "Namibia Vs Nigeria | Nigeria tour of Namibia 2026 [ENGLISH]",
-            "match_id": "143321",
-            "startTime": "27 June 2026 01:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_nigeria_143321_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -139,23 +122,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/main_feed___day_3_143576_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Men's Final",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
-            "team_1": "Men's Final",
-            "team_2": "Mallorca, Spain",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
-            "match_name": "Men's Final | ATP 250 - Vanda Pharma Mallorca Championships 2026 [ENGLISH]",
-            "match_id": "143276",
-            "startTime": "27 June 2026 06:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_final_143276_english.m3u8"
         },
         {
             "event_category": "Tennis",
