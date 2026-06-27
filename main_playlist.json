@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:15:22 PM 27-06-2026",
+    "last update time": "07:30:18 PM 27-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -22,6 +22,57 @@
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_nigeria_143321_english.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Bahamas Vs Belize",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143291_6120_BAH_BIZ_fc-App_1782198649880.jpg",
+            "team_1": "Bahamas",
+            "team_2": "Belize",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
+            "match_name": "Bahamas Vs Belize | ICC Men's T20 WC Americas Sub-regional Qualifier A [ENGLISH]",
+            "match_id": "143291",
+            "startTime": "27 June 2026 07:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bahamas_vs_belize_143291_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mysore Warriors Vs Gulbarga Mystics",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143428_6134_MW_GMY_FC-WEB_1782272593056.jpg",
+            "team_1": "Mysore Warriors",
+            "team_2": "Gulbarga Mystics",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Mysore Warriors Vs Gulbarga Mystics | Maharaja T20 Trophy, 2026 [ENGLISH]",
+            "match_id": "143428",
+            "startTime": "27 June 2026 07:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mysore_warriors_vs_gulbarga_mystics_143428_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mysore Warriors Vs Gulbarga Mystics",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143428_6134_MW_GMY_FC-WEB_1782272593056.jpg",
+            "team_1": "Mysore Warriors",
+            "team_2": "Gulbarga Mystics",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "KANNADA",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Mysore Warriors Vs Gulbarga Mystics | Maharaja T20 Trophy, 2026 [KANNADA]",
+            "match_id": "143428",
+            "startTime": "27 June 2026 07:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mysore_warriors_vs_gulbarga_mystics_143428_kannada.m3u8"
+        },
+        {
             "event_category": "MotoGP",
             "title": "Netherlands Gp",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Tissot-Grand-Prix-of-the-Netherlands-old-match-card.png",
@@ -37,23 +88,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/netherlands_gp_139955_english.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Sprint Race",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Austria_Old_match-card.jpg",
-            "team_1": "Sprint Race",
-            "team_2": "Austria",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "F2 AUSTRIA 2026",
-            "match_name": "Sprint Race | F2 AUSTRIA 2026 [ENGLISH]",
-            "match_id": "139632",
-            "startTime": "27 June 2026 05:45 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sprint_race_139632_english.m3u8"
         },
         {
             "event_category": "Golf",
@@ -88,6 +122,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_final_143276_english.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Men's Final",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
+            "team_1": "Men's Final",
+            "team_2": "Eastbourne, Great Britain",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ATP 250 - Lexus Eastbourne Open 2026",
+            "match_name": "Men's Final | ATP 250 - Lexus Eastbourne Open 2026 [ENGLISH]",
+            "match_id": "143282",
+            "startTime": "27 June 2026 07:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_final_143282_english.m3u8"
         }
     ]
 }
