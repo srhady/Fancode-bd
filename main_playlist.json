@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:45:16 PM 28-06-2026",
+    "last update time": "04:00:25 PM 28-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -105,6 +105,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/netherlands_gp_139956_english.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Race",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg",
+            "team_1": "Race",
+            "team_2": "Red Bull Ring",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Porsche Mobil 1 Supercup 2026",
+            "match_name": "Race | Porsche Mobil 1 Supercup 2026 [ENGLISH]",
+            "match_id": "143573",
+            "startTime": "28 June 2026 03:25 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_143573_english.m3u8"
         }
     ]
 }
