@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:45:16 PM 28-06-2026
+#last update time: 09:00:28 PM 28-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Cricket", Sri Lanka Vs West Indies | Sri Lanka tour of West Indies 2026 (ENGLISH)
@@ -12,21 +12,6 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg" group-title="Cricket", Sonipat Kings Vs Karim Capital Chargers | Future Star U-15 Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sonipat_kings_vs_karim_capital_chargers_143560_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Austria_web.jpg" group-title="Formula 1", Race | F1 LENOVO AUSTRIAN GRAND PRIX 2026 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=223883b31c3e4a868c579d716fb237d2:cfaba954769c610d3b7604fed565f54f
-https://bd-mc-flive.fancode.com/mumbai/139461_english_dash_26050_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Austria_web.jpg" group-title="Formula 1", Race | F1 LENOVO AUSTRIAN GRAND PRIX 2026 (HINDI) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=736b676a556c4aa783f076b48427bde6:66a0faeea1760cb75ebe425acb552393
-https://bd-mc-flive.fancode.com/mumbai/139461_hindi_dash_37767_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Austria_web.jpg" group-title="Formula 1", Race | F1 LENOVO AUSTRIAN GRAND PRIX 2026 (TAMIL) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44d143c3305c4a58bbf33ce9251bb786:d063e82e4ec01e352985480592339bc5
-https://bd-mc-flive.fancode.com/mumbai/139461_tamil_dash_42696_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png" group-title="Golf", Main Feed   Day 4 | Travelers Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/main_feed___day_4_143577_english.m3u8
