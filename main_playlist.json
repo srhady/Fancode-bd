@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:30:21 PM 28-06-2026",
+    "last update time": "08:45:16 PM 28-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,23 +37,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_zimbabwe_143399_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Hpca Patna Vs Itahari Super Kings",
-            "src": "https://images.fancode.com/aig/match/v1781869172008/143526_CASACARDS_SPORTY_APP.png",
-            "team_1": "HPCA Patna",
-            "team_2": "Itahari Super Kings",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "KPL Indo Nepal T20 2026",
-            "match_name": "Hpca Patna Vs Itahari Super Kings | KPL Indo Nepal T20 2026 [ENGLISH]",
-            "match_id": "143526",
-            "startTime": "28 June 2026 12:45 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hpca_patna_vs_itahari_super_kings_143526_english.m3u8"
         },
         {
             "event_category": "Cricket",
