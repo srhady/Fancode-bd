@@ -1,26 +1,20 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:15:17 PM 28-06-2026
+#last update time: 08:30:21 PM 28-06-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Bangladesh_One-off-Test_2026_FC-WEB_1782576215289.jpg" group-title="Cricket", Bangladesh Vs Zimbabwe | Bangladesh tour of Zimbabwe 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_zimbabwe_143399_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Cricket", Sri Lanka Vs West Indies | Sri Lanka tour of West Indies 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_vs_west_indies_142978_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Bangladesh_One-off-Test_2026_FC-WEB_1782576215289.jpg" group-title="Cricket", Bangladesh Vs Zimbabwe | Bangladesh tour of Zimbabwe 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_zimbabwe_143399_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781869172008/143526_CASACARDS_SPORTY_APP.png" group-title="Cricket", Hpca Patna Vs Itahari Super Kings | KPL Indo Nepal T20 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hpca_patna_vs_itahari_super_kings_143526_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg" group-title="Cricket", Sonipat Kings Vs Karim Capital Chargers | Future Star U-15 Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sonipat_kings_vs_karim_capital_chargers_143560_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tissot-Grand-Prix-of-the-Netherlands-old-match-card.png" group-title="MotoGP", Netherlands Gp | GRAND PRIX OF NETHERLANDS 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/netherlands_gp_139956_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png" group-title="Golf", Main Feed   Day 4 | Travelers Championship 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/main_feed___day_4_143577_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Austria_web.jpg" group-title="Formula 1", Race | F1 LENOVO AUSTRIAN GRAND PRIX 2026 (ENGLISH) [DRM]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -36,4 +30,7 @@ https://bd-mc-flive.fancode.com/mumbai/139461_hindi_dash_37767_1drmta-di_h264/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44d143c3305c4a58bbf33ce9251bb786:d063e82e4ec01e352985480592339bc5
 https://bd-mc-flive.fancode.com/mumbai/139461_tamil_dash_42696_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png" group-title="Golf", Main Feed   Day 4 | Travelers Championship 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/main_feed___day_4_143577_english.m3u8
 
