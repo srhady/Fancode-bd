@@ -1,11 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:00:26 PM 28-06-2026
+#last update time: 12:15:17 PM 28-06-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781869164723/143525_CASACARDS_SPORTY_APP.png" group-title="Cricket", Chhinnamasta Lions Vs Kcc | KPL Indo Nepal T20 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chhinnamasta_lions_vs_kcc_143525_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg" group-title="Motorsports", Day 2    Fuji | Ferrari Challenge Series 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2____fuji_143639_english.m3u8
