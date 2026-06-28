@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:45:16 PM 28-06-2026",
+    "last update time": "12:00:26 AM 29-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Sonipat Kings Vs Karim Capital Chargers",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-            "team_1": "Sonipat Kings",
-            "team_2": "Karim Capital Chargers",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Future Star U-15 Championship 2026",
-            "match_name": "Sonipat Kings Vs Karim Capital Chargers | Future Star U-15 Championship 2026 [ENGLISH]",
-            "match_id": "143560",
-            "startTime": "28 June 2026 07:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sonipat_kings_vs_karim_capital_chargers_143560_english.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Main Feed   Day 4",
