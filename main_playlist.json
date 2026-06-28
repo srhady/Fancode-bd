@@ -2,6 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:45:15 AM 28-06-2026",
-    "matches": []
+    "last update time": "09:00:27 AM 28-06-2026",
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Chhinnamasta Lions Vs Kcc",
+            "src": "https://images.fancode.com/aig/match/v1781869164723/143525_CASACARDS_SPORTY_APP.png",
+            "team_1": "Chhinnamasta Lions",
+            "team_2": "KCC",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "KPL Indo Nepal T20 2026",
+            "match_name": "Chhinnamasta Lions Vs Kcc | KPL Indo Nepal T20 2026 [ENGLISH]",
+            "match_id": "143525",
+            "startTime": "28 June 2026 08:45 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chhinnamasta_lions_vs_kcc_143525_english.m3u8"
+        }
+    ]
 }
