@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:15:16 AM 28-06-2026",
+    "last update time": "10:30:21 AM 28-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,6 +20,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chhinnamasta_lions_vs_kcc_143525_english.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Day 2    Fuji",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
+            "team_1": "Day 2 -  Fuji",
+            "team_2": "Japan",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Ferrari Challenge Series 2026",
+            "match_name": "Day 2    Fuji | Ferrari Challenge Series 2026 [ENGLISH]",
+            "match_id": "143639",
+            "startTime": "28 June 2026 09:55 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2____fuji_143639_english.m3u8"
         }
     ]
 }
