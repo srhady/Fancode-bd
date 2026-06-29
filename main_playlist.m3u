@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:15:18 PM 29-06-2026
+#last update time: 02:30:23 PM 29-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Bangladesh_One-off-Test_2026_FC-WEB_1782576215289.jpg" group-title="Cricket", Bangladesh Vs Zimbabwe | Bangladesh tour of Zimbabwe 2026 (ENGLISH)
@@ -12,4 +12,10 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/rml_sports_vs_
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png" group-title="Cricket", Namibia Vs Nigeria | Nigeria tour of Namibia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_nigeria_143322_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438727/143430_CASACARDS_SPORTY_APP.png" group-title="Cricket", Gulbarga Mystics Vs Hubli Tigers | Maharaja T20 Trophy 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/gulbarga_mystics_vs_hubli_tigers_143430_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438727/143430_CASACARDS_SPORTY_APP.png" group-title="Cricket", Gulbarga Mystics Vs Hubli Tigers | Maharaja T20 Trophy 2026 (KANNADA)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/gulbarga_mystics_vs_hubli_tigers_143430_kannada.m3u8
 
