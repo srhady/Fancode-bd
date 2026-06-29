@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:45:18 PM 29-06-2026",
+    "last update time": "01:00:26 PM 29-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -10,7 +10,7 @@
             "src": "https://images.fancode.com/aig/match/v1781869164717/143527_CASACARDS_SPORTY_APP.png",
             "team_1": "Itahari Super Kings",
             "team_2": "Mills Cricket Club",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "KPL Indo Nepal T20 2026",
