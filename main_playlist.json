@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:15:29 PM 29-06-2026",
+    "last update time": "11:30:21 PM 29-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -54,23 +54,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jayqo_panthers_faridabad_vs_flying_fire_delhi_chargers_143562_english.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "World Feed",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
-            "team_1": "World Feed",
-            "team_2": "TPC River Highlands - Cromwell, Connecticut",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Travelers Championship 2026",
-            "match_name": "World Feed | Travelers Championship 2026 [ENGLISH]",
-            "match_id": "143663",
-            "startTime": "29 June 2026 06:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/world_feed_143663_english.m3u8"
         }
     ]
 }
