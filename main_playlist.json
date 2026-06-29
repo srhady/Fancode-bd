@@ -2,6 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:45:19 AM 29-06-2026",
-    "matches": []
+    "last update time": "09:00:28 AM 29-06-2026",
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Itahari Super Kings Vs Mills Cricket Club",
+            "src": "https://images.fancode.com/aig/match/v1781869164717/143527_CASACARDS_SPORTY_APP.png",
+            "team_1": "Itahari Super Kings",
+            "team_2": "Mills Cricket Club",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "KPL Indo Nepal T20 2026",
+            "match_name": "Itahari Super Kings Vs Mills Cricket Club | KPL Indo Nepal T20 2026 [ENGLISH]",
+            "match_id": "143527",
+            "startTime": "29 June 2026 08:45 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/itahari_super_kings_vs_mills_cricket_club_143527_english.m3u8"
+        }
+    ]
 }
