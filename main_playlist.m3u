@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:45:19 PM 29-06-2026
+#last update time: 12:00:25 AM 30-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438728/143431_CASACARDS_SPORTY_APP.png" group-title="Cricket", Coastal Kings Mangaluru Vs Kalyani Bengaluru Blasters | Maharaja T20 Trophy 2026 (ENGLISH)
@@ -9,7 +9,4 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/coastal_kings_
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438728/143431_CASACARDS_SPORTY_APP.png" group-title="Cricket", Coastal Kings Mangaluru Vs Kalyani Bengaluru Blasters | Maharaja T20 Trophy 2026 (KANNADA)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/coastal_kings_mangaluru_vs_kalyani_bengaluru_blasters_143431_kannada.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg" group-title="Cricket", Jayqo Panthers Faridabad Vs Flying Fire Delhi Chargers | Future Star U-15 Championship 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jayqo_panthers_faridabad_vs_flying_fire_delhi_chargers_143562_english.m3u8
 
