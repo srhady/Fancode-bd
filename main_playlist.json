@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:15:24 PM 30-06-2026",
+    "last update time": "02:30:20 PM 30-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,6 +37,40 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chhinnamasta_lions_vs_mills_cricket_club_143530_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Shivamogga Yodhas Vs Gulbarga Mystics",
+            "src": "https://images.fancode.com/aig/match/v1781841438720/143432_CASACARDS_SPORTY_APP.png",
+            "team_1": "Shivamogga Yodhas",
+            "team_2": "Gulbarga Mystics",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Shivamogga Yodhas Vs Gulbarga Mystics | Maharaja T20 Trophy, 2026 [ENGLISH]",
+            "match_id": "143432",
+            "startTime": "30 June 2026 02:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/shivamogga_yodhas_vs_gulbarga_mystics_143432_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Shivamogga Yodhas Vs Gulbarga Mystics",
+            "src": "https://images.fancode.com/aig/match/v1781841438720/143432_CASACARDS_SPORTY_APP.png",
+            "team_1": "Shivamogga Yodhas",
+            "team_2": "Gulbarga Mystics",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "KANNADA",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Shivamogga Yodhas Vs Gulbarga Mystics | Maharaja T20 Trophy, 2026 [KANNADA]",
+            "match_id": "143432",
+            "startTime": "30 June 2026 02:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/shivamogga_yodhas_vs_gulbarga_mystics_143432_kannada.m3u8"
         }
     ]
 }
