@@ -1,12 +1,6 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:15:18 AM 01-07-2026
+#last update time: 12:30:25 AM 01-07-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438714/143433_CASACARDS_SPORTY_APP.png" group-title="Cricket", Coastal Kings Mangaluru Vs Mysore Warriors | Maharaja T20 Trophy 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/coastal_kings_mangaluru_vs_mysore_warriors_143433_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438714/143433_CASACARDS_SPORTY_APP.png" group-title="Cricket", Coastal Kings Mangaluru Vs Mysore Warriors | Maharaja T20 Trophy 2026 (KANNADA)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/coastal_kings_mangaluru_vs_mysore_warriors_143433_kannada.m3u8
 
