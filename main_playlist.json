@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:30:23 PM 30-06-2026",
+    "last update time": "05:45:15 PM 30-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_zimbabwe_143399_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Chhinnamasta Lions Vs Mills Cricket Club",
-            "src": "https://images.fancode.com/aig/match/v1781869171996/143530_CASACARDS_SPORTY_APP.png",
-            "team_1": "Chhinnamasta Lions",
-            "team_2": "Mills Cricket Club",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "KPL Indo Nepal T20 2026",
-            "match_name": "Chhinnamasta Lions Vs Mills Cricket Club | KPL Indo Nepal T20 2026 [ENGLISH]",
-            "match_id": "143530",
-            "startTime": "30 June 2026 12:45 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chhinnamasta_lions_vs_mills_cricket_club_143530_english.m3u8"
         },
         {
             "event_category": "Cricket",
