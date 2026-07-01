@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:15:17 AM 01-07-2026",
+    "last update time": "10:30:24 AM 01-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,6 +20,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mills_cricket_club_vs_rml_sports_143531_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Amo Sharks Vs Band E Amir Dragons",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143582_6148_AM_BD_fc-web_1782725011344.jpg",
+            "team_1": "Amo Sharks",
+            "team_2": "Band-e-Amir Dragons",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Shpageeza Cricket League, 2026",
+            "match_name": "Amo Sharks Vs Band E Amir Dragons | Shpageeza Cricket League, 2026 [ENGLISH]",
+            "match_id": "143582",
+            "startTime": "01 July 2026 10:00 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/amo_sharks_vs_band_e_amir_dragons_143582_english.m3u8"
         }
     ]
 }
