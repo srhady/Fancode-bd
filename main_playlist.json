@@ -2,6 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:00:27 AM 01-07-2026",
-    "matches": []
+    "last update time": "09:15:17 AM 01-07-2026",
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Mills Cricket Club Vs Rml Sports",
+            "src": "https://images.fancode.com/aig/match/v1781869172001/143531_CASACARDS_SPORTY_APP.png",
+            "team_1": "Mills Cricket Club",
+            "team_2": "RML Sports",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "KPL Indo Nepal T20 2026",
+            "match_name": "Mills Cricket Club Vs Rml Sports | KPL Indo Nepal T20 2026 [ENGLISH]",
+            "match_id": "143531",
+            "startTime": "01 July 2026 08:45 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mills_cricket_club_vs_rml_sports_143531_english.m3u8"
+        }
+    ]
 }
