@@ -2,41 +2,41 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:45:13 PM 01-07-2026",
+    "last update time": "01:00:28 PM 01-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Mills Cricket Club Vs Rml Sports",
-            "src": "https://images.fancode.com/aig/match/v1781869172001/143531_CASACARDS_SPORTY_APP.png",
-            "team_1": "Mills Cricket Club",
-            "team_2": "RML Sports",
+            "title": "Hpca Patna Vs Chinnamasta Lions",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
+            "team_1": "HPCA Patna",
+            "team_2": "Chinnamasta Lions",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "KPL Indo Nepal T20 2026",
-            "match_name": "Mills Cricket Club Vs Rml Sports | KPL Indo Nepal T20 2026 [ENGLISH]",
-            "match_id": "143531",
-            "startTime": "01 July 2026 08:45 AM",
+            "match_name": "Hpca Patna Vs Chinnamasta Lions | KPL Indo Nepal T20 2026 [ENGLISH]",
+            "match_id": "143532",
+            "startTime": "01 July 2026 12:45 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mills_cricket_club_vs_rml_sports_143531_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hpca_patna_vs_chinnamasta_lions_143532_english.m3u8"
         },
         {
             "event_category": "Cricket",
-            "title": "Amo Sharks Vs Band E Amir Dragons",
+            "title": "Band E Amir Dragons Vs Amo Sharks",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143582_6148_AM_BD_fc-web_1782725011344.jpg",
-            "team_1": "Amo Sharks",
-            "team_2": "Band-e-Amir Dragons",
-            "status": "NOT_STARTED",
+            "team_1": "Band-e-Amir Dragons",
+            "team_2": "Amo Sharks",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Shpageeza Cricket League, 2026",
-            "match_name": "Amo Sharks Vs Band E Amir Dragons | Shpageeza Cricket League, 2026 [ENGLISH]",
+            "match_name": "Band E Amir Dragons Vs Amo Sharks | Shpageeza Cricket League, 2026 [ENGLISH]",
             "match_id": "143582",
             "startTime": "01 July 2026 10:00 AM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/amo_sharks_vs_band_e_amir_dragons_143582_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/band_e_amir_dragons_vs_amo_sharks_143582_english.m3u8"
         }
     ]
 }
