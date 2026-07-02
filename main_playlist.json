@@ -2,6 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:00:28 AM 02-07-2026",
-    "matches": []
+    "last update time": "09:15:20 AM 02-07-2026",
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Itahari Super Kings Vs Kcc",
+            "src": "https://images.fancode.com/aig/match/v1781869172003/143533_CASACARDS_SPORTY_APP.png",
+            "team_1": "Itahari Super Kings",
+            "team_2": "KCC",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "KPL Indo Nepal T20 2026",
+            "match_name": "Itahari Super Kings Vs Kcc | KPL Indo Nepal T20 2026 [ENGLISH]",
+            "match_id": "143533",
+            "startTime": "02 July 2026 08:45 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/itahari_super_kings_vs_kcc_143533_english.m3u8"
+        }
+    ]
 }
