@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:45:18 AM 03-07-2026",
+    "last update time": "03:00:34 AM 03-07-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -20,6 +20,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___main_feed_143665_english.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1   World Feed",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
+            "team_1": "Day 1 - World Feed",
+            "team_2": "TPC Deere Run Silvis, Illinois",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "John Deere Classic 2026",
+            "match_name": "Day 1   World Feed | John Deere Classic 2026 [ENGLISH]",
+            "match_id": "143664",
+            "startTime": "03 July 2026 02:30 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___world_feed_143664_english.m3u8"
         }
     ]
 }
