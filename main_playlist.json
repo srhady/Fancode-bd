@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:15:19 PM 02-07-2026",
+    "last update time": "03:30:29 PM 02-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -71,6 +71,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hubli_tigers_vs_mysore_warriors_143435_kannada.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Speen Ghar Tigers Vs Band E Amir Dragons",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143585_6148_SG_BD_fc-web_1782725011362.jpg",
+            "team_1": "Speen Ghar Tigers",
+            "team_2": "Band-e-Amir Dragons",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Shpageeza Cricket League, 2026",
+            "match_name": "Speen Ghar Tigers Vs Band E Amir Dragons | Shpageeza Cricket League, 2026 [ENGLISH]",
+            "match_id": "143585",
+            "startTime": "02 July 2026 03:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/speen_ghar_tigers_vs_band_e_amir_dragons_143585_english.m3u8"
         }
     ]
 }
