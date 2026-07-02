@@ -2,8 +2,25 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:00:31 PM 02-07-2026",
+    "last update time": "01:15:23 PM 02-07-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Rml Sports Vs Hpca Patna",
+            "src": "https://images.fancode.com/aig/match/v1781869164718/143534_CASACARDS_SPORTY_APP.png",
+            "team_1": "RML Sports",
+            "team_2": "HPCA Patna",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "KPL Indo Nepal T20 2026",
+            "match_name": "Rml Sports Vs Hpca Patna | KPL Indo Nepal T20 2026 [ENGLISH]",
+            "match_id": "143534",
+            "startTime": "02 July 2026 12:45 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/rml_sports_vs_hpca_patna_143534_english.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Bost Defenders Vs Amo Sharks",
