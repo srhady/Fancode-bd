@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:15:17 PM 03-07-2026",
+    "last update time": "02:30:29 PM 03-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,6 +20,40 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kcc_vs_mills_cricket_club_143536_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Gulbarga Mystics Vs Mysore Warriors",
+            "src": "https://images.fancode.com/aig/match/v1781841438718/143437_CASACARDS_SPORTY_APP.png",
+            "team_1": "Gulbarga Mystics",
+            "team_2": "Mysore Warriors",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Gulbarga Mystics Vs Mysore Warriors | Maharaja T20 Trophy, 2026 [ENGLISH]",
+            "match_id": "143437",
+            "startTime": "03 July 2026 02:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/gulbarga_mystics_vs_mysore_warriors_143437_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Gulbarga Mystics Vs Mysore Warriors",
+            "src": "https://images.fancode.com/aig/match/v1781841438718/143437_CASACARDS_SPORTY_APP.png",
+            "team_1": "Gulbarga Mystics",
+            "team_2": "Mysore Warriors",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "KANNADA",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Gulbarga Mystics Vs Mysore Warriors | Maharaja T20 Trophy, 2026 [KANNADA]",
+            "match_id": "143437",
+            "startTime": "03 July 2026 02:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/gulbarga_mystics_vs_mysore_warriors_143437_kannada.m3u8"
         },
         {
             "event_category": "Motorsports",
