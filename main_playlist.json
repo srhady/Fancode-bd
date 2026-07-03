@@ -2,8 +2,25 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:30:23 PM 03-07-2026",
+    "last update time": "07:45:21 PM 03-07-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lanka Vs West Indies",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png",
+            "team_1": "Sri Lanka",
+            "team_2": "West Indies",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Sri Lanka tour of West Indies 2026",
+            "match_name": "Sri Lanka Vs West Indies | Sri Lanka tour of West Indies 2026 [ENGLISH]",
+            "match_id": "142979",
+            "startTime": "03 July 2026 07:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_vs_west_indies_142979_english.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Hubli Tigers Vs Kalyani Bengaluru Blasters",
@@ -54,23 +71,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___main_feed_143667_english.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Qualifying Session",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
-            "team_1": "Qualifying Session",
-            "team_2": "Silverstone",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "F3 GREAT BRITAIN 2026",
-            "match_name": "Qualifying Session | F3 GREAT BRITAIN 2026 [ENGLISH]",
-            "match_id": "139722",
-            "startTime": "03 July 2026 06:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/qualifying_session_139722_english.m3u8"
         }
     ]
 }
