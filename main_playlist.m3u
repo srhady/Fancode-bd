@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:27 PM 03-07-2026
+#last update time: 12:45:21 PM 03-07-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781869171976/143535_CASACARDS_SPORTY_APP.png" group-title="Cricket", Chhinnamasta Lions Vs Itahari Super Kings | KPL Indo Nepal T20 2026 (ENGLISH)
@@ -9,4 +9,7 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chhinnamasta_l
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143586_6148_BD_MAK_fc-web_1782725011378.jpg" group-title="Cricket", Band E Amir Dragons Vs Mis E Ainak Knights | Shpageeza Cricket League 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/band_e_amir_dragons_vs_mis_e_ainak_knights_143586_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg" group-title="Motorsports", Practice Session | F1 ACADEMY GREAT BRITAIN 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/practice_session_139690_english.m3u8
 
