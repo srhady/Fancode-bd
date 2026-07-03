@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:15:16 PM 03-07-2026",
+    "last update time": "01:30:25 PM 03-07-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Chhinnamasta Lions Vs Itahari Super Kings",
-            "src": "https://images.fancode.com/aig/match/v1781869171976/143535_CASACARDS_SPORTY_APP.png",
-            "team_1": "Chhinnamasta Lions",
-            "team_2": "Itahari Super Kings",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "KPL Indo Nepal T20 2026",
-            "match_name": "Chhinnamasta Lions Vs Itahari Super Kings | KPL Indo Nepal T20 2026 [ENGLISH]",
-            "match_id": "143535",
-            "startTime": "03 July 2026 08:45 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chhinnamasta_lions_vs_itahari_super_kings_143535_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Kcc Vs Mills Cricket Club",
