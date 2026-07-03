@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:45:18 AM 04-07-2026",
+    "last update time": "01:00:32 AM 04-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,40 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_vs_west_indies_142979_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Hubli Tigers Vs Kalyani Bengaluru Blasters",
-            "src": "https://images.fancode.com/aig/match/v1781841438709/143438_CASACARDS_SPORTY_APP.png",
-            "team_1": "Hubli Tigers",
-            "team_2": "Kalyani Bengaluru Blasters",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "Hubli Tigers Vs Kalyani Bengaluru Blasters | Maharaja T20 Trophy, 2026 [ENGLISH]",
-            "match_id": "143438",
-            "startTime": "03 July 2026 07:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hubli_tigers_vs_kalyani_bengaluru_blasters_143438_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Hubli Tigers Vs Kalyani Bengaluru Blasters",
-            "src": "https://images.fancode.com/aig/match/v1781841438709/143438_CASACARDS_SPORTY_APP.png",
-            "team_1": "Hubli Tigers",
-            "team_2": "Kalyani Bengaluru Blasters",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "KANNADA",
-            "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "Hubli Tigers Vs Kalyani Bengaluru Blasters | Maharaja T20 Trophy, 2026 [KANNADA]",
-            "match_id": "143438",
-            "startTime": "03 July 2026 07:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hubli_tigers_vs_kalyani_bengaluru_blasters_143438_kannada.m3u8"
         },
         {
             "event_category": "Golf",
