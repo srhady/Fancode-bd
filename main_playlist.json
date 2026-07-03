@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:30:25 PM 03-07-2026",
+    "last update time": "01:45:19 PM 03-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -22,38 +22,21 @@
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kcc_vs_mills_cricket_club_143536_english.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Band E Amir Dragons Vs Mis E Ainak Knights",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143586_6148_BD_MAK_fc-web_1782725011378.jpg",
-            "team_1": "Band-e-Amir Dragons",
-            "team_2": "Mis-e-Ainak Knights",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Shpageeza Cricket League, 2026",
-            "match_name": "Band E Amir Dragons Vs Mis E Ainak Knights | Shpageeza Cricket League, 2026 [ENGLISH]",
-            "match_id": "143586",
-            "startTime": "03 July 2026 10:00 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/band_e_amir_dragons_vs_mis_e_ainak_knights_143586_english.m3u8"
-        },
-        {
             "event_category": "Motorsports",
             "title": "Practice Session",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
             "team_1": "Practice Session",
             "team_2": "Silverstone",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
-            "event_name": "F1 ACADEMY GREAT BRITAIN 2026",
-            "match_name": "Practice Session | F1 ACADEMY GREAT BRITAIN 2026 [ENGLISH]",
-            "match_id": "139690",
-            "startTime": "03 July 2026 12:15 PM",
+            "event_name": "F3 GREAT BRITAIN 2026",
+            "match_name": "Practice Session | F3 GREAT BRITAIN 2026 [ENGLISH]",
+            "match_id": "139721",
+            "startTime": "03 July 2026 01:20 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/practice_session_139690_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/practice_session_139721_english.m3u8"
         }
     ]
 }
