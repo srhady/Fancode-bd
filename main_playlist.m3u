@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:45:19 PM 03-07-2026
+#last update time: 03:00:35 PM 03-07-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781869172005/143536_CASACARDS_SPORTY_APP.png" group-title="Cricket", Kcc Vs Mills Cricket Club | KPL Indo Nepal T20 2026 (ENGLISH)
@@ -12,4 +12,7 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/gulbarga_mysti
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438718/143437_CASACARDS_SPORTY_APP.png" group-title="Cricket", Gulbarga Mystics Vs Mysore Warriors | Maharaja T20 Trophy 2026 (KANNADA)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/gulbarga_mystics_vs_mysore_warriors_143437_kannada.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Austria_Old_match-card.jpg" group-title="Motorsports", Practice Session | F2 GREAT BRITAIN 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/practice_session_139634_english.m3u8
 
