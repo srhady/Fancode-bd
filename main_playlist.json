@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:15:21 PM 03-07-2026",
+    "last update time": "09:30:26 PM 03-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -88,6 +88,40 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_143409_english.m3u8"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Sprint Qualifying",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg",
+            "team_1": "Sprint Qualifying",
+            "team_2": "Great Britain",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "F1 PIRELLI BRITISH GRAND PRIX 2026",
+            "match_name": "Sprint Qualifying | F1 PIRELLI BRITISH GRAND PRIX 2026 [ENGLISH]",
+            "match_id": "139463",
+            "startTime": "03 July 2026 09:00 PM",
+            "is_drm": true,
+            "clearkey": "b5af666ee4b84628964aa31efb35badc:9e1521ab35df1b8f62c26c7e9d8b2723",
+            "stream_url": "https://bd-mc-flive.fancode.com/mumbai/139463_english_dash_69557_1drmta-di_h264/index.mpd"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2   Am",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143579_6147_PGA_LOC_fc-web.jpg",
+            "team_1": "Day 2 - AM",
+            "team_2": "United States of America",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "US Senior Open Championship 2026",
+            "match_name": "Day 2   Am | US Senior Open Championship 2026 [ENGLISH]",
+            "match_id": "143579",
+            "startTime": "03 July 2026 09:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___am_143579_english.m3u8"
         }
     ]
 }
