@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:00:37 PM 04-07-2026",
+    "last update time": "11:15:22 PM 04-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -54,23 +54,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_143580_english.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 3",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png",
-            "team_1": "Day 3",
-            "team_2": "Hulencourt Golf Club, Belgium",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Hulencourt Women's Open 2026",
-            "match_name": "Day 3 | Hulencourt Women's Open 2026 [ENGLISH]",
-            "match_id": "143410",
-            "startTime": "04 July 2026 07:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_143410_english.m3u8"
         },
         {
             "event_category": "Motorsports",
