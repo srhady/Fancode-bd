@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:45:17 PM 04-07-2026",
+    "last update time": "01:00:32 PM 04-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,20 +23,37 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bost Defenders Vs Speen Ghar Tigers",
+            "title": "Speen Ghar Tigers Vs Bost Defenders",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143587_6148_BOS_SG_fc-web_1782725012178.jpg",
-            "team_1": "Bost Defenders",
-            "team_2": "Speen Ghar Tigers",
-            "status": "NOT_STARTED",
+            "team_1": "Speen Ghar Tigers",
+            "team_2": "Bost Defenders",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Shpageeza Cricket League, 2026",
-            "match_name": "Bost Defenders Vs Speen Ghar Tigers | Shpageeza Cricket League, 2026 [ENGLISH]",
+            "match_name": "Speen Ghar Tigers Vs Bost Defenders | Shpageeza Cricket League, 2026 [ENGLISH]",
             "match_id": "143587",
             "startTime": "04 July 2026 10:00 AM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bost_defenders_vs_speen_ghar_tigers_143587_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/speen_ghar_tigers_vs_bost_defenders_143587_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Tbc Vs Tbc",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "KPL Indo Nepal T20 2026",
+            "match_name": "Tbc Vs Tbc | KPL Indo Nepal T20 2026 [ENGLISH]",
+            "match_id": "143538",
+            "startTime": "04 July 2026 12:45 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/tbc_vs_tbc_143538_english.m3u8"
         }
     ]
 }
