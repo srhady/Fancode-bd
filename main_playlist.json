@@ -2,24 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:30:28 PM 04-07-2026",
+    "last update time": "02:45:15 PM 04-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Tbc Vs Tbc",
+            "title": "Kcc Vs Rml Sports",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "KCC",
+            "team_2": "RML Sports",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "KPL Indo Nepal T20 2026",
-            "match_name": "Tbc Vs Tbc | KPL Indo Nepal T20 2026 [ENGLISH]",
+            "match_name": "Kcc Vs Rml Sports | KPL Indo Nepal T20 2026 [ENGLISH]",
             "match_id": "143538",
             "startTime": "04 July 2026 12:45 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/tbc_vs_tbc_143538_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kcc_vs_rml_sports_143538_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -37,23 +37,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_vidarbha_143629_english.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Dtm Qualifying 1   Norisring",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png",
-            "team_1": "DTM Qualifying 1 - Norisring",
-            "team_2": "Norisring",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "DTM 2026",
-            "match_name": "Dtm Qualifying 1   Norisring | DTM 2026 [ENGLISH]",
-            "match_id": "143622",
-            "startTime": "04 July 2026 01:05 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/dtm_qualifying_1___norisring_143622_english.m3u8"
         },
         {
             "event_category": "Motorsports",
