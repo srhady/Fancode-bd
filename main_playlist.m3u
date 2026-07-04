@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:45:20 PM 04-07-2026
+#last update time: 07:00:34 PM 04-07-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143629_6150_NAM_VID_fc-web.jpg" group-title="Cricket", Namibia Vs Vidarbha | Vidarbha Cricket Association tour of Namibia (ENGLISH)
@@ -18,4 +18,10 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___main_f
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Austria_Old_match-card.jpg" group-title="Motorsports", Sprint Race | F2 GREAT BRITAIN 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sprint_race_139636_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143580_6147_PGA_LOC_fc-web.jpg" group-title="Golf", Day 3 | US Senior Open Championship 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_143580_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png" group-title="Motorsports", Adac Gt Race 1   Norisring | DTM 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/adac_gt_race_1___norisring_143620_english.m3u8
 
