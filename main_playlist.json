@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:30:32 PM 04-07-2026",
+    "last update time": "04:45:18 PM 04-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -39,23 +39,6 @@
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_vidarbha_143629_english.m3u8"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Sprint Race",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
-            "team_1": "Sprint Race",
-            "team_2": "Silverstone",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "F3 GREAT BRITAIN 2026",
-            "match_name": "Sprint Race | F3 GREAT BRITAIN 2026 [ENGLISH]",
-            "match_id": "139723",
-            "startTime": "04 July 2026 02:05 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sprint_race_139723_english.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Mis E Ainak Knights Vs Amo Sharks",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143588_6148_AM_MAK_fc-web_1782725011430.jpg",
@@ -71,6 +54,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mis_e_ainak_knights_vs_amo_sharks_143588_english.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "F1 Kids 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
+            "team_1": "F1 Kids 2026",
+            "team_2": "Silverstone",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "F1 Kids 2026",
+            "match_name": "F1 Kids 2026 | F1 Kids 2026 [ENGLISH]",
+            "match_id": "143674",
+            "startTime": "04 July 2026 04:25 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/f1_kids_2026_143674_english.m3u8"
         }
     ]
 }
