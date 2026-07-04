@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:15:17 PM 04-07-2026",
+    "last update time": "05:30:29 PM 04-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -71,6 +71,40 @@
             "is_drm": true,
             "clearkey": "7b3cd995106c47b287923bb4f82dbb05:2494e66ba4ea93fc1e8b7d7033ab0011",
             "stream_url": "https://bd-mc-flive.fancode.com/mumbai/139464_english_dash_90941_1drmta-di_h264/index.mpd"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Dtm Race 1   Norisring",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png",
+            "team_1": "DTM Race 1 - Norisring",
+            "team_2": "Norisring",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "DTM 2026",
+            "match_name": "Dtm Race 1   Norisring | DTM 2026 [ENGLISH]",
+            "match_id": "143623",
+            "startTime": "04 July 2026 05:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/dtm_race_1___norisring_143623_english.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3   Main Feed",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
+            "team_1": "Day 3 - Main Feed",
+            "team_2": "TPC Deere Run Silvis, Illinois",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "John Deere Classic 2026",
+            "match_name": "Day 3   Main Feed | John Deere Classic 2026 [ENGLISH]",
+            "match_id": "143669",
+            "startTime": "04 July 2026 05:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___main_feed_143669_english.m3u8"
         },
         {
             "event_category": "Motorsports",
