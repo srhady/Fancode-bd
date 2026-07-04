@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:30:31 PM 04-07-2026
+#last update time: 06:45:20 PM 04-07-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143629_6150_NAM_VID_fc-web.jpg" group-title="Cricket", Namibia Vs Vidarbha | Vidarbha Cricket Association tour of Namibia (ENGLISH)
@@ -10,9 +10,12 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_vid
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143588_6148_AM_MAK_fc-web_1782725011430.jpg" group-title="Cricket", Mis E Ainak Knights Vs Amo Sharks | Shpageeza Cricket League 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mis_e_ainak_knights_vs_amo_sharks_143588_english.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png" group-title="Motorsports", Dtm Race 1   Norisring | DTM 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/dtm_race_1___norisring_143623_english.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png" group-title="Golf", Day 3   Main Feed | John Deere Classic 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___main_feed_143669_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png" group-title="Motorsports", Dtm Race 1   Norisring | DTM 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/dtm_race_1___norisring_143623_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Austria_Old_match-card.jpg" group-title="Motorsports", Sprint Race | F2 GREAT BRITAIN 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sprint_race_139636_english.m3u8
 
