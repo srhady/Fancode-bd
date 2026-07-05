@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:30:42 PM 05-07-2026",
+    "last update time": "02:45:17 PM 05-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -27,7 +27,7 @@
             "src": "https://images.fancode.com/aig/match/v1781841438723/143439_CASACARDS_SPORTY_APP.png",
             "team_1": "Mysore Warriors",
             "team_2": "Kalyani Bengaluru Blasters",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Maharaja T20 Trophy, 2026",
@@ -44,7 +44,7 @@
             "src": "https://images.fancode.com/aig/match/v1781841438723/143439_CASACARDS_SPORTY_APP.png",
             "team_1": "Mysore Warriors",
             "team_2": "Kalyani Bengaluru Blasters",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "KANNADA",
             "event_name": "Maharaja T20 Trophy, 2026",
@@ -71,23 +71,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/band_e_amir_dragons_vs_bost_defenders_143589_english.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Feature Race",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
-            "team_1": "Feature Race",
-            "team_2": "Silverstone",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "F3 GREAT BRITAIN 2026",
-            "match_name": "Feature Race | F3 GREAT BRITAIN 2026 [ENGLISH]",
-            "match_id": "139724",
-            "startTime": "05 July 2026 12:55 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/feature_race_139724_english.m3u8"
         }
     ]
 }
