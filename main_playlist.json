@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:15:18 PM 05-07-2026",
+    "last update time": "02:30:42 PM 05-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,6 +20,40 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chinnamasta_lions_vs_rml_sports_143539_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mysore Warriors Vs Kalyani Bengaluru Blasters",
+            "src": "https://images.fancode.com/aig/match/v1781841438723/143439_CASACARDS_SPORTY_APP.png",
+            "team_1": "Mysore Warriors",
+            "team_2": "Kalyani Bengaluru Blasters",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Mysore Warriors Vs Kalyani Bengaluru Blasters | Maharaja T20 Trophy, 2026 [ENGLISH]",
+            "match_id": "143439",
+            "startTime": "05 July 2026 02:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mysore_warriors_vs_kalyani_bengaluru_blasters_143439_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mysore Warriors Vs Kalyani Bengaluru Blasters",
+            "src": "https://images.fancode.com/aig/match/v1781841438723/143439_CASACARDS_SPORTY_APP.png",
+            "team_1": "Mysore Warriors",
+            "team_2": "Kalyani Bengaluru Blasters",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "KANNADA",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Mysore Warriors Vs Kalyani Bengaluru Blasters | Maharaja T20 Trophy, 2026 [KANNADA]",
+            "match_id": "143439",
+            "startTime": "05 July 2026 02:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mysore_warriors_vs_kalyani_bengaluru_blasters_143439_kannada.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -54,40 +88,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/feature_race_139724_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Kalyani Bengaluru Blasters Vs Mysore Warriors",
-            "src": "https://images.fancode.com/aig/match/v1781841438723/143439_CASACARDS_SPORTY_APP.png",
-            "team_1": "Kalyani Bengaluru Blasters",
-            "team_2": "Mysore Warriors",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "Kalyani Bengaluru Blasters Vs Mysore Warriors | Maharaja T20 Trophy, 2026 [ENGLISH]",
-            "match_id": "143439",
-            "startTime": "05 July 2026 02:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kalyani_bengaluru_blasters_vs_mysore_warriors_143439_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Kalyani Bengaluru Blasters Vs Mysore Warriors",
-            "src": "https://images.fancode.com/aig/match/v1781841438723/143439_CASACARDS_SPORTY_APP.png",
-            "team_1": "Kalyani Bengaluru Blasters",
-            "team_2": "Mysore Warriors",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "KANNADA",
-            "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "Kalyani Bengaluru Blasters Vs Mysore Warriors | Maharaja T20 Trophy, 2026 [KANNADA]",
-            "match_id": "143439",
-            "startTime": "05 July 2026 02:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kalyani_bengaluru_blasters_vs_mysore_warriors_143439_kannada.m3u8"
         }
     ]
 }
