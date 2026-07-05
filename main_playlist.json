@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:00:39 PM 05-07-2026",
+    "last update time": "02:15:18 PM 05-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -40,23 +40,6 @@
         },
         {
             "event_category": "Motorsports",
-            "title": "Dtm Qualifying 2   Norisring",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png",
-            "team_1": "DTM Qualifying 2 - Norisring",
-            "team_2": "Norisring",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "DTM 2026",
-            "match_name": "Dtm Qualifying 2   Norisring | DTM 2026 [ENGLISH]",
-            "match_id": "143624",
-            "startTime": "05 July 2026 12:40 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/dtm_qualifying_2___norisring_143624_english.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
             "title": "Feature Race",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
             "team_1": "Feature Race",
@@ -71,6 +54,40 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/feature_race_139724_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kalyani Bengaluru Blasters Vs Mysore Warriors",
+            "src": "https://images.fancode.com/aig/match/v1781841438723/143439_CASACARDS_SPORTY_APP.png",
+            "team_1": "Kalyani Bengaluru Blasters",
+            "team_2": "Mysore Warriors",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Kalyani Bengaluru Blasters Vs Mysore Warriors | Maharaja T20 Trophy, 2026 [ENGLISH]",
+            "match_id": "143439",
+            "startTime": "05 July 2026 02:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kalyani_bengaluru_blasters_vs_mysore_warriors_143439_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kalyani Bengaluru Blasters Vs Mysore Warriors",
+            "src": "https://images.fancode.com/aig/match/v1781841438723/143439_CASACARDS_SPORTY_APP.png",
+            "team_1": "Kalyani Bengaluru Blasters",
+            "team_2": "Mysore Warriors",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "KANNADA",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Kalyani Bengaluru Blasters Vs Mysore Warriors | Maharaja T20 Trophy, 2026 [KANNADA]",
+            "match_id": "143439",
+            "startTime": "05 July 2026 02:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kalyani_bengaluru_blasters_vs_mysore_warriors_143439_kannada.m3u8"
         }
     ]
 }
