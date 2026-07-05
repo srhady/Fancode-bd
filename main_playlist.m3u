@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:45:16 PM 05-07-2026
+#last update time: 04:00:43 PM 05-07-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438723/143439_CASACARDS_SPORTY_APP.png" group-title="Cricket", Mysore Warriors Vs Kalyani Bengaluru Blasters | Maharaja T20 Trophy 2026 (ENGLISH)
@@ -9,9 +9,6 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mysore_warrior
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438723/143439_CASACARDS_SPORTY_APP.png" group-title="Cricket", Mysore Warriors Vs Kalyani Bengaluru Blasters | Maharaja T20 Trophy 2026 (KANNADA)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mysore_warriors_vs_kalyani_bengaluru_blasters_143439_kannada.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg" group-title="Motorsports", Feature Race | F1 ACADEMY GREAT BRITAIN 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/feature_race_139692_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143590_6148_AM_SG_fc-web_1782725011504.jpg" group-title="Cricket", Speen Ghar Tigers Vs Amo Sharks | Shpageeza Cricket League 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/speen_ghar_tigers_vs_amo_sharks_143590_english.m3u8
