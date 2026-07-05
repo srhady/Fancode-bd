@@ -2,8 +2,25 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:15:20 PM 05-07-2026",
+    "last update time": "07:30:37 PM 05-07-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lanka Vs West Indies",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png",
+            "team_1": "Sri Lanka",
+            "team_2": "West Indies",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Sri Lanka tour of West Indies 2026",
+            "match_name": "Sri Lanka Vs West Indies | Sri Lanka tour of West Indies 2026 [ENGLISH]",
+            "match_id": "142979",
+            "startTime": "03 July 2026 07:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_vs_west_indies_142979_english.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Speen Ghar Tigers Vs Amo Sharks",
@@ -20,23 +37,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/speen_ghar_tigers_vs_amo_sharks_143590_english.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Dtm Race 2   Norisring",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png",
-            "team_1": "DTM Race 2 - Norisring",
-            "team_2": "Norisring",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "DTM 2026",
-            "match_name": "Dtm Race 2   Norisring | DTM 2026 [ENGLISH]",
-            "match_id": "143625",
-            "startTime": "05 July 2026 05:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/dtm_race_2___norisring_143625_english.m3u8"
         },
         {
             "event_category": "Golf",
