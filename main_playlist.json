@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:45:20 PM 05-07-2026",
+    "last update time": "01:00:37 PM 05-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -27,7 +27,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143589_6148_BOS_BD_fc-web_1782725011503.jpg",
             "team_1": "Band-e-Amir Dragons",
             "team_2": "Bost Defenders",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Shpageeza Cricket League, 2026",
