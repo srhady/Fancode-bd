@@ -2,6 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:15:17 AM 06-07-2026",
-    "matches": []
+    "last update time": "10:30:33 AM 06-07-2026",
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Bost Defenders Vs Mis E Ainak Knights",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143591_6148_BOS_MAK_fc-web_1782725011404.jpg",
+            "team_1": "Bost Defenders",
+            "team_2": "Mis-e-Ainak Knights",
+            "status": "NOT_STARTED",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Shpageeza Cricket League, 2026",
+            "match_name": "Bost Defenders Vs Mis E Ainak Knights | Shpageeza Cricket League, 2026 [ENGLISH]",
+            "match_id": "143591",
+            "startTime": "06 July 2026 10:00 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bost_defenders_vs_mis_e_ainak_knights_143591_english.m3u8"
+        }
+    ]
 }
