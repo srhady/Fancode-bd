@@ -2,6 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:00:41 AM 07-07-2026",
-    "matches": []
+    "last update time": "09:15:17 AM 07-07-2026",
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Itahari Super Kings Vs Chinnamasta Lions",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
+            "team_1": "Itahari Super Kings",
+            "team_2": "Chinnamasta Lions",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "KPL Indo Nepal T20 2026",
+            "match_name": "Itahari Super Kings Vs Chinnamasta Lions | KPL Indo Nepal T20 2026 [ENGLISH]",
+            "match_id": "143540",
+            "startTime": "07 July 2026 08:45 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/itahari_super_kings_vs_chinnamasta_lions_143540_english.m3u8"
+        }
+    ]
 }
