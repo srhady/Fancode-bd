@@ -1,14 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:52 PM 08-07-2026
+#last update time: 10:45:16 PM 08-07-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Cricket", Norway Vs Hungary | ICC Men's T20 World Cup Europe Sub Regional Qualifier B 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/norway_vs_hungary_4246560_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Cricket", Romania Vs Serbia | ICC Men's T20 World Cup Europe Sub Regional Qualifier B 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/romania_vs_serbia_4246562_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438710/143444_CASACARDS_SPORTY_APP.png" group-title="Cricket", Coastal Kings Mangaluru Vs Gulbarga Mystics | Maharaja T20 Trophy 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/coastal_kings_mangaluru_vs_gulbarga_mystics_143444_english.m3u8
