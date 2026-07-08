@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:15:21 PM 08-07-2026",
+    "last update time": "09:30:43 PM 08-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -61,7 +61,7 @@
             "src": "https://images.fancode.com/aig/match/v1781841438710/143444_CASACARDS_SPORTY_APP.png",
             "team_1": "Coastal Kings Mangaluru",
             "team_2": "Gulbarga Mystics",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Maharaja T20 Trophy, 2026",
@@ -78,7 +78,7 @@
             "src": "https://images.fancode.com/aig/match/v1781841438710/143444_CASACARDS_SPORTY_APP.png",
             "team_1": "Coastal Kings Mangaluru",
             "team_2": "Gulbarga Mystics",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "KANNADA",
             "event_name": "Maharaja T20 Trophy, 2026",
