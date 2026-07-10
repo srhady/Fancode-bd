@@ -1,14 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:30:31 PM 10-07-2026
+#last update time: 06:45:18 PM 10-07-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Cricket", Romania Vs Gibraltar | ICC Men's T20 World Cup Europe Sub Regional Qualifier B 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/romania_vs_gibraltar_4246565_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Cricket", Hungary Vs Estonia | ICC Men's T20 World Cup Europe Sub Regional Qualifier B 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hungary_vs_estonia_4246573_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1783322288950.png" group-title="Cricket", Ireland Women Vs West Indies Women | West Indies Women tour of Ireland 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/ireland_women_vs_west_indies_women_143143_english.m3u8
@@ -16,15 +10,11 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/ireland_women_
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143632_6150_NAM_VID_fc-web.jpg" group-title="Cricket", Namibia Vs Vidarbha | Vidarbha Cricket Association tour of Namibia (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_vidarbha_143632_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143416_6134_SY_MW_FC-WEB_1782272593151.jpg" group-title="Cricket", Mysore Warriors Vs Shivamogga Yodhas | Maharaja T20 Trophy 2026 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9767aded2ff9468591dbdfdff323f760:d9c224eef632f6c94582b483b8618114
-https://bd-mc-flive.fancode.com/mumbai/143445_english_dash_2221_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143416_6134_SY_MW_FC-WEB_1782272593151.jpg" group-title="Cricket", Mysore Warriors Vs Shivamogga Yodhas | Maharaja T20 Trophy 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mysore_warriors_vs_shivamogga_yodhas_143445_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143416_6134_SY_MW_FC-WEB_1782272593151.jpg" group-title="Cricket", Mysore Warriors Vs Shivamogga Yodhas | Maharaja T20 Trophy 2026 (KANNADA) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d457fc3ba60746bbacd1200a86511e5b:08e2eec4fcb92e25ffdf134cd6050615
-https://bd-mc-flive.fancode.com/mumbai/143445_kannada_dash_80127_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143416_6134_SY_MW_FC-WEB_1782272593151.jpg" group-title="Cricket", Mysore Warriors Vs Shivamogga Yodhas | Maharaja T20 Trophy 2026 (KANNADA)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mysore_warriors_vs_shivamogga_yodhas_143445_kannada.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Liqui_Moly_GP_Germany_2026_FC-WEB.jpg" group-title="MotoGP", Day 1 | LIQUI MOLY GRAND PRIX OF GERMANY 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1_139957_english.m3u8
