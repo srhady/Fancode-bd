@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:45:18 PM 10-07-2026",
+    "last update time": "07:00:39 PM 10-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,40 +37,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_vidarbha_143632_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Mysore Warriors Vs Shivamogga Yodhas",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143416_6134_SY_MW_FC-WEB_1782272593151.jpg",
-            "team_1": "Mysore Warriors",
-            "team_2": "Shivamogga Yodhas",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "Mysore Warriors Vs Shivamogga Yodhas | Maharaja T20 Trophy, 2026 [ENGLISH]",
-            "match_id": "143445",
-            "startTime": "10 July 2026 02:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mysore_warriors_vs_shivamogga_yodhas_143445_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Mysore Warriors Vs Shivamogga Yodhas",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143416_6134_SY_MW_FC-WEB_1782272593151.jpg",
-            "team_1": "Mysore Warriors",
-            "team_2": "Shivamogga Yodhas",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "KANNADA",
-            "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "Mysore Warriors Vs Shivamogga Yodhas | Maharaja T20 Trophy, 2026 [KANNADA]",
-            "match_id": "143445",
-            "startTime": "10 July 2026 02:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mysore_warriors_vs_shivamogga_yodhas_143445_kannada.m3u8"
         },
         {
             "event_category": "MotoGP",
