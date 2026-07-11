@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:15:19 PM 11-07-2026",
+    "last update time": "07:30:34 PM 11-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -54,23 +54,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bost_defenders_vs_mis_e_ainak_knights_143599_english.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Adac Gt Master Race 1   Nurburgring",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM-F2-Mini-Web.png",
-            "team_1": "ADAC GT Master Race 1 - Nurburgring",
-            "team_2": "Nurburgring",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "DTM 2026",
-            "match_name": "Adac Gt Master Race 1   Nurburgring | DTM 2026 [ENGLISH]",
-            "match_id": "143693",
-            "startTime": "11 July 2026 05:05 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/adac_gt_master_race_1___nurburgring_143693_english.m3u8"
         }
     ]
 }
