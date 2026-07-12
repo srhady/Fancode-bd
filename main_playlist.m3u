@@ -1,8 +1,14 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:15:22 PM 12-07-2026
+#last update time: 02:30:34 PM 12-07-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Cricket", Denmark Vs Norway | ICC Men's T20 World Cup Europe Sub Regional Qualifier B 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/denmark_vs_norway_4246564_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Cricket", Belgium Vs Romania | ICC Men's T20 World Cup Europe Sub Regional Qualifier B 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/belgium_vs_romania_4246572_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143600_6148_MAK_SG_fc-web_1782725012164.jpg" group-title="Cricket", Speen Ghar Tigers Vs Mis E Ainak Knights | Shpageeza Cricket League 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/speen_ghar_tigers_vs_mis_e_ainak_knights_143600_english.m3u8
