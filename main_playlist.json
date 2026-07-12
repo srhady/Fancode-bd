@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:00:39 PM 12-07-2026",
+    "last update time": "06:15:15 PM 12-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/denmark_vs_norway_4246564_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Belgium Vs Romania",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-            "team_1": "Belgium",
-            "team_2": "Romania",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "match_name": "Belgium Vs Romania | ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026 [ENGLISH]",
-            "match_id": "4246572",
-            "startTime": "12 July 2026 02:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/belgium_vs_romania_4246572_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -73,21 +56,21 @@
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_day_139959_english.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Amo Sharks Vs Bost Defenders",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143601_6148_AM_BOS_fc-web_1782725011575.jpg",
-            "team_1": "Amo Sharks",
-            "team_2": "Bost Defenders",
+            "event_category": "Motorsports",
+            "title": "Adac Gt Master Race 2   Nurburgring",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM-F2-Mini-Web.png",
+            "team_1": "ADAC GT Master Race 2 - Nurburgring",
+            "team_2": "Nurburgring",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
-            "event_name": "Shpageeza Cricket League, 2026",
-            "match_name": "Amo Sharks Vs Bost Defenders | Shpageeza Cricket League, 2026 [ENGLISH]",
-            "match_id": "143601",
-            "startTime": "12 July 2026 03:00 PM",
+            "event_name": "DTM 2026",
+            "match_name": "Adac Gt Master Race 2   Nurburgring | DTM 2026 [ENGLISH]",
+            "match_id": "143694",
+            "startTime": "12 July 2026 05:45 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/amo_sharks_vs_bost_defenders_143601_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/adac_gt_master_race_2___nurburgring_143694_english.m3u8"
         }
     ]
 }
