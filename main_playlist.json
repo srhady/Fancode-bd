@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:15:18 PM 12-07-2026",
+    "last update time": "03:30:33 PM 12-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -54,6 +54,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_day_139959_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Amo Sharks Vs Bost Defenders",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143601_6148_AM_BOS_fc-web_1782725011575.jpg",
+            "team_1": "Amo Sharks",
+            "team_2": "Bost Defenders",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Shpageeza Cricket League, 2026",
+            "match_name": "Amo Sharks Vs Bost Defenders | Shpageeza Cricket League, 2026 [ENGLISH]",
+            "match_id": "143601",
+            "startTime": "12 July 2026 03:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/amo_sharks_vs_bost_defenders_143601_english.m3u8"
         }
     ]
 }
