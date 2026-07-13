@@ -2,24 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:00:43 AM 14-07-2026",
+    "last update time": "12:15:20 AM 14-07-2026",
     "matches": [
         {
-            "event_category": "Tennis",
-            "title": "Day 1   World Feed",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
-            "team_1": "Day 1 - World Feed",
-            "team_2": "Switzerland",
-            "status": "LIVE",
+            "event_category": "Cricket",
+            "title": "West Indies Vs New Zealand",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
+            "team_1": "West Indies",
+            "team_2": "New Zealand",
+            "status": "NOT_STARTED",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
-            "event_name": "ATP 250 - EFG Swiss Open Gstaad 2026",
-            "match_name": "Day 1   World Feed | ATP 250 - EFG Swiss Open Gstaad 2026 [ENGLISH]",
-            "match_id": "143490",
-            "startTime": "13 July 2026 02:00 PM",
+            "event_name": "New Zealand tour of West Indies, 2026",
+            "match_name": "West Indies Vs New Zealand | New Zealand tour of West Indies, 2026 [ENGLISH]",
+            "match_id": "143604",
+            "startTime": "14 July 2026 12:00 AM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___world_feed_143490_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_new_zealand_143604_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -37,23 +37,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___world_feed_143497_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "West Indies Vs New Zealand",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
-            "team_1": "West Indies",
-            "team_2": "New Zealand",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "New Zealand tour of West Indies, 2026",
-            "match_name": "West Indies Vs New Zealand | New Zealand tour of West Indies, 2026 [ENGLISH]",
-            "match_id": "143604",
-            "startTime": "14 July 2026 12:00 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_new_zealand_143604_english.m3u8"
         }
     ]
 }
