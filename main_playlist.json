@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:00:37 PM 13-07-2026",
+    "last update time": "05:15:17 PM 13-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -40,20 +40,37 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Mis E Ainak Knights Vs Amo Sharks",
+            "title": "Amo Sharks Vs Mis E Ainak Knights",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143588_6148_AM_MAK_fc-web_1782725011430.jpg",
-            "team_1": "Mis-e-Ainak Knights",
-            "team_2": "Amo Sharks",
-            "status": "NOT_STARTED",
+            "team_1": "Amo Sharks",
+            "team_2": "Mis-e-Ainak Knights",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Shpageeza Cricket League, 2026",
-            "match_name": "Mis E Ainak Knights Vs Amo Sharks | Shpageeza Cricket League, 2026 [ENGLISH]",
+            "match_name": "Amo Sharks Vs Mis E Ainak Knights | Shpageeza Cricket League, 2026 [ENGLISH]",
             "match_id": "143698",
             "startTime": "13 July 2026 03:00 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mis_e_ainak_knights_vs_amo_sharks_143698_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/amo_sharks_vs_mis_e_ainak_knights_143698_english.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 1   World Feed",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png",
+            "team_1": "Day 1 - World Feed",
+            "team_2": "Sweden",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ATP 250 - Nordea Open 2026",
+            "match_name": "Day 1   World Feed | ATP 250 - Nordea Open 2026 [ENGLISH]",
+            "match_id": "143483",
+            "startTime": "13 July 2026 05:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___world_feed_143483_english.m3u8"
         }
     ]
 }
