@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:45:18 PM 13-07-2026",
+    "last update time": "11:00:41 PM 13-07-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Estonia Vs Turkiye",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-            "team_1": "Estonia",
-            "team_2": "Turkiye",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "match_name": "Estonia Vs Turkiye | ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026 [ENGLISH]",
-            "match_id": "4246569",
-            "startTime": "13 July 2026 07:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/estonia_vs_turkiye_4246569_english.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Day 1   World Feed",
@@ -37,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___world_feed_143490_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 1   World Feed",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png",
-            "team_1": "Day 1 - World Feed",
-            "team_2": "Sweden",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 250 - Nordea Open 2026",
-            "match_name": "Day 1   World Feed | ATP 250 - Nordea Open 2026 [ENGLISH]",
-            "match_id": "143483",
-            "startTime": "13 July 2026 05:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___world_feed_143483_english.m3u8"
         },
         {
             "event_category": "Tennis",
