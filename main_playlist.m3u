@@ -1,9 +1,15 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:15:20 PM 14-07-2026
+#last update time: 02:30:33 PM 14-07-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143587_6148_BOS_SG_fc-web_1782725012178.jpg" group-title="Cricket", Bost Defenders Vs Speen Ghar Tigers | Shpageeza Cricket League 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bost_defenders_vs_speen_ghar_tigers_143602_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Cricket", Serbia Vs Estonia | ICC Men's T20 World Cup Europe Sub Regional Qualifier B 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/serbia_vs_estonia_4246581_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Cricket", Belgium Vs Hungary | ICC Men's T20 World Cup Europe Sub Regional Qualifier B 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/belgium_vs_hungary_4246582_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg" group-title="Tennis", Day 2   World Feed | ATP 250 - EFG Swiss Open Gstaad 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___world_feed_143491_english.m3u8
 
