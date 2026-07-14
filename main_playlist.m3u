@@ -1,8 +1,14 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:15:16 PM 14-07-2026
+#last update time: 07:30:32 PM 14-07-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Cricket", Romania Vs Denmark | ICC Men's T20 World Cup Europe Sub Regional Qualifier B 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/romania_vs_denmark_4246579_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Cricket", Gibraltar Vs Norway | ICC Men's T20 World Cup Europe Sub Regional Qualifier B 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/gibraltar_vs_norway_4246580_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg" group-title="Tennis", Day 2   World Feed | ATP 250 - EFG Swiss Open Gstaad 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___world_feed_143491_english.m3u8
