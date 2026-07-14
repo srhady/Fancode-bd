@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:15:15 PM 14-07-2026",
+    "last update time": "06:30:32 PM 14-07-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Serbia Vs Estonia",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-            "team_1": "Serbia",
-            "team_2": "Estonia",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "match_name": "Serbia Vs Estonia | ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026 [ENGLISH]",
-            "match_id": "4246581",
-            "startTime": "14 July 2026 02:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/serbia_vs_estonia_4246581_english.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Day 2   World Feed",
