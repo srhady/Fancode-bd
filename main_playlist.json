@@ -2,41 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:00:37 PM 15-07-2026",
+    "last update time": "01:15:17 PM 15-07-2026",
     "matches": [
         {
-            "event_category": "Live Events",
-            "title": "Day 8",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
-            "team_1": "Day 8",
-            "team_2": "Goa",
+            "event_category": "Cricket",
+            "title": "Speen Ghar Tigers Vs Amo Sharks",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143590_6148_AM_SG_fc-web_1782725011504.jpg",
+            "team_1": "Speen Ghar Tigers",
+            "team_2": "Amo Sharks",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
-            "event_name": "Dream UTT Juniors 2026",
-            "match_name": "Day 8 | Dream UTT Juniors 2026 [ENGLISH]",
-            "match_id": "4246606",
-            "startTime": "15 July 2026 09:00 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_8_4246606_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Amo Sharks Vs Speen Ghar Tigers",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143590_6148_AM_SG_fc-web_1782725011504.jpg",
-            "team_1": "Amo Sharks",
-            "team_2": "Speen Ghar Tigers",
-            "status": "NOT_STARTED",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
             "event_name": "Shpageeza Cricket League, 2026",
-            "match_name": "Amo Sharks Vs Speen Ghar Tigers | Shpageeza Cricket League, 2026 [ENGLISH]",
+            "match_name": "Speen Ghar Tigers Vs Amo Sharks | Shpageeza Cricket League, 2026 [ENGLISH]",
             "match_id": "143696",
             "startTime": "15 July 2026 10:30 AM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/amo_sharks_vs_speen_ghar_tigers_143696_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/speen_ghar_tigers_vs_amo_sharks_143696_english.m3u8"
         }
     ]
 }
