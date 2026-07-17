@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:30:24 PM 17-07-2026",
+    "last update time": "11:45:18 PM 17-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -71,23 +71,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5___world_feed_143501_english.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Practice Session",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg",
-            "team_1": "Practice Session",
-            "team_2": "Spa-Francorchamps",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Porsche Mobil 1 Supercup 2026",
-            "match_name": "Practice Session | Porsche Mobil 1 Supercup 2026 [ENGLISH]",
-            "match_id": "143608",
-            "startTime": "17 July 2026 10:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/practice_session_143608_english.m3u8"
         },
         {
             "event_category": "Golf",
