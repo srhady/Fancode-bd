@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:15:18 PM 17-07-2026
+#last update time: 10:30:23 PM 17-07-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784105762377/4246710_CASACARDS_SPORTY_APP.png" group-title="Cricket", Galle Gallants Vs Jaffna Kings | Lanka Premier League 2026 (ENGLISH)
@@ -12,4 +12,10 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_4246809_
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg" group-title="Tennis", Day 5   World Feed | ATP 250 - EFG Swiss Open Gstaad 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5___world_feed_143494_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Plava-Laguna-Croatia-Open-Umag_2026_FC-WEB.jpg" group-title="Tennis", Day 5   World Feed | ATP 250 - Plava Laguna Croatia Open Umag 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5___world_feed_143501_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg" group-title="Motorsports", Practice Session | Porsche Mobil 1 Supercup 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/practice_session_143608_english.m3u8
 
