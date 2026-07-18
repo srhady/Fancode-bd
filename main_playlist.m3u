@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:30:22 PM 18-07-2026
+#last update time: 07:45:20 PM 18-07-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784105762343/4246711_CASACARDS_SPORTY_APP.png" group-title="Cricket", Galle Gallants Vs Colombo Kaps | Lanka Premier League 2026 (ENGLISH)
@@ -18,4 +18,7 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/semi_finals_14
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg" group-title="Motorsports", Europe   Race 1 | Ferrari Challenge Series 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/europe___race_1_143700_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png" group-title="Formula 1", Qualifying | F1 MOET & CHANDON BELGIAN GRAND PRIX 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/qualifying_139470_english.m3u8
 
