@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:00:24 PM 18-07-2026",
+    "last update time": "08:15:17 PM 18-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/colombo_kaps_vs_galle_gallants_4246711_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Semi Finals",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
-            "team_1": "Semi-Finals",
-            "team_2": "Switzerland",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 250 - EFG Swiss Open Gstaad 2026",
-            "match_name": "Semi Finals | ATP 250 - EFG Swiss Open Gstaad 2026 [ENGLISH]",
-            "match_id": "143495",
-            "startTime": "18 July 2026 02:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/semi_finals_143495_english.m3u8"
         },
         {
             "event_category": "Golf",
