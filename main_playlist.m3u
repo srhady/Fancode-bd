@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:45:16 PM 18-07-2026
+#last update time: 10:00:28 PM 18-07-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784105762343/4246711_CASACARDS_SPORTY_APP.png" group-title="Cricket", Colombo Kaps Vs Galle Gallants | Lanka Premier League 2026 (ENGLISH)
@@ -12,4 +12,7 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_4246810_
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png" group-title="Tennis", Semi Finals | ATP 250 - Nordea Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/semi_finals_143488_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Corales-Puntacana-Championship-2026-old.png" group-title="Golf", Day 3 | Corales Puntacana Championship 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_4246625_english.m3u8
 
