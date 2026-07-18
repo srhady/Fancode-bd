@@ -1,11 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:15:18 PM 18-07-2026
+#last update time: 07:30:22 PM 18-07-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784105762377/4246709_CASACARDS_SPORTY_APP.png" group-title="Cricket", Dambulla Sixers Vs Kandy Royals | Lanka Premier League 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/dambulla_sixers_vs_kandy_royals_4246709_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784105762343/4246711_CASACARDS_SPORTY_APP.png" group-title="Cricket", Galle Gallants Vs Colombo Kaps | Lanka Premier League 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/galle_gallants_vs_colombo_kaps_4246711_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg" group-title="Tennis", Semi Finals | ATP 250 - EFG Swiss Open Gstaad 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/semi_finals_143495_english.m3u8
@@ -15,9 +15,6 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_4246810_
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png" group-title="Tennis", Semi Finals | ATP 250 - Nordea Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/semi_finals_143488_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1783075129448.jpg" group-title="Motorsports", Sprint Race | F2 BELGIUM 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sprint_race_139640_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg" group-title="Motorsports", Europe   Race 1 | Ferrari Challenge Series 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/europe___race_1_143700_english.m3u8
