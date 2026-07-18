@@ -2,24 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:00:26 PM 18-07-2026",
+    "last update time": "03:15:17 PM 18-07-2026",
     "matches": [
         {
-            "event_category": "Motorsports",
-            "title": "Sprint Race",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
-            "team_1": "Sprint Race",
-            "team_2": "Spa-Francorchamps",
+            "event_category": "Cricket",
+            "title": "Kandy Royals Vs Dambulla Sixers",
+            "src": "https://images.fancode.com/aig/match/v1784105762377/4246709_CASACARDS_SPORTY_APP.png",
+            "team_1": "Kandy Royals",
+            "team_2": "Dambulla Sixers",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
-            "event_name": "F3 BELGIUM 2026",
-            "match_name": "Sprint Race | F3 BELGIUM 2026 [ENGLISH]",
-            "match_id": "139731",
-            "startTime": "18 July 2026 01:30 PM",
+            "event_name": "Lanka Premier League, 2026",
+            "match_name": "Kandy Royals Vs Dambulla Sixers | Lanka Premier League, 2026 [ENGLISH]",
+            "match_id": "4246709",
+            "startTime": "18 July 2026 03:00 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sprint_race_139731_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kandy_royals_vs_dambulla_sixers_4246709_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -54,6 +54,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_4246810_english.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Qualifying Session",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg",
+            "team_1": "Qualifying Session",
+            "team_2": "Spa-Francorchamps",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Porsche Mobil 1 Supercup 2026",
+            "match_name": "Qualifying Session | Porsche Mobil 1 Supercup 2026 [ENGLISH]",
+            "match_id": "143609",
+            "startTime": "18 July 2026 02:50 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/qualifying_session_143609_english.m3u8"
         }
     ]
 }
