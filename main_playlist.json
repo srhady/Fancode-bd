@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:15:23 PM 18-07-2026",
+    "last update time": "06:30:21 PM 18-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -88,6 +88,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sprint_race_139640_english.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Europe   Race 1",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
+            "team_1": "Europe - Race 1",
+            "team_2": "Portimao, Portugal",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Ferrari Challenge Series 2026",
+            "match_name": "Europe   Race 1 | Ferrari Challenge Series 2026 [ENGLISH]",
+            "match_id": "143700",
+            "startTime": "18 July 2026 06:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/europe___race_1_143700_english.m3u8"
         }
     ]
 }
