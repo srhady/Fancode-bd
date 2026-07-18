@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:00:25 PM 18-07-2026",
+    "last update time": "06:15:23 PM 18-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -71,6 +71,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/semi_finals_143488_english.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Sprint Race",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1783075129448.jpg",
+            "team_1": "Sprint Race",
+            "team_2": "Belgium",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "F2 BELGIUM 2026",
+            "match_name": "Sprint Race | F2 BELGIUM 2026 [ENGLISH]",
+            "match_id": "139640",
+            "startTime": "18 July 2026 05:45 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sprint_race_139640_english.m3u8"
         }
     ]
 }
