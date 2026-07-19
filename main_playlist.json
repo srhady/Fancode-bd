@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:30:21 PM 19-07-2026",
+    "last update time": "03:45:18 PM 19-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/dambulla_sixers_vs_jaffna_kings_4246717_english.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Feature Race",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1783075129448.jpg",
-            "team_1": "Feature Race",
-            "team_2": "Belgium",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "F2 BELGIUM 2026",
-            "match_name": "Feature Race | F2 BELGIUM 2026 [ENGLISH]",
-            "match_id": "139641",
-            "startTime": "19 July 2026 01:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/feature_race_139641_english.m3u8"
         },
         {
             "event_category": "Golf",
