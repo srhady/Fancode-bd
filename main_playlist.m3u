@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:45:16 PM 19-07-2026
+#last update time: 09:00:25 PM 19-07-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png" group-title="Cricket", West Indies Vs New Zealand | New Zealand tour of West Indies 2026 (ENGLISH)
@@ -13,9 +13,6 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kandy_royals_v
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Open-Championship_fc-web.jpg" group-title="Golf", Day 4 | The Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4_4246811_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg" group-title="Motorsports", Europe   Race 2 | Ferrari Challenge Series 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/europe___race_2_143701_english.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png" group-title="Formula 1", Race | F1 MOET & CHANDON BELGIAN GRAND PRIX 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139471_english.m3u8
 
@@ -24,4 +21,7 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139471_hi
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png" group-title="Formula 1", Race | F1 MOET & CHANDON BELGIAN GRAND PRIX 2026 (TAMIL)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139471_tamil.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Corales-Puntacana-Championship-2026-old.png" group-title="Golf", Day 4 | Corales Puntacana Championship 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4_4246626_english.m3u8
 
