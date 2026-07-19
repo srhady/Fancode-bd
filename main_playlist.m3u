@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:45:20 PM 19-07-2026
+#last update time: 05:00:24 PM 19-07-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784105762372/4246717_CASACARDS_SPORTY_APP.png" group-title="Cricket", Dambulla Sixers Vs Jaffna Kings | Lanka Premier League 2026 (ENGLISH)
@@ -15,4 +15,13 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4_4246811_
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg" group-title="Tennis", Men's Final | ATP 250 - EFG Swiss Open Gstaad 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_final_143496_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png" group-title="Formula 1", Race | F1 MOET & CHANDON BELGIAN GRAND PRIX 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139471_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png" group-title="Formula 1", Race | F1 MOET & CHANDON BELGIAN GRAND PRIX 2026 (HINDI)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139471_hindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png" group-title="Formula 1", Race | F1 MOET & CHANDON BELGIAN GRAND PRIX 2026 (TAMIL)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139471_tamil.m3u8
 
