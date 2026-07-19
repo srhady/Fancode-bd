@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:15:16 PM 19-07-2026",
+    "last update time": "07:30:22 PM 19-07-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Dambulla Sixers Vs Jaffna Kings",
-            "src": "https://images.fancode.com/aig/match/v1784105762372/4246717_CASACARDS_SPORTY_APP.png",
-            "team_1": "Dambulla Sixers",
-            "team_2": "Jaffna Kings",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Lanka Premier League, 2026",
-            "match_name": "Dambulla Sixers Vs Jaffna Kings | Lanka Premier League, 2026 [ENGLISH]",
-            "match_id": "4246717",
-            "startTime": "19 July 2026 03:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/dambulla_sixers_vs_jaffna_kings_4246717_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Zimbabwe Vs Bangladesh",
@@ -37,6 +20,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143405_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Colombo Kaps Vs Kandy Royals",
+            "src": "https://images.fancode.com/aig/match/v1784105762369/4246712_CASACARDS_SPORTY_APP.png",
+            "team_1": "Colombo Kaps",
+            "team_2": "Kandy Royals",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Lanka Premier League, 2026",
+            "match_name": "Colombo Kaps Vs Kandy Royals | Lanka Premier League, 2026 [ENGLISH]",
+            "match_id": "4246712",
+            "startTime": "19 July 2026 07:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/colombo_kaps_vs_kandy_royals_4246712_english.m3u8"
         },
         {
             "event_category": "Golf",
