@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:30:20 PM 19-07-2026
+#last update time: 04:45:20 PM 19-07-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784105762372/4246717_CASACARDS_SPORTY_APP.png" group-title="Cricket", Dambulla Sixers Vs Jaffna Kings | Lanka Premier League 2026 (ENGLISH)
@@ -15,7 +15,4 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4_4246811_
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg" group-title="Tennis", Men's Final | ATP 250 - EFG Swiss Open Gstaad 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_final_143496_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg" group-title="Motorsports", Race | Porsche Mobil 1 Supercup 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_143610_english.m3u8
 

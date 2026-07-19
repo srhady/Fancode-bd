@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:30:20 PM 19-07-2026",
+    "last update time": "04:45:20 PM 19-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -27,7 +27,7 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783952837295.png",
             "team_1": "Zimbabwe",
             "team_2": "Bangladesh",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Bangladesh tour of Zimbabwe, 2026",
@@ -71,23 +71,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_final_143496_english.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Race",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg",
-            "team_1": "Race",
-            "team_2": "Spa-Francorchamps",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Porsche Mobil 1 Supercup 2026",
-            "match_name": "Race | Porsche Mobil 1 Supercup 2026 [ENGLISH]",
-            "match_id": "143610",
-            "startTime": "19 July 2026 03:15 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_143610_english.m3u8"
         }
     ]
 }
