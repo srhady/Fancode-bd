@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:15:19 PM 19-07-2026",
+    "last update time": "12:30:22 PM 19-07-2026",
     "matches": [
         {
             "event_category": "Live Events",
@@ -20,6 +20,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/final_4246610_english.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Feature Race",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
+            "team_1": "Feature Race",
+            "team_2": "Spa-Francorchamps",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "F3 BELGIUM 2026",
+            "match_name": "Feature Race | F3 BELGIUM 2026 [ENGLISH]",
+            "match_id": "139732",
+            "startTime": "19 July 2026 12:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/feature_race_139732_english.m3u8"
         }
     ]
 }
