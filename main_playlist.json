@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:00:32 PM 19-07-2026",
+    "last update time": "08:15:17 PM 19-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,28 +23,11 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Colombo Kaps Vs Kandy Royals",
-            "src": "https://images.fancode.com/aig/match/v1784105762369/4246712_CASACARDS_SPORTY_APP.png",
-            "team_1": "Colombo Kaps",
-            "team_2": "Kandy Royals",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Lanka Premier League, 2026",
-            "match_name": "Colombo Kaps Vs Kandy Royals | Lanka Premier League, 2026 [ENGLISH]",
-            "match_id": "4246712",
-            "startTime": "19 July 2026 07:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/colombo_kaps_vs_kandy_royals_4246712_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "West Indies Vs New Zealand",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
             "team_1": "West Indies",
             "team_2": "New Zealand",
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "New Zealand tour of West Indies, 2026",
@@ -54,6 +37,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_new_zealand_143606_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kandy Royals Vs Colombo Kaps",
+            "src": "https://images.fancode.com/aig/match/v1784105762369/4246712_CASACARDS_SPORTY_APP.png",
+            "team_1": "Kandy Royals",
+            "team_2": "Colombo Kaps",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Lanka Premier League, 2026",
+            "match_name": "Kandy Royals Vs Colombo Kaps | Lanka Premier League, 2026 [ENGLISH]",
+            "match_id": "4246712",
+            "startTime": "19 July 2026 07:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kandy_royals_vs_colombo_kaps_4246712_english.m3u8"
         },
         {
             "event_category": "Golf",
@@ -71,23 +71,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4_4246811_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Men's Final",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png",
-            "team_1": "Men's Final",
-            "team_2": "Sweden",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 250 - Nordea Open 2026",
-            "match_name": "Men's Final | ATP 250 - Nordea Open 2026 [ENGLISH]",
-            "match_id": "143489",
-            "startTime": "19 July 2026 05:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_final_143489_english.m3u8"
         },
         {
             "event_category": "Motorsports",
