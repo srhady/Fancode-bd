@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:30:27 PM 21-07-2026",
+    "last update time": "10:45:19 PM 21-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kandy_royals_vs_dambulla_sixers_4246724_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 2",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg",
-            "team_1": "Day 2",
-            "team_2": "Austria",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 250 - Generali Open 2026",
-            "match_name": "Day 2 | ATP 250 - Generali Open 2026 [ENGLISH]",
-            "match_id": "143504",
-            "startTime": "21 July 2026 02:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_143504_english.m3u8"
         },
         {
             "event_category": "Tennis",
