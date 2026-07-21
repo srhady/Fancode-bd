@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:30:26 PM 21-07-2026",
+    "last update time": "07:45:21 PM 21-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,6 +20,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/nepal_vs_namibia_4246703_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Dambulla Sixers Vs Kandy Royals",
+            "src": "https://images.fancode.com/aig/match/v1784105762381/4246724_CASACARDS_SPORTY_APP.png",
+            "team_1": "Dambulla Sixers",
+            "team_2": "Kandy Royals",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Lanka Premier League, 2026",
+            "match_name": "Dambulla Sixers Vs Kandy Royals | Lanka Premier League, 2026 [ENGLISH]",
+            "match_id": "4246724",
+            "startTime": "21 July 2026 07:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/dambulla_sixers_vs_kandy_royals_4246724_english.m3u8"
         },
         {
             "event_category": "Tennis",
