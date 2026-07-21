@@ -1,6 +1,9 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:45:17 AM 21-07-2026
+#last update time: 08:00:32 AM 21-07-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club--ODI-old-.jpg" group-title="Cricket", Malaysia Xi Vs Sea Hawks Cricket Club | Malaysia and Sea Hawks Cricket Club 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/malaysia_xi_vs_sea_hawks_cricket_club_4247195_english.m3u8
 
