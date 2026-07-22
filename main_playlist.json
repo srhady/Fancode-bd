@@ -2,24 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:30:24 PM 22-07-2026",
+    "last update time": "07:45:22 PM 22-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Jaffna Kings Vs Colombo Kaps",
-            "src": "https://images.fancode.com/aig/match/v1784105762383/4246715_CASACARDS_SPORTY_APP.png",
-            "team_1": "Jaffna Kings",
-            "team_2": "Colombo Kaps",
+            "title": "Dambulla Sixers Vs Galle Gallants",
+            "src": "https://images.fancode.com/aig/match/v1784105762383/4246714_CASACARDS_SPORTY_APP.png",
+            "team_1": "Dambulla Sixers",
+            "team_2": "Galle Gallants",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Lanka Premier League, 2026",
-            "match_name": "Jaffna Kings Vs Colombo Kaps | Lanka Premier League, 2026 [ENGLISH]",
-            "match_id": "4246715",
-            "startTime": "22 July 2026 03:00 PM",
+            "match_name": "Dambulla Sixers Vs Galle Gallants | Lanka Premier League, 2026 [ENGLISH]",
+            "match_id": "4246714",
+            "startTime": "22 July 2026 07:30 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jaffna_kings_vs_colombo_kaps_4246715_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/dambulla_sixers_vs_galle_gallants_4246714_english.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -54,23 +54,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/atp_250___millenium_estoril_open_2026_143511_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Dambulla Sixers Vs Galle Gallants",
-            "src": "https://images.fancode.com/aig/match/v1784105762383/4246714_CASACARDS_SPORTY_APP.png",
-            "team_1": "Dambulla Sixers",
-            "team_2": "Galle Gallants",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Lanka Premier League, 2026",
-            "match_name": "Dambulla Sixers Vs Galle Gallants | Lanka Premier League, 2026 [ENGLISH]",
-            "match_id": "4246714",
-            "startTime": "22 July 2026 07:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/dambulla_sixers_vs_galle_gallants_4246714_english.m3u8"
         }
     ]
 }
