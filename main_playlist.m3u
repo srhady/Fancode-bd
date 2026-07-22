@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:15:22 PM 22-07-2026
+#last update time: 07:30:24 PM 22-07-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784105762383/4246715_CASACARDS_SPORTY_APP.png" group-title="Cricket", Jaffna Kings Vs Colombo Kaps | Lanka Premier League 2026 (ENGLISH)
@@ -12,4 +12,7 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_143505_e
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="Tennis", Atp 250   Millenium Estoril Open 2026 | ATP 250 - Millenium Estoril Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/atp_250___millenium_estoril_open_2026_143511_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784105762383/4246714_CASACARDS_SPORTY_APP.png" group-title="Cricket", Dambulla Sixers Vs Galle Gallants | Lanka Premier League 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/dambulla_sixers_vs_galle_gallants_4246714_english.m3u8
 
