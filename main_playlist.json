@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:15:19 PM 22-07-2026",
+    "last update time": "11:30:24 PM 22-07-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Galle Gallants Vs Dambulla Sixers",
-            "src": "https://images.fancode.com/aig/match/v1784105762383/4246714_CASACARDS_SPORTY_APP.png",
-            "team_1": "Galle Gallants",
-            "team_2": "Dambulla Sixers",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Lanka Premier League, 2026",
-            "match_name": "Galle Gallants Vs Dambulla Sixers | Lanka Premier League, 2026 [ENGLISH]",
-            "match_id": "4246714",
-            "startTime": "22 July 2026 07:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/galle_gallants_vs_dambulla_sixers_4246714_english.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Atp 250   Millenium Estoril Open 2026",
