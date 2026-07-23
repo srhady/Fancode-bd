@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:45:19 PM 23-07-2026",
+    "last update time": "09:00:36 PM 23-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,40 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/nepal_vs_netherlands_4246704_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Zimbabwe Vs India",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg",
-            "team_1": "Zimbabwe",
-            "team_2": "India",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "India tour of Zimbabwe, 2026",
-            "match_name": "Zimbabwe Vs India | India tour of Zimbabwe, 2026 [ENGLISH]",
-            "match_id": "143351",
-            "startTime": "23 July 2026 04:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_india_143351_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Zimbabwe Vs India",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg",
-            "team_1": "Zimbabwe",
-            "team_2": "India",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "HINDI",
-            "event_name": "India tour of Zimbabwe, 2026",
-            "match_name": "Zimbabwe Vs India | India tour of Zimbabwe, 2026 [HINDI]",
-            "match_id": "143351",
-            "startTime": "23 July 2026 04:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_india_143351_hindi.m3u8"
         },
         {
             "event_category": "Cricket",
