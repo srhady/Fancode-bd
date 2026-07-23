@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:15:22 PM 23-07-2026",
+    "last update time": "10:30:24 PM 23-07-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Nepal Vs Netherlands",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4246704_52990_NED_NEP_fc-App.png",
-            "team_1": "Nepal",
-            "team_2": "Netherlands",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC CWC League 2 Netherlands, 2026",
-            "match_name": "Nepal Vs Netherlands | ICC CWC League 2 Netherlands, 2026 [ENGLISH]",
-            "match_id": "4246704",
-            "startTime": "23 July 2026 02:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/nepal_vs_netherlands_4246704_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Galle Gallants Vs Jaffna Kings",
