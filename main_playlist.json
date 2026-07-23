@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:30:29 PM 23-07-2026",
+    "last update time": "07:45:20 PM 23-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -54,6 +54,40 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_india_143351_hindi.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Galle Gallants Vs Jaffna Kings",
+            "src": "https://images.fancode.com/aig/match/v1784105762377/4246716_CASACARDS_SPORTY_APP.png",
+            "team_1": "Galle Gallants",
+            "team_2": "Jaffna Kings",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Lanka Premier League, 2026",
+            "match_name": "Galle Gallants Vs Jaffna Kings | Lanka Premier League, 2026 [ENGLISH]",
+            "match_id": "4246716",
+            "startTime": "23 July 2026 07:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/galle_gallants_vs_jaffna_kings_4246716_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Lahore Qalandars Vs Perth Scorchers Xi",
+            "src": "https://images.fancode.com/aig/match/v1784653587316/4247434_CASACARDS_SPORTY_APP.png",
+            "team_1": "Lahore Qalandars",
+            "team_2": "Perth Scorchers XI",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Global Super League, 2026",
+            "match_name": "Lahore Qalandars Vs Perth Scorchers Xi | Global Super League, 2026 [ENGLISH]",
+            "match_id": "4247434",
+            "startTime": "23 July 2026 07:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/lahore_qalandars_vs_perth_scorchers_xi_4247434_english.m3u8"
         },
         {
             "event_category": "Tennis",
