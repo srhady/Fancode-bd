@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:00:29 AM 24-07-2026",
+    "last update time": "10:15:16 AM 24-07-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "San Francisco Unicorns Vs Guyana Amazon Warriors",
-            "src": "https://images.fancode.com/aig/match/v1784653587314/4247439_CASACARDS_SPORTY_APP.png",
-            "team_1": "San Francisco Unicorns",
-            "team_2": "Guyana Amazon Warriors",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Global Super League, 2026",
-            "match_name": "San Francisco Unicorns Vs Guyana Amazon Warriors | Global Super League, 2026 [ENGLISH]",
-            "match_id": "4247439",
-            "startTime": "24 July 2026 04:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/san_francisco_unicorns_vs_guyana_amazon_warriors_4247439_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Malaysia Xi Vs Sea Hawks Cricket Club",
