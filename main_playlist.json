@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:15:20 PM 24-07-2026",
+    "last update time": "06:30:23 PM 24-07-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -71,6 +71,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/practice_1_139472_english.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2   Main Feed",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png",
+            "team_1": "Day 2 - Main Feed",
+            "team_2": "TPC Twin Cities - Blaine, Minnesota",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "3M Open 2026",
+            "match_name": "Day 2   Main Feed | 3M Open 2026 [ENGLISH]",
+            "match_id": "4246801",
+            "startTime": "24 July 2026 06:15 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___main_feed_4246801_english.m3u8"
         }
     ]
 }
