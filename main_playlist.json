@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "09:30:25 PM 24-07-2026",
+    "last update time": "09:45:26 PM 24-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,6 +20,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/lahore_qalandars_vs_desert_vipers_4247438_english.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Rosenborg Bk Vs Manchester United",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Club-Friendlies-old-match-card.png",
+            "team_1": "Rosenborg BK",
+            "team_2": "Manchester United",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Club Friendlies 2026",
+            "match_name": "Rosenborg Bk Vs Manchester United | Club Friendlies 2026 [ENGLISH]",
+            "match_id": "4248010",
+            "startTime": "24 July 2026 09:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/rosenborg_bk_vs_manchester_united_4248010_english.m3u8"
         },
         {
             "event_category": "Tennis",
