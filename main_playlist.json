@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:45:19 AM 24-07-2026",
+    "last update time": "06:00:32 AM 24-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,40 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/san_francisco_unicorns_vs_guyana_amazon_warriors_4247439_english.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 1   Main Feed",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png",
-            "team_1": "Day 1 - Main Feed",
-            "team_2": "TPC Twin Cities - Blaine, Minnesota",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "3M Open 2026",
-            "match_name": "Day 1   Main Feed | 3M Open 2026 [ENGLISH]",
-            "match_id": "4246798",
-            "startTime": "23 July 2026 06:15 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___main_feed_4246798_english.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 1   World Feed",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png",
-            "team_1": "Day 1 - World Feed",
-            "team_2": "TPC Twin Cities - Blaine, Minnesota",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "3M Open 2026",
-            "match_name": "Day 1   World Feed | 3M Open 2026 [ENGLISH]",
-            "match_id": "4246799",
-            "startTime": "24 July 2026 02:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___world_feed_4246799_english.m3u8"
         }
     ]
 }
