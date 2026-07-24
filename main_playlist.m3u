@@ -1,14 +1,8 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:45:19 PM 24-07-2026
+#last update time: 12:00:34 AM 25-07-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784653587317/4247438_CASACARDS_SPORTY_APP.png" group-title="Cricket", Lahore Qalandars Vs Desert Vipers | Global Super League 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/lahore_qalandars_vs_desert_vipers_4247438_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Club-Friendlies-old-match-card.png" group-title="Football", Rosenborg Bk Vs Manchester United | Club Friendlies 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/rosenborg_bk_vs_manchester_united_4248010_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="Tennis", Day 5 | ATP 250 - Millenium Estoril Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5_143513_english.m3u8
