@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:45:18 PM 24-07-2026",
+    "last update time": "03:00:34 PM 24-07-2026",
     "matches": [
-        {
-            "event_category": "Motorsports",
-            "title": "Practice Session",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
-            "team_1": "Practice Session",
-            "team_2": "Budapest",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "F3 HUNGARY 2026",
-            "match_name": "Practice Session | F3 HUNGARY 2026 [ENGLISH]",
-            "match_id": "139733",
-            "startTime": "24 July 2026 01:25 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/practice_session_139733_english.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Day 2   World Feed",
@@ -37,6 +20,40 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___world_feed_4247418_english.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Free Practice 1",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png",
+            "team_1": "Free Practice 1",
+            "team_2": "Oschersleben, Germany",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "DTM 2026",
+            "match_name": "Free Practice 1 | DTM 2026 [ENGLISH]",
+            "match_id": "143796",
+            "startTime": "24 July 2026 02:25 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/free_practice_1_143796_english.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Practice Session",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_mini_matchcard.jpg",
+            "team_1": "Practice Session",
+            "team_2": "Hungary",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "F2 HUNGARY 2026",
+            "match_name": "Practice Session | F2 HUNGARY 2026 [ENGLISH]",
+            "match_id": "139642",
+            "startTime": "24 July 2026 02:35 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/practice_session_139642_english.m3u8"
         }
     ]
 }
