@@ -2,41 +2,6 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:00:27 AM 25-07-2026",
-    "matches": [
-        {
-            "event_category": "Tennis",
-            "title": "Day 5",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/104.png",
-            "team_1": "Day 5",
-            "team_2": "Portugal",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 250 - Millenium Estoril Open 2026",
-            "match_name": "Day 5 | ATP 250 - Millenium Estoril Open 2026 [ENGLISH]",
-            "match_id": "143513",
-            "startTime": "24 July 2026 04:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5_143513_english.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 2   World Feed",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png",
-            "team_1": "Day 2 - World Feed",
-            "team_2": "TPC Twin Cities - Blaine, Minnesota",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "3M Open 2026",
-            "match_name": "Day 2   World Feed | 3M Open 2026 [ENGLISH]",
-            "match_id": "4246802",
-            "startTime": "25 July 2026 02:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___world_feed_4246802_english.m3u8"
-        }
-    ]
+    "last update time": "05:15:21 AM 25-07-2026",
+    "matches": []
 }
