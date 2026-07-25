@@ -1,17 +1,11 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:45:17 PM 25-07-2026
+#last update time: 09:00:29 PM 25-07-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246705_52990_NAM_NED_fc-App.png" group-title="Cricket", Netherlands Vs Namibia | ICC CWC League 2 Netherlands 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/netherlands_vs_namibia_4246705_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Cricket", India Vs Zimbabwe | India tour of Zimbabwe 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/india_vs_zimbabwe_143352_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Cricket", India Vs Zimbabwe | India tour of Zimbabwe 2026 (HINDI)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/india_vs_zimbabwe_143352_hindi.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Cricket", West Indies Vs Pakistan | Pakistan tour of West Indies 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_pakistan_143633_english.m3u8
