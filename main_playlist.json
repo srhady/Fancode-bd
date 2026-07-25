@@ -2,24 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:45:18 PM 25-07-2026",
+    "last update time": "11:00:25 PM 25-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Netherlands Vs Namibia",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4246705_52990_NAM_NED_fc-App.png",
-            "team_1": "Netherlands",
-            "team_2": "Namibia",
+            "title": "Colombo Kaps Vs Dambulla Sixers",
+            "src": "https://images.fancode.com/aig/match/v1784105762376/4246721_CASACARDS_SPORTY_APP.png",
+            "team_1": "Colombo Kaps",
+            "team_2": "Dambulla Sixers",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
-            "event_name": "ICC CWC League 2 Netherlands, 2026",
-            "match_name": "Netherlands Vs Namibia | ICC CWC League 2 Netherlands, 2026 [ENGLISH]",
-            "match_id": "4246705",
-            "startTime": "25 July 2026 02:30 PM",
+            "event_name": "Lanka Premier League, 2026",
+            "match_name": "Colombo Kaps Vs Dambulla Sixers | Lanka Premier League, 2026 [ENGLISH]",
+            "match_id": "4246721",
+            "startTime": "25 July 2026 07:30 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/netherlands_vs_namibia_4246705_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/colombo_kaps_vs_dambulla_sixers_4246721_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -37,23 +37,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_pakistan_143633_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Colombo Kaps Vs Dambulla Sixers",
-            "src": "https://images.fancode.com/aig/match/v1784105762376/4246721_CASACARDS_SPORTY_APP.png",
-            "team_1": "Colombo Kaps",
-            "team_2": "Dambulla Sixers",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Lanka Premier League, 2026",
-            "match_name": "Colombo Kaps Vs Dambulla Sixers | Lanka Premier League, 2026 [ENGLISH]",
-            "match_id": "4246721",
-            "startTime": "25 July 2026 07:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/colombo_kaps_vs_dambulla_sixers_4246721_english.m3u8"
         },
         {
             "event_category": "Golf",
