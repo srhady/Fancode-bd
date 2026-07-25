@@ -2,24 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:30:19 AM 26-07-2026",
+    "last update time": "04:45:16 AM 26-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "West Indies Vs Pakistan",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
-            "team_1": "West Indies",
-            "team_2": "Pakistan",
+            "title": "Guyana Amazon Warriors Vs Desert Vipers",
+            "src": "https://images.fancode.com/aig/match/v1784653587318/4247437_CASACARDS_SPORTY_APP.png",
+            "team_1": "Guyana Amazon Warriors",
+            "team_2": "Desert Vipers",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
-            "event_name": "Pakistan tour of West Indies, 2026",
-            "match_name": "West Indies Vs Pakistan | Pakistan tour of West Indies, 2026 [ENGLISH]",
-            "match_id": "143633",
-            "startTime": "25 July 2026 07:30 PM",
+            "event_name": "Global Super League, 2026",
+            "match_name": "Guyana Amazon Warriors Vs Desert Vipers | Global Super League, 2026 [ENGLISH]",
+            "match_id": "4247437",
+            "startTime": "26 July 2026 04:30 AM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_pakistan_143633_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guyana_amazon_warriors_vs_desert_vipers_4247437_english.m3u8"
         }
     ]
 }
