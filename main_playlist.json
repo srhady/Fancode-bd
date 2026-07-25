@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:15:16 AM 26-07-2026",
+    "last update time": "04:30:19 AM 26-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,57 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_pakistan_143633_english.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 3   Main Feed",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png",
-            "team_1": "Day 3 - Main Feed",
-            "team_2": "TPC Twin Cities - Blaine, Minnesota",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "3M Open 2026",
-            "match_name": "Day 3   Main Feed | 3M Open 2026 [ENGLISH]",
-            "match_id": "4246803",
-            "startTime": "25 July 2026 06:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___main_feed_4246803_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 6",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/104.png",
-            "team_1": "Day 6",
-            "team_2": "Portugal",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 250 - Millenium Estoril Open 2026",
-            "match_name": "Day 6 | ATP 250 - Millenium Estoril Open 2026 [ENGLISH]",
-            "match_id": "143514",
-            "startTime": "25 July 2026 10:00 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_6_143514_english.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 3   World Feed",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png",
-            "team_1": "Day 3 - World Feed",
-            "team_2": "TPC Twin Cities - Blaine, Minnesota",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "3M Open 2026",
-            "match_name": "Day 3   World Feed | 3M Open 2026 [ENGLISH]",
-            "match_id": "4246804",
-            "startTime": "25 July 2026 11:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___world_feed_4246804_english.m3u8"
         }
     ]
 }
