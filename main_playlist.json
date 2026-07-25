@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:45:18 PM 25-07-2026",
+    "last update time": "03:00:28 PM 25-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,6 +23,23 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Netherlands Vs Namibia",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4246705_52990_NAM_NED_fc-App.png",
+            "team_1": "Netherlands",
+            "team_2": "Namibia",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "ICC CWC League 2 Netherlands, 2026",
+            "match_name": "Netherlands Vs Namibia | ICC CWC League 2 Netherlands, 2026 [ENGLISH]",
+            "match_id": "4246705",
+            "startTime": "25 July 2026 02:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/netherlands_vs_namibia_4246705_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Malaysia Xi Vs Sea Hawks Cricket Club",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg",
             "team_1": "Malaysia XI",
@@ -40,23 +57,6 @@
         },
         {
             "event_category": "Motorsports",
-            "title": "Japan   Race 1",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old.-psd.png",
-            "team_1": "Japan - Race 1",
-            "team_2": "Suzuka City, Japan",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Ferrari Challenge Series 2026",
-            "match_name": "Japan   Race 1 | Ferrari Challenge Series 2026 [ENGLISH]",
-            "match_id": "143794",
-            "startTime": "25 July 2026 10:00 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/japan___race_1_143794_english.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
             "title": "Sprint Race",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
             "team_1": "Sprint Race",
@@ -71,6 +71,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sprint_race_139735_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Galle Gallants Vs Kandy Royals",
+            "src": "https://images.fancode.com/aig/match/v1784105762377/4246722_CASACARDS_SPORTY_APP.png",
+            "team_1": "Galle Gallants",
+            "team_2": "Kandy Royals",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Lanka Premier League, 2026",
+            "match_name": "Galle Gallants Vs Kandy Royals | Lanka Premier League, 2026 [ENGLISH]",
+            "match_id": "4246722",
+            "startTime": "25 July 2026 03:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/galle_gallants_vs_kandy_royals_4246722_english.m3u8"
         }
     ]
 }
