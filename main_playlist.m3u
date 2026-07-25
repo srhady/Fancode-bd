@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:00:29 PM 25-07-2026
+#last update time: 04:15:18 PM 25-07-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-vs-Pakistan-Womens-ODI-Series-Old-Match-card.jpg" group-title="Cricket", Pakistan Women Vs Sri Lanka Women | Pakistan Women's tour of Sri Lanka 2026 (ENGLISH)
@@ -13,12 +13,6 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/netherlands_vs
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784105762377/4246722_CASACARDS_SPORTY_APP.png" group-title="Cricket", Galle Gallants Vs Kandy Royals | Lanka Premier League 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/galle_gallants_vs_kandy_royals_4246722_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg" group-title="Cricket", Malaysia Xi Vs Sea Hawks Cricket Club | Malaysia and Sea Hawks Cricket Club 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/malaysia_xi_vs_sea_hawks_cricket_club_4247198_english.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg" group-title="Motorsports", Sprint Race | F3 HUNGARY 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sprint_race_139735_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg" group-title="Motorsports", Qualifying Session | Porsche Mobil 1 Supercup 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/qualifying_session_143612_english.m3u8
 
