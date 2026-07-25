@@ -2,24 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "10:30:18 AM 25-07-2026",
+    "last update time": "10:45:18 AM 25-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Sri Lanka Women Vs Pakistan Women",
+            "title": "Pakistan Women Vs Sri Lanka Women",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-vs-Pakistan-Womens-ODI-Series-Old-Match-card.jpg",
-            "team_1": "Sri Lanka Women",
-            "team_2": "Pakistan Women",
+            "team_1": "Pakistan Women",
+            "team_2": "Sri Lanka Women",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Pakistan Women's tour of Sri Lanka, 2026",
-            "match_name": "Sri Lanka Women Vs Pakistan Women | Pakistan Women's tour of Sri Lanka, 2026 [ENGLISH]",
+            "match_name": "Pakistan Women Vs Sri Lanka Women | Pakistan Women's tour of Sri Lanka, 2026 [ENGLISH]",
             "match_id": "4247426",
             "startTime": "25 July 2026 10:00 AM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_women_vs_pakistan_women_4247426_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/pakistan_women_vs_sri_lanka_women_4247426_english.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -37,6 +37,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/malaysia_xi_vs_sea_hawks_cricket_club_4247198_english.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Japan   Race 1",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old.-psd.png",
+            "team_1": "Japan - Race 1",
+            "team_2": "Suzuka City, Japan",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Ferrari Challenge Series 2026",
+            "match_name": "Japan   Race 1 | Ferrari Challenge Series 2026 [ENGLISH]",
+            "match_id": "143794",
+            "startTime": "25 July 2026 10:00 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/japan___race_1_143794_english.m3u8"
         }
     ]
 }
