@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "12:00:26 AM 26-07-2026",
+    "last update time": "12:15:20 AM 26-07-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Colombo Kaps Vs Dambulla Sixers",
-            "src": "https://images.fancode.com/aig/match/v1784105762376/4246721_CASACARDS_SPORTY_APP.png",
-            "team_1": "Colombo Kaps",
-            "team_2": "Dambulla Sixers",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Lanka Premier League, 2026",
-            "match_name": "Colombo Kaps Vs Dambulla Sixers | Lanka Premier League, 2026 [ENGLISH]",
-            "match_id": "4246721",
-            "startTime": "25 July 2026 07:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/colombo_kaps_vs_dambulla_sixers_4246721_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "West Indies Vs Pakistan",
