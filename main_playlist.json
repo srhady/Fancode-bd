@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "05:00:29 PM 26-07-2026",
+    "last update time": "05:15:15 PM 26-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -71,6 +71,74 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___world_feed_4247420_english.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Race 2",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png",
+            "team_1": "Race 2",
+            "team_2": "Oschersleben, Germany",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "DTM 2026",
+            "match_name": "Race 2 | DTM 2026 [ENGLISH]",
+            "match_id": "143801",
+            "startTime": "26 July 2026 04:45 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_2_143801_english.m3u8"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Race",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg",
+            "team_1": "Race",
+            "team_2": "Hungaroring",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "F1 AWS HUNGARIAN GRAND PRIX 2026",
+            "match_name": "Race | F1 AWS HUNGARIAN GRAND PRIX 2026 [ENGLISH]",
+            "match_id": "139476",
+            "startTime": "26 July 2026 06:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139476_english.m3u8"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Race",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg",
+            "team_1": "Race",
+            "team_2": "Hungaroring",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "HINDI",
+            "event_name": "F1 AWS HUNGARIAN GRAND PRIX 2026",
+            "match_name": "Race | F1 AWS HUNGARIAN GRAND PRIX 2026 [HINDI]",
+            "match_id": "139476",
+            "startTime": "26 July 2026 06:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139476_hindi.m3u8"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Race",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg",
+            "team_1": "Race",
+            "team_2": "Hungaroring",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "TAMIL",
+            "event_name": "F1 AWS HUNGARIAN GRAND PRIX 2026",
+            "match_name": "Race | F1 AWS HUNGARIAN GRAND PRIX 2026 [TAMIL]",
+            "match_id": "139476",
+            "startTime": "26 July 2026 06:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139476_tamil.m3u8"
         }
     ]
 }
