@@ -2,24 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:00:28 PM 26-07-2026",
+    "last update time": "03:15:18 PM 26-07-2026",
     "matches": [
         {
-            "event_category": "Motorsports",
-            "title": "Race",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg",
-            "team_1": "Race",
-            "team_2": "Budapest",
+            "event_category": "Cricket",
+            "title": "Kandy Royals Vs Jaffna Kings",
+            "src": "https://images.fancode.com/aig/match/v1784105762383/4246728_CASACARDS_SPORTY_APP.png",
+            "team_1": "Kandy Royals",
+            "team_2": "Jaffna Kings",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
-            "event_name": "Porsche Mobil 1 Supercup 2026",
-            "match_name": "Race | Porsche Mobil 1 Supercup 2026 [ENGLISH]",
-            "match_id": "143613",
-            "startTime": "26 July 2026 01:40 PM",
+            "event_name": "Lanka Premier League, 2026",
+            "match_name": "Kandy Royals Vs Jaffna Kings | Lanka Premier League, 2026 [ENGLISH]",
+            "match_id": "4246728",
+            "startTime": "26 July 2026 03:00 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_143613_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kandy_royals_vs_jaffna_kings_4246728_english.m3u8"
         }
     ]
 }
