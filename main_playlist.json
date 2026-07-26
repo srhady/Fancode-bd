@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "01:00:26 PM 26-07-2026",
+    "last update time": "01:15:18 PM 26-07-2026",
     "matches": [
         {
             "event_category": "Motorsports",
@@ -37,6 +37,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139736_english.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Qualifying 2",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png",
+            "team_1": "Qualifying 2",
+            "team_2": "Oschersleben, Germany",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "DTM 2026",
+            "match_name": "Qualifying 2 | DTM 2026 [ENGLISH]",
+            "match_id": "143800",
+            "startTime": "26 July 2026 12:50 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/qualifying_2_143800_english.m3u8"
         }
     ]
 }
