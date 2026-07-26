@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:45:17 PM 26-07-2026",
+    "last update time": "12:00:26 AM 27-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,23 +37,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/galle_gallants_vs_dambulla_sixers_4246713_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "San Francisco Unicorns Vs Perth Scorchers Xi",
-            "src": "https://images.fancode.com/aig/match/v1784653587314/4247431_CASACARDS_SPORTY_APP.png",
-            "team_1": "San Francisco Unicorns",
-            "team_2": "Perth Scorchers XI",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Global Super League, 2026",
-            "match_name": "San Francisco Unicorns Vs Perth Scorchers Xi | Global Super League, 2026 [ENGLISH]",
-            "match_id": "4247431",
-            "startTime": "26 July 2026 07:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/san_francisco_unicorns_vs_perth_scorchers_xi_4247431_english.m3u8"
         },
         {
             "event_category": "Golf",
