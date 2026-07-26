@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:45:17 PM 26-07-2026
+#last update time: 07:00:26 PM 26-07-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784105762383/4246728_CASACARDS_SPORTY_APP.png" group-title="Cricket", Jaffna Kings Vs Kandy Royals | Lanka Premier League 2026 (ENGLISH)
@@ -17,11 +17,11 @@ https://bd-mc-flive.fancode.com/mumbai/143353_english_dash_71145_1drmta-di_h264/
 #KODIPROP:inputstream.adaptive.license_key=c108e7b44a1d4e65bd9edf19b46e5ec1:8dca625e57fa0b4c71e991016373eee4
 https://bd-mc-flive.fancode.com/mumbai/143353_hindi_dash_66824_1drmta-di_h264/index.mpd
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Cricket", West Indies Vs Pakistan | Pakistan tour of West Indies 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_pakistan_143633_english.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg" group-title="Golf", Day 4   World Feed | ISPS Handa Women's Scottish Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___world_feed_4247420_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png" group-title="Motorsports", Race 2 | DTM 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_2_143801_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1", Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (ENGLISH) [DRM]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -37,4 +37,10 @@ https://bd-mc-flive.fancode.com/mumbai/139476_hindi_dash_26994_1drmta-di_h264/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=33b2d4d1002244419432b0bf3f5674e7:40ffda200e1465b4c5cd69084113123e
 https://bd-mc-flive.fancode.com/mumbai/139476_tamil_dash_93259_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="Golf", Day 4   Main Feed | 3M Open 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___main_feed_4246805_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png" group-title="Motorsports", Adac Gt Race 2   Oschersleben | DTM 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/adac_gt_race_2___oschersleben_143806_english.m3u8
 
