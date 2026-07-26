@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:45:15 PM 26-07-2026
+#last update time: 06:00:29 PM 26-07-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784105762383/4246728_CASACARDS_SPORTY_APP.png" group-title="Cricket", Jaffna Kings Vs Kandy Royals | Lanka Premier League 2026 (ENGLISH)
@@ -23,12 +23,18 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___world_
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png" group-title="Motorsports", Race 2 | DTM 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_2_143801_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1", Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139476_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1", Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=069795cda96d40ad928a3555cca0b01c:6957ebc27c067c274f649b4aca6ad040
+https://bd-mc-flive.fancode.com/mumbai/139476_english_dash_52319_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1", Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (HINDI)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139476_hindi.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1", Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (HINDI) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c61eefec70f24db49fbe45b90b19b4a6:51d5063903f58456782857ae2f531659
+https://bd-mc-flive.fancode.com/mumbai/139476_hindi_dash_26994_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1", Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (TAMIL)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139476_tamil.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1", Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (TAMIL) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33b2d4d1002244419432b0bf3f5674e7:40ffda200e1465b4c5cd69084113123e
+https://bd-mc-flive.fancode.com/mumbai/139476_tamil_dash_93259_1drmta-di_h264/index.mpd
 
