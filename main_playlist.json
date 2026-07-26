@@ -2,24 +2,6 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:45:14 AM 26-07-2026",
-    "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Guyana Amazon Warriors Vs Desert Vipers",
-            "src": "https://images.fancode.com/aig/match/v1784653587318/4247437_CASACARDS_SPORTY_APP.png",
-            "team_1": "Guyana Amazon Warriors",
-            "team_2": "Desert Vipers",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Global Super League, 2026",
-            "match_name": "Guyana Amazon Warriors Vs Desert Vipers | Global Super League, 2026 [ENGLISH]",
-            "match_id": "4247437",
-            "startTime": "26 July 2026 04:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guyana_amazon_warriors_vs_desert_vipers_4247437_english.m3u8"
-        }
-    ]
+    "last update time": "09:00:25 AM 26-07-2026",
+    "matches": []
 }
