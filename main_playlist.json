@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:00:42 AM 28-07-2026",
+    "last update time": "02:15:20 AM 28-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_pakistan_143633_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Namibia Vs Nepal",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4246707_52990_NAM_NEP_fc-App.png",
-            "team_1": "Namibia",
-            "team_2": "Nepal",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC CWC League 2 Netherlands, 2026",
-            "match_name": "Namibia Vs Nepal | ICC CWC League 2 Netherlands, 2026 [ENGLISH]",
-            "match_id": "4246707",
-            "startTime": "27 July 2026 02:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_nepal_4246707_english.m3u8"
         },
         {
             "event_category": "Tennis",
