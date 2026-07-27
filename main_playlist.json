@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:30:27 PM 27-07-2026",
+    "last update time": "07:45:21 PM 27-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,6 +20,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_nepal_4246707_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies Vs Pakistan",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
+            "team_1": "West Indies",
+            "team_2": "Pakistan",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Pakistan tour of West Indies, 2026",
+            "match_name": "West Indies Vs Pakistan | Pakistan tour of West Indies, 2026 [ENGLISH]",
+            "match_id": "143633",
+            "startTime": "25 July 2026 07:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_pakistan_143633_english.m3u8"
         }
     ]
 }
