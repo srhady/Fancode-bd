@@ -2,24 +2,6 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:00:30 AM 27-07-2026",
-    "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Guyana Amazon Warriors Vs Lahore Qalandars",
-            "src": "https://images.fancode.com/aig/match/v1784653587317/4247433_CASACARDS_SPORTY_APP.png",
-            "team_1": "Guyana Amazon Warriors",
-            "team_2": "Lahore Qalandars",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Global Super League, 2026",
-            "match_name": "Guyana Amazon Warriors Vs Lahore Qalandars | Global Super League, 2026 [ENGLISH]",
-            "match_id": "4247433",
-            "startTime": "27 July 2026 04:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guyana_amazon_warriors_vs_lahore_qalandars_4247433_english.m3u8"
-        }
-    ]
+    "last update time": "11:15:15 AM 27-07-2026",
+    "matches": []
 }
