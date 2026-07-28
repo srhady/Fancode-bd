@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:45:23 PM 28-07-2026",
+    "last update time": "12:00:40 AM 29-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_pakistan_143633_english.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Jaffna Kings Vs Colombo Kaps",
-            "src": "https://images.fancode.com/aig/match/v1784105762380/4246727_CASACARDS_SPORTY_APP.png",
-            "team_1": "Jaffna Kings",
-            "team_2": "Colombo Kaps",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Lanka Premier League, 2026",
-            "match_name": "Jaffna Kings Vs Colombo Kaps | Lanka Premier League, 2026 [ENGLISH]",
-            "match_id": "4246727",
-            "startTime": "28 July 2026 07:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jaffna_kings_vs_colombo_kaps_4246727_english.m3u8"
         },
         {
             "event_category": "Tennis",
