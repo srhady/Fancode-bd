@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "04:15:25 AM 29-07-2026",
+    "last update time": "04:30:26 AM 29-07-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -37,6 +37,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/world_feed_2_143643_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Desert Vipers Vs Perth Scorchers Xi",
+            "src": "https://images.fancode.com/aig/match/v1784653587313/4247435_CASACARDS_SPORTY_APP.png",
+            "team_1": "Desert Vipers",
+            "team_2": "Perth Scorchers XI",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Global Super League, 2026",
+            "match_name": "Desert Vipers Vs Perth Scorchers Xi | Global Super League, 2026 [ENGLISH]",
+            "match_id": "4247435",
+            "startTime": "29 July 2026 04:30 AM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/desert_vipers_vs_perth_scorchers_xi_4247435_english.m3u8"
         }
     ]
 }
