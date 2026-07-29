@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "11:00:33 PM 29-07-2026",
+    "last update time": "11:15:19 PM 29-07-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Netherlands Vs Nepal",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4246708_52990_NEP_NED_fc-App.png",
-            "team_1": "Netherlands",
-            "team_2": "Nepal",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ICC CWC League 2 Netherlands, 2026",
-            "match_name": "Netherlands Vs Nepal | ICC CWC League 2 Netherlands, 2026 [ENGLISH]",
-            "match_id": "4246708",
-            "startTime": "29 July 2026 02:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/netherlands_vs_nepal_4246708_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Dambulla Sixers Vs Colombo Kaps",
