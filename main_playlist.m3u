@@ -1,9 +1,12 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:45:19 PM 29-07-2026
+#last update time: 03:00:32 PM 29-07-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246708_52990_NEP_NED_fc-App.png" group-title="Cricket", Netherlands Vs Nepal | ICC CWC League 2 Netherlands 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/netherlands_vs_nepal_4246708_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784105762381/4246726_CASACARDS_SPORTY_APP.png" group-title="Cricket", Galle Gallants Vs Kandy Royals | Lanka Premier League 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/galle_gallants_vs_kandy_royals_4246726_english.m3u8
 

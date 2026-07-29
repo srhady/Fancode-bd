@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "02:45:19 PM 29-07-2026",
+    "last update time": "03:00:32 PM 29-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,6 +20,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/netherlands_vs_nepal_4246708_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Galle Gallants Vs Kandy Royals",
+            "src": "https://images.fancode.com/aig/match/v1784105762381/4246726_CASACARDS_SPORTY_APP.png",
+            "team_1": "Galle Gallants",
+            "team_2": "Kandy Royals",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Lanka Premier League, 2026",
+            "match_name": "Galle Gallants Vs Kandy Royals | Lanka Premier League, 2026 [ENGLISH]",
+            "match_id": "4246726",
+            "startTime": "29 July 2026 03:00 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/galle_gallants_vs_kandy_royals_4246726_english.m3u8"
         }
     ]
 }
