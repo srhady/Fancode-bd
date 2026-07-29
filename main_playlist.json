@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:45:17 AM 29-07-2026",
+    "last update time": "09:00:26 AM 29-07-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Perth Scorchers Xi Vs Desert Vipers",
-            "src": "https://images.fancode.com/aig/match/v1784653587313/4247435_CASACARDS_SPORTY_APP.png",
-            "team_1": "Perth Scorchers XI",
-            "team_2": "Desert Vipers",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Global Super League, 2026",
-            "match_name": "Perth Scorchers Xi Vs Desert Vipers | Global Super League, 2026 [ENGLISH]",
-            "match_id": "4247435",
-            "startTime": "29 July 2026 04:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/perth_scorchers_xi_vs_desert_vipers_4247435_english.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Day 2",
@@ -37,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_143517_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "World Feed 2",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
-            "team_1": "World Feed 2",
-            "team_2": "Washington, United States",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 500 - Mubadala DC Open 2026",
-            "match_name": "World Feed 2 | ATP 500 - Mubadala DC Open 2026 [ENGLISH]",
-            "match_id": "143643",
-            "startTime": "29 July 2026 03:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/world_feed_2_143643_english.m3u8"
         }
     ]
 }
