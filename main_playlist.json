@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:15:20 PM 29-07-2026",
+    "last update time": "07:30:25 PM 29-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,20 +23,37 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Galle Gallants Vs Kandy Royals",
-            "src": "https://images.fancode.com/aig/match/v1784105762381/4246726_CASACARDS_SPORTY_APP.png",
-            "team_1": "Galle Gallants",
-            "team_2": "Kandy Royals",
+            "title": "Colombo Kaps Vs Dambulla Sixers",
+            "src": "https://images.fancode.com/aig/match/v1784105762384/4246718_CASACARDS_SPORTY_APP.png",
+            "team_1": "Colombo Kaps",
+            "team_2": "Dambulla Sixers",
             "status": "LIVE",
             "streaming_status": "STARTED",
             "language": "ENGLISH",
             "event_name": "Lanka Premier League, 2026",
-            "match_name": "Galle Gallants Vs Kandy Royals | Lanka Premier League, 2026 [ENGLISH]",
-            "match_id": "4246726",
-            "startTime": "29 July 2026 03:00 PM",
+            "match_name": "Colombo Kaps Vs Dambulla Sixers | Lanka Premier League, 2026 [ENGLISH]",
+            "match_id": "4246718",
+            "startTime": "29 July 2026 07:30 PM",
             "is_drm": false,
             "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/galle_gallants_vs_kandy_royals_4246726_english.m3u8"
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/colombo_kaps_vs_dambulla_sixers_4246718_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Lahore Qalandars Vs San Francisco Unicorns",
+            "src": "https://images.fancode.com/aig/match/v1784653587315/4247436_CASACARDS_SPORTY_APP.png",
+            "team_1": "Lahore Qalandars",
+            "team_2": "San Francisco Unicorns",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Global Super League, 2026",
+            "match_name": "Lahore Qalandars Vs San Francisco Unicorns | Global Super League, 2026 [ENGLISH]",
+            "match_id": "4247436",
+            "startTime": "29 July 2026 07:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/lahore_qalandars_vs_san_francisco_unicorns_4247436_english.m3u8"
         }
     ]
 }
