@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "08:45:18 AM 30-07-2026",
+    "last update time": "09:00:25 AM 30-07-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Perth Scorchers Xi Vs Guyana Amazon Warriors",
-            "src": "https://images.fancode.com/aig/match/v1784653587318/4247432_CASACARDS_SPORTY_APP.png",
-            "team_1": "Perth Scorchers XI",
-            "team_2": "Guyana Amazon Warriors",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Global Super League, 2026",
-            "match_name": "Perth Scorchers Xi Vs Guyana Amazon Warriors | Global Super League, 2026 [ENGLISH]",
-            "match_id": "4247432",
-            "startTime": "30 July 2026 04:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/perth_scorchers_xi_vs_guyana_amazon_warriors_4247432_english.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Malaysia Xi Vs Sea Hawks Cricket Club",
@@ -37,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/malaysia_xi_vs_sea_hawks_cricket_club_4247200_english.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "World Feed",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
-            "team_1": "World Feed",
-            "team_2": "Washington, United States",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "ATP 500 - Mubadala DC Open 2026",
-            "match_name": "World Feed | ATP 500 - Mubadala DC Open 2026 [ENGLISH]",
-            "match_id": "143645",
-            "startTime": "29 July 2026 10:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/world_feed_143645_english.m3u8"
         },
         {
             "event_category": "Tennis",
