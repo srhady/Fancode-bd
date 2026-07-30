@@ -2,7 +2,7 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "07:30:24 PM 30-07-2026",
+    "last update time": "07:45:18 PM 30-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,6 +20,23 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lankan_lions_vs_afghanistan_pathans_4248200_english.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Jaffna Kings Vs Kandy Royals",
+            "src": "https://images.fancode.com/aig/match/v1784105762378/4246720_CASACARDS_SPORTY_APP.png",
+            "team_1": "Jaffna Kings",
+            "team_2": "Kandy Royals",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Lanka Premier League, 2026",
+            "match_name": "Jaffna Kings Vs Kandy Royals | Lanka Premier League, 2026 [ENGLISH]",
+            "match_id": "4246720",
+            "startTime": "30 July 2026 07:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jaffna_kings_vs_kandy_royals_4246720_english.m3u8"
         },
         {
             "event_category": "Golf",
