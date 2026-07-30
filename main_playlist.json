@@ -2,6 +2,24 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "03:30:21 PM 30-07-2026",
-    "matches": []
+    "last update time": "03:45:17 PM 30-07-2026",
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lankan Lions Vs Afghanistan Pathans",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248200_53019_SLO_AFP_fc-web.jpg",
+            "team_1": "Sri Lankan Lions",
+            "team_2": "Afghanistan Pathans",
+            "status": "LIVE",
+            "streaming_status": "STARTED",
+            "language": "ENGLISH",
+            "event_name": "Asian Legends League, 2026",
+            "match_name": "Sri Lankan Lions Vs Afghanistan Pathans | Asian Legends League, 2026 [ENGLISH]",
+            "match_id": "4248200",
+            "startTime": "30 July 2026 03:30 PM",
+            "is_drm": false,
+            "clearkey": "",
+            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lankan_lions_vs_afghanistan_pathans_4248200_english.m3u8"
+        }
+    ]
 }
