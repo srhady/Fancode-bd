@@ -2,25 +2,8 @@
     "name": "Fancode Matches Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last update time": "06:00:26 AM 31-07-2026",
+    "last update time": "06:15:24 AM 31-07-2026",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Main Feed   Day 1",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
-            "team_1": "Main Feed - Day 1",
-            "team_2": "Detroit Golf Club - Detroit, Michigan",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Rocket Classic 2026",
-            "match_name": "Main Feed   Day 1 | Rocket Classic 2026 [ENGLISH]",
-            "match_id": "4248044",
-            "startTime": "30 July 2026 04:30 PM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/main_feed___day_1_4248044_english.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "World Feed",
@@ -37,23 +20,6 @@
             "is_drm": false,
             "clearkey": "",
             "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/world_feed_143646_english.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "World Feed   Day 1",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
-            "team_1": "World Feed - Day 1",
-            "team_2": "Detroit Golf Club - Detroit, Michigan",
-            "status": "LIVE",
-            "streaming_status": "STARTED",
-            "language": "ENGLISH",
-            "event_name": "Rocket Classic 2026",
-            "match_name": "World Feed   Day 1 | Rocket Classic 2026 [ENGLISH]",
-            "match_id": "4248043",
-            "startTime": "31 July 2026 12:30 AM",
-            "is_drm": false,
-            "clearkey": "",
-            "stream_url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/world_feed___day_1_4248043_english.m3u8"
         }
     ]
 }
